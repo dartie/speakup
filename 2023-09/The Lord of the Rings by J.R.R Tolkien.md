@@ -8,7 +8,7 @@ In quest’opera di proporzioni epiche Tolkien spalanca le porte di un universo 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-09/The%20Lord%20of%20the%20Rings%20by%20J.R.R%20Tolkien.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-09/The%20Lord%20of%20the%20Rings%20by%20J.R.R%20Tolkien.mp3" type="audio/mpeg">
 </audio>
 </div>
 

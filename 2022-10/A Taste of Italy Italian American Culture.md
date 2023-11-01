@@ -8,7 +8,7 @@ Dalla cucina al mondo dello spettacolo o la politica, gli immigranti italiani pr
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-10/A%20Taste%20of%20Italy%20Italian%20American%20Culture.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-10/A%20Taste%20of%20Italy%20Italian%20American%20Culture.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Il grande successo degli Wham!, il duo che fece di George Michael una stella, è
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-12/Tune%20Into%20English%20Wham%21%20Last%20Christmas.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-12/Tune%20Into%20English%20Wham%21%20Last%20Christmas.mp3" type="audio/mpeg">
 </audio>
 </div>
 

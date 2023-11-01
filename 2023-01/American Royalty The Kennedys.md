@@ -8,7 +8,7 @@ Il fascino di questa potente famiglia irlandese dal sangue blu ha sedotto l’op
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-01/American%20Royalty%20The%20Kennedys.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-01/American%20Royalty%20The%20Kennedys.mp3" type="audio/mpeg">
 </audio>
 </div>
 

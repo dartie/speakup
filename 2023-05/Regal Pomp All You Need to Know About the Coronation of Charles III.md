@@ -8,7 +8,7 @@ Il Regno Unito ha dovuto attendere quasi settant’anni per incoronare un nuovo 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-05/Regal%20Pomp%20All%20You%20Need%20to%20Know%20About%20the%20Coronation%20of%20Charles%20III.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-05/Regal%20Pomp%20All%20You%20Need%20to%20Know%20About%20the%20Coronation%20of%20Charles%20III.mp3" type="audio/mpeg">
 </audio>
 </div>
 

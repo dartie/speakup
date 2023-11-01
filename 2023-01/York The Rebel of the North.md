@@ -8,7 +8,7 @@ La città di York è come un museo all'aperto: Frankie Thomson vi spiega il perc
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-01/York%20The%20Rebel%20of%20the%20North.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-01/York%20The%20Rebel%20of%20the%20North.mp3" type="audio/mpeg">
 </audio>
 </div>
 

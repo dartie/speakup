@@ -8,7 +8,7 @@ Si pensava che il progresso e le nuove tecnologie avrebbero portato a un maggior
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-09/Human%20vs.%20Machine%20The%20History%20of%20Work.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-09/Human%20vs.%20Machine%20The%20History%20of%20Work.mp3" type="audio/mpeg">
 </audio>
 </div>
 

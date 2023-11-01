@@ -8,7 +8,7 @@ A differenza dei cani, i gatti non sono molto diversi dai loro parenti selvatici
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-08/The%20Truth%20About%20Cats%20Are%20They%20Really%20Domesticated.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-08/The%20Truth%20About%20Cats%20Are%20They%20Really%20Domesticated.mp3" type="audio/mpeg">
 </audio>
 </div>
 

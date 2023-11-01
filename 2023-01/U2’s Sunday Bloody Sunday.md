@@ -8,7 +8,7 @@ Il quartetto di Dublino dà un chiaro esempio di consapevolezza sociale. In ques
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-01/U2%E2%80%99s%20Sunday%20Bloody%20Sunday.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-01/U2%E2%80%99s%20Sunday%20Bloody%20Sunday.mp3" type="audio/mpeg">
 </audio>
 </div>
 

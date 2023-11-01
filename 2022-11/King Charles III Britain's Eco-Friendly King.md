@@ -8,7 +8,7 @@ Un aspetto essenziale di ogni monarchia è quello di fornire stabilità nei mome
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-11/King%20Charles%20III%20Britain%27s%20Eco-Friendly%20King.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-11/King%20Charles%20III%20Britain%27s%20Eco-Friendly%20King.mp3" type="audio/mpeg">
 </audio>
 </div>
 

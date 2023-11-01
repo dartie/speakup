@@ -8,7 +8,7 @@ Le tradizioni natalizie del mondo anglofono sono familiari a tutti: tacchino al 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-12/A%20Seasonal%20History%20Christmas%20Through%20the%20Ages.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-12/A%20Seasonal%20History%20Christmas%20Through%20the%20Ages.mp3" type="audio/mpeg">
 </audio>
 </div>
 

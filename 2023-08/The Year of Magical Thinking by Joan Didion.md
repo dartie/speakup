@@ -8,7 +8,7 @@ In questo saggio al contempo intimo e analitico, la giornalista ha esplorato i m
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-08/The%20Year%20of%20Magical%20Thinking%20by%20Joan%20Didion.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-08/The%20Year%20of%20Magical%20Thinking%20by%20Joan%20Didion.mp3" type="audio/mpeg">
 </audio>
 </div>
 

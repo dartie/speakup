@@ -8,7 +8,7 @@ Neanche la grandiosità dei moderni grattacieli della City può sfidare lo splen
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-03/St.%20Paul%E2%80%99s%20Cathedral%20Sir%20Christopher%20Wren%E2%80%99s%20Masterwork.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-03/St.%20Paul%E2%80%99s%20Cathedral%20Sir%20Christopher%20Wren%E2%80%99s%20Masterwork.mp3" type="audio/mpeg">
 </audio>
 </div>
 

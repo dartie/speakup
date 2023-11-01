@@ -8,7 +8,7 @@ Il World Refugee Day, che si celebra ogni anno il 20 giugno, è la data istituit
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-06/20%20June%20World%20Refugee%20Day.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-06/20%20June%20World%20Refugee%20Day.mp3" type="audio/mpeg">
 </audio>
 </div>
 

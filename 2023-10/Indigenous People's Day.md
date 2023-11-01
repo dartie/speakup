@@ -8,7 +8,7 @@ Analizziamo il complesso dibattito che circonda la celebrazione del Giorno di Co
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-10/Indigenous%20People%27s%20Day.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-10/Indigenous%20People%27s%20Day.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ La caccia alle streghe fu un fenomeno che vide ampiamente coinvolta la figura de
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-01/Witch%20Panic%20Daemonology%20In%20England.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-01/Witch%20Panic%20Daemonology%20In%20England.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Una storia piena di suspense sullo sfondo del fascino enigmatico del Giappone ch
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-10/The%20Legend%20of%20the%20Faceless%20Ghost.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-10/The%20Legend%20of%20the%20Faceless%20Ghost.mp3" type="audio/mpeg">
 </audio>
 </div>
 

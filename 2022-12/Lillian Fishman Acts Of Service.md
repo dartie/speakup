@@ -8,7 +8,7 @@ Il primo e lodato romanzo di questa giovane scrittrice è stato descritto come u
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-12/Lillian%20Fishman%20Acts%20Of%20Service.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-12/Lillian%20Fishman%20Acts%20Of%20Service.mp3" type="audio/mpeg">
 </audio>
 </div>
 

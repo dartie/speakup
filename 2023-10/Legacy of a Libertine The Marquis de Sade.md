@@ -8,7 +8,7 @@ Un secolo prima che Sigmund Freud collocasse la libido al centro della natura um
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-10/Legacy%20of%20a%20Libertine%20The%20Marquis%20de%20Sade.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-10/Legacy%20of%20a%20Libertine%20The%20Marquis%20de%20Sade.mp3" type="audio/mpeg">
 </audio>
 </div>
 

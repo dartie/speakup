@@ -8,7 +8,7 @@ Accusate di stregoneria, molte donne sono state sottoposte a torture e a continu
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-01/Witch%20Panic%20The%20Hunted.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-01/Witch%20Panic%20The%20Hunted.mp3" type="audio/mpeg">
 </audio>
 </div>
 

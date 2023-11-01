@@ -8,7 +8,7 @@ Molto più di una storia di fantasmi, questo romanzo è considerato uno dei capo
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-11/The%20Haunting%20of%20Hill%20House%20by%20Shirley%20Jackson.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-11/The%20Haunting%20of%20Hill%20House%20by%20Shirley%20Jackson.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ L’impresa del navigatore ed esploratore Cristoforo Colombo si celebra tuttora 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-10/A%20Controversial%20Celebration%20Columbus%20Day.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-10/A%20Controversial%20Celebration%20Columbus%20Day.mp3" type="audio/mpeg">
 </audio>
 </div>
 

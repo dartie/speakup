@@ -8,7 +8,7 @@ Le spettacolari strisce che sembrano scorrere fluide sulla sua superficie contra
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-06/A%20Geological%20Marvel%20The%20Wave.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-06/A%20Geological%20Marvel%20The%20Wave.mp3" type="audio/mpeg">
 </audio>
 </div>
 

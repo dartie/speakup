@@ -8,7 +8,7 @@ Fatalità o negligenza? Dopo oltre un secolo, la tragedia del Titanic continua a
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-08/The%20New%20York%20Times%20%E2%80%A8%E2%80%9CThe%20Iceberg%20Was%20Only%20Part%20of%20It%E2%80%9D.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-08/The%20New%20York%20Times%20%E2%80%A8%E2%80%9CThe%20Iceberg%20Was%20Only%20Part%20of%20It%E2%80%9D.mp3" type="audio/mpeg">
 </audio>
 </div>
 

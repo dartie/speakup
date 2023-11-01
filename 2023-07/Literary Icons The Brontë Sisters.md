@@ -8,7 +8,7 @@ Come Emily, le sorelle Charlotte e Anne si spinsero fino ai confini della psicol
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-07/Literary%20Icons%20The%20Bront%C3%AB%20Sisters.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-07/Literary%20Icons%20The%20Bront%C3%AB%20Sisters.mp3" type="audio/mpeg">
 </audio>
 </div>
 

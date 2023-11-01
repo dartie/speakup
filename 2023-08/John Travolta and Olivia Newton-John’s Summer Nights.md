@@ -8,7 +8,7 @@ La prima canzone di uno dei musical più acclamati di tutti i tempi è un duetto
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-08/John%20Travolta%C2%A0and%C2%A0Olivia%20Newton-John%E2%80%99s%20Summer%20Nights.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-08/John%20Travolta%C2%A0and%C2%A0Olivia%20Newton-John%E2%80%99s%20Summer%20Nights.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Ormai sono un elemento fondamentale delle colazioni di tutto il mondo, ma i cere
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-10/A%20Short%20History%20of%20Breakfast%20Cereals.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-10/A%20Short%20History%20of%20Breakfast%20Cereals.mp3" type="audio/mpeg">
 </audio>
 </div>
 

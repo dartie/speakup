@@ -8,7 +8,7 @@ Questa testata emblematica festeggia un secolo di vita come punto di riferimento
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-03/Time%20Magazine%20100th%20Anniversary.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-03/Time%20Magazine%20100th%20Anniversary.mp3" type="audio/mpeg">
 </audio>
 </div>
 

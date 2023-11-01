@@ -8,7 +8,7 @@ Come gli eschimesi per la neve, i britannici dispongono di un ampio lessico per 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-09/Weather%20Chat%20How%20to%20Talk%20About%20Rain.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-09/Weather%20Chat%20How%20to%20Talk%20About%20Rain.mp3" type="audio/mpeg">
 </audio>
 </div>
 

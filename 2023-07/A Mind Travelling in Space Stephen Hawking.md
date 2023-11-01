@@ -8,7 +8,7 @@ Costretto in sedia a rotelle per gran parte della sua vita e in grado di parlare
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-07/A%20Mind%20Travelling%20in%20Space%20Stephen%20Hawking.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-07/A%20Mind%20Travelling%20in%20Space%20Stephen%20Hawking.mp3" type="audio/mpeg">
 </audio>
 </div>
 

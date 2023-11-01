@@ -8,7 +8,7 @@ Cavalcando l’ondata di popolarità dei romanzi polizieschi scandinavi, l’aut
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-06/Jo%20Nesb%C3%B8%20The%20Master%20of%20Nordic%20Noir.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-06/Jo%20Nesb%C3%B8%20The%20Master%20of%20Nordic%20Noir.mp3" type="audio/mpeg">
 </audio>
 </div>
 

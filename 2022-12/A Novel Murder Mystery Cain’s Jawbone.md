@@ -8,7 +8,7 @@ Solo tre persone sono state capaci di risolvere questo contorto enigma letterari
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-12/A%20Novel%20Murder%20Mystery%20Cain%E2%80%99s%20Jawbone.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-12/A%20Novel%20Murder%20Mystery%20Cain%E2%80%99s%20Jawbone.mp3" type="audio/mpeg">
 </audio>
 </div>
 

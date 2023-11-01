@@ -8,7 +8,7 @@ La 44a first lady degli Stati Uniti pubblica un libro di memorie nel quale condi
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-01/Michelle%20Obama%20Lessons%20in%20Life.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-01/Michelle%20Obama%20Lessons%20in%20Life.mp3" type="audio/mpeg">
 </audio>
 </div>
 

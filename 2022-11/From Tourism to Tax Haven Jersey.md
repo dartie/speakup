@@ -8,7 +8,7 @@ La più grande tra le isole del canale della Manica, Jersey ha una storia affasc
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-11/From%20Tourism%20to%20Tax%20Haven%20Jersey.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-11/From%20Tourism%20to%20Tax%20Haven%20Jersey.mp3" type="audio/mpeg">
 </audio>
 </div>
 

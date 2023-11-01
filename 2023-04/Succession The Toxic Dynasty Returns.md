@@ -8,7 +8,7 @@ Inizia la quarta stagione di questa acclamata serie HBO, una grande tragicommedi
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-04/Succession%20The%20Toxic%20Dynasty%20Returns.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-04/Succession%20The%20Toxic%20Dynasty%20Returns.mp3" type="audio/mpeg">
 </audio>
 </div>
 

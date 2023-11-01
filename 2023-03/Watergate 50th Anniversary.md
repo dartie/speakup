@@ -8,7 +8,7 @@ Nel 1972, l’irruzione di alcuni sconosciuti nella sede principale del Comitato
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-03/Watergate%2050th%20Anniversary.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-03/Watergate%2050th%20Anniversary.mp3" type="audio/mpeg">
 </audio>
 </div>
 

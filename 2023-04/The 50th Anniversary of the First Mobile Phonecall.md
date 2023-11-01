@@ -8,7 +8,7 @@ Mezzo secolo fa un ingegnere della Motorola fece una chiamata usando un prototip
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-04/The%2050th%20Anniversary%20of%20the%20First%20Mobile%20Phonecall.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-04/The%2050th%20Anniversary%20of%20the%20First%20Mobile%20Phonecall.mp3" type="audio/mpeg">
 </audio>
 </div>
 

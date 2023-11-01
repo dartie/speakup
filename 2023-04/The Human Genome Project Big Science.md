@@ -8,7 +8,7 @@ Questa iniziativa di collaborazione scientifica internazionale venne portata a t
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-04/The%20Human%20Genome%20Project%20Big%20Science.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-04/The%20Human%20Genome%20Project%20Big%20Science.mp3" type="audio/mpeg">
 </audio>
 </div>
 

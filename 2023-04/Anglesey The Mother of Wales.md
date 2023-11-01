@@ -8,7 +8,7 @@ Quest’isola di fronte al Galles venne attaccata più volte nel corso deIla sua
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-04/Anglesey%20The%20Mother%20of%20Wales.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-04/Anglesey%20The%20Mother%20of%20Wales.mp3" type="audio/mpeg">
 </audio>
 </div>
 

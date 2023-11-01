@@ -8,7 +8,7 @@ Una comunità di giovani lettori sta sfruttando le possibilità che offrono i so
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-12/A%20Literary%20Boom%20#BookTok.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-12/A%20Literary%20Boom%20#BookTok.mp3" type="audio/mpeg">
 </audio>
 </div>
 

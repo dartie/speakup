@@ -8,7 +8,7 @@ L’arrivo della quinta stagione di The Crown ha portato con sé un ampio dibatt
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-01/The%20Crown%20Season%20Five.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-01/The%20Crown%20Season%20Five.mp3" type="audio/mpeg">
 </audio>
 </div>
 

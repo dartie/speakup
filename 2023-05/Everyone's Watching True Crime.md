@@ -8,7 +8,7 @@ L’attrazione per il mondo criminale è atavica e connaturata all’essere uman
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-05/Everyone%27s%20Watching%20True%20Crime.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-05/Everyone%27s%20Watching%20True%20Crime.mp3" type="audio/mpeg">
 </audio>
 </div>
 

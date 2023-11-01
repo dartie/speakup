@@ -8,7 +8,7 @@ Il modo migliore per scoprire l’indomito paesaggio, la storia e la cultura del
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-03/The%20Scottish%20Highlands%20Along%20the%20North%20Coast%20500.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-03/The%20Scottish%20Highlands%20Along%20the%20North%20Coast%20500.mp3" type="audio/mpeg">
 </audio>
 </div>
 

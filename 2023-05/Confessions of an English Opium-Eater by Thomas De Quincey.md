@@ -8,7 +8,7 @@ Queste memorie sulla dipendenza e il subconscio sollevarono un grande scalpore a
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-05/Confessions%20of%20an%20English%20Opium-Eater%20by%20Thomas%20De%20Quincey.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-05/Confessions%20of%20an%20English%20Opium-Eater%20by%20Thomas%20De%20Quincey.mp3" type="audio/mpeg">
 </audio>
 </div>
 

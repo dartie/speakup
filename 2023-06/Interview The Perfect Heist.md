@@ -8,7 +8,7 @@ Nell'era di Internet e della sorveglianza, si potrebbe pensare le rapine in banc
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-06/Interview%20The%20Perfect%20Heist.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-06/Interview%20The%20Perfect%20Heist.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Il terzo sabato di ottobre, da oltre trent’anni, si svolge il più grande even
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-10/New%20River%20Gorge%20Bridge%20Day.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-10/New%20River%20Gorge%20Bridge%20Day.mp3" type="audio/mpeg">
 </audio>
 </div>
 

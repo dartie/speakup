@@ -8,7 +8,7 @@ Il pollo fritto è forse il piatto più tipico del sud degli Stati Uniti, ma le 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-07/A%20Short%20History%20of%20Fried%20Chicken.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-07/A%20Short%20History%20of%20Fried%20Chicken.mp3" type="audio/mpeg">
 </audio>
 </div>
 

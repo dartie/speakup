@@ -8,7 +8,7 @@ Sette anni dopo essersi allontanata dai riflettori del mondo della musica, la ca
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-02/Barbados%E2%80%99%20National%20Hero%20Rihanna.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-02/Barbados%E2%80%99%20National%20Hero%20Rihanna.mp3" type="audio/mpeg">
 </audio>
 </div>
 

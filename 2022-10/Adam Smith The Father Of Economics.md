@@ -8,7 +8,7 @@ Quasi 250 anni fa questo intellettuale scozzese pubblicò un libro di economia c
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-10/Adam%20Smith%20The%20Father%20Of%20Economics.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-10/Adam%20Smith%20The%20Father%20Of%20Economics.mp3" type="audio/mpeg">
 </audio>
 </div>
 

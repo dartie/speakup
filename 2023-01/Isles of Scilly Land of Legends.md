@@ -8,7 +8,7 @@ Le Isole Sorlinghe sono 145. Si trovano davanti alla costa della Cornovaglia, e 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-01/Isles%20of%20Scilly%20Land%20of%20Legends.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-01/Isles%20of%20Scilly%20Land%20of%20Legends.mp3" type="audio/mpeg">
 </audio>
 </div>
 

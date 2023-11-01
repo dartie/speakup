@@ -8,7 +8,7 @@ Questa che vi presentiamo è una tra le tante possibili selezioni di castelli sc
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-03/Top%205%20Scottish%20Castles.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-03/Top%205%20Scottish%20Castles.mp3" type="audio/mpeg">
 </audio>
 </div>
 

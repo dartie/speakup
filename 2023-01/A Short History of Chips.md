@@ -9,7 +9,7 @@ il mondo anglosassone non riesce a mettersi d’accordo sulle sue origini e nemm
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-01/A%20Short%20History%20of%20Chips.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-01/A%20Short%20History%20of%20Chips.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Reso famoso dai film western, questo territorio del sud-ovest fu uno degli ultim
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-06/Arizona%20The%20Next%20Frontier.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-06/Arizona%20The%20Next%20Frontier.mp3" type="audio/mpeg">
 </audio>
 </div>
 

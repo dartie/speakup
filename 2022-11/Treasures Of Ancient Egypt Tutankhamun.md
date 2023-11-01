@@ -8,7 +8,7 @@ La tomba di Tutankhamon è una delle scoperte più affascinanti della storia del
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-11/Treasures%20Of%20Ancient%20Egypt%20Tutankhamun.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-11/Treasures%20Of%20Ancient%20Egypt%20Tutankhamun.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Le origini di Rihanna e qualche aspetto linguistico dell'isola di Barbados.
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-02/Rihanna%27s%20Bajan%20Creole.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-02/Rihanna%27s%20Bajan%20Creole.mp3" type="audio/mpeg">
 </audio>
 </div>
 

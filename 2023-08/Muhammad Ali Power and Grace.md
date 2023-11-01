@@ -8,7 +8,7 @@ Il capolavoro di Eig, documentato da più di cinquecento interviste e arricchito
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-08/Muhammad%20Ali%20Power%20and%20Grace.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-08/Muhammad%20Ali%20Power%20and%20Grace.mp3" type="audio/mpeg">
 </audio>
 </div>
 

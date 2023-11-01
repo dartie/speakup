@@ -8,7 +8,7 @@ Figura chiave del romanticismo, Emily Brontë nelle sue opere esplorò temi come
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-07/A%20Force%20of%20Nature%20Emily%20Bront%C3%AB.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-07/A%20Force%20of%20Nature%20Emily%20Bront%C3%AB.mp3" type="audio/mpeg">
 </audio>
 </div>
 

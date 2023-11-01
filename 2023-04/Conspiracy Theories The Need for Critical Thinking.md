@@ -8,7 +8,7 @@ Dai terrapiattisti ai no vax, sembra che in quest’epoca di massima informazion
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-04/Conspiracy%20Theories%20The%20Need%20for%20Critical%20Thinking.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-04/Conspiracy%20Theories%20The%20Need%20for%20Critical%20Thinking.mp3" type="audio/mpeg">
 </audio>
 </div>
 

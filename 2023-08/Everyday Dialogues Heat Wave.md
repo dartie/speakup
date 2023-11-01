@@ -8,7 +8,7 @@ Troppo caldo? Umido? Nuvoloso o piovoso? Il tempo è un argomento che occupa sem
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-08/Everyday%20Dialogues%20Heat%20Wave.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-08/Everyday%20Dialogues%20Heat%20Wave.mp3" type="audio/mpeg">
 </audio>
 </div>
 

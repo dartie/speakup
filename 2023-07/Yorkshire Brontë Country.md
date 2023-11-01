@@ -8,7 +8,7 @@ Lo Yorkshire, la contea più estesa del Regno Unito e patria delle sorelle Bront
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-07/Yorkshire%20Bront%C3%AB%20Country.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-07/Yorkshire%20Bront%C3%AB%20Country.mp3" type="audio/mpeg">
 </audio>
 </div>
 

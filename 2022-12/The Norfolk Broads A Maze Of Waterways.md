@@ -8,7 +8,7 @@ Abbiamo incontrato l'autore e regista Joe Jackson per parlare, tra le altre cose
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-12/The%20Norfolk%20Broads%20A%20Maze%20Of%20Waterways.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-12/The%20Norfolk%20Broads%20A%20Maze%20Of%20Waterways.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Esistono personalità che rendono le persone più inclini a credere alle teorie 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-04/Conspiracy%20Theories%20Counteracting%20Misinformation.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-04/Conspiracy%20Theories%20Counteracting%20Misinformation.mp3" type="audio/mpeg">
 </audio>
 </div>
 

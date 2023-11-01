@@ -8,7 +8,7 @@ Capolavoro dell’età d’oro della letteratura inglese, questo dramma rapprese
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-07/Wuthering%20Heights%20by%20Emily%20Bront%C3%AB.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-07/Wuthering%20Heights%20by%20Emily%20Bront%C3%AB.mp3" type="audio/mpeg">
 </audio>
 </div>
 

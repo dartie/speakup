@@ -8,7 +8,7 @@ In un tragico colpo di scena, Hetty uccide accidentalmente suo marito Torrance c
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-02/Short%20Story%20A%20Corruptive%20Influence.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-02/Short%20Story%20A%20Corruptive%20Influence.mp3" type="audio/mpeg">
 </audio>
 </div>
 

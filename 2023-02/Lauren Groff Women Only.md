@@ -8,7 +8,7 @@ In Matrix, l’autrice statunitense ricrea la misteriosa vita della poetessa Mar
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-02/Lauren%20Groff%20Women%20Only.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-02/Lauren%20Groff%20Women%20Only.mp3" type="audio/mpeg">
 </audio>
 </div>
 

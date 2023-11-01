@@ -10,7 +10,7 @@ Scotsman, onorando così i decenni di servizio che ha regalato ai suoi passegger
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-02/The%20Flying%20Scotsman%20British%20Railway%20History.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-02/The%20Flying%20Scotsman%20British%20Railway%20History.mp3" type="audio/mpeg">
 </audio>
 </div>
 

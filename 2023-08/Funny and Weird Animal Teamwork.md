@@ -8,7 +8,7 @@ Senza dubbio la terminologia dei nomi collettivi degli animali non è indispensa
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-08/Funny%20and%20Weird%20Animal%20Teamwork.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-08/Funny%20and%20Weird%20Animal%20Teamwork.mp3" type="audio/mpeg">
 </audio>
 </div>
 

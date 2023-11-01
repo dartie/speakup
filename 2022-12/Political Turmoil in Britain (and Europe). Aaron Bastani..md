@@ -8,7 +8,7 @@ Sono tempi incerti e caotici per la politica, specialmente in Europa e in Inghil
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-12/Political%20Turmoil%20in%20Britain%20%28and%20Europe%29.%20Aaron%20Bastani..mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-12/Political%20Turmoil%20in%20Britain%20%28and%20Europe%29.%20Aaron%20Bastani..mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Il telescopio più potente mai costruito orbita da un anno intorno al sole, a un
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-10/The%20New%20York%20Times%20-A%20Year%20of%20Cosmic%20Wonder%20with%20the%20James%20Webb%20Space%20Telescope-.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-10/The%20New%20York%20Times%20-A%20Year%20of%20Cosmic%20Wonder%20with%20the%20James%20Webb%20Space%20Telescope-.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Nel marzo del 1973 uscì un disco che sarebbe rapidamente diventato uno degli al
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-03/The%20Dark%20Side%20of%20the%20Moon%2050th%20Anniversary.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-03/The%20Dark%20Side%20of%20the%20Moon%2050th%20Anniversary.mp3" type="audio/mpeg">
 </audio>
 </div>
 

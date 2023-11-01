@@ -8,7 +8,7 @@ Martin Scorsese dirige Robert De Niro e Leonardo DiCaprio in questo adattamento,
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-10/Love,%20Trust%20and%20Betrayal%20Killers%20of%20the%20Flower%20Moon.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-10/Love,%20Trust%20and%20Betrayal%20Killers%20of%20the%20Flower%20Moon.mp3" type="audio/mpeg">
 </audio>
 </div>
 

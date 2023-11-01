@@ -8,7 +8,7 @@ Scalare le cime dell'Everest fino al Campo Base non è una missione facile, ma n
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-05/Mt.%20Everest%20The%20Explorer%27s%20Passage.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-05/Mt.%20Everest%20The%20Explorer%27s%20Passage.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Questo labirinto di fiumi, laghi e canali navigabili vicino alla costa dell’Ea
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-12/East%20Anglia%20Waterways%20The%20Norfolk%20Broads.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-12/East%20Anglia%20Waterways%20The%20Norfolk%20Broads.mp3" type="audio/mpeg">
 </audio>
 </div>
 

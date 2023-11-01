@@ -8,7 +8,7 @@ Estinto da ben quattro secoli, questo pennuto dal nome divertente potrebbe resus
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-05/The%20Dodo%20Bird%20Back%20from%20Extinction.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-05/The%20Dodo%20Bird%20Back%20from%20Extinction.mp3" type="audio/mpeg">
 </audio>
 </div>
 

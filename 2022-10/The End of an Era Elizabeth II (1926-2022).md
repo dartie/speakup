@@ -8,7 +8,7 @@ La morte della Regina Elisabetta II rappresenta la scomparsa di un simbolo di al
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-10/The%20End%20of%20an%20Era%20Elizabeth%20II%20%281926-2022%29.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-10/The%20End%20of%20an%20Era%20Elizabeth%20II%20%281926-2022%29.mp3" type="audio/mpeg">
 </audio>
 </div>
 

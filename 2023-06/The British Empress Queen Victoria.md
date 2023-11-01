@@ -8,7 +8,7 @@ Si considera una delle figure più imponenti del XIX secolo, simbolo dello splen
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-06/The%20British%20Empress%20Queen%20Victoria.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-06/The%20British%20Empress%20Queen%20Victoria.mp3" type="audio/mpeg">
 </audio>
 </div>
 

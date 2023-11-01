@@ -8,7 +8,7 @@ Alla fine del XVIII secolo il molo di Gharden’s Wharf era uno dei punti nevral
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-08/Historical%20Memory%20International%20African%20American%20Museum.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-08/Historical%20Memory%20International%20African%20American%20Museum.mp3" type="audio/mpeg">
 </audio>
 </div>
 

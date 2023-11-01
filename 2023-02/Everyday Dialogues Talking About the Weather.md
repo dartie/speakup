@@ -8,7 +8,7 @@ Una veloce guida alla conversazione con frasi e vocaboli di uso quotidiano. Ques
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-02/Everyday%20Dialogues%20Talking%20About%20the%20Weather.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-02/Everyday%20Dialogues%20Talking%20About%20the%20Weather.mp3" type="audio/mpeg">
 </audio>
 </div>
 

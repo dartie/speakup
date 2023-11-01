@@ -8,7 +8,7 @@ Il litio è un elemento chimico che si utilizza per immagazzinare l’energia ch
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-03/Lithium%20White%20Gold.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-03/Lithium%20White%20Gold.mp3" type="audio/mpeg">
 </audio>
 </div>
 

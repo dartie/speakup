@@ -8,7 +8,7 @@ La giovane cantante americana ha appena pubblicato un documentario che rispecchi
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-01/Selena%20Gomez%20Speaking%20Up%20On%20Mental%20Health.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-01/Selena%20Gomez%20Speaking%20Up%20On%20Mental%20Health.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Si compiono quarant’anni dall’uscita nei cinema di questa storia di amicizia
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-12/E.T.%20the%20%20Extra-Terrestrial%2040th%20Anniversary.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-12/E.T.%20the%20%20Extra-Terrestrial%2040th%20Anniversary.mp3" type="audio/mpeg">
 </audio>
 </div>
 

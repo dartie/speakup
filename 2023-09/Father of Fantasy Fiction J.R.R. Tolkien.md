@@ -8,7 +8,7 @@ Erudito linguista dal carattere scontroso, con la sua immaginazione pose le basi
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-09/Father%20of%20Fantasy%20Fiction%20J.R.R.%20Tolkien.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-09/Father%20of%20Fantasy%20Fiction%20J.R.R.%20Tolkien.mp3" type="audio/mpeg">
 </audio>
 </div>
 

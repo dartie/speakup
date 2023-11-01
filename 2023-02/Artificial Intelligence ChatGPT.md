@@ -8,7 +8,7 @@ L’intelligenza artificiale fa un passo avanti con l’arrivo di questo modello
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-02/Artificial%20Intelligence%20ChatGPT.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-02/Artificial%20Intelligence%20ChatGPT.mp3" type="audio/mpeg">
 </audio>
 </div>
 

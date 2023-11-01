@@ -8,7 +8,7 @@ Più tempo da dedicare a se stessi, alla famiglia e agli amici: non si tratta di
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-09/Everyday%20Dialogues%20The%20Four-Day%20Work%20Week.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-09/Everyday%20Dialogues%20The%20Four-Day%20Work%20Week.mp3" type="audio/mpeg">
 </audio>
 </div>
 

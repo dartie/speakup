@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-11/British%20Culture%20in%20One%20Word%20Quite%21.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-11/British%20Culture%20in%20One%20Word%20Quite%21.mp3" type="audio/mpeg">
 </audio>
 </div>
 

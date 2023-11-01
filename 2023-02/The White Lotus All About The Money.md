@@ -8,7 +8,7 @@ Nella seconda stagione di questa serie di successo ci addentriamo in nuove trame
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-02/The%20White%20Lotus%20All%20About%20The%20Money.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-02/The%20White%20Lotus%20All%20About%20The%20Money.mp3" type="audio/mpeg">
 </audio>
 </div>
 

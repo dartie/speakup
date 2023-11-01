@@ -8,7 +8,7 @@ Per quasi cinque decenni lo yacht Britannia è stato il palazzo galleggiante e i
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-01/A%20Floating%20Palace%20The%20Royal%20Yacht%20Britannia.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-01/A%20Floating%20Palace%20The%20Royal%20Yacht%20Britannia.mp3" type="audio/mpeg">
 </audio>
 </div>
 

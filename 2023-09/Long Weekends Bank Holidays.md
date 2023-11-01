@@ -8,7 +8,7 @@ Il sistema finanziario londinese ha marcato il calendario lavorativo generale fi
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-09/Long%20Weekends%20Bank%20Holidays.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-09/Long%20Weekends%20Bank%20Holidays.mp3" type="audio/mpeg">
 </audio>
 </div>
 

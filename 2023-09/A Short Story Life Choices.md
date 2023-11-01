@@ -8,7 +8,7 @@ Se avessi il potere di rinascere, sceglieresti di essere una donna o un uomo? La
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-09/A%20Short%20Story%20Life%20Choices.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-09/A%20Short%20Story%20Life%20Choices.mp3" type="audio/mpeg">
 </audio>
 </div>
 

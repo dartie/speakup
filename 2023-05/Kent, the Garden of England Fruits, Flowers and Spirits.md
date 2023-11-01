@@ -8,7 +8,7 @@ Situata nel sud-est dell’Inghilterra, questa contea guarda verso il continente
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-05/Kent,%20the%20Garden%20of%20England%20Fruits,%20Flowers%20and%20Spirits.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-05/Kent,%20the%20Garden%20of%20England%20Fruits,%20Flowers%20and%20Spirits.mp3" type="audio/mpeg">
 </audio>
 </div>
 

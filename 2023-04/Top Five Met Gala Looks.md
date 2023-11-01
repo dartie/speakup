@@ -8,7 +8,7 @@ Vi presentiamo la nostra selezione dei cinque 'look' più brillanti e iconici de
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-04/Top%20Five%20Met%20Gala%20Looks.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-04/Top%20Five%20Met%20Gala%20Looks.mp3" type="audio/mpeg">
 </audio>
 </div>
 

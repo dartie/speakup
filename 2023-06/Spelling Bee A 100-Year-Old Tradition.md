@@ -8,7 +8,7 @@ Quando non esistevano i correttori ortografici digitali la gente doveva basarsi 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-06/Spelling%20Bee%20A%20100-Year-Old%20Tradition.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-06/Spelling%20Bee%20A%20100-Year-Old%20Tradition.mp3" type="audio/mpeg">
 </audio>
 </div>
 

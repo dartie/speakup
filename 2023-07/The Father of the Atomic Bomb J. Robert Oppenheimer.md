@@ -8,7 +8,7 @@ Il direttore del "Progetto Manhattan" era uno scienziato brillante e carismatico
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-07/The%20Father%20of%20the%20Atomic%20Bomb%20J.%20Robert%20Oppenheimer.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-07/The%20Father%20of%20the%20Atomic%20Bomb%20J.%20Robert%20Oppenheimer.mp3" type="audio/mpeg">
 </audio>
 </div>
 

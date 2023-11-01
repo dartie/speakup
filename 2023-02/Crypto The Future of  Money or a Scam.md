@@ -8,7 +8,7 @@ Quale futuro hanno le criptovalute? Nonostante la loro volatilità, molti credon
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-02/Crypto%20The%20Future%20of%20%20Money%20or%20a%20Scam.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-02/Crypto%20The%20Future%20of%20%20Money%20or%20a%20Scam.mp3" type="audio/mpeg">
 </audio>
 </div>
 

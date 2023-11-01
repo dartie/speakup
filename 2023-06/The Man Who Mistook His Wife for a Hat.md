@@ -8,7 +8,7 @@ Con questa raccolta di casi clinici di disfunzioni neurologiche, questo medico h
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-06/The%20Man%20Who%20Mistook%20His%20Wife%20for%20a%20Hat.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-06/The%20Man%20Who%20Mistook%20His%20Wife%20for%20a%20Hat.mp3" type="audio/mpeg">
 </audio>
 </div>
 

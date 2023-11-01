@@ -8,7 +8,7 @@ Da molto tempo i fisici studiano in che modo i fenomeni in gruppi di tre possono
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-09/The%20New%20York%20Times%20The%20Terror%20of%20Threes%20in%20the%20Heavens%20and%20on%20Earth.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-09/The%20New%20York%20Times%20The%20Terror%20of%20Threes%20in%20the%20Heavens%20and%20on%20Earth.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Chiudiamo la nostra lista degli italo-americani più influenti della storia rece
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-11/Top%2010%20%28part%202%29%20of%20Iconic%20Figures%20Italian-Americans.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-11/Top%2010%20%28part%202%29%20of%20Iconic%20Figures%20Italian-Americans.mp3" type="audio/mpeg">
 </audio>
 </div>
 

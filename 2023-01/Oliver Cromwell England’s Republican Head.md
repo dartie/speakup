@@ -8,7 +8,7 @@ Oliver Cromwell ha affascinato gli storici per centinaia di anni: per alcuni fu 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-01/Oliver%20Cromwell%20England%E2%80%99s%20Republican%20Head.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-01/Oliver%20Cromwell%20England%E2%80%99s%20Republican%20Head.mp3" type="audio/mpeg">
 </audio>
 </div>
 

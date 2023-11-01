@@ -8,7 +8,7 @@ Oyster card o biglietto singolo cartaceo? Ecco cosa conviene acquistare per acce
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-10/Everyday%20Dialogues%20Travelling%20on%20the%20Tube.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-10/Everyday%20Dialogues%20Travelling%20on%20the%20Tube.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ I giornalisti Bob Woodward e Carl Bernstein saranno sempre ricordati per il loro
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-03/50th%20Anniversary%20of%20Watergate%20Woodward%20&%20Bernstein.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-03/50th%20Anniversary%20of%20Watergate%20Woodward%20&%20Bernstein.mp3" type="audio/mpeg">
 </audio>
 </div>
 

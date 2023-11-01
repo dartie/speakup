@@ -8,7 +8,7 @@ Considerato uno dei primi ritratti della ribellione adolescenziale, al successo 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-10/The%20Catcher%20in%20the%20Rye%20by%20J.%20D.%20Salinger.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-10/The%20Catcher%20in%20the%20Rye%20by%20J.%20D.%20Salinger.mp3" type="audio/mpeg">
 </audio>
 </div>
 

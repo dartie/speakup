@@ -8,7 +8,7 @@ Sea-Watch International è un'organizzazione no-profit che si occupa di interven
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-07/Sea-Watch%20International%20Saving%20Lives%20at%20Sea.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-07/Sea-Watch%20International%20Saving%20Lives%20at%20Sea.mp3" type="audio/mpeg">
 </audio>
 </div>
 

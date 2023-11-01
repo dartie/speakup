@@ -8,7 +8,7 @@ Con una linea investigativa incentrata sul nesso fra la psicologia femminile e i
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-05/Rachel%20Monroe%20Beyond%20Macabre%20Fun.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-05/Rachel%20Monroe%20Beyond%20Macabre%20Fun.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ L’Inghilterra, culla del calcio, vanta diverse icone di questo sport. Fra ques
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-08/England%E2%80%99s%20Football%20Icon%20Bobby%20Moore.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-08/England%E2%80%99s%20Football%20Icon%20Bobby%20Moore.mp3" type="audio/mpeg">
 </audio>
 </div>
 

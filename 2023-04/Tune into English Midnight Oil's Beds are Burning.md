@@ -8,7 +8,7 @@ Nel 1987 il gruppo di Sidney raggiunse la fama mondiale con questa canzone dal f
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-04/Tune%20into%20English%20Midnight%20Oil%27s%20Beds%20are%20Burning.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-04/Tune%20into%20English%20Midnight%20Oil%27s%20Beds%20are%20Burning.mp3" type="audio/mpeg">
 </audio>
 </div>
 

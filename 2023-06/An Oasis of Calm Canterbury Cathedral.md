@@ -8,7 +8,7 @@ Scopri la storia e nel mistero della Cattedrale di Canterbury, dalle sue origini
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-06/An%20Oasis%20of%20Calm%20Canterbury%20Cathedral.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-06/An%20Oasis%20of%20Calm%20Canterbury%20Cathedral.mp3" type="audio/mpeg">
 </audio>
 </div>
 

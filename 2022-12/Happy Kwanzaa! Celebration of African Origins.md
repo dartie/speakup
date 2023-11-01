@@ -8,7 +8,7 @@ Questa festività di spirito rivendicativo è nata negli anni sessanta del secol
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2022-12/Happy%20Kwanzaa%21%20Celebration%20of%20African%20Origins.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2022-12/Happy%20Kwanzaa%21%20Celebration%20of%20African%20Origins.mp3" type="audio/mpeg">
 </audio>
 </div>
 

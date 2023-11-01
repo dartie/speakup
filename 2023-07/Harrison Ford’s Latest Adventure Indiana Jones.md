@@ -8,7 +8,7 @@ Il quinto e ultimo film sull’intrepido archeologo è un’epopea piena di azio
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-07/Harrison%20Ford%E2%80%99s%20Latest%20Adventure%20Indiana%20Jones.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-07/Harrison%20Ford%E2%80%99s%20Latest%20Adventure%20Indiana%20Jones.mp3" type="audio/mpeg">
 </audio>
 </div>
 

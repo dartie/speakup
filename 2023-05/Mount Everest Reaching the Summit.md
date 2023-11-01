@@ -8,7 +8,7 @@ Il 29 maggio del 1953 gli alpinisti Edmund Hillary, neozelandese, e l’indo-nep
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-05/Mount%20Everest%20Reaching%20the%20Summit.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-05/Mount%20Everest%20Reaching%20the%20Summit.mp3" type="audio/mpeg">
 </audio>
 </div>
 

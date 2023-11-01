@@ -8,7 +8,7 @@ Questa competizione è una vera celebrazione del folklore e della cultura scozze
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/knowledge-base/main/English/SpeakUp/2023-09/Scottish%20Tradition%20The%20Highland%20Games.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-09/Scottish%20Tradition%20The%20Highland%20Games.mp3" type="audio/mpeg">
 </audio>
 </div>
 
