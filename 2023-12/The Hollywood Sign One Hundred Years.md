@@ -8,7 +8,7 @@ Sulla collina di Los Angeles si trova la sua icona più famosa, simbolo del glam
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/The%20Hollywood%20Sign%20One%20Hundred%20Years.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/The%20Hollywood%20Sign%20One%20Hundred%20Years.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -29,10 +29,10 @@ Each of the sign’s letters is about 45 feet (13.7 metres) high and between 31 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **windstorms** = tempeste di vento
+* **afar** = lontano
+* **hike** = fare una camminata
 * **property development** = sviluppo immobiliare
 * **spelt out** = compitare
 * **removed** = rimuovere
 * **earthquakes** = terremoti
-* **windstorms** = tempeste di vento
-* **afar** = lontano
-* **hike** = fare una camminata

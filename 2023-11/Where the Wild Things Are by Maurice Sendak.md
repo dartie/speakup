@@ -8,7 +8,7 @@ Scritto e illustrato da Maurice Sendak, "Dove vivono i mostri" è tra i libri pe
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-11/Where%20the%20Wild%20Things%20Are%20by%20Maurice%20Sendak.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/Where%20the%20Wild%20Things%20Are%20by%20Maurice%20Sendak.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,17 +32,17 @@ In 1964, Sendak’s book won the Caldecott Medal, honouring it as the year’s �
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **Despite** = nonostante
 * **to cope** = gestire
+* **picture books** = libri illustrati
+* **havoc** = caos
+* **household** = casa
+* **targeted** = prendere di mira
+* **extended family** = famiglia estesa (non solo quella nucleare)
 * **banned** = proibire
+* **appealing** = attraente
+* **challenging** = impugnare
+* **sails** = navigare
+* **rage** = rabbia
 * **damaging** = nocivo
 * **reassuring** = rassicurante
-* **household** = casa
-* **extended family** = famiglia estesa (non solo quella nucleare)
-* **appealing** = attraente
-* **targeted** = prendere di mira
-* **Despite** = nonostante
-* **rage** = rabbia
-* **challenging** = impugnare
-* **picture books** = libri illustrati
-* **sails** = navigare
-* **havoc** = caos

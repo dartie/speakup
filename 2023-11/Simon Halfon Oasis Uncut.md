@@ -8,7 +8,7 @@ In "Supersonic", Simon Halfon raccoglie diverse ore di interviste con i fratelli
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-11/Simon%20Halfon%20Oasis%20Uncut.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/Simon%20Halfon%20Oasis%20Uncut.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -43,27 +43,27 @@ On publication of the book, Noel Gallagher said he’d never laughed so much as 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **full-blown** = vero e proprio
-* **brawler** = attaccabrighe
-* **rehearse** = fare le prove
-* **any given time** = ogni volta
-* **powerhouse** = potenza
-* **rocketing** = vertiginosa
-* **rise** = scalata
-* **approached** = rivolgersi
-* **blessing** = benedizione
-* **drove them into the ground** = precipitare
-* **portrayed** = ritrarre
-* **brooding** = riflessivo
-* **to piece the story together** = mettere insieme
 * **chart-topping** = in classifica
-* **frontman** = cantante principale
-* **crossed over** = attraversare
-* **smart** = intelligenti
-* **record sleeves** = copertine di dischi
-* **rocky** = rocciosa
-* **acrimoniously** = con acrimonia
 * **endearingly** = con affetto
 * **candid** = sincero
-* **welcoming** = accoglienti
+* **brawler** = attaccabrighe
+* **record sleeves** = copertine di dischi
+* **any given time** = ogni volta
 * **turned out** = risultare
+* **welcoming** = accoglienti
+* **powerhouse** = potenza
+* **frontman** = cantante principale
+* **acrimoniously** = con acrimonia
+* **full-blown** = vero e proprio
+* **blessing** = benedizione
+* **portrayed** = ritrarre
+* **crossed over** = attraversare
+* **rehearse** = fare le prove
+* **to piece the story together** = mettere insieme
+* **rocky** = rocciosa
+* **approached** = rivolgersi
+* **drove them into the ground** = precipitare
+* **rocketing** = vertiginosa
+* **rise** = scalata
+* **brooding** = riflessivo
+* **smart** = intelligenti

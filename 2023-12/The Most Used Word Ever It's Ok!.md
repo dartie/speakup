@@ -8,7 +8,7 @@ Versatile e popolare come poche altre, questa parola —probabilmente la più us
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/The%20Most%20Used%20Word%20Ever%20It%27s%20Ok%21.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/The%20Most%20Used%20Word%20Ever%20It%27s%20Ok%21.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -31,30 +31,30 @@ Whether you [spell](## "scrivere") it all in [upper case](## "maiuscolo") ‘OK
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **misspelled** = sbagliare a scrivere
-* **acknowledge** = riconoscere
-* **made its way** = farsi strada
-* **endowed** = dotare
-* **dock** = molo
 * **shortcuts** = scorciatoie
-* **full stops** = punti
-* **LOL** = ridere rumorosamente (laughing out loud)
-* **spell** = scrivere
-* **stuck around** = rimanere
-* **allegedly** = presumibilmente
-* **lander** = veicolo d’atterraggio
-* **touched down** = toccare terra
-* **advent** = apparizione
-* **OMG** = Oh mio Dio! (Oh my God!)
-* **slang** = gergo
+* **acknowledge** = riconoscere
 * **upper case** = maiuscolo
-* **somehow** = in qualche modo
-* **speech** = parola
-* **thumbs-up** = approvazione (pollice alzato)
-* **wondered** = chiedersi
-* **gap** = vuoto, silenzio
-* **most widely used** = più usata
-* **loading** = caricare
+* **weakest** = più debole
 * **accurate** = accurato
 * **fad** = moda
-* **weakest** = più debole
+* **touched down** = toccare terra
+* **loading** = caricare
+* **advent** = apparizione
+* **LOL** = ridere rumorosamente (laughing out loud)
+* **somehow** = in qualche modo
+* **lander** = veicolo d’atterraggio
+* **endowed** = dotare
+* **OMG** = Oh mio Dio! (Oh my God!)
+* **misspelled** = sbagliare a scrivere
+* **stuck around** = rimanere
+* **speech** = parola
+* **dock** = molo
+* **slang** = gergo
+* **spell** = scrivere
+* **gap** = vuoto, silenzio
+* **thumbs-up** = approvazione (pollice alzato)
+* **wondered** = chiedersi
+* **most widely used** = più usata
+* **made its way** = farsi strada
+* **full stops** = punti
+* **allegedly** = presumibilmente

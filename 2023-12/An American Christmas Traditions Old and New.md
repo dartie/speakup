@@ -8,7 +8,7 @@ Per molto tempo il puritanesimo ha proibito le celebrazioni festive negli Stati 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/An%20American%20Christmas%20Traditions%20Old%20and%20New.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/An%20American%20Christmas%20Traditions%20Old%20and%20New.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,20 +40,20 @@ Another uniquely American tradition is the inclusion of a [pickle](## "sottaceti
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **safe haven** = luogo sicuro
-* **outlawed** = vietare
-* **Carol** = canto natalizio
-* **borrowed** = prendere in prestito
-* **cranberry** = mirtillo
-* **game meats** = carne di selvaggina
-* **pickle** = sottaceti
-* **securing** = ottenere
-* **miser** = avaro
-* **late** = alla fine del
-* **crab** = granchio
 * **AD** = d.C. (anno domini)
-* **Nevertheless** = nonostante
+* **securing** = ottenere
 * **miserable** = triste
-* **goodwill** = buona volontà
+* **miser** = avaro
 * **cabbage** = cavolo
+* **outlawed** = vietare
+* **borrowed** = prendere in prestito
+* **game meats** = carne di selvaggina
+* **Nevertheless** = nonostante
+* **late** = alla fine del
+* **safe haven** = luogo sicuro
+* **pickle** = sottaceti
 * **novella** = romanzo breve
+* **Carol** = canto natalizio
+* **goodwill** = buona volontà
+* **cranberry** = mirtillo
+* **crab** = granchio

@@ -8,7 +8,7 @@ Terrificante, controverso e persino maledetto, questo film sulla possessione dem
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/50th%20Anniversary%20of%20The%20Exorcist.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/50th%20Anniversary%20of%20The%20Exorcist.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -34,17 +34,17 @@ In the first of a trilogy of sequels to the classic 1973 horror film The Exorcis
 
 # Glossary
 * **beyond** = oltre
-* **triggered** = scatenare
+* **last resort** = ultima risorsa
+* **attempts** = tentativi
+* **crew** = squadra
+* **injuries** = lesioni
+* **notorious** = famigerato
+* **banned** = vietare
 * **cursed** = maledire
 * **showed up** = apparire
 * **Despite** = nonostante
-* **reprises** = riprendere
 * **tracked down** = rintracciare
-* **attempts** = tentativi
-* **plagued** = infastidire
-* **injuries** = lesioni
-* **last resort** = ultima risorsa
-* **banned** = vietare
-* **notorious** = famigerato
 * **fainting fits** = svenimenti
-* **crew** = squadra
+* **triggered** = scatenare
+* **plagued** = infastidire
+* **reprises** = riprendere

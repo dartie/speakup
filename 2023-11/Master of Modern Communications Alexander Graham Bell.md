@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-11/Master%20of%20Modern%20Communications%20Alexander%20Graham%20Bell.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/Master%20of%20Modern%20Communications%20Alexander%20Graham%20Bell.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,22 +35,22 @@ Bell carried on inventing until his death in 1922. Among his inventions were an 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **naturalised** = prendere la cittadinanza
-* **wheat** = grano
-* **speech** = parola
-* **granted** = assegnare
-* **had filed** = presentare
-* **device** = dispositivo
 * **summoned** = chiamare
+* **duly** = puntualmente
 * **deaf** = non udenti
+* **granted** = assegnare
+* **ashamed** = vergognarsi
+* **naturalised** = prendere la cittadinanza
+* **iron lung** = polmone artificiale
 * **come up with** = inventare
 * **caveat** = richiesta di brevetto
-* **impending** = imminente
-* **coated** = coprire
-* **move** = trasloco
-* **ashamed** = vergognarsi
 * **shares** = azioni
-* **iron lung** = polmone artificiale
-* **fellow** = collega
-* **duly** = puntualmente
+* **had filed** = presentare
+* **coated** = coprire
+* **wheat** = grano
+* **move** = trasloco
+* **speech** = parola
 * **cardboard** = cartone
+* **fellow** = collega
+* **impending** = imminente
+* **device** = dispositivo

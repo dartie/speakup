@@ -8,7 +8,7 @@ Situato nel cuore di Woodstock, nell'Oxfordshire, Blenheim Palace è una testimo
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-11/Magnificent%20and%20Magical%20Blenheim%20Palace.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/Magnificent%20and%20Magical%20Blenheim%20Palace.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -37,20 +37,20 @@ Blenheim’s staff is committed to the palace being a pillar in the community th
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **watercourse** = corso d’acqua
+* **gathering** = festa, riunione
+* **fell into disrepair** = cadere in disuso
 * **overturned** = capovolgere
-* **awe-inspiring** = impressionante
-* **dotted** = sparsi
-* **winding pathways** = sentieri serpeggianti
-* **ponds** = laghetti
+* **despite** = nonostante
 * **commissioned** = commissionare
 * **backdrop** = sfondo
-* **plays out** = svolgere
-* **despite** = nonostante
-* **rain shower** = acquazzone
-* **buried** = seppellire
-* **watercourse** = corso d’acqua
-* **sheltered** = ripararsi
-* **gathering** = festa, riunione
 * **lifeblood** = fonte di vita
-* **fell into disrepair** = cadere in disuso
+* **sheltered** = ripararsi
+* **buried** = seppellire
+* **winding pathways** = sentieri serpeggianti
 * **secluded** = appartato
+* **ponds** = laghetti
+* **rain shower** = acquazzone
+* **dotted** = sparsi
+* **plays out** = svolgere
+* **awe-inspiring** = impressionante

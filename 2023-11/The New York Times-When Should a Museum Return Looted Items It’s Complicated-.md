@@ -8,7 +8,7 @@ Il museo Mauritshuis dell’Aia riunisce opere usurpate in epoche diverse, dal c
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-11/The%20New%20York%20Times-When%20Should%20a%20Museum%20Return%20Looted%20Items%20It%E2%80%99s%20Complicated-.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/The%20New%20York%20Times-When%20Should%20a%20Museum%20Return%20Looted%20Items%20It%E2%80%99s%20Complicated-.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -37,20 +37,20 @@ Arthur Brand, an independent Dutch detective who handles many cases of stolen ar
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **melting pot** = crogiolo
-* **middle path** = via di mezzo
-* **spoils of war** = bottino di guerra
-* **rightful** = legittimi
-* **ornate dagger** = daga decorata
-* **blew away** = sorprendere
 * **on loan** = in prestito
-* **clutching** = afferrare
+* **clear-cut** = palese
 * **sought** = cercare
+* **melting pot** = crogiolo
+* **rightful** = legittimi
 * **one-size-fits-all** = taglia unica (soluzione unica)
 * **aimed** = aspirare
-* **looted** = saccheggiare
-* **plundered** = spogliare
 * **booty** = bottino
-* **running through** = in corso fino
 * **nefarious** = nefasto
-* **clear-cut** = palese
+* **blew away** = sorprendere
+* **middle path** = via di mezzo
+* **plundered** = spogliare
+* **running through** = in corso fino
+* **clutching** = afferrare
+* **ornate dagger** = daga decorata
+* **looted** = saccheggiare
+* **spoils of war** = bottino di guerra

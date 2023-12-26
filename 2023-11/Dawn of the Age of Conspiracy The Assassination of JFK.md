@@ -8,7 +8,7 @@ Sono passati sessant’anni da uno degli eventi più traumatici che hanno segnat
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-11/Dawn%20of%20the%20Age%20of%20Conspiracy%20The%20Assassination%20of%20JFK.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/Dawn%20of%20the%20Age%20of%20Conspiracy%20The%20Assassination%20of%20JFK.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -36,22 +36,22 @@ In 2016, a whole new theory around the JFK assassination was born. The president
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **chasing down** = seguire
-* **dismissed** = scartare
-* **entrenched** = radicate
-* **within days** = in pochi giorni
-* **grassy knoll** = collinetta
-* **disclosure** = divulgazione
-* **claim** = affermazione
-* **cover-up** = copertura
-* **nephew** = nipote
-* **looking out for** = proteggere
-* **motorcade** = corteo
-* **looms** = avvicinarsi
-* **aftermath** = indomani
-* **blames** = incolpare
 * **plotted** = cospirare, complottare
-* **wounded** = ferire
+* **motorcade** = corteo
+* **within days** = in pochi giorni
 * **aimed** = puntare
-* **leads** = piste
+* **grassy knoll** = collinetta
+* **nephew** = nipote
+* **wounded** = ferire
+* **looms** = avvicinarsi
 * **defected** = disertare
+* **chasing down** = seguire
+* **entrenched** = radicate
+* **claim** = affermazione
+* **blames** = incolpare
+* **disclosure** = divulgazione
+* **cover-up** = copertura
+* **looking out for** = proteggere
+* **leads** = piste
+* **dismissed** = scartare
+* **aftermath** = indomani

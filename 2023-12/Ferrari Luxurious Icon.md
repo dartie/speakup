@@ -8,7 +8,7 @@ Possedere una di queste iconiche auto di lusso e potenza è possibile solo per p
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/Ferrari%20Luxurious%20Icon.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Ferrari%20Luxurious%20Icon.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -30,23 +30,23 @@ Owning a Ferrari, however, isn’t just about having the money and the will to s
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **rooted** = radicata
 * **prancing** = rampare
-* **flagship** = modello, marchio
-* **dealer** = concessionario
-* **commitment** = dedizione
-* **hue** = tonalità
-* **take up** = impiegare
-* **traits** = tratti
-* **stallion** = stallone
-* **shade** = gradazione
-* **grit** = coraggio
-* **crimson** = cremisi
-* **Back in the day** = in passato, all’epoca
-* **lifted** = abolire
-* **feature** = caratteristica
-* **stands for** = rappresentare
 * **seeking** = cercare
+* **take up** = impiegare
+* **dealer** = concessionario
 * **craftsmanship** = manifattura
-* **Amongst** = tra, fra
+* **shade** = gradazione
+* **Back in the day** = in passato, all’epoca
+* **crimson** = cremisi
+* **lifted** = abolire
+* **grit** = coraggio
+* **stallion** = stallone
+* **stands for** = rappresentare
 * **Prospective** = potenziali
+* **commitment** = dedizione
+* **traits** = tratti
+* **hue** = tonalità
+* **flagship** = modello, marchio
+* **Amongst** = tra, fra
+* **rooted** = radicata
+* **feature** = caratteristica

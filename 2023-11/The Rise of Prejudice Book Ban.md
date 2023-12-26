@@ -8,7 +8,7 @@ Le guerre culturali hanno portato a un aumento dei tentativi di vietare alcune l
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-11/The%20Rise%20of%20Prejudice%20Book%20Ban.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/The%20Rise%20of%20Prejudice%20Book%20Ban.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -43,20 +43,20 @@ So what happens when books are banned, and why is it so important to stop this h
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **outright** = completamente
-* **display** = espressione
-* **uphold** = confermarsi
-* **doing our entire society a disservice** = pregiudicare
-* **First Amendment** = Primo Emendamento
-* **challenging** = contestare
+* **LGBTQIA+** = Lesbiche, Gay, Bisessuali, Transgender, Queer, Intersessuali, Asessuali (‘+’ include altre identità di genere)
 * **hot topic** = tema controverso
-* **under the guise** = con il pretesto
+* **upset** = turbato
+* **uphold** = confermarsi
+* **challenging** = contestare
+* **display** = espressione
+* **to fill out a form** = compilare un formulario
+* **doing our entire society a disservice** = pregiudicare
 * **have an issue** = avere un problema
 * **harm** = male, danno
-* **to fill out a form** = compilare un formulario
-* **if you will** = per così dire
+* **First Amendment** = Primo Emendamento
 * **banning** = proibire
-* **LGBTQIA+** = Lesbiche, Gay, Bisessuali, Transgender, Queer, Intersessuali, Asessuali (‘+’ include altre identità di genere)
+* **outright** = completamente
 * **vocal** = che si fa sentire
+* **under the guise** = con il pretesto
 * **pushing a specific moral agenda** = promuovere degli obbiettivi
-* **upset** = turbato
+* **if you will** = per così dire

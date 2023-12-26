@@ -8,7 +8,7 @@ In questo capolavoro della letteratura romantica, l’autore del Massachusetts e
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/The%20Scarlet%20Letter%20by%20Nathaniel%20Hawthorne.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/The%20Scarlet%20Letter%20by%20Nathaniel%20Hawthorne.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -45,16 +45,16 @@ A moral mystery, The Scarlet Letter quickly became a bestseller. [Buoyed](## "in
 
 # Glossary
 * **achieved** = ottenere
-* **presumed** = supporre
-* **insight** = intuizione
-* **released** = lasciare in libertà
-* **townsfolk** = cittadini, vicini
-* **loosely** = liberamente tratto da
-* **guilt** = colpa
-* **sewn** = cucire
-* **outcasts** = emarginato
-* **fellow** = compagno
 * **teams up** = collaborare
 * **troubled** = preoccupato
+* **guilt** = colpa
 * **sin** = peccato
+* **insight** = intuizione
+* **outcasts** = emarginato
 * **Buoyed** = incoraggiare
+* **loosely** = liberamente tratto da
+* **townsfolk** = cittadini, vicini
+* **presumed** = supporre
+* **fellow** = compagno
+* **released** = lasciare in libertà
+* **sewn** = cucire

@@ -8,7 +8,7 @@ La città multiculturale di New York ha sviluppato una serie di usanze natalizie
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/The%20New%20York%20Times%20On%20Christmas%20Day,%20New%20Yorkers%20Follow%20Their%20Own%20Traditions.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/The%20New%20York%20Times%20On%20Christmas%20Day,%20New%20Yorkers%20Follow%20Their%20Own%20Traditions.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,33 +33,33 @@ Published in The New York Times on December 25, 2018. Reprinted with permission.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **twinkling** = luccicare
-* **Mass** = messa
-* **soup kitchens** = mense comunitarie
-* **donned** = indossare
-* **aprons** = grembiuli
-* **collard greens** = cavolo riccio
-* **Representative** = senatore
-* **roll in** = arrivare
-* **egg drop soup** = zuppa con le uova
-* **misimpression** = impressione sbagliata
-* **delis** = gastronomie
-* **nary** = nemmeno uno
+* **carols** = canti natalizi
+* **spooned out** = servire a cucchiaiate
 * **sipping** = sorseggiare
-* **city councilman** = consigliere comunale
+* **twinkling** = luccicare
+* **oft** = spesso
+* **steeled themselves** = farsi forza
+* **collard greens** = cavolo riccio
+* **roll in** = arrivare
+* **unremarkable** = ordinario
+* **sweet potatoes** = patata dolce
+* **spruce trees** = abeti
+* **donned** = indossare
 * **go-to spot** = il posto dove andare
 * **was bustling** = essere affollato
-* **carols** = canti natalizi
-* **spruce trees** = abeti
-* **Die Hard** = "Trappola di cristallo"
-* **flocked** = affluire in gran numero
-* **unremarkable** = ordinario
-* **picking over** = selezionare
-* **steeled themselves** = farsi forza
-* **stand in line** = fare la fila
-* **sweet potatoes** = patata dolce
-* **argue** = discutere
-* **oft** = spesso
-* **spooned out** = servire a cucchiaiate
+* **soup kitchens** = mense comunitarie
 * **orders** = ordinazioni
+* **misimpression** = impressione sbagliata
+* **Die Hard** = "Trappola di cristallo"
+* **argue** = discutere
+* **city councilman** = consigliere comunale
 * **face time** = faccia a faccia
+* **nary** = nemmeno uno
+* **flocked** = affluire in gran numero
+* **delis** = gastronomie
+* **Mass** = messa
+* **aprons** = grembiuli
+* **stand in line** = fare la fila
+* **egg drop soup** = zuppa con le uova
+* **picking over** = selezionare
+* **Representative** = senatore

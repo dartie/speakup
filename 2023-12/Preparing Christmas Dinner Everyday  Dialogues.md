@@ -8,7 +8,7 @@ Se la tua passione per la cucina si accende durante il periodo natalizio e vuoi 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/Preparing%20Christmas%20Dinner%20Everyday%20%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Preparing%20Christmas%20Dinner%20Everyday%20%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -42,22 +42,22 @@ The US uses imperial measurements. **12 pounds** equals 5.5kg.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **beaten egg** = uovo sbattuto
-* **cranberry sauce** = salsa di mirtilli
-* **deserve** = meritare
-* **Cheers!** = salute!
-* **breadcrumbs** = pangrattato
-* **carrots** = carote
-* **geese** = oche
-* **fat** = grasso
+* **treat ourselves** = concedersi
+* **cornstarch** = amido di mais
 * **oven** = forno
-* **Not for another** = non prima di
+* **deserve** = meritare
+* **herbs** = spezie
 * **parsnips** = pastinache
 * **pretend** = fingere
-* **herbs** = spezie
+* **geese** = oche
+* **fat** = grasso
 * **thickened** = rendere più spesso
-* **cornstarch** = amido di mais
+* **beaten egg** = uovo sbattuto
+* **cranberry sauce** = salsa di mirtilli
+* **carrots** = carote
 * **Brussels sprouts** = cavoletti di Bruxelles
 * **ready-made** = già pronta
-* **treat ourselves** = concedersi
+* **Cheers!** = salute!
 * **dish** = piatto
+* **breadcrumbs** = pangrattato
+* **Not for another** = non prima di

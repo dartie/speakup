@@ -8,7 +8,7 @@ L'abbattimento di questo albero di 300 anni dal Vallo di Adriano ha scosso la so
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/Requiem%20for%20a%20Tree%20Boy,%2016,%20Arrested%20After%20Felling%20of%20Famous%20Sycamore%20Gap%20Tree.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Requiem%20for%20a%20Tree%20Boy,%2016,%20Arrested%20After%20Felling%20of%20Famous%20Sycamore%20Gap%20Tree.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -46,29 +46,29 @@ Published in The Guardian on September 29, 2023. Reprinted with permission. 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **got engaged** = compromettersi
-* **landmark** = luogo storico
-* **due to** = a causa
-* **seeds** = semi
-* **stump** = tronco
-* **who rely on** = dipendere da
-* **stick** = conficcare
-* **sliced** = tagliare
-* **Brewed** = preparare, fermentare
-* **joy** = felicità
-* **meaningfulness** = consapevolezza
-* **ownership** = approvazione
 * **inquiries** = indagini
-* **to chop the tree down** = abbattere
-* **chainsaw** = motosega
-* **split** = separare
-* **Inn** = locanda, osteria
-* **and the like** = e cose simili
-* **feature** = caratteristica
-* **sharp** = affilata
-* **tab** = conto
-* **felling** = abbattimento
-* **skilfully** = abilmente
-* **Trust** = fondazione
-* **outpouring** = sfogo
 * **park rangers** = guardiani del parco
+* **sharp** = affilata
+* **Brewed** = preparare, fermentare
+* **split** = separare
+* **stump** = tronco
+* **skilfully** = abilmente
+* **Inn** = locanda, osteria
+* **chainsaw** = motosega
+* **Trust** = fondazione
+* **got engaged** = compromettersi
+* **who rely on** = dipendere da
+* **and the like** = e cose simili
+* **felling** = abbattimento
+* **to chop the tree down** = abbattere
+* **outpouring** = sfogo
+* **ownership** = approvazione
+* **joy** = felicità
+* **tab** = conto
+* **landmark** = luogo storico
+* **sliced** = tagliare
+* **due to** = a causa
+* **meaningfulness** = consapevolezza
+* **stick** = conficcare
+* **seeds** = semi
+* **feature** = caratteristica

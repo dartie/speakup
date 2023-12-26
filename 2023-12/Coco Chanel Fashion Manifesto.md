@@ -8,7 +8,7 @@ La celebre stilista, dalle umili origini, ha creato il profumo più famoso della
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/Coco%20Chanel%20Fashion%20Manifesto.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Coco%20Chanel%20Fashion%20Manifesto.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,21 +40,21 @@ www.vam.ac.uk
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **iron** = stirare
-* **outbreak** = scoppio
-* **tainted** = corrompere
-* **collarless** = senza colletto
-* **staged** = allestire
-* **outfits** = completi
-* **to sew** = cucire
-* **couture** = moda, alta sartoria
-* **department store** = grandi magazzini
+* **relief** = sollievo
 * **nephew** = nipote
+* **embroider** = ricamare
+* **collarless** = senza colletto
 * **braid-trimmed** = con rifiniture a trecce
 * **well into her 80s** = fino ad oltre 80 anni
-* **embroider** = ricamare
+* **staged** = allestire
+* **outfits** = completi
 * **millinery** = modisteria
+* **couture** = moda, alta sartoria
+* **department store** = grandi magazzini
+* **tainted** = corrompere
 * **boredom** = noia
 * **skirt** = gonna
-* **relief** = sollievo
 * **bell-bottomed trousers** = pantaloni a campana
+* **to sew** = cucire
+* **iron** = stirare
+* **outbreak** = scoppio

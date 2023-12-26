@@ -8,7 +8,7 @@ La festa di Capodanno in Scozia dura quattro giorni, con danze, fiaccolate e spe
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/Hogmanay%20Scottish%20New%20Year.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Hogmanay%20Scottish%20New%20Year.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -47,23 +47,23 @@ www.edinburghshogmanay.com
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **tied** = legare
-* **goes all out** = fare del proprio meglio
-* **Firth** = fiordo
-* **footing** = fare un passo
-* **dark-haired** = dai capelli scuri
-* **shortbread** = biscotto al burro
-* **warmth** = calore
 * **Unlike** = a differenza di
-* **feast** = banchetto
-* **banned** = proibire
-* **coal** = carbone
-* **juggling** = destreggiarsi
-* **headlined** = essere l’attrazione principale
-* **revellers** = festaioli
-* **to dance their way into 2024** = raggiungere il 2024 ballando
 * **fairly** = abbastanza
+* **banned** = proibire
+* **goes all out** = fare del proprio meglio
+* **footing** = fare un passo
+* **shortbread** = biscotto al burro
+* **coal** = carbone
+* **revellers** = festaioli
 * **nation-wide** = a livello nazionale
-* **deemed** = ritenere
+* **feast** = banchetto
 * **dive** = tuffarsi
+* **warmth** = calore
 * **torchlight** = luce della torcia
+* **headlined** = essere l’attrazione principale
+* **tied** = legare
+* **deemed** = ritenere
+* **Firth** = fiordo
+* **dark-haired** = dai capelli scuri
+* **juggling** = destreggiarsi
+* **to dance their way into 2024** = raggiungere il 2024 ballando

@@ -8,7 +8,7 @@ Lyndsy Spence presenta una biografia della celebre soprano che rivela i desideri
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/Maria%20Callas%20A%20Greek%20Tragedy.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Maria%20Callas%20A%20Greek%20Tragedy.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -45,17 +45,17 @@ After Callas died of a heart attack in 1977, her family and Meneghini fought for
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **scent** = aroma
+* **slice** = fetta
+* **Cast** = assegnare un ruolo
+* **cut him off** = tagliare, interrompere
+* **fee** = tariffa
+* **pauper** = indigente
 * **took its toll** = avere un effetto negativo
+* **dishevelled** = trasandata
 * **the least** = la minore
 * **stocked up** = fornire
 * **depicts** = descrivere
-* **dishevelled** = trasandata
-* **slice** = fetta
-* **scent** = aroma
 * **probe** = esplorare
 * **blackmailing** = ricattare
-* **cut him off** = tagliare, interrompere
-* **Cast** = assegnare un ruolo
 * **throat** = gola
-* **pauper** = indigente
-* **fee** = tariffa

@@ -8,7 +8,7 @@ Cantante dei Sex Pistols, band dalla breve durata ma dalla grande influenza sull
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/Johnny%20Rotten%20Punk%27s%20National%20Treasure.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Johnny%20Rotten%20Punk%27s%20National%20Treasure.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -36,22 +36,22 @@ There are two versions of how John Lydon got his [stage name](## "nome d’arte"
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **lasted** = durare
-* **ads** = annunci
-* **chord** = accordo
-* **Never Mind** = non importa
-* **Bollocks** = stupidaggini
-* **raw** = crudo
-* **sparked** = provocare
 * **threat** = minaccia
-* **split up** = separarsi
-* **cunts** = figli di p** (letteralmente vagine)
+* **ads** = annunci
 * **butter** = burro
-* **Rotten** = putrefatto
-* **stage name** = nome d’arte
-* **replaced** = sostituire
 * **ungifted** = senza talento
-* **stare** = sguardo
+* **replaced** = sostituire
+* **bans** = divieti
+* **Rotten** = putrefatto
+* **Bollocks** = stupidaggini
+* **split up** = separarsi
 * **tributes ever paid** = rendere omaggio
 * **lack** = mancanza
-* **bans** = divieti
+* **stage name** = nome d’arte
+* **stare** = sguardo
+* **Never Mind** = non importa
+* **raw** = crudo
+* **lasted** = durare
+* **sparked** = provocare
+* **cunts** = figli di p** (letteralmente vagine)
+* **chord** = accordo

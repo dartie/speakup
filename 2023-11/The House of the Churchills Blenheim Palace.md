@@ -8,7 +8,7 @@ Regalo della regina Anne al primo duca di Marlborough dopo un’importante vitto
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-11/The%20House%20of%20the%20Churchills%20Blenheim%20Palace.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/The%20House%20of%20the%20Churchills%20Blenheim%20Palace.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -39,19 +39,19 @@ In her memoirs, Sarah Churchill, Duchess of Marlborough, [hinted](## "insinuare"
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **not least** = in particolare
-* **plot** = appezzamento di terreno
-* **hinted** = insinuare
-* **railroad tycoon** = magnate delle ferrovie
-* **strives** = adoperare
-* **boasts** = vantarsi
-* **World Heritage site** = patrimonio mondiale
-* **ensued** = seguire
-* **presented** = regalare
-* **without strings attached** = privo di condizioni
 * **dowry** = dote
-* **ornate** = riccamente ornato
-* **short-lived** = breve durata
-* **archways** = arcate
+* **strives** = adoperare
+* **not least** = in particolare
 * **fraught** = tesa
+* **presented** = regalare
 * **fell out** = essere in disaccordo
+* **ornate** = riccamente ornato
+* **boasts** = vantarsi
+* **without strings attached** = privo di condizioni
+* **short-lived** = breve durata
+* **ensued** = seguire
+* **archways** = arcate
+* **railroad tycoon** = magnate delle ferrovie
+* **hinted** = insinuare
+* **World Heritage site** = patrimonio mondiale
+* **plot** = appezzamento di terreno

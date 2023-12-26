@@ -8,7 +8,7 @@ Una cronaca familiare di tensioni, tragedie e trionfi all'ombra delle tensioni c
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/The%20Last%20Breath%20A%20Short%20Story.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/The%20Last%20Breath%20A%20Short%20Story.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -39,36 +39,36 @@ Now I was feeling really sick.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **hairbrush** = spazzola
-* **of all things** = tutte le cose
-* **infirm** = indisposto
-* **eyed** = osservare
-* **knot** = nodo
-* **limp** = floscio
-* **mournfully** = con dolore
-* **blown up** = gonfiare
 * **balloon** = palloncino
-* **smudge** = sbavatura
 * **glance** = sguardo
 * **reliant** = dipendente
-* **begged** = pregare
-* **undo** = disfare
+* **doctor’s surgery** = clinica
 * **care home** = casa di riposo
+* **gazed** = fissare
+* **hairbrush** = spazzola
+* **limp** = floscio
+* **stain** = macchia
+* **breath** = respiro
+* **mournfully** = con dolore
+* **of all things** = tutte le cose
+* **gruffly** = con tono basso
+* **undo** = disfare
+* **knot** = nodo
+* **Creepiest of all** = la più inquietante di tutte
+* **rim** = bordo
+* **blown up** = gonfiare
+* **farted** = scoreggiare
+* **shudder** = rabbrividire
+* **landed** = atterrare
+* **eyed** = osservare
 * **Unnervingly** = in modo inquieto
 * **ferried** = trasportare
-* **hooked** = aggrappare
-* **shudder** = rabbrividire
-* **doctor’s surgery** = clinica
-* **gruffly** = con tono basso
-* **landed** = atterrare
-* **stain** = macchia
-* **prized** = prezioso
-* **My heart sank** = il mio cuore sprofondò
-* **gazed** = fissare
-* **rim** = bordo
 * **hung** = appendere
-* **whisper** = sussurrare
-* **farted** = scoreggiare
-* **breath** = respiro
-* **Creepiest of all** = la più inquietante di tutte
+* **hooked** = aggrappare
+* **begged** = pregare
 * **slight** = leggero
+* **My heart sank** = il mio cuore sprofondò
+* **smudge** = sbavatura
+* **whisper** = sussurrare
+* **infirm** = indisposto
+* **prized** = prezioso

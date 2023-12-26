@@ -8,7 +8,7 @@ Con "Le armi della luce", l’autore gallese torna per la quinta e forse ultima 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/Ken%20Follett%20Farewell%20to%20Kingsbridge.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Ken%20Follett%20Farewell%20to%20Kingsbridge.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -39,33 +39,33 @@ And it is [likely](## "probabile") that The Armour of Light will be his last nov
 
 # Glossary
 * **blamed** = accusare
-* **weaving** = tessere
-* **at a time** = alla volta
-* **minding** = occuparsi di
-* **down and an up** = una cosa brutta e una buona
-* **amusing** = divertenti
-* **likely** = probabile
-* **keep up** = stare al passo
 * **renowned** = famosa
-* **lump** = bozzolo
-* **threat** = minaccia
-* **awful lot** = moltissimo
-* **spinner** = filatrice
-* **spinning wheel** = filatoio
+* **down and an up** = una cosa brutta e una buona
 * **trade union** = sindacato
-* **wool** = lana
-* **a big issue** = grande problema
-* **bitter** = amari
-* **worked out** = andare a finire
+* **threat** = minaccia
+* **keep up** = stare al passo
 * **spans** = comprendere
-* **features** = includere
-* **foundation** = fondamenta
-* **struggles** = lotte
-* **thread** = filo
-* **smashed** = distruggere
+* **spinning wheel** = filatoio
 * **charming** = affascinanti
+* **likely** = probabile
+* **struggles** = lotte
+* **bitter** = amari
+* **smashed** = distruggere
 * **backdrops** = sfondo, contesto
-* **turned upside down** = ribaltare
-* **raw** = grezzo
-* **banned** = vietare
+* **foundation** = fondamenta
+* **minding** = occuparsi di
 * **full of fun** = piene di allegria
+* **amusing** = divertenti
+* **spinner** = filatrice
+* **at a time** = alla volta
+* **lump** = bozzolo
+* **wool** = lana
+* **worked out** = andare a finire
+* **awful lot** = moltissimo
+* **thread** = filo
+* **weaving** = tessere
+* **raw** = grezzo
+* **a big issue** = grande problema
+* **banned** = vietare
+* **features** = includere
+* **turned upside down** = ribaltare

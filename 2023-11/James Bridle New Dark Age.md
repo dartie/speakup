@@ -8,7 +8,7 @@ L’artista James Bridle sostiene che, contrariamente a quanto si creda, il sovr
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-11/James%20Bridle%20New%20Dark%20Age.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/James%20Bridle%20New%20Dark%20Age.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -47,32 +47,32 @@ If we can’t think too far ahead into the future, how we [behave](## "comportar
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **something is afoot** = c’è qualcosa in atto
+* **subheading** = sottotitolo
+* **off-kilter** = squilibrato
 * **wilful** = deliberato
+* **address** = affrontare
 * **taming** = addomesticare
-* **sowing** = seminare
-* **overload** = sovraccarico
+* **off its axis** = fuori dal suo asse
+* **setting** = tramontare
 * **thoughtfully** = premurosamente
-* **Trained** = formarsi
-* **runs** = gestire
+* **weather forecasts** = previsioni meteorologiche
+* **to feed** = alimentare
+* **apparent** = evidente
+* **to falter** = vacillare
+* **reassert** = riaffermare
 * **behave** = comportarsi
-* **stagnation** = ristagno
+* **runs** = gestire
 * **ever more** = sempre più
 * **engage** = impegnarsi con
-* **off its axis** = fuori dal suo asse
-* **rendered** = rappresentare
-* **thus far** = finora
-* **to feed** = alimentare
-* **to falter** = vacillare
-* **something is afoot** = c’è qualcosa in atto
-* **off-kilter** = squilibrato
-* **address** = affrontare
-* **goods** = merci
-* **crops** = raccolto
-* **aware** = consapevoli
-* **reassert** = riaffermare
-* **setting** = tramontare
 * **overwhelmed** = sopraffatti
-* **subheading** = sottotitolo
+* **Trained** = formarsi
+* **goods** = merci
+* **sowing** = seminare
+* **crops** = raccolto
+* **overload** = sovraccarico
+* **rendered** = rappresentare
+* **stagnation** = ristagno
 * **reaping** = raccogliere
-* **weather forecasts** = previsioni meteorologiche
-* **apparent** = evidente
+* **thus far** = finora
+* **aware** = consapevoli

@@ -8,7 +8,7 @@ La celebre autrice Tilar J. Mazzeo esplora l'intrigante storia del rivoluzionari
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/Chanel%20No5.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Chanel%20No5.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -46,25 +46,25 @@ That scent, called Coco Mademoiselle, was almost the same as Chanel No.5, but no
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **revered** = adorare
 * **heady** = inebriante
-* **spins it off** = creare un’attività diversa
-* **regretted** = dispiacersi
-* **couturière** = stilista
-* **resent** = risentirsi per
-* **took over** = prendere il controllo
-* **related to** = imparentato con
-* **posh** = chic, snob
-* **toiletry** = articoli per l’igiene personale
 * **displayed** = mostrare
-* **bring in** = introdurre
-* **postage stamps** = francobolli
-* **fled** = fuggire
+* **spins it off** = creare un’attività diversa
+* **posh** = chic, snob
+* **buzz** = fermento
+* **regretted** = dispiacersi
+* **ready-to-wear** = pronti per l’uso
+* **related to** = imparentato con
+* **raunchy** = indecente, osceno
+* **revered** = adorare
 * **named after** = in onore a
 * **bracingly** = in modo incoraggiante
-* **buzz** = fermento
-* **undo** = disfare, annullare
-* **ready-to-wear** = pronti per l’uso
+* **toiletry** = articoli per l’igiene personale
+* **bring in** = introdurre
+* **couturière** = stilista
+* **took over** = prendere il controllo
+* **fled** = fuggire
 * **Bouquet** = mazzo
-* **raunchy** = indecente, osceno
 * **kept woman** = mantenuta
+* **undo** = disfare, annullare
+* **resent** = risentirsi per
+* **postage stamps** = francobolli

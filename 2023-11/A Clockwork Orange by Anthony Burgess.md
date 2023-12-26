@@ -8,7 +8,7 @@ In questa distopia autoritaria con bande giovanili ultraviolente e un gergo inve
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-11/A%20Clockwork%20Orange%20by%20Anthony%20Burgess.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/A%20Clockwork%20Orange%20by%20Anthony%20Burgess.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -45,18 +45,18 @@ A Clockwork Orange has been widely referenced in popular culture in the six deca
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **slang** = gergo
-* **borrowed** = prendere in prestito
-* **to guess** = indovinare
-* **redemptive** = redentore
-* **engage in** = dedicarsi a
-* **spiked** = correggere
 * **brainwashed** = fare il lavaggio del cervello
 * **claimed** = affermare
-* **apologies** = scuse
-* **feel sick** = sentirsi male
-* **copycat crimes** = crimini di imitazione
-* **drug-fuelled** = alimentate da droghe
+* **slang** = gergo
 * **of choice** = preferita
 * **defenceless** = indifeso
+* **to guess** = indovinare
 * **free will** = libero arbitrio
+* **drug-fuelled** = alimentate da droghe
+* **spiked** = correggere
+* **borrowed** = prendere in prestito
+* **feel sick** = sentirsi male
+* **redemptive** = redentore
+* **engage in** = dedicarsi a
+* **apologies** = scuse
+* **copycat crimes** = crimini di imitazione

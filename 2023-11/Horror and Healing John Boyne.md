@@ -8,7 +8,7 @@ Con "All the Broken Places", lo scrittore irlandese prosegue la storia del celeb
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-11/Horror%20and%20Healing%20John%20Boyne.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/Horror%20and%20Healing%20John%20Boyne.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,24 +38,24 @@ Finally, Boyne has a message for young writers in today’s woke world, in which
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **halfway** = a metà strada
-* **revolves around** = ruotare attorno
-* **to lack** = mancare
-* **to issue** = pubblicare
-* **elder** = anziano
-* **backlash** = reazione negativa
-* **that’s up to** = dipende da
-* **ties up loose ends** = risolvere faccende in sospeso
-* **wise** = saggio
-* **countrymen** = compatrioti
-* **cover versions** = versioni
-* **awareness** = consapevolezza
 * **aimed at** = diretto a
 * **statement** = dichiarazione
-* **strike up an unlikely friendship** = stringere amicizia
-* **Striped** = a righe
+* **elder** = anziano
+* **halfway** = a metà strada
+* **revolves around** = ruotare attorno
+* **cover versions** = versioni
 * **required reading** = lettura obbligatoria
-* **worth** = meritevole
+* **to issue** = pubblicare
+* **backlash** = reazione negativa
+* **that’s up to** = dipende da
+* **countrymen** = compatrioti
+* **to lack** = mancare
+* **Striped** = a righe
+* **ties up loose ends** = risolvere faccende in sospeso
 * **grumpy** = scontroso
+* **awareness** = consapevolezza
 * **issues** = questioni
+* **strike up an unlikely friendship** = stringere amicizia
+* **wise** = saggio
 * **guilt** = colpa
+* **worth** = meritevole

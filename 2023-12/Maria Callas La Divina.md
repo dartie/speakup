@@ -8,7 +8,7 @@ Negli anni ‘50 e ‘60 la diva greco-americana trionfò in tutto il mondo con 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/Maria%20Callas%20La%20Divina.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Maria%20Callas%20La%20Divina.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -29,18 +29,18 @@ As Callas’ international career [soared](## "alzarsi, sollevarsi"), so did her
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **tycoon** = magnate
-* **plot** = trama
-* **walkouts** = abbandoni
-* **commitment** = impegno
-* **soared** = alzarsi, sollevarsi
 * **fiery** = focose
-* **on-off** = intermittente
 * **shipping** = trasporto
 * **Driven** = spingere
+* **venues** = spazi, strutture
+* **soared** = alzarsi, sollevarsi
+* **feud** = lite
+* **tycoon** = magnate
+* **suitable** = idonea
+* **walkouts** = abbandoni
+* **on-off** = intermittente
+* **plot** = trama
 * **unwavering** = risoluto
 * **underwent** = sottomettersi
-* **feud** = lite
-* **venues** = spazi, strutture
+* **commitment** = impegno
 * **appointed** = nominare
-* **suitable** = idonea

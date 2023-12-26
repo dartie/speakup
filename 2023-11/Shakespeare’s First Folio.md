@@ -8,7 +8,7 @@ La prima raccolta delle opere di Shakespeare è uno dei libri più importanti de
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-11/Shakespeare%E2%80%99s%20First%20Folio.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/Shakespeare%E2%80%99s%20First%20Folio.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,20 +33,20 @@ Posterity [owes](## "dovere") Shakespeare’s friends, Condell and Heminges, an
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **bookstall** = bancarella dei libri
-* **collation** = raccolta
-* **careless** = noncurante
 * **owes** = dovere
-* **prompt** = imbeccata
-* **quarto** = formato in-quarto (8 pagine)
-* **printing shop** = tipografia
-* **playwright** = drammaturgo
+* **renown** = fama, notorietà
+* **balding** = che sta diventando calvo
 * **unbound** = non rilegato
+* **dealer** = commerciante di oggetti d’antiquariato
+* **careless** = noncurante
+* **intricate** = complesso
+* **quarto** = formato in-quarto (8 pagine)
+* **playwright** = drammaturgo
+* **rare book** = incunabolo
 * **doodles** = scarabocchi
 * **churchyard** = cimitero
-* **intricate** = complesso
-* **renown** = fama, notorietà
 * **frontispiece** = copertina
-* **balding** = che sta diventando calvo
-* **rare book** = incunabolo
-* **dealer** = commerciante di oggetti d’antiquariato
+* **collation** = raccolta
+* **printing shop** = tipografia
+* **bookstall** = bancarella dei libri
+* **prompt** = imbeccata

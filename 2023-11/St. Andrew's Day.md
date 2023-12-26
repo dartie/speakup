@@ -8,7 +8,7 @@ La bandiera scozzese è caratterizzata da una croce a forma di X che simboleggia
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-11/St.%20Andrew%27s%20Day.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/St.%20Andrew%27s%20Day.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,17 +32,17 @@ Celebrating St. Andrew’s Day became popular among immigrants in America in the
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **pilgrimage** = pellegrinaggio
-* **outnumbered** = inferiorità numerica
-* **kneecap** = rotula
-* **X-shaped** = con forma di x
-* **saltire** = croce di Sant’Andrea
 * **Cyprus** = Cipro
-* **unworthy** = indegno
+* **Angles** = Angli
 * **low-key** = basso profilo
 * **gatherings** = celebrazioni
-* **set foot** = mettere piede
 * **bound** = legare
-* **shoulder blade** = scapola
-* **Angles** = Angli
+* **X-shaped** = con forma di x
+* **saltire** = croce di Sant’Andrea
 * **length and breadth of** = in lunghezza e larghezza
+* **kneecap** = rotula
+* **unworthy** = indegno
+* **pilgrimage** = pellegrinaggio
+* **outnumbered** = inferiorità numerica
+* **set foot** = mettere piede
+* **shoulder blade** = scapola

@@ -8,7 +8,7 @@ Il simbolo di Hollywood è un'affascinante testimonianza dei sogni e del glamour
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/The%20Hollywood%20Sign%20Nine%20Letters%20on%20Top%20of%20a%20Hill.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/The%20Hollywood%20Sign%20Nine%20Letters%20on%20Top%20of%20a%20Hill.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,24 +38,24 @@ www.hollywoodsign.org
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **stagnated** = ristagnare
-* **Trust** = fondazione
-* **stepped in** = intervenire
-* **tasked** = avere il compito
-* **developers** = promotori
-* **battered** = sogni infranti
-* **brush** = sterpaglie
-* **made it big** = avere successo
-* **will be lit up** = accendere
-* **chairman** = presidente
-* **hillsides** = fianco, versante
-* **barren** = arido
+* **flashed** = mostrare
 * **some odd** = circa
 * **landscaping** = prendersi cura del paesaggio
 * **device** = dispositivo
+* **will be lit up** = accendere
+* **stagnated** = ristagnare
+* **hillsides** = fianco, versante
+* **barren** = arido
 * **beacon** = segnale luminoso
+* **made it big** = avere successo
 * **meant to** = essere destinato a
 * **crashed** = precipitare
+* **tasked** = avere il compito
 * **real estate** = mercato immobiliare
-* **flashed** = mostrare
 * **lots** = appezzamento
+* **stepped in** = intervenire
+* **battered** = sogni infranti
+* **Trust** = fondazione
+* **chairman** = presidente
+* **developers** = promotori
+* **brush** = sterpaglie

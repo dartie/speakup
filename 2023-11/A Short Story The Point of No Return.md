@@ -8,7 +8,7 @@ Mentre il riscaldamento globale minaccia gli equilibri delicati del nostro piane
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-11/A%20Short%20Story%20The%20Point%20of%20No%20Return.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/A%20Short%20Story%20The%20Point%20of%20No%20Return.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,24 +40,24 @@ Commander Eaton didn’t have to be telepathic to [sense](## "percepire") the [d
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **hoax** = farsa
-* **sense** = percepire
-* **whenever** = ogni volta
-* **genderless** = senza genere
-* **unless** = a meno che
-* **staging** = mettere in scena
-* **ashamed** = vergognarsi
+* **high-profile CEO** = amministratore delegato di alto profilo
 * **You’re on your own** = siete da soli
-* **grateful** = grato
-* **distasteful** = sgradevole
+* **whenever** = ogni volta
+* **hoax** = farsa
+* **agenda** = obiettivi
+* **resembled** = somigliare
+* **sanctioned** = autorizzare
+* **unless** = a meno che
+* **to sink in** = accettare
 * **addressing** = dirigersi
 * **warning** = avviso
-* **to sink in** = accettare
-* **sanctioned** = autorizzare
-* **despair** = disperazione
+* **staging** = mettere in scena
 * **drilling** = perforare
-* **high-profile CEO** = amministratore delegato di alto profilo
-* **or rather** = o piuttosto
-* **resembled** = somigliare
+* **grateful** = grato
+* **distasteful** = sgradevole
+* **sense** = percepire
 * **so-called** = denominato
-* **agenda** = obiettivi
+* **despair** = disperazione
+* **ashamed** = vergognarsi
+* **or rather** = o piuttosto
+* **genderless** = senza genere

@@ -8,7 +8,7 @@ In un contesto di lotte per i diritti civili, gli anni sessanta sono stati un de
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-11/The%201960s%20in%20the%20US%20Decade%20of%20Death.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/The%201960s%20in%20the%20US%20Decade%20of%20Death.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,29 +38,29 @@ In 1901, President William McKinley was killed by Leon Czolgosz, an anarchist dr
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **statement** = dichiarazione
-* **eight-shot firearm** = pistola a otto spari
-* **denied** = rifiutare
-* **nursed** = nutrire
-* **appointed** = nominare
 * **overdose** = overdose
-* **surgery** = chirurgia
-* **parole** = libertà condizionata
-* **widespread** = generalizzata
-* **lay** = giacere
-* **grievances** = rivendicazioni
 * **fate** = destino
-* **mistrust** = diffidenza
-* **sensitive** = sensibile
-* **pierced** = perforare
-* **chest** = petto
-* **high-profile** = di alto profilo
-* **spokesperson** = portavoce
-* **claims** = affermazioni
-* **minister** = ministro
-* **match** = corrispondere
 * **alleged** = affermare
-* **punctured lung** = polmone perforato
+* **mistrust** = diffidenza
+* **widespread** = generalizzata
+* **grievances** = rivendicazioni
 * **deserved** = meritare
+* **lay** = giacere
+* **punctured lung** = polmone perforato
+* **minister** = ministro
+* **claims** = affermazioni
+* **sensitive** = sensibile
+* **nursed** = nutrire
+* **chest** = petto
 * **glanced off** = colpire di striscio
+* **pierced** = perforare
+* **spokesperson** = portavoce
+* **statement** = dichiarazione
+* **appointed** = nominare
+* **denied** = rifiutare
+* **parole** = libertà condizionata
 * **deemed** = considerare
+* **surgery** = chirurgia
+* **high-profile** = di alto profilo
+* **match** = corrispondere
+* **eight-shot firearm** = pistola a otto spari

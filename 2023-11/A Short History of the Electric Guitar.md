@@ -8,7 +8,7 @@ Divertente, potente e molto facile da suonare, la chitarra elettrica è uno degl
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-11/A%20Short%20History%20of%20the%20Electric%20Guitar.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/A%20Short%20History%20of%20the%20Electric%20Guitar.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -27,14 +27,14 @@ The first electric guitars were, like acoustic guitars, [hollow-bodied](## "cavo
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **somehow** = in qualche modo
+* **pickup** = magnete
+* **Frying Pan** = padella
+* **steel** = acciaio
+* **string instrument** = strumento a corda
 * **ensemble** = insieme
+* **crowded** = affollare
+* **hollow-bodied** = cavo
 * **brass** = ottoni (strumenti musicali)
 * **woodwind** = strumenti a fiato di legno
-* **crowded** = affollare
-* **somehow** = in qualche modo
-* **Frying Pan** = padella
-* **hollow-bodied** = cavo
-* **string instrument** = strumento a corda
-* **pickup** = magnete
-* **steel** = acciaio
 * **noticeable** = percettibile

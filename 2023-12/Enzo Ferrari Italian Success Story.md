@@ -8,7 +8,7 @@ Il creatore dell’iconico marchio di auto sportive ha avuto successo come pilot
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/Enzo%20Ferrari%20Italian%20Success%20Story.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Enzo%20Ferrari%20Italian%20Success%20Story.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,26 +40,26 @@ In Ferrari, Patrick Dempsey [takes on](## "interpretare") the role of Piero Tar
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **allure** = fascino
-* **endurance** = resistenza
-* **outstanding** = eccezionale
-* **depicts** = raccontare
-* **teetering** = barcollare
 * **daydreaming** = sognare ad occhi aperti
-* **hand to mouth** = alla giornata
-* **takes on** = interpretare
-* **it’s up to you** = dipende da te
-* **dive into** = immergersi
-* **strives** = sforzarsi
-* **to convey** = trasmettere
-* **oppositional** = ribelle
-* **on the edge** = al limite
+* **coping** = far fronte, superare
+* **outstanding** = eccezionale
 * **alluring** = seducente
-* **resonated with** = in risonanza con
+* **oppositional** = ribelle
+* **takes on** = interpretare
+* **achievements** = successi
+* **dive into** = immergersi
 * **voiced** = esprimere
 * **mindfulness** = consapevolezza
 * **aware** = coscienza
-* **Knight** = cavaliere
+* **strives** = sforzarsi
+* **teetering** = barcollare
+* **on the edge** = al limite
+* **resonated with** = in risonanza con
+* **hand to mouth** = alla giornata
 * **mindset** = mentalità
-* **coping** = far fronte, superare
-* **achievements** = successi
+* **allure** = fascino
+* **endurance** = resistenza
+* **Knight** = cavaliere
+* **depicts** = raccontare
+* **to convey** = trasmettere
+* **it’s up to you** = dipende da te

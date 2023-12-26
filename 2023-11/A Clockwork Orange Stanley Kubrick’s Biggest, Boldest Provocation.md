@@ -8,7 +8,7 @@ L'adattamento del romanzo di Anthony Burgess nel 1971 da parte del regista ingle
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-11/A%20Clockwork%20Orange%20Stanley%20Kubrick%E2%80%99s%20Biggest,%20Boldest%20Provocation.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/A%20Clockwork%20Orange%20Stanley%20Kubrick%E2%80%99s%20Biggest,%20Boldest%20Provocation.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -29,46 +29,46 @@ Published in The Guardian on December 19, 2021. Reprinted with permission.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **warden** = direttore di prigione
-* **Dr Strangelove** = "Il dottor Stranamore"
-* **neglect** = abbandono
-* **scavenge** = ricavare
-* **rigs** = manipolare
-* **sliver** = scheggia
-* **stewards** = amministratori
-* **hippest** = di tendenza
-* **touted** = promuovere
-* **backdrop** = scenario
-* **bric-a-brac** = cianfrusaglie
-* **gain a permanent foothold** = posizionarsi
-* **rift** = dissenso
-* **widens** = ampliare
-* **moving target** = bersaglio mobile
-* **In broad strokes** = a grandi linee
-* **sticking points** = intoppi
-* **punishment** = punizione
-* **to sync** = sincronizzare
-* **belies** = nascondere
-* **deranged** = squilibrati
-* **messy** = caotica
-* **liable** = soggetto a
-* **rule** = autorità
-* **to curb** = frenare
-* **blunting** = smussare
-* **wronged** = pregiudicare
-* **to scramble** = scombinare
-* **argument** = discussione
-* **allegiances** = vincoli, legami
-* **Paths of Glory** = "Orizzonti di gloria"
-* **crumble** = sgretolarsi
-* **at large** = in generale
-* **spoils** = rovinare
-* **decay** = declino
 * **marauders** = saccheggiatori
-* **lightning rod** = parafulmine
+* **to sync** = sincronizzare
+* **redemptive** = redentore
+* **moving target** = bersaglio mobile
+* **rule** = autorità
+* **crumble** = sgretolarsi
+* **spoils** = rovinare
+* **warns** = mettere in guardia
+* **gain a permanent foothold** = posizionarsi
+* **rigs** = manipolare
+* **messy** = caotica
+* **Paths of Glory** = "Orizzonti di gloria"
+* **Dr Strangelove** = "Il dottor Stranamore"
+* **rift** = dissenso
+* **argument** = discussione
+* **wronged** = pregiudicare
+* **belies** = nascondere
+* **to curb** = frenare
 * **debasement** = degradazione
 * **layer** = strato
+* **to scramble** = scombinare
 * **ingratiating himself** = ingraziarsi
 * **wrestles** = lottare
-* **warns** = mettere in guardia
-* **redemptive** = redentore
+* **liable** = soggetto a
+* **punishment** = punizione
+* **lightning rod** = parafulmine
+* **blunting** = smussare
+* **at large** = in generale
+* **sliver** = scheggia
+* **sticking points** = intoppi
+* **backdrop** = scenario
+* **decay** = declino
+* **warden** = direttore di prigione
+* **bric-a-brac** = cianfrusaglie
+* **hippest** = di tendenza
+* **scavenge** = ricavare
+* **allegiances** = vincoli, legami
+* **In broad strokes** = a grandi linee
+* **deranged** = squilibrati
+* **touted** = promuovere
+* **stewards** = amministratori
+* **neglect** = abbandono
+* **widens** = ampliare

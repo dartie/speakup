@@ -8,7 +8,7 @@ Scopri il fantastico universo delle biblioteche pubbliche: una guida definitiva 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-11/Everyday%20Dialogues%20A%20Visit%20to%20the%20Library.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/Everyday%20Dialogues%20A%20Visit%20to%20the%20Library.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,7 +35,7 @@ The ‘**[due](## "scadenza") date**’ is the date on which the books must be r
 **A fine** is a sum of money that must be paid when you break the rules.
 **Over[due](## "scadenza")** means ‘late’.
 **To sign up** is to [join](## "unirsi"), to register, to become a member.
-**To b[rows](## "file")e** is to take a casual look. B[rows](## "file")e can also be used as a noun, as in to have a b[rows](## "file")e’.
+**To b[rows](## "file")e** is to take a casual look. B[rows](## "file")e can also be used as a noun, as in [to have a b[rows](## "file")e](## "dare un’occhiata")’.
 An ‘**aisle**’ in a library is a passage between the [rows](## "file") of [bookshelves](## "scaffali").
 
 --------------
@@ -45,15 +45,15 @@ An ‘**aisle**’ in a library is a passage between the [rows](## "file") of [b
 # Glossary
 * **up to** = fino a
 * **any longer** = per più tempo
-* **on time** = puntuale
-* **Shall I** = vuoi che...?
+* **mixed up** = confondere
 * **join** = unirsi
+* **to have a browse** = dare un’occhiata
 * **membership** = iscrizione
 * **at a time** = alla volta
-* **To lend** = prestare
-* **to have a browse** = dare un’occhiata
-* **bookshelves** = scaffali
-* **U** = tu (informale)
+* **on time** = puntuale
+* **Shall I** = vuoi che...?
 * **due** = scadenza
-* **mixed up** = confondere
+* **U** = tu (informale)
+* **To lend** = prestare
 * **rows** = file
+* **bookshelves** = scaffali

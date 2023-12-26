@@ -8,7 +8,7 @@ L’avvento delle tecnologie moderne di intelligenza artificiale offre nuove pos
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/2023-12/Iboux%20Academy%20and%20the%20Arrival%20of%20AI%20Pioneering%20English%20Lessons.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Iboux%20Academy%20and%20the%20Arrival%20of%20AI%20Pioneering%20English%20Lessons.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -46,53 +46,53 @@ Finally, Brian Kantt described the academy’s teaching approach in detail:
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **enhanced** = perfezionare
+* **tailored** = adattare
+* **due to** = dovuto a
+* **assessment** = valutazione
+* **proficiently** = con padronanza
+* **game- changer** = che cambia le carte in tavola
 * **standpoint** = punto di vista
+* **At its core** = essenzialmente
+* **grasped** = cogliere
+* **suppliers** = fornitori
+* **unlocking** = aprire
+* **steps in** = intervenire
+* **booked** = prenotare
+* **tied** = legare
+* **straightforward** = diretto
+* **misconception** = idea sbagliata
+* **don’t get me wrong** = non fraintendetemi
+* **actionable** = fattibile
+* **vacuum** = vuoto
+* **subtleties** = sottigliezze, sfumature
+* **on the spot** = immediatamente
+* **entailed** = comportare
+* **perform** = esprimersi
+* **As for** = per quanto riguarda
+* **engaging** = coinvolgente
+* **strives** = sforzarsi
+* **layer** = strato
+* **feasible** = possibile
+* **gauge** = valutare
+* **lacks** = mancare
+* **pop up** = emergere
+* **Furthermore** = inoltre
+* **reflecting on** = riflettere
+* **outdated** = obsoleta
+* **endeavour** = sforzo
+* **take up** = occupare
 * **stuck** = bloccato
 * **hires** = nuovi dipendenti
-* **steps in** = intervenire
-* **tailored** = adattare
-* **outdated** = obsoleta
-* **take up** = occupare
-* **diving into** = immergersi
-* **game- changer** = che cambia le carte in tavola
-* **crave** = desiderare
-* **due to** = dovuto a
-* **misconception** = idea sbagliata
-* **endeavour** = sforzo
-* **feasible** = possibile
-* **entailed** = comportare
-* **strives** = sforzarsi
-* **lacks** = mancare
-* **reflecting on** = riflettere
-* **layer** = strato
-* **vacuum** = vuoto
-* **don’t get me wrong** = non fraintendetemi
-* **rolls** = funzionare
-* **As for** = per quanto riguarda
-* **shook things up** = sconvolgere
-* **hop onto** = passare
-* **straightforward** = diretto
-* **B2B** = tra un’impresa e un’altra impresa (business-to-business)
-* **unlocking** = aprire
-* **prep** = preparazione
-* **booked** = prenotare
-* **grasped** = cogliere
-* **-low-stakes- and -high-stakes"** = -bassa posta in gioco- e -alta posta in gioco-
-* **new toolbox** = una nuova cassetta di attrezzi
-* **customised** = personalizzare
-* **At its core** = essenzialmente
 * **aware** = consapevole
-* **Furthermore** = inoltre
-* **subtleties** = sottigliezze, sfumature
-* **engaging** = coinvolgente
-* **pop up** = emergere
-* **proficiently** = con padronanza
-* **suppliers** = fornitori
-* **on the spot** = immediatamente
-* **perform** = esprimersi
-* **tied** = legare
+* **crave** = desiderare
+* **hop onto** = passare
 * **tweak** = modificare
-* **gauge** = valutare
-* **assessment** = valutazione
-* **actionable** = fattibile
+* **prep** = preparazione
+* **rolls** = funzionare
+* **-low-stakes- and -high-stakes"** = -bassa posta in gioco- e -alta posta in gioco-
+* **diving into** = immergersi
+* **customised** = personalizzare
+* **enhanced** = perfezionare
+* **shook things up** = sconvolgere
+* **new toolbox** = una nuova cassetta di attrezzi
+* **B2B** = tra un’impresa e un’altra impresa (business-to-business)
