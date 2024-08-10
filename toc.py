@@ -1,6 +1,6 @@
 import os
+import sys
 import datetime
-import pyperclip
 import urllib.parse
 
 
@@ -29,7 +29,7 @@ def main(args=None):
 
     toc = []
 
-    for magazine_folder in fs_elements:
+    for magazine_folder in reversed(fs_elements):
         try:
             magazine_title = datetime.datetime.strptime(magazine_folder, '%Y-%m').strftime("%B %Y")
         except:
@@ -49,10 +49,10 @@ def main(args=None):
                     toc_text = os.path.splitext(os.path.basename(file_relative_path))[0]
                     toc_link = urllib.parse.quote(os.path.splitext(file_relative_path)[0])
                     toc.append(f"    - [{toc_text}]({toc_link})")
-    
+
     toc_string = "\n".join(toc)
-    pyperclip.copy(toc_string)
-    c = pyperclip.paste()
+    print("# Speak Up")
+    print("")
     print(toc_string)
 
 
