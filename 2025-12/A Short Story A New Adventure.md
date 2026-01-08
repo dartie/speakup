@@ -1,0 +1,70 @@
+# A Short Story: A New Adventure   [B1]
+
+A volte, la convivenza può essere difficile. Lo sanno bene Debbie e Julie, che vivono insieme da una vita. Anzi, più di una!
+
+![](A%20Short%20Story%20A%20New%20Adventure.webp)
+
+--------------
+
+<div>
+<audio controls autoplay>
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/A%20Short%20Story%20A%20New%20Adventure.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+
+Can you [move over](## "spostarsi, fare spazio") a bit, please?” asked Debbie. “You’re taking up too much space.” Her twin, Julie, always took up too much space, not just physically but psychologically and emotionally, too. 
+The twins were on their way to a start a new life. 
+“I don’t even know why we’re here,” said Debbie. 
+“Because it’s time for a change,” said Julie, “a new adventure. A new place, new people, new opportunities.”
+“Well, maybe I want to go on my own adventure, without you always [cramping my style](## "tarpare le ali").”
+Julie laughed. “Don’t be ridiculous. You and I are inseparable. One of us can’t function without the other. You know that.”
+“[I am my own person](## "sono una persona indipendente"),” said Debbie, defensively. “I just don’t know why we have to do everything together all the time.”
+“Because we need each other. We [balance each other out](## "compensarsi a vicenda"). I am the yin to your yang.”
+“Yin. Yang. [Whatever](## "non importa, vabbè"). I really think I’d do better alone. Besides, I don’t even want an adventure. I was perfectly happy where we were, where everything was familiar, predictable, safe.”
+“Boring,” said Julie. “And you were getting bored, too. Admit it. Take this time to contemplate who you want to be in this next phase. Just think of all the possibilities. I know who I am going to be.”
+“Oh yeah, who is that?”
+“Someone motivated, successful, inspirational. I want to be a positive influence, to help, you know, change the world for the better. That’s what we are meant to do, isn’t it?”
+“You always say that, and then we get there and you forget all those grand intentions. You get distracted. You associate with the wrong people. You say you want a new adventure, but then all you want to do is escape into a different reality. Just look at what happened last time.”
+Julie [shifted uncomfortably](## "muoversi a disagio"). “I don’t want to talk about that.”
+“Well, how do you know that won’t happen again? You are attracted to danger.” 
+What Julie didn’t want to talk about was the drug addiction that had ruined both of their lives.
+“That’s not going to happen again,” said Julie, firmly. “I’m a different person now. I will be a different person.”
+“Yes, but you are still you, in essence. And so you’ll probably make the same mistakes [over and over](## "ripetutamente").”
+“Well, look who’s talking. It’s not like you’re perfect either. You have made lots of bad decisions. Jake, just to mention one.”
+Jake had been Debbie’s husband, an abusive man who she had refused to divorce. 
+“That was an anomaly,” said Debbie.
+“No, you always fall in love with the wrong people. You lose yourself in them. It’s like you disappear into dysfunction. It’s very depressing to see.”
+“And you disappear into drugs, or whatever addiction.”
+There was a long silence then, broken only by the rhythm of the [vessel](## "contenitore") they were in. 
+“Look,” said Julie, finally breaking the silence. “Why don’t we make a pact, to take better care of each other this time? I’ll make sure you fall in love with the right person, and you make sure that I make the right friends and [stay on the straight and narrow](## "rimanere sulla retta via"). No more addiction. No more abuse. No more dysfunction. This time, we will remain focused on our objectives, who we want to be, what we want to [achieve](## "raggiungere").”
+Debbie [sighed](## "sospirare"). “What’s the point of a pact? We’ll arrive there and then get distracted by all the lights and noise and people, and forget everything that we’ve learned or agreed on.”
+“No, come on. Some part of us will remember, the essence of us, like you said. It will be different this time. I promise.”
+“Okay, fine,” said Debbie. “We will take better care of each other this time, and we will become the people who we want to be.”
+There was a sudden movement then and Debbie felt herself [dislodge](## "staccarsi, liberarsi") and descend. 
+“Oh no, it’s happening already!” she said.
+“And you’re going first this time,” responded Julie. “Good luck! I’ll see you soon.”
+That was the last clear telepathic communication Debbie received from her twin before she [slid down the canal](## "scivolare lungo il canale del parto") into her new life. There she was [greeted](## "accogliere, dare il benvenuto") by a penetrating light, a physical sensation on her back and then the sound of her first cry.”
+“Oh, sweet baby girl!” said the woman, who was to be her mother in this life. 
+But Debbie was already starting to forget the concept of mother, to forget her origin and past lives, to lose her comprehension of language, which she’d need to learn all over again.
+Soon, she and her twin, who was born a boy this time, would receive new names, and they would start their new life together, guided by their essence and the pact they had made to try not to make the same mistakes all over again.  
+
+--------------
+
+<div style = "display:block; clear:both; page-break-after:always;"></div>
+
+# Glossary
+* **balance each other out** = compensarsi a vicenda
+* **Whatever** = non importa, vabbè
+* **stay on the straight and narrow** = rimanere sulla retta via
+* **sighed** = sospirare
+* **dislodge** = staccarsi, liberarsi
+* **greeted** = accogliere, dare il benvenuto
+* **move over** = spostarsi, fare spazio
+* **cramping my style** = tarpare le ali
+* **shifted uncomfortably** = muoversi a disagio
+* **over and over** = ripetutamente
+* **vessel** = contenitore
+* **achieve** = raggiungere
+* **slid down the canal** = scivolare lungo il canale del parto
+* **I am my own person** = sono una persona indipendente
