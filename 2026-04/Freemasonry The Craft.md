@@ -8,7 +8,7 @@ Segretezza, rituali e potere hanno reso quello della massoneria un mondo tanto i
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/Freemasonry%20The%20Craft.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/Freemasonry%20The%20Craft.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -49,52 +49,52 @@ If you want to know more about this topic, read the article [Freemasonry](## "ma
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **statesmen** = statisti
-* **oddity** = stranezza
+* **locked into** = integrare in
 * **swear an oath** = prestare giuramento
-* **costumes** = vestiti
-* **toweringly** = straordinariamente
-* **Moose** = alci
-* **ethos** = etica, filosofia
-* **Goose** = oca
-* **shorthand name** = abbreviazione
-* **coded gestures** = gesti codificati
-* **serve the purpose** = avere lo scopo
-* **nice chap** = brav’uomo
+* **heresy** = eresia
 * **arguably** = verosimilmente
-* **cabal** = cricca
-* **Gridiron** = griglia
-* **stonemason trade** = mestiere dello scalpellino
-* **bloodcurdling** = agghiaccianti
+* **boasted** = vantare
 * **inform** = influenzare
-* **peers** = pari
+* **Craft** = arte, mestiere
+* **breast** = petto
+* **came into being** = nascere, prendere forma
+* **Elks** = alci
+* **afterlife** = aldilà
+* **stonemason trade** = mestiere dello scalpellino
 * **tide** = marea
 * **farts** = peti
 * **creepy** = inquietanti
-* **zipped into** = chiudere dentro con una zip
-* **that’s the whole point** = è proprio questo il punto
-* **boasted** = vantare
-* **Enlightenment** = Illuminismo
-* **throat** = gola
-* **breast** = petto
-* **fuss** = trambusto
-* **afterlife** = aldilà
-* **stretching back** = risalire
-* **Craft** = arte, mestiere
-* **galvanises** = stimolare
-* **shore** = spiaggia
 * **ordinary** = comuni, normali
-* **baring** = denudare
-* **blindfolded** = bendato
 * **hug** = abbraccio
 * **Freemasonry** = massoneria
-* **power-brokering** = mediazione politica
-* **locked into** = integrare in
+* **statesmen** = statisti
+* **stretching back** = risalire
+* **Enlightenment** = Illuminismo
+* **peers** = pari
 * **washes** = bagnare
-* **palaver** = giri di parole
-* **came into being** = nascere, prendere forma
-* **heresy** = eresia
+* **nice chap** = brav’uomo
 * **borrowed** = prendere in prestito
+* **power-brokering** = mediazione politica
+* **throat** = gola
+* **shore** = spiaggia
+* **Gridiron** = griglia
+* **oddity** = stranezza
+* **baring** = denudare
+* **zipped into** = chiudere dentro con una zip
+* **cabal** = cricca
 * **lodges** = logge
+* **Goose** = oca
+* **costumes** = vestiti
+* **blindfolded** = bendato
+* **fuss** = trambusto
+* **Moose** = alci
+* **shorthand name** = abbreviazione
+* **bloodcurdling** = agghiaccianti
+* **coded gestures** = gesti codificati
+* **serve the purpose** = avere lo scopo
+* **palaver** = giri di parole
+* **toweringly** = straordinariamente
+* **that’s the whole point** = è proprio questo il punto
+* **ethos** = etica, filosofia
+* **galvanises** = stimolare
 * **for good and ill** = nel bene e nel male
-* **Elks** = alci

@@ -8,14 +8,14 @@ Il giornalista e storico britannico Giles Tremlett ha scritto il libro definitiv
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/The%20International%20Brigades%20Fighting%20Fascism.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/The%20International%20Brigades%20Fighting%20Fascism.mp3" type="audio/mpeg">
 </audio>
 </div>
 
 
 Between 1936 and 1939, some thirty-five to fifty thousand men and women from around the world volunteered to fight in the Spanish Civil War. They travelled to Spain as part of the International Brigades and [took up arms](## "prendere le armi") against the forces of Spanish general Francisco Franco. Speaking different languages, [lacking](## "mancare") military experience, and armed with inferior weapons, the Brigaders [made up](## "compensare") (to a degree) for these disadvantages with their [astonishing](## "sorprendente") bravery as well as their capacity to improvise: heavy library books, for example, were [repurposed](## "convertire") as sandbags by [machinegun](## "mitragliatrice") [crews](## "ufficiali"). 
 
-## Stories of War
+## STORIES OF WAR
 These fighters of fascism would have no doubt appreciated Giles Tremlett’s book The International Brigades. The [hefty](## "corposo") tome is more than five hundred pages long and includes hundreds of [footnotes](## "note a piè di pagina") detailing extensive source material. The British historian, a former journalist for The Guardian, has spent much of his working life in Madrid. Previous books include Ghosts of Spain (2012), which sought to unearth difficult truths about the country’s painful past.
 
 ## HUMAN STORIES
@@ -47,31 +47,31 @@ As such, Tremlett’s book has caused controversy. However, as he explained, if 
 
 # Glossary
 * **took up arms** = prendere le armi
-* **on and off** = ogni tanto, di tanto in tanto
-* **sore** = dolorosa
-* **shall we say** = possiamo dire
-* **treasure trove** = scoperta del tesoro
-* **aim** = obiettivo
-* **drifted backwards in time** = essere trasportato indietro nel tempo
 * **repurposed** = convertire
-* **hefty** = corposo
-* **footnotes** = note a piè di pagina
 * **machinegun** = mitragliatrice
-* **it struck me** = mi è sembrato
-* **plough on** = andare avanti lo stesso
-* **curtain-raiser** = avanspettacolo
-* **cockroach** = scarafaggio
-* **made up** = compensare
-* **crews** = ufficiali
-* **clash** = scontro
-* **to get all that material up** = registrare, archiviare
-* **gut** = viscere
-* **sorted out** = risolvere
-* **take** = interpretazione
-* **astonishing** = sorprendente
 * **draft** = bozza
-* **looming** = imminente, incombente
-* **on the right track** = sulla strada giusta
-* **lacking** = mancare
+* **it struck me** = mi è sembrato
+* **clash** = scontro
+* **footnotes** = note a piè di pagina
+* **drifted backwards in time** = essere trasportato indietro nel tempo
+* **made up** = compensare
+* **treasure trove** = scoperta del tesoro
+* **gut** = viscere
+* **astonishing** = sorprendente
+* **aim** = obiettivo
 * **taken me down that track** = mi ha portato su quella strada
+* **to get all that material up** = registrare, archiviare
+* **cockroach** = scarafaggio
+* **plough on** = andare avanti lo stesso
+* **on and off** = ogni tanto, di tanto in tanto
+* **on the right track** = sulla strada giusta
+* **take** = interpretazione
+* **lacking** = mancare
+* **crews** = ufficiali
+* **hefty** = corposo
+* **curtain-raiser** = avanspettacolo
+* **shall we say** = possiamo dire
+* **looming** = imminente, incombente
+* **sorted out** = risolvere
 * **pervades** = pervadere
+* **sore** = dolorosa

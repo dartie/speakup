@@ -8,7 +8,7 @@ Pelle d’oca, brividi e un crescente turbamento che culmina in una tensione ins
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/The%20Scariest%20Stephen%20King%20Characters%20Top%205.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/The%20Scariest%20Stephen%20King%20Characters%20Top%205.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -25,19 +25,19 @@ Annie Wilkes first appears as a [wholesome](## "integra") nurse, who rescues th
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **haunt** = perseguitare
-* **lures** = attirare
-* **Plots** = trame
-* **compelling** = persuasivi
-* **cursed** = maledetto
-* **untimely** = prematura
-* **creepy** = inquietante
-* **crafted** = creare
-* **caretaker** = portinaio, custode
-* **chills down your spine** = fare venire i brividi
 * **puts him to death** = giustiziare
-* **to truly resonate with** = trovare il favore di, risuonare
+* **creepy** = inquietante
 * **slide into madness** = precipitare nella follia
+* **caretaker** = portinaio, custode
 * **shape-shifting** = proteiforme
+* **lures** = attirare
+* **compelling** = persuasivi
+* **untimely** = prematura
 * **sewers** = fognature
+* **Plots** = trame
 * **wholesome** = integra
+* **to truly resonate with** = trovare il favore di, risuonare
+* **crafted** = creare
+* **haunt** = perseguitare
+* **cursed** = maledetto
+* **chills down your spine** = fare venire i brividi

@@ -8,7 +8,7 @@ In occasione della parata militare che commemora il compleanno del monarca brita
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Trooping%20the%20Colour%20The%20King%E2%80%99s%20Birthday%20Parade.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Trooping%20the%20Colour%20The%20King%E2%80%99s%20Birthday%20Parade.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -52,44 +52,44 @@ Traditionally, the members of the Royal Family would [ride on horseback](## "cav
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **smart** = eleganti
-* **orders of dress** = uniformi
-* **barracks** = caserma
-* **cues** = segnali
-* **assemble** = riunirsi
-* **oversees** = supervisionare
-* **soaking up** = assorbire
-* **take your eye off the ball** = perdere la concentrazione
+* **ruling** = regnante
+* **Upon the King’s arrival** = all’arrivo di
 * **to brush up on** = ripassare
 * **moving parts** = variabili
-* **gates** = cancelli
-* **drill and deportment** = allenamento e comportamento
-* **to conduct** = dirigere
-* **underpin** = costituire la base
-* **spotted** = notare
-* **Upon the King’s arrival** = all’arrivo di
-* **have a strong foothold** = affermarsi
-* **rose** = salire, fare carriera
-* **lead-up** = preparazione
-* **set foot** = mettere il piede
-* **flags** = bandiere
+* **Parade** = sfilata
+* **dates back to** = risalire a
+* **barracks** = caserma
+* **take your eye off the ball** = perdere la concentrazione
+* **cues** = segnali
 * **party** = gruppo
+* **rose** = salire, fare carriera
+* **Bandmaster** = direttore di banda
+* **we’re well versed in** = essere esperto in
+* **ride on horseback** = cavalcare all’amazzone
+* **assemble** = riunirsi
+* **output** = produzione
+* **fast-track** = percorso rapido
+* **rehearsal** = prova
+* **Guards Parade** = piazza d’armi
+* **Roughly** = approssimativamente
+* **smart** = eleganti
+* **have a strong foothold** = affermarsi
 * **first and foremost** = prima di tutto
 * **attritional** = stancante
-* **output** = produzione
-* **bearskins** = berretto militare di pelle d’orso
-* **rehearsal** = prova
-* **ride on horseback** = cavalcare all’amazzone
-* **Parade** = sfilata
-* **Warrant Officer** = ufficiale garante
-* **fast-track** = percorso rapido
-* **we’re well versed in** = essere esperto in
+* **on behalf of** = a nome di
+* **flags** = bandiere
 * **fabric** = tessuto
 * **thrives.** = prosperare
-* **Bandmaster** = direttore di banda
+* **underpin** = costituire la base
+* **orders of dress** = uniformi
+* **lead-up** = preparazione
+* **set foot** = mettere il piede
+* **spotted** = notare
+* **gates** = cancelli
+* **oversees** = supervisionare
+* **drill and deportment** = allenamento e comportamento
+* **bearskins** = berretto militare di pelle d’orso
+* **Warrant Officer** = ufficiale garante
+* **soaking up** = assorbire
+* **to conduct** = dirigere
 * **ardour** = intensità
-* **dates back to** = risalire a
-* **Guards Parade** = piazza d’armi
-* **ruling** = regnante
-* **Roughly** = approssimativamente
-* **on behalf of** = a nome di

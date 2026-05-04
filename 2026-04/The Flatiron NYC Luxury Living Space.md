@@ -8,7 +8,7 @@ Conosciuto in tutto il mondo per la sua forma stretta e triangolare, verrà inau
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/The%20Flatiron%20NYC%20Luxury%20Living%20Space.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/The%20Flatiron%20NYC%20Luxury%20Living%20Space.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,19 +40,19 @@ To be on top of the world.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **restored** = ristrutturare
 * **is to open** = è previsto che venga inaugurato
 * **twenty-two-storey building** = edificio di ventidue piani
-* **landmark** = luogo di interesse
-* **vacant** = vuota, non occupata
-* **ground floor** = piano terra
-* **For over** = per oltre
-* **headquarters** = sede
-* **flatiron** = ferro da stiro
 * **corporate tenant** = azienda locataria
 * **property developer** = promotore immobiliare
-* **restored** = ristrutturare
-* **shape** = forma
-* **clothes iron** = ferro da stiro
-* **added** = aggiungere, incorporare
 * **up to** = fino a
+* **clothes iron** = ferro da stiro
+* **landmark** = luogo di interesse
+* **added** = aggiungere, incorporare
 * **replaced** = sostituire
+* **ground floor** = piano terra
+* **headquarters** = sede
+* **flatiron** = ferro da stiro
+* **For over** = per oltre
+* **shape** = forma
+* **vacant** = vuota, non occupata

@@ -8,7 +8,7 @@ Per capire meglio le radici della passione britannica per il giardinaggio, abbia
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/Green%20Fingers.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/Green%20Fingers.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,35 +38,35 @@ www.twigsway.me
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **Pleasing on the eye** = piacevole alla vista
-* **timeless** = senza tempo
-* **widespread** = diffuso
-* **background** = per formazione
-* **hard-wearing** = resistente
-* **played out** = evolversi
-* **an awful lot** = un sacco di
-* **patches** = appezzamenti
-* **narrowing it down** = ridurre
-* **soft focus** = aspetto morbido
-* **utilitarian edge** = approccio utilitaristico
-* **muddy** = fangoso
-* **plots** = terreni
-* **households** = case
-* **surroundings** = ambiente
-* **There is no two ways about it** = è l’unico modo
-* **Lawns** = prati
 * **is grown** = coltivare
-* **barren** = sterile
-* **shelter** = rifugio
-* **shells** = conchiglie
-* **shorthand** = in modo abbreviato
-* **short-cutting** = usare scorciatoie
-* **peasant** = contadino
-* **parsnips** = pastinache
-* **grass** = erba
+* **muddy** = fangoso
 * **brick dust** = polvere di mattoni
-* **MA** = laurea magistrale (Master of Arts)
-* **blurring the edges** = sfumare i confini
-* **chalk dust** = polvere di gesso
-* **argument** = controversia
 * **cottage** = casetta di campagna
+* **soft focus** = aspetto morbido
+* **hard-wearing** = resistente
+* **utilitarian edge** = approccio utilitaristico
+* **Pleasing on the eye** = piacevole alla vista
+* **patches** = appezzamenti
+* **peasant** = contadino
+* **There is no two ways about it** = è l’unico modo
+* **grass** = erba
+* **surroundings** = ambiente
+* **played out** = evolversi
+* **short-cutting** = usare scorciatoie
+* **shells** = conchiglie
+* **shelter** = rifugio
+* **narrowing it down** = ridurre
+* **chalk dust** = polvere di gesso
+* **households** = case
+* **widespread** = diffuso
+* **MA** = laurea magistrale (Master of Arts)
+* **shorthand** = in modo abbreviato
+* **Lawns** = prati
+* **blurring the edges** = sfumare i confini
+* **parsnips** = pastinache
+* **plots** = terreni
+* **an awful lot** = un sacco di
+* **argument** = controversia
+* **timeless** = senza tempo
+* **barren** = sterile
+* **background** = per formazione

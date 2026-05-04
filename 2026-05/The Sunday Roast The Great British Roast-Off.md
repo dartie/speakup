@@ -8,7 +8,7 @@ Se c’è una cosa a cui i britannici non possono rinunciare (e di cui vanno mol
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/The%20Sunday%20Roast%20The%20Great%20British%20Roast-Off.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/The%20Sunday%20Roast%20The%20Great%20British%20Roast-Off.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,30 +40,30 @@ The meat of the matter.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **indulge** = concedersi
-* **yummy** = gustoso
-* **widespread** = diffusa
-* **afford** = permettersi
-* **turnips** = rape
-* **beef** = manzo
-* **staple** = elemento fondamentale
+* **feast** = banchetto
 * **gravy** = salsa fatta col fondo di cottura della carne
-* **households** = case
-* **oven** = forno
-* **lamb** = agnello
-* **thick** = densa
-* **Sunday roast** = arrosto della domenica
-* **meals** = pasti
-* **mass** = messa
-* **pour** = versare
+* **fireplace** = camino
 * **bakery** = panetteria
 * **leftovers** = avanzi
-* **stews** = stufati
-* **poll** = sondaggio
-* **hardly** = appena
-* **feast** = banchetto
-* **fireplace** = camino
-* **pies** = pasticci
-* **side dishes** = contorni
-* **sauces** = salse
 * **cranberry** = mirtillo rosso
+* **yummy** = gustoso
+* **widespread** = diffusa
+* **staple** = elemento fondamentale
+* **pour** = versare
+* **stews** = stufati
+* **pies** = pasticci
+* **sauces** = salse
+* **poll** = sondaggio
+* **Sunday roast** = arrosto della domenica
+* **meals** = pasti
+* **indulge** = concedersi
+* **beef** = manzo
+* **thick** = densa
+* **lamb** = agnello
+* **side dishes** = contorni
+* **hardly** = appena
+* **afford** = permettersi
+* **mass** = messa
+* **turnips** = rape
+* **households** = case
+* **oven** = forno

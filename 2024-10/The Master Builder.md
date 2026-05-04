@@ -8,7 +8,7 @@ Isambard Kingdom Brunel è stato un ingegnere pioniere il cui lavoro ha plasmato
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/The%20Master%20Builder.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/The%20Master%20Builder.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,23 +38,23 @@ On his death, Isambard Kingdom Brunel was a celebrity, one of Victorian Britain�
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **pièce de résistance** = pezzo forte
+* **timetables** = orari
+* **stovepipe hat** = cappello a cilindro
+* **shackled** = mettere dei freni
+* **track** = binari
 * **docks** = moli
 * **ran out** = finire
-* **astonishing** = sorprendenti
-* **achievements** = conquiste
-* **drainage** = drenaggio
-* **overcome** = superare
-* **stovepipe hat** = cappello a cilindro
-* **fitted hand-in-glove** = stare a pennello a, adattarsi
-* **his schemes** = strategie, piani
-* **shackled** = mettere dei freni
-* **burial** = sepoltura
-* **gauge** = scartamento
-* **wrought iron** = ferro battuto
-* **glass roof** = tetto di vetro
-* **timetables** = orari
-* **lined** = mettersi in fila
-* **track** = binari
-* **pièce de résistance** = pezzo forte
 * **was plagued** = flagellare
 * **to the laying down** = stabilire
+* **burial** = sepoltura
+* **lined** = mettersi in fila
+* **fitted hand-in-glove** = stare a pennello a, adattarsi
+* **drainage** = drenaggio
+* **wrought iron** = ferro battuto
+* **glass roof** = tetto di vetro
+* **his schemes** = strategie, piani
+* **astonishing** = sorprendenti
+* **achievements** = conquiste
+* **gauge** = scartamento
+* **overcome** = superare

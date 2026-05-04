@@ -8,7 +8,7 @@ Ogni estate, milioni di britannici visitano queste fiere agricole per incontrare
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/Country%20Fairs%20Agriculture%20Culture.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/Country%20Fairs%20Agriculture%20Culture.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -29,19 +29,19 @@ Nostalgia is actually another reason for the [fairs](## "fiere")’ success. [st
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **holds** = tenere
+* **stalls** = bancarelle
+* **boosts** = promuovere, incrementare
+* **sources** = origini
 * **sheepdog trials** = gare di cani da pastore
+* **improvements** = miglioramenti
+* **hand-crafted** = artigianale
+* **fair-trade** = commercio equo
+* **livestock** = bestiame
+* **best of breed** = il migliore di razza
 * **cider** = sidro
 * **trade stands** = banchi commerciali
-* **improvements** = miglioramenti
-* **fairs** = fiere
-* **best of breed** = il migliore di razza
-* **boosts** = promuovere, incrementare
-* **hand-crafted** = artigianale
 * **strange though it may seem** = per quanto possa sembrare strano
 * **petting zoos** = fattoria didattica
-* **livestock** = bestiame
-* **stalls** = bancarelle
-* **sources** = origini
-* **fair-trade** = commercio equo
-* **holds** = tenere
+* **fairs** = fiere
 * **sheep shearing contests** = gare di tosatura delle pecore

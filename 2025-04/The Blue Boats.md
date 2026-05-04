@@ -8,7 +8,7 @@ La regata Oxford-Cambridge è una competizione che risale a quasi 200 anni fa, i
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/The%20Blue%20Boats.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/The%20Blue%20Boats.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -30,28 +30,28 @@ www.theboatrace.org
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **gist** = essenza
-* **stern** = poppa
-* **downplay** = minimizzare
-* **on top of that** = inoltre
-* **lies** = trovarsi
+* **committed** = impegnarsi
 * **to be awarded** = assegnare
-* **oars** = remi
 * **cox** = timoniere
+* **on top of that** = inoltre
 * **to burn out** = esaurirsi
 * **be hitting** = raggiungere
-* **outcome** = risultato
-* **rate** = ritmo
 * **off the start** = dal principio
-* **committed** = impegnarsi
-* **rowing seats** = posti per il canottaggio
-* **slated** = programmare
-* **backing them up** = supportare
-* **renown** = fama
 * **willing** = disposti
+* **rowing seats** = posti per il canottaggio
+* **backing them up** = supportare
 * **engine room** = sala macchine
 * **bow** = prua
+* **stern** = poppa
+* **downplay** = minimizzare
+* **outcome** = risultato
+* **renown** = fama
+* **slated** = programmare
 * **stroke** = bracciata
+* **oars** = remi
 * **steersperson** = guida
 * **crew** = equipaggio
 * **ish** = circa
+* **lies** = trovarsi
+* **gist** = essenza
+* **rate** = ritmo

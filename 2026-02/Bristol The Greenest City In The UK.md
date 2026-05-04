@@ -8,7 +8,7 @@ Da ormai parecchi anni, la città è famosa per il suo occhio di riguardo nei co
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Bristol%20The%20Greenest%20City%20In%20The%20UK.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Bristol%20The%20Greenest%20City%20In%20The%20UK.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -34,19 +34,19 @@ For those looking to educate themselves on environmental issues while in the cit
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **NGO** = ONG (Non-Governmental Organization)
-* **salt marshes** = paludi salmastre
-* **Path** = percorso
-* **car boot sales** = mercatini dell’usato
-* **it is no wonder** = non c’è da meravigliarsi
-* **Soil** = suolo
-* **grasslands** = praterie
-* **savvy** = esperti
-* **carbon net zero** = senza emissioni nette di carbonio
-* **browsing** = curiosare
 * **awarded** = premiare
-* **fair-trade** = commercio equo e solidale
-* **boasts** = vantare
-* **e-scooter** = monopattino elettrico
-* **haven** = rifugio, oasi
 * **accolades** = riconoscimenti
+* **NGO** = ONG (Non-Governmental Organization)
+* **e-scooter** = monopattino elettrico
+* **Path** = percorso
+* **haven** = rifugio, oasi
+* **savvy** = esperti
+* **browsing** = curiosare
+* **it is no wonder** = non c’è da meravigliarsi
+* **carbon net zero** = senza emissioni nette di carbonio
+* **salt marshes** = paludi salmastre
+* **grasslands** = praterie
+* **car boot sales** = mercatini dell’usato
+* **fair-trade** = commercio equo e solidale
+* **Soil** = suolo
+* **boasts** = vantare

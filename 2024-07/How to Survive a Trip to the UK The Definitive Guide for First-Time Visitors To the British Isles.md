@@ -8,7 +8,7 @@ Se vi recate nel Regno Unito, la conoscenza della lingua non è garanzia di una 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/How%20to%20Survive%20a%20Trip%20to%20the%20UK%20The%20Definitive%20Guide%20for%20First-Time%20Visitors%20To%20the%20British%20Isles.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/How%20to%20Survive%20a%20Trip%20to%20the%20UK%20The%20Definitive%20Guide%20for%20First-Time%20Visitors%20To%20the%20British%20Isles.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,62 +38,62 @@ There are more things to keep in mind when you go to the UK for the first time, 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **carpets** = tappeti, moquette
+* **There is no use** = essere inutile
+* **so turning it down** = rifiutare
+* **rude** = scortese
+* **minding the gap** = fare attenzione allo spazio vuoto
 * **to be run over** = investire
-* **entitled** = in diritto di
-* **poppy-red** = rosso papavero
-* **bloodcurdlingly** = raccapricciante
-* **roundabout** = rotonda
-* **scorching** = roventi
-* **recall** = ricordare
-* **cosy** = confortevoli
+* **Grab** = prendere
+* **to blame** = incolpare
+* **carry on** = mantenere
+* **squid** = calamaro
+* **spared** = risparmiare
+* **reliable** = affidabili
+* **dust** = polvere
+* **to come across** = apparire, sembrare
+* **hardwood flooring** = pavimenti in legno
 * **glue** = collante
+* **entitled** = in diritto di
+* **utterly** = completamente
+* **to be falling out of favour** = passare di moda
+* **dirt** = sporcizia
+* **watered down** = annacquare
+* **stocking up** = fare la scorta
+* **nuts** = frutta a guscio
+* **flip flops** = infradito, sandali
+* **recall** = ricordare
+* **if that** = al limite
 * **seediest** = trasandato
 * **poll** = sondaggio
-* **stocking up** = fare la scorta
-* **packs** = branchi
-* **wisest choice** = la scelta più saggia
-* **smudges** = macchie
-* **if that** = al limite
-* **hardwood flooring** = pavimenti in legno
-* **squid** = calamaro
-* **reliable** = affidabili
-* **nuts** = frutta a guscio
-* **in due time** = tempo debito
-* **flip flops** = infradito, sandali
-* **utterly** = completamente
-* **dust** = polvere
-* **joy** = gioia
-* **charmless** = non attraente
-* **pence** = penny
-* **come rain or shine** = succeda quel che succeda
-* **embarrassment** = disagio
-* **dirt** = sporcizia
-* **hooray** = evviva
-* **pass out** = svenire
-* **to blame** = incolpare
-* **Funnily enough** = curiosamente
-* **melting** = sciogliersi
-* **spared** = risparmiare
-* **rude** = scortese
-* **collarbone** = clavicola
-* **minding the gap** = fare attenzione allo spazio vuoto
-* **double-decker buses** = autobus a due piani
-* **unready** = impreparato
-* **so turning it down** = rifiutare
-* **blankets** = coperte
-* **ribs** = costole
-* **squirrels** = scoiattoli
-* **to come across** = apparire, sembrare
-* **weather forecast** = previsioni meteorologiche
 * **skipping a queue** = saltare la coda
-* **thrilled** = entusiasti
-* **carpets** = tappeti, moquette
-* **stain** = macchiare
-* **peeping out** = spuntare
-* **soaking** = inzuppare
-* **There is no use** = essere inutile
-* **to be falling out of favour** = passare di moda
+* **unready** = impreparato
+* **smudges** = macchie
+* **blankets** = coperte
+* **bloodcurdlingly** = raccapricciante
 * **kettle** = bollitore
-* **watered down** = annacquare
-* **Grab** = prendere
-* **carry on** = mantenere
+* **roundabout** = rotonda
+* **double-decker buses** = autobus a due piani
+* **weather forecast** = previsioni meteorologiche
+* **peeping out** = spuntare
+* **embarrassment** = disagio
+* **hooray** = evviva
+* **charmless** = non attraente
+* **Funnily enough** = curiosamente
+* **packs** = branchi
+* **joy** = gioia
+* **ribs** = costole
+* **pence** = penny
+* **cosy** = confortevoli
+* **collarbone** = clavicola
+* **pass out** = svenire
+* **poppy-red** = rosso papavero
+* **melting** = sciogliersi
+* **stain** = macchiare
+* **come rain or shine** = succeda quel che succeda
+* **thrilled** = entusiasti
+* **scorching** = roventi
+* **wisest choice** = la scelta più saggia
+* **squirrels** = scoiattoli
+* **in due time** = tempo debito
+* **soaking** = inzuppare

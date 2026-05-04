@@ -8,7 +8,7 @@ Questa iniziativa archeologica unica nel suo genere mira a promuovere il patrimo
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20Caithness%20Broch%20Project.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20Caithness%20Broch%20Project.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -42,29 +42,29 @@ www.thebrochproject.co.uk
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **lifting equipment** = attrezzatura per sollevamento
-* **whatsoever** = qualunque, qualsiasi
 * **aims** = aspirare a
-* **alike** = ugualmente
-* **masons** = muratori
-* **junction** = accesso
+* **narrowed it down** = limitare
 * **charity** = organizzazione benefica
-* **steel** = acciaio
-* **thatch** = paglia
-* **is long gone** = è scomparso da tempo
-* **drainage** = fognatura
-* **if my memory serves me correctly** = se la mia memoria non mi inganna
-* **ticked off** = cancellare
-* **landowner** = proprietario terriero
 * **cranes** = gru
-* **deer** = cervi
+* **whatsoever** = qualunque, qualsiasi
+* **grazing** = pascolare
+* **is long gone** = è scomparso da tempo
 * **county** = contea
 * **up and running** = in attività
-* **councils** = amministrazioni comunali
+* **junction** = accesso
+* **drainage** = fognatura
+* **if my memory serves me correctly** = se la mia memoria non mi inganna
 * **accountable** = responsabile
-* **issues** = problemi
-* **enabled** = permettere
-* **narrowed it down** = limitare
-* **In spite of** = nonostante
+* **steel** = acciaio
 * **Timber** = legname
-* **grazing** = pascolare
+* **deer** = cervi
+* **alike** = ugualmente
+* **masons** = muratori
+* **lifting equipment** = attrezzatura per sollevamento
+* **thatch** = paglia
+* **enabled** = permettere
+* **councils** = amministrazioni comunali
+* **ticked off** = cancellare
+* **landowner** = proprietario terriero
+* **In spite of** = nonostante
+* **issues** = problemi

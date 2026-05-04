@@ -8,7 +8,7 @@ Rifiutato in diverse occasioni e pubblicato a posteriori, questo romanzo su un d
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/A%20Confederacy%20of%20Dunces%20by%20John%20Kennedy%20Toole.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/A%20Confederacy%20of%20Dunces%20by%20John%20Kennedy%20Toole.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -61,25 +61,25 @@ Can Myrna provide Ignatius with an escape route? The ending for Toole’s fast-m
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **lands** = ottenere
-* **unsuitable** = inappropriato
 * **Dunces** = idioti, cretini
-* **grocery store** = tienda de comestibles
-* **swipe** = schiaffo
-* **oddly** = in modo strano
-* **riles** = esasperare
-* **spoilt** = viziato, maleducato
-* **claim** = risarcimento
-* **damages** = danni
-* **clever** = ingegnoso
-* **scholar** = accademico
-* **misfit** = emarginato
-* **uprising** = rivolta
-* **resonates** = trovare il favore di
 * **quote** = citazione
-* **Overweight** = in sovrappeso
-* **unlikely** = improbabile
-* **makes the news headlines** = fare notizia
-* **unable** = incapaci
-* **misadventures** = disavventure
+* **misfit** = emarginato
+* **spoilt** = viziato, maleducato
+* **damages** = danni
 * **rude** = scortese
+* **Overweight** = in sovrappeso
+* **riles** = esasperare
+* **uprising** = rivolta
+* **lands** = ottenere
+* **makes the news headlines** = fare notizia
+* **unlikely** = improbabile
+* **misadventures** = disavventure
+* **oddly** = in modo strano
+* **grocery store** = tienda de comestibles
+* **resonates** = trovare il favore di
+* **unable** = incapaci
+* **scholar** = accademico
+* **claim** = risarcimento
+* **swipe** = schiaffo
+* **unsuitable** = inappropriato
+* **clever** = ingegnoso

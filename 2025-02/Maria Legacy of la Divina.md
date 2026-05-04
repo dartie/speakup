@@ -8,7 +8,7 @@ Angelina Jolie è in testa alla corsa per l’Oscar nel ruolo della mitica diva 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Maria%20Legacy%20of%20la%20Divina.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Maria%20Legacy%20of%20la%20Divina.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -47,35 +47,35 @@ Maria’s story is told through [snippets](## "frammenti") of opera and through 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **wide-ranging** = ampio, variegato
-* **tantrums** = capricci
-* **shipping** = imbarcazioni
-* **holed herself up** = rinchiudersi
-* **maid** = domestica
-* **butler** = maggiordomo
-* **her younger self** = il suo io più giovane
 * **storm out** = uscire furiosa
-* **limelight** = centro dell’attenzione
-* **praised** = lodare, elogiare
+* **shipping** = imbarcazioni
+* **bond** = legame, vincolo
 * **trained** = formarsi
+* **widow** = vedova
 * **crash dieting** = dieta drastica
+* **blood family** = famiglia di sangue
+* **praised** = lodare, elogiare
+* **reliance** = dipendenza
+* **tantrums** = capricci
+* **ditched** = lasciare
+* **holed herself up** = rinchiudersi
+* **limelight** = centro dell’attenzione
+* **her younger self** = il suo io più giovane
+* **overuse** = uso eccessivo
+* **to play the part** = interpretare il ruolo
+* **grateful** = grata, riconoscente
+* **beam of that light** = raggio di luce
+* **rapturous** = euforico
+* **stunning** = impressionante
+* **tycoon** = magnate
+* **screening** = proiezione
+* **gift** = dono
 * **snippets** = frammenti
 * **rose to the heights** = raggiungere le vette
-* **screening** = proiezione
-* **blood family** = famiglia di sangue
-* **grateful** = grata, riconoscente
-* **reliance** = dipendenza
-* **bond** = legame, vincolo
-* **tycoon** = magnate
-* **rapturous** = euforico
-* **to play the part** = interpretare il ruolo
-* **gift** = dono
-* **stunning** = impressionante
+* **against the odds** = contro ogni previsione
+* **wide-ranging** = ampio, variegato
+* **maid** = domestica
 * **rehearsals** = prove
-* **ditched** = lasciare
-* **widow** = vedova
-* **overuse** = uso eccessivo
+* **butler** = maggiordomo
 * **to dismay** = causare sgomento
 * **relatives** = parenti
-* **beam of that light** = raggio di luce
-* **against the odds** = contro ogni previsione

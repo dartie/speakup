@@ -8,7 +8,7 @@ Una Tradwife (neologismo traducibile come "moglie tradizionale") è una donna ch
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Charlie%20Gray%20I%20Am%20Not%20A%20Tradwife.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Charlie%20Gray%20I%20Am%20Not%20A%20Tradwife.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -34,25 +34,25 @@ So, does she have any tips for those affected by such comments? 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **portmanteau** = parola macedonia, parola composta
-* **homemaking** = cura della casa
+* **bother** = infastidire
+* **get my head around it** = farsene una ragione, venirne a capo
+* **embrace** = accettare
 * **child-rearing** = crescita dei figli
-* **staged** = mettere in scena
-* **agenda** = piano, propositi
-* **sole provider** = unico sostegno economico
-* **raises the family** = crescere i figli
-* **run** = dirigere
-* **bliss** = felicità
 * **angst** = angoscia, ansia esistenziale
 * **please** = compiacere
-* **taken aback** = sorprendere, lasciare perplesso
 * **picking holes** = cercare difetti, criticare
-* **bother** = infastidire
-* **embrace** = accettare
-* **shrouded** = avvolgere
-* **side hustle** = lavoro extra
-* **nonsense** = assurdo
+* **homemaking** = cura della casa
+* **bliss** = felicità
 * **ordained** = stabiliti
 * **fulfilment** = realizzazione personale
+* **raises the family** = crescere i figli
+* **side hustle** = lavoro extra
+* **nonsense** = assurdo
+* **taken aback** = sorprendere, lasciare perplesso
+* **shrouded** = avvolgere
+* **agenda** = piano, propositi
 * **aim** = obiettivo
-* **get my head around it** = farsene una ragione, venirne a capo
+* **portmanteau** = parola macedonia, parola composta
+* **staged** = mettere in scena
+* **sole provider** = unico sostegno economico
+* **run** = dirigere

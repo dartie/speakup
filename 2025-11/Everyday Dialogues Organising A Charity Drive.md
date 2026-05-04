@@ -8,7 +8,7 @@ Daniel e Anna desiderano aiutare i più bisognosi. Hanno avuto un'idea per coinv
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Everyday%20Dialogues%20Organising%20A%20Charity%20Drive.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Everyday%20Dialogues%20Organising%20A%20Charity%20Drive.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -44,14 +44,14 @@ A team-building exercise is an activity that helps a group of people [improve](
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **improve** = migliorare
+* **set up** = disporre, allestire
+* **last** = durare
 * **handling** = gestione
 * **resources** = risorse
 * **meaningful** = importante, significativo
 * **down the road** = in fondo alla strada
-* **set up** = disporre, allestire
-* **last** = durare
 * **spoiling** = rovinarsi, deteriorarsi
 * **running** = amministrazione
 * **monitor** = controllare
 * **record** = registrare
-* **improve** = migliorare

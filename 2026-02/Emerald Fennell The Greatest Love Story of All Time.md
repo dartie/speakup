@@ -8,7 +8,7 @@ Emerald Fennell ha scelto Margot Robbie e Jacob Elordi per interpretare Cathy e 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Emerald%20Fennell%20The%20Greatest%20Love%20Story%20of%20All%20Time.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Emerald%20Fennell%20The%20Greatest%20Love%20Story%20of%20All%20Time.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -36,16 +36,16 @@ If you want to know more about this topic, read the articles Top 5 Wuthering He
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **breakthrough** = svolta
-* **countryman** = connazionale
-* **sparked some criticism** = suscitare critiche
 * **gypsy** = zingaro
 * **late teens** = ultimi anni dell’adolescenza
 * **calls for** = richiedere
-* **moors** = brughiere
-* **lines** = versi
-* **fellow student** = compagno di studi
+* **breakthrough** = svolta
+* **countryman** = connazionale
 * **portrays** = interpretare
 * **overtly** = apertamente
+* **moors** = brughiere
 * **released** = lanciare
+* **lines** = versi
 * **shining a light on** = mettere in luce
+* **fellow student** = compagno di studi
+* **sparked some criticism** = suscitare critiche

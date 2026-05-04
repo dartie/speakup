@@ -8,7 +8,7 @@ Duecento anni fa, la prima locomotiva a vapore attraversò la contea di Durham, 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/Railway%20200%20All%20Aboard.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/Railway%20200%20All%20Aboard.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -30,21 +30,21 @@ As part of Railway 200, a nine-month international arts and community festival, 
 
 # Glossary
 * **trade** = affari
-* **mainland** = terraferma
+* **heritage** = storica
 * **carriages** = vagoni
-* **humble** = umile
-* **runs along** = estendersi lungo
-* **advent** = arrivo
-* **crisscrosses** = attraversare
-* **depots** = depositi
+* **trail** = pista
+* **collieries** = miniere di carbone
 * **whistles** = fischi
 * **main line** = linea principale
-* **heritage** = storica
+* **depots** = depositi
+* **re-enactment** = ricostruzione, rievocazione
+* **set off** = partire
+* **mainland** = terraferma
+* **runs along** = estendersi lungo
+* **crisscrosses** = attraversare
 * **rail freigh** = trasporto merci
 * **pays homage** = rendere omaggio
+* **humble** = umile
 * **steam-powered** = a vapore
-* **set off** = partire
-* **collieries** = miniere di carbone
-* **re-enactment** = ricostruzione, rievocazione
 * **coal-producing** = produttrice di carbone
-* **trail** = pista
+* **advent** = arrivo

@@ -8,7 +8,7 @@ L'intelligenza artificiale è sempre più presente nei luoghi di lavoro. Uno str
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Everyday%20Dialogues%20AI%20Agent.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Everyday%20Dialogues%20AI%20Agent.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -53,12 +53,12 @@ To roll out is the same as ‘to introduce’ or ‘to launch’.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **enquiries** = richieste
-* **four out of five** = quattro su cinque
-* **amount** = quantità
-* **support tickets** = ticket, richieste di assistenza
 * **escalates** = inoltrare
+* **four out of five** = quattro su cinque
+* **taking into account** = prendere in considerazione
+* **enquiries** = richieste
 * **accurate** = precise
+* **amount** = quantità
 * **fixed** = risolvere
 * **topic** = questione, argomento
-* **taking into account** = prendere in considerazione
+* **support tickets** = ticket, richieste di assistenza

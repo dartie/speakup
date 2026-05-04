@@ -8,7 +8,7 @@ A molti di noi piace seguire le tendenze della moda e indossare abiti belli ed e
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Fast%20Fashion%20A%20Modern-Day%20Phenomenon.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Fast%20Fashion%20A%20Modern-Day%20Phenomenon.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,17 +32,17 @@ There is a lot of pressure, particularly on young people, to wear the latest tre
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **denies** = negare
+* **altogether** = in totale
 * **affordable** = economici, convenienti
+* **pollutants** = inquinanti
 * **fewer items** = meno articoli
-* **engage in** = dedicarsi a
-* **accounts for** = rappresentare
+* **shipping** = trasporto
 * **dying** = tingere, colorare
+* **retailers** = rivenditori
+* **engage in** = dedicarsi a
 * **up to** = fino a
+* **for as little as** = per appena, per un prezzo di soli
+* **accounts for** = rappresentare
 * **fuelling** = alimentare
 * **forced labour** = lavoro forzato
-* **denies** = negare
-* **pollutants** = inquinanti
-* **shipping** = trasporto
-* **retailers** = rivenditori
-* **for as little as** = per appena, per un prezzo di soli
-* **altogether** = in totale

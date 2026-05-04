@@ -8,7 +8,7 @@ A differenza di chi ritiene che l’intelligenza artificiale sia una minaccia pe
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/Artificial%20Intelligence%20The%20Coming%20Age.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/Artificial%20Intelligence%20The%20Coming%20Age.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -51,32 +51,32 @@ In 1972, scientists James Lovelock and Lynn Margulis hypothesised that Earth and
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **surge** = impennata
-* **highly-skilled** = altamente qualificati
-* **posited** = proporre
-* **ensuring** = garantire, assicurare
-* **thrilling** = emozionante
-* **think hard** = pensare attentamente
-* **hype** = promuovere, pubblicizzare
-* **buy into** = accettare, lasciarsi convincere
-* **steamrolled** = schiacciare, sbaragliare
 * **employee** = dipendente
-* **concern** = preoccupazione
-* **lag** = ritardo
-* **engage** = coinvolgere
-* **will catch up** = mettere al corrente
-* **Putting together** = mettere insieme, organizzare
-* **bias** = pregiudizio
-* **prompted** = suggerire, indurre
-* **unlike** = a differenza di
-* **frameworks** = quadri
-* **employer** = datore di lavoro
-* **driven** = impulsare, guidare
-* **not least** = in particolare
+* **enhancing** = migliorare
 * **surpass** = superare
 * **since the dawn of time** = fin dalla notte dei tempi
-* **urges** = incoraggiare
-* **enhancing** = migliorare
-* **tracking** = monitorare
-* **has gone rogue** = fuori controllo
+* **unlike** = a differenza di
+* **bias** = pregiudizio
+* **driven** = impulsare, guidare
+* **buy into** = accettare, lasciarsi convincere
+* **posited** = proporre
+* **concern** = preoccupazione
+* **highly-skilled** = altamente qualificati
+* **engage** = coinvolgere
+* **not least** = in particolare
+* **lag** = ritardo
+* **employer** = datore di lavoro
+* **will catch up** = mettere al corrente
 * **is wiping out** = spazzare via
+* **urges** = incoraggiare
+* **think hard** = pensare attentamente
+* **hype** = promuovere, pubblicizzare
+* **frameworks** = quadri
+* **ensuring** = garantire, assicurare
+* **prompted** = suggerire, indurre
+* **steamrolled** = schiacciare, sbaragliare
+* **has gone rogue** = fuori controllo
+* **thrilling** = emozionante
+* **surge** = impennata
+* **Putting together** = mettere insieme, organizzare
+* **tracking** = monitorare

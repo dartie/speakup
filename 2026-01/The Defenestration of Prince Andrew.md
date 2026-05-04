@@ -8,7 +8,7 @@ A causa del suo coinvolgimento nello scandalo Epstein, il Principe Andrea, priva
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/The%20Defenestration%20of%20Prince%20Andrew.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/The%20Defenestration%20of%20Prince%20Andrew.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -26,7 +26,7 @@ Their majesties wish to make clear that their thoughts and [utmost](## "massime
 It is understood that Andrew will move to a property on the private Sandringham estate in Norfolk, to be privately funded by the King.
 His ex-wife, Sarah Ferguson, will also [move out](## "andarsene, trasferirsi") of Royal [Lodge](## "residenza") and will [sort out](## "risolvere, sistemare") her own [living arrangements](## "sistemazioni abitative").
 Formal notice was given to [surrender](## "cedere, consegnare") the [lease](## "locazione") at the Royal [Lodge](## "residenza") on Thursday and it is understood that Andrew’s move to Sandringham will take place “as soon as practicable.” He will receive a private [provision](## "provvigione") from the King, with any other [sources of income](## "fonti di reddito") to be a matter for the [former duke](## "ex duca").
-The removal process applies to the titles of Prince, Duke of York, [Earl](## "conte") of Inverness, Baron Killyleagh, and the [style](## "trattamento d’onore") His Royal [Highness](## "altezza"). The honours affected are Andrew’s Order of the [Garter](## "giarrettiera") and Knight Grand Cross of the Royal Victorian Order. He had ceased to use the [HRH](## "Sua Altezza Reale (His Royal [Highness](## "altezza"))") [style](## "trattamento d’onore") in 2022 but it had not been formally [remove](## "rimuovere, togliere")d.
+The removal process applies to the titles of Prince, Duke of York, [Earl](## "conte") of Inverness, Baron Killyleagh, and the [style](## "trattamento d’onore") His Royal [Highness](## "altezza"). The honours affected are Andrew’s Order of the [Garter](## "giarrettiera") and Knight Grand Cross of the Royal Victorian Order. He had ceased to use the [HRH](## "Sua Altezza Reale (His Royal Highness)") [style](## "trattamento d’onore") in 2022 but it had not been formally [remove](## "rimuovere, togliere")d.
 As daughters of the son of a monarch, Princess Beatrice and Princess Eugenie retain their titles in line with King George V’s [letters patent](## "lettere patenti") of 1917.
 The King is understood to have acted now because while Andrew continues to deny the accusations against him, it is felt that there have been serious [lapses of judgment](## "errori, mancanze di giudizio").
 The royal family had announced on 17 October that Andrew would voluntarily stop using the title Duke of York and give up his honours as a Knight Grand Cross of the Royal Victorian Order and Royal Knight Companion of the Most Noble Order of the [Garter](## "giarrettiera").
@@ -49,49 +49,49 @@ Published in The Guardian on 30 October 2025. Reprinted with permission. 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **remove** = rimuovere, togliere
-* **allegations** = accuse
-* **Earl** = conte
-* **Highness** = altezza
-* **alleged** = sostenere
-* **called for** = richiedere, sollecitare
-* **oversight committee** = comitato di supervisione
-* **move out** = andarsene, trasferirsi
-* **former duke** = ex duca
-* **letters patent** = lettere patenti
-* **birthright** = diritto di nascita
-* **settled a civil case** = chiudere, risolvere una causa civile
-* **spotlight** = riflettore
-* **notwithstanding** = nonostante
-* **lapses of judgment** = errori, mancanze di giudizio
-* **dukedom** = ducato, titolo di duca
-* **peerage roll** = lista, registro dei titoli nobiliari
-* **Regardless** = a prescindere
-* **pursue** = perseguire, portare avanti
-* **surrender** = cedere, consegnare
-* **accommodation** = alloggio, sistemazione
-* **deemed** = ritenere
-* **HRH** = Sua Altezza Reale (His Royal Highness)
-* **commended** = elogiare
-* **sibling** = fratello
-* **owes** = dovere, essere in debito
-* **Lodge** = residenza
-* **censures** = misure
-* **sort out** = risolvere, sistemare
-* **provision** = provvigione
-* **sources of income** = fonti di reddito
-* **Garter** = giarrettiera
-* **peerage** = titolo nobiliare
-* **royal warrants** = ordinanze reali
 * **stripped** = privare, togliere
-* **household** = famiglia, nucleo domestico
-* **late** = defunto
-* **claims** = affermazioni
-* **utmost** = massime, tutte
-* **living arrangements** = sistemazioni abitative
-* **accountability** = responsabilità
-* **abetters** = complici
+* **remove** = rimuovere, togliere
 * **style** = trattamento d’onore
+* **late** = defunto
 * **liability** = responsabilità
-* **lease** = locazione
+* **dukedom** = ducato, titolo di duca
+* **peerage** = titolo nobiliare
+* **abetters** = complici
+* **household** = famiglia, nucleo domestico
+* **accountability** = responsabilità
+* **owes** = dovere, essere in debito
+* **pursue** = perseguire, portare avanti
+* **birthright** = diritto di nascita
+* **accommodation** = alloggio, sistemazione
+* **provision** = provvigione
+* **Garter** = giarrettiera
+* **peerage roll** = lista, registro dei titoli nobiliari
+* **commended** = elogiare
+* **alleged** = sostenere
+* **sibling** = fratello
+* **notwithstanding** = nonostante
+* **Earl** = conte
+* **lapses of judgment** = errori, mancanze di giudizio
+* **called for** = richiedere, sollecitare
 * **urged** = esortare
+* **spotlight** = riflettore
+* **oversight committee** = comitato di supervisione
+* **Regardless** = a prescindere
+* **surrender** = cedere, consegnare
+* **former duke** = ex duca
+* **royal warrants** = ordinanze reali
+* **Lodge** = residenza
+* **allegations** = accuse
+* **lease** = locazione
+* **censures** = misure
+* **Highness** = altezza
+* **move out** = andarsene, trasferirsi
+* **sources of income** = fonti di reddito
+* **claims** = affermazioni
+* **settled a civil case** = chiudere, risolvere una causa civile
+* **deemed** = ritenere
+* **utmost** = massime, tutte
+* **sort out** = risolvere, sistemare
+* **living arrangements** = sistemazioni abitative
+* **HRH** = Sua Altezza Reale (His Royal Highness)
+* **letters patent** = lettere patenti

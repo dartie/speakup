@@ -8,7 +8,7 @@ Sin dal suo successo commerciale durante la Grande Depressione, questo gioco cap
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Monopoly%20The%20Game%20Goes%20Mobile.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Monopoly%20The%20Game%20Goes%20Mobile.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -36,25 +36,25 @@ For some, the latest version of Monopoly is perhaps the darkest [yet](## "fino a
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **Chance** = fortuna
-* **wind farms.** = parchi eoli
-* **board games** = giochi da tavolo
 * **landmarks** = luoghi simbolici
-* **yet** = fino ad ora
-* **spin** = versione
-* **downright** = decisamente, davvero
-* **Landlord’s** = proprietario
-* **abroad** = all’estero
 * **spin-off** = versione derivata
 * **Cheaters** = imbroglioni
-* **random weather events** = eventi meteorologici casuali
-* **no-tip** = dove non si accettano mance
-* **handles** = gestire
-* **Community Chest** = cassa comune
-* **reached for the skies** = puntare in alto (costruire grattacieli)
-* **took hold** = prendere piede
-* **making inroads** = farsi strada
-* **Tycoon** = magnate
 * **hubs** = centri
+* **board games** = giochi da tavolo
+* **took hold** = prendere piede
+* **downright** = decisamente, davvero
+* **yet** = fino ad ora
+* **handles** = gestire
+* **wind farms.** = parchi eoli
+* **no-tip** = dove non si accettano mance
+* **Landlord’s** = proprietario
+* **reached for the skies** = puntare in alto (costruire grattacieli)
 * **Sore Losers** = cattivi perdenti
+* **random weather events** = eventi meteorologici casuali
+* **spin** = versione
+* **Chance** = fortuna
+* **Community Chest** = cassa comune
+* **abroad** = all’estero
+* **Tycoon** = magnate
 * **to hook** = coinvolgere
+* **making inroads** = farsi strada

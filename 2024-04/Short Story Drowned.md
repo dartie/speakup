@@ -8,7 +8,7 @@ Un viaggio misterioso attraverso una valle gallese, che svela una storia nascost
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Short%20Story%20Drowned.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Short%20Story%20Drowned.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,32 +32,32 @@ In 1965, the Tryweryn Valley on the edge of the Snowdonia National Park in Wales
 
 # Glossary
 * **splash** = schizzare
-* **breath of wind** = soffio di vento
 * **coffin** = bara
-* **watertight** = a tenuta d’acqua
-* **the odd hiker** = l’escursionista occasionale
-* **times tables** = tabelline
-* **to disinter** = esumare
-* **I’m rowing** = remare
-* **gravestones** = lapide
 * **passed an act** = approvare una legge
-* **snatch off** = strappare
-* **rock** = far oscillare
-* **digging up** = disseppellire
 * **herons** = aironi
-* **still** = calma, ferma
-* **bear** = sopportare
-* **Hands off** = giù le mani
-* **to flood** = allagare
-* **higher ground** = terreno più alto
-* **waged an eight-year battle** = intraprendere una battaglia
-* **birds of prey** = rapaci
-* **kestrels** = gheppi
-* **reservoir** = bacino
-* **pale** = pallido
-* **graveyard** = cimitero
 * **oars** = remi
-* **hen harriers** = albanelle reali
-* **red kites** = nibbi rossi
-* **chapel** = cappella
+* **birds of prey** = rapaci
+* **pale** = pallido
+* **rock** = far oscillare
+* **watertight** = a tenuta d’acqua
+* **still** = calma, ferma
+* **Hands off** = giù le mani
+* **snatch off** = strappare
+* **higher ground** = terreno più alto
+* **digging up** = disseppellire
+* **gravestones** = lapide
+* **times tables** = tabelline
+* **to flood** = allagare
 * **lay** = posare
+* **red kites** = nibbi rossi
+* **the odd hiker** = l’escursionista occasionale
+* **waged an eight-year battle** = intraprendere una battaglia
+* **hen harriers** = albanelle reali
+* **reservoir** = bacino
+* **chapel** = cappella
+* **graveyard** = cimitero
+* **kestrels** = gheppi
+* **I’m rowing** = remare
+* **breath of wind** = soffio di vento
+* **to disinter** = esumare
+* **bear** = sopportare

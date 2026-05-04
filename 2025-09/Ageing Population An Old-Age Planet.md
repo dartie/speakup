@@ -8,7 +8,7 @@ L’aumento dell’aspettativa di vita a livello mondiale è un’ottima notizia
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/Ageing%20Population%20An%20Old-Age%20Planet.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/Ageing%20Population%20An%20Old-Age%20Planet.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -31,18 +31,18 @@ www.decadeofhealthyageing.org
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **driven** = incentivare
-* **shift** = cambiamento
-* **low- and middle-income** = a basso e medio reddito
-* **burden** = carico, peso
-* **issues** = questioni, problemi
-* **Ageing** = invecchiamento
-* **staggering** = impattante
-* **ranges from** = oscillare tra... e...
-* **retirement** = pensione
-* **provided** = ammesso che
-* **leisure** = ozio
 * **pursue** = dedicarsi a
 * **well-deserved** = ben meritato
+* **issues** = questioni, problemi
+* **provided** = ammesso che
+* **leisure** = ozio
+* **low- and middle-income** = a basso e medio reddito
 * **handle** = gestire
+* **Ageing** = invecchiamento
+* **driven** = incentivare
+* **ranges from** = oscillare tra... e...
+* **shift** = cambiamento
+* **burden** = carico, peso
+* **staggering** = impattante
+* **retirement** = pensione
 * **ageism** = discriminazione legata all’età

@@ -8,12 +8,12 @@ Sally Rooney, l'acclamata scrittrice irlandese, è nota non solo per il suo tale
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Sally%20Rooney%20The%20Marxist%20Writer.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Sally%20Rooney%20The%20Marxist%20Writer.mp3" type="audio/mpeg">
 </audio>
 </div>
 
 
-Sally Rooney is known for her strong political [leanings](## "inclinazioni"). In a 2021 interview, she mentioned that she views the world “mostly through a sort of Marxist [framework](## "quadro").” In her work, Rooney moves away from the idea of a [self](## "identità, io")-sustaining, unaffected individual who remains unchanged by the people in their life. Instead, she portrays how both we and our worlds are shaped by our relationships and even just contact with one another. For Rooney, there is no [self](## "identità, io") without others. This understanding of how interconnected we are reflects her Marxist perspective: philosopher and economist Karl Marx’s analysis presents a view of the world— and the [self](## "identità, io")— as being shaped by relations, specifically class relations, which are usually conflictive. She believes that conditions are always influenced by, and have consequences for, the rest of us.
+Sally Rooney is known for her strong political [leanings](## "inclinazioni"). In a 2021 interview, she mentioned that she views the world “mostly through a sort of Marxist [framework](## "quadro").” In her work, Rooney moves away from the idea of a [[self](## "identità, io")-sustaining](## "autonomo"), unaffected individual who remains unchanged by the people in their life. Instead, she portrays how both we and our worlds are shaped by our relationships and even just contact with one another. For Rooney, there is no [self](## "identità, io") without others. This understanding of how interconnected we are reflects her Marxist perspective: philosopher and economist Karl Marx’s analysis presents a view of the world— and the [self](## "identità, io")— as being shaped by relations, specifically class relations, which are usually conflictive. She believes that conditions are always influenced by, and have consequences for, the rest of us.
 **Sally Rooney:** I always find it interesting when people say “That’s an interesting character” or “That’s a good character” because I don’t think a character has any intrinsic value. I mean, every person is intrinsically interesting, but in a novel, what gives a character power is their relation to others and how those relations change. And that for me is like, what I’m so fascinated by.
 
 ## SOCIAL LIFE
@@ -28,16 +28,16 @@ Surprisingly for a public figure of her generation, Rooney is not on social medi
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **framework** = quadro
-* **self-sustaining** = autonomo
-* **bourgeois** = borghese
-* **early-19th** = principi del XIX secolo
-* **gave rise** = dare luogo a
-* **advocate** = sostenitrice
+* **compliance** = rispetto
 * **stance** = posizione
 * **leanings** = inclinazioni
-* **exerted** = esercitare
-* **to haunt** = perseguire
-* **outspoken** = esplicita
-* **compliance** = rispetto
 * **self** = identità, io
+* **bourgeois** = borghese
+* **exerted** = esercitare
+* **early-19th** = principi del XIX secolo
+* **gave rise** = dare luogo a
+* **outspoken** = esplicita
+* **advocate** = sostenitrice
+* **framework** = quadro
+* **self-sustaining** = autonomo
+* **to haunt** = perseguire

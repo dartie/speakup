@@ -8,7 +8,7 @@ Nato come un gruppo di WhatsApp tra genitori, oggi è un movimento internazional
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/Navigating%20Technology%20Smartphone%20Free%20Childhood.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/Navigating%20Technology%20Smartphone%20Free%20Childhood.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,18 +38,18 @@ The acclaimed Netflix series Adolescence brought the [topic](## "tema") of smar
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **triggering** = scatenare, innescare
-* **i.e.** = cioè (id est)
-* **devices** = dispositivi
-* **lower secondary schools** = scuole medie
-* **topic** = tema
 * **stabbing** = accoltellamento
 * **grassroots movement** = movimento popolare
-* **boroughs** = distretti, quartieri
-* **delay** = ritardare
-* **straightforward** = semplice, diretto
-* **disability** = disabilità
-* **advocacy** = difesa
-* **growing concern** = crescente preoccupazione
-* **altogether** = del tutto
 * **banned** = vietare
+* **lower secondary schools** = scuole medie
+* **advocacy** = difesa
+* **delay** = ritardare
+* **i.e.** = cioè (id est)
+* **growing concern** = crescente preoccupazione
+* **devices** = dispositivi
+* **disability** = disabilità
+* **topic** = tema
+* **triggering** = scatenare, innescare
+* **altogether** = del tutto
+* **straightforward** = semplice, diretto
+* **boroughs** = distretti, quartieri

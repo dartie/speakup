@@ -8,7 +8,7 @@ Insulti, aggressioni e persino tentativi di aprire le porte dell’aereo durante
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/Bad%20Airline%20Behaviour%20Anger%20in%20the%20Sky.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/Bad%20Airline%20Behaviour%20Anger%20in%20the%20Sky.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,23 +33,23 @@ Airline passengers who behave badly face strict penalties. They can [be fined](#
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **to deploy** = spiegarsi
-* **be fined** = multare
-* **be banned** = vietare
-* **jeopardises** = mettere in pericolo
-* **a song out loud** = cantare a squarciagola
-* **was diverted** = deviare
-* **device** = dispositivo
-* **sliding down** = scivolare giù
-* **engine** = motore
 * **unscheduled** = non previsto
-* **rendition** = interpretazione
-* **slide** = scivolo
-* **narrow** = stretti
 * **was escorted off** = accompagnare fuori
-* **to remove** = rimuovere
-* **wing** = ala
-* **unruly** = ribelle
+* **to deploy** = spiegarsi
 * **to navigate** = orientarsi
 * **behaving** = comportarsi
 * **arguments** = discussioni
+* **was diverted** = deviare
+* **device** = dispositivo
+* **to remove** = rimuovere
+* **slide** = scivolo
+* **a song out loud** = cantare a squarciagola
+* **be fined** = multare
+* **be banned** = vietare
+* **unruly** = ribelle
+* **jeopardises** = mettere in pericolo
+* **sliding down** = scivolare giù
+* **rendition** = interpretazione
+* **wing** = ala
+* **engine** = motore
+* **narrow** = stretti

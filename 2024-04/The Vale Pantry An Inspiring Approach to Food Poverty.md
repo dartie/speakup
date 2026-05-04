@@ -8,7 +8,7 @@ Abbiamo visitato un’associazione benefica nella contea di Dorset che fornisce 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/The%20Vale%20Pantry%20An%20Inspiring%20Approach%20to%20Food%20Poverty.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/The%20Vale%20Pantry%20An%20Inspiring%20Approach%20to%20Food%20Poverty.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,39 +40,39 @@ www.valepantry.co.uk
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **form** = formulario
+* **Soaring** = in rapido aumento
+* **sharply** = bruscamente, improvvisamente
+* **recipe** = ricetta
+* **to cut back** = ridurre
 * **to gather** = raccogliere
-* **produce** = prodotti agricoli
+* **benefits** = prestazioni, sussidi
+* **suit** = adattare
+* **rate** = valutare
+* **filling in** = compilare
+* **haphazard** = disordinato
+* **To tackle** = affrontare
+* **wage** = salario
 * **mince** = carne macinata
-* **advice** = consiglio
+* **sorting out** = risolvere
+* **tinned** = in scatola
+* **cookery** = cucina
+* **form** = formulario
+* **make ends meet** = far quadrare i conti
+* **encourage** = incoraggiare
+* **produce** = prodotti agricoli
+* **and so on and so forth** = eccetera, e via dicendo
+* **coming across** = imbattersi
+* **Pantry** = dispensa
+* **run out** = rimanere senza
+* **jars** = barattoli
+* **florentines** = biscotti fiorentini
+* **cupboard** = credenza
+* **parcels** = pacchetti
 * **dairy** = latticini
 * **run** = gestire
-* **run out** = rimanere senza
-* **to cut back** = ridurre
-* **cupboard** = credenza
-* **oven** = forno
-* **filling in** = compilare
-* **sanitary wear** = articoli per l’igiene
-* **coming across** = imbattersi
-* **wage** = salario
-* **To tackle** = affrontare
-* **parcels** = pacchetti
-* **encourage** = incoraggiare
-* **jars** = barattoli
-* **and so on and so forth** = eccetera, e via dicendo
-* **florentines** = biscotti fiorentini
-* **benefits** = prestazioni, sussidi
-* **relief** = sollievo
 * **to keep on top of things** = mantenere il controllo
+* **oven** = forno
+* **sanitary wear** = articoli per l’igiene
 * **glut** = eccesso
-* **sorting out** = risolvere
-* **Soaring** = in rapido aumento
-* **tinned** = in scatola
-* **sharply** = bruscamente, improvvisamente
-* **rate** = valutare
-* **cookery** = cucina
-* **haphazard** = disordinato
-* **Pantry** = dispensa
-* **suit** = adattare
-* **make ends meet** = far quadrare i conti
-* **recipe** = ricetta
+* **relief** = sollievo
+* **advice** = consiglio

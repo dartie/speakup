@@ -8,7 +8,7 @@ Con un abile gioco di parole, una battuta che associa la prima vittoria elettora
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/Star%20Wars%20Day%20May%20the%20Fourth%20Be%20With%20You.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/Star%20Wars%20Day%20May%20the%20Fourth%20Be%20With%20You.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -34,23 +34,23 @@ Star Wars is one of the most successful movie franchises in history. It started 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **eye-catching** = accattivante
-* **joined in** = partecipare
-* **fireworks shows** = spettacoli di fuochi d’artificio
-* **A clever** = intelligente
-* **hosted** = ospitare
 * **meet-and-greets** = pass VIP (lett. incontro e saluto)
+* **grabbing** = afferrare
+* **A clever** = intelligente
+* **spread** = diffondersi
 * **releases** = uscite
 * **staging** = mettere in scena
-* **Harnessing** = sfruttare
-* **pun** = gioco di parole
-* **By swapping** = scambiare
-* **contests** = concorsi
-* **held** = avere luogo
-* **lightsaber** = sciabola
 * **binds the galaxy together** = unire
 * **timeless struggle** = lotta eterna
+* **pun** = gioco di parole
+* **hosted** = ospitare
+* **fireworks shows** = spettacoli di fuochi d’artificio
+* **Harnessing** = sfruttare
 * **saying** = detto
+* **By swapping** = scambiare
+* **eye-catching** = accattivante
+* **held** = avere luogo
+* **lightsaber** = sciabola
 * **May the Force be with you** = che la forza ti accompagni
-* **spread** = diffondersi
-* **grabbing** = afferrare
+* **contests** = concorsi
+* **joined in** = partecipare

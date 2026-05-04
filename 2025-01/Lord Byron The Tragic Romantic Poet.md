@@ -8,7 +8,7 @@ Poeta venerato, riuscì a suscitare sia ammirazione che scandalo nella società 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/Lord%20Byron%20The%20Tragic%20Romantic%20Poet.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/Lord%20Byron%20The%20Tragic%20Romantic%20Poet.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -39,22 +39,22 @@ In his brief life, Byron had a huge cultural impact on Europe, the US, Latin Ame
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **gambling** = scommettere
-* **notorious** = infame
-* **shipwreck** = naufragio
-* **to fund** = finanziare
-* **grip** = dominare
 * **early 19th century** = primi dell’Ottocento
+* **club foot** = piede equino
+* **flaunted** = ostentare
 * **stillborn** = nato morto
+* **leeches** = sanguisughe
+* **notorious** = infame
+* **claimed** = affermare
+* **shipwreck** = naufragio
 * **enslavement** = schiavitù
 * **bawdy** = osceno, volgare
-* **club foot** = piede equino
+* **grip** = dominare
+* **gambling** = scommettere
 * **Pilgrimage** = pellegrinaggio
-* **leeches** = sanguisughe
-* **mesmerising** = affascinante
 * **overnight** = da un giorno all’altro
+* **mesmerising** = affascinante
 * **dashing** = elegante
-* **flaunted** = ostentare
 * **moved on** = andare avanti
-* **claimed** = affermare
+* **to fund** = finanziare
 * **to drain** = drenare

@@ -8,7 +8,7 @@ L’autore scozzese trasforma un’iconica strada di Londra nell’asse portante
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Andrew%20O%E2%80%99Hagan%20Caledonian%20Road.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Andrew%20O%E2%80%99Hagan%20Caledonian%20Road.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -50,42 +50,42 @@ Andrew O’Hagan: The book is essentially a satire. It’s a comedy with a very 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **further up** = più in alto
-* **I made it my job** = ne ho fatto il mio lavoro
-* **outdoors** = all’aperto
-* **Tax avoiders** = evasori fiscali
 * **Mayflies** = effimeri
-* **phone book** = elenco telefonico
-* **book-lined** = pieno di libri
-* **lawbreakers** = trasgressori della legge
-* **unfairness** = ingiustizia
-* **borough** = distretto
-* **cravat** = foulard, fazzoletto da collo
-* **honed** = affinare, perfezionare
-* **elation** = euforia
+* **dodgy dealings** = traffici loschi
 * **take little action** = agire
-* **deeds** = azioni
-* **housing estate** = complesso residenziale popolare
+* **inequities** = disuguaglianze
+* **phone book** = elenco telefonico
+* **I made it my job** = ne ho fatto il mio lavoro
+* **overemphasise** = esagerare
+* **take for granted** = dare per scontato
+* **unfairness** = ingiustizia
+* **address** = affrontare
+* **conceal** = nascondere
+* **borough** = distretto
+* **land** = ottenere
+* **despair** = disperazione
+* **self-pity** = autocommiserazione
+* **outdoors** = all’aperto
+* **reprehensible** = riprovevole
+* **heritage** = origini
+* **acquaintances** = conoscenti
+* **Bonfire** = falò
+* **honed** = affinare, perfezionare
 * **Weep** = piangere
+* **elation** = euforia
 * **from thin air** = dal nulla
-* **clay** = argilla
+* **housing estate** = complesso residenziale popolare
+* **a far cry from** = lontano anni luce da
+* **book-lined** = pieno di libri
+* **further up** = più in alto
+* **cover-ups** = insabbiamenti, coperture
 * **tools** = strumenti
 * **inner city** = centro della città
 * **affluent** = benestante
-* **acquaintances** = conoscenti
-* **misdemeanour** = reato minore
-* **dodgy dealings** = traffici loschi
+* **lawbreakers** = trasgressori della legge
 * **sweatshop garment factory** = fabbrica tessile sfruttatrice
-* **self-pity** = autocommiserazione
-* **conceal** = nascondere
-* **a far cry from** = lontano anni luce da
-* **land** = ottenere
-* **despair** = disperazione
-* **overemphasise** = esagerare
-* **take for granted** = dare per scontato
-* **address** = affrontare
-* **inequities** = disuguaglianze
-* **reprehensible** = riprovevole
-* **Bonfire** = falò
-* **heritage** = origini
-* **cover-ups** = insabbiamenti, coperture
+* **cravat** = foulard, fazzoletto da collo
+* **misdemeanour** = reato minore
+* **clay** = argilla
+* **deeds** = azioni
+* **Tax avoiders** = evasori fiscali

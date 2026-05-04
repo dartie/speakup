@@ -8,7 +8,7 @@ Fenomeno assoluto della letteratura mondiale, autrice di bestseller mai eguaglia
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Agatha%20Christie%20The%20World%E2%80%99s%20Best-Selling%20Novelist.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Agatha%20Christie%20The%20World%E2%80%99s%20Best-Selling%20Novelist.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,24 +33,24 @@ In the 1940s and 1950s, Christie also turned [her hand to](## "dedicarse a") wri
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **Vicarage** = casa parrocchiale
-* **her hand to** = dedicarse a
-* **appealing** = attraenti
-* **boredom** = noia
-* **waxed** = cerati
-* **cunning** = astuta
-* **tax** = fiscali
-* **fooled** = ingannare
+* **stage plays** = opere teatrali
 * **nurse** = infermiera
 * **dared** = sfidare
-* **boosted** = promuovere
-* **red herrings** = piste false
 * **twist** = colpo di scena
+* **her hand to** = dedicarse a
 * **The Mousetrap** = trappola
+* **fooled** = ingannare
+* **boredom** = noia
+* **red herrings** = piste false
+* **cunning** = astuta
 * **dimmed** = scendere
-* **plots** = trame
-* **literary devices** = espedienti letterari
+* **appealing** = attraenti
+* **waxed** = cerati
 * **Tricks** = trucchi
 * **genteel** = elegante, raffinata
-* **stage plays** = opere teatrali
+* **Vicarage** = casa parrocchiale
+* **plots** = trame
+* **literary devices** = espedienti letterari
 * **shrewd** = accorta
+* **boosted** = promuovere
+* **tax** = fiscali

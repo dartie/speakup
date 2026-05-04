@@ -8,7 +8,7 @@ Il famoso dirigibile a elio, nato come stravagante annuncio pubblicitario e oggi
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Happy%20100th%20Birthday,%20Goodyear%20Blimp.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Happy%20100th%20Birthday,%20Goodyear%20Blimp.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -30,16 +30,16 @@ Goodyear’s [blimp](## "dirigibile")s ordinarily fly at around one thousand [30
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **flamboyant** = stravagante
-* **rubber** = gomma
+* **footage** = video, filmato
 * **balloons** = palloni aerostatici
 * **Pilgrim** = pellegrino
+* **billboard** = cartellone, annuncio
+* **blimp** = dirigibile
+* **flamboyant** = stravagante
 * **parades** = parate
 * **capturing the imagination** = catturare l’immaginazione
-* **blimp** = dirigibile
+* **landmarks** = monumenti
 * **hovered** = librarsi, volare
 * **Spotted** = avvistare
 * **tyre** = pneumatici
-* **footage** = video, filmato
-* **billboard** = cartellone, annuncio
-* **landmarks** = monumenti
+* **rubber** = gomma

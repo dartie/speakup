@@ -8,7 +8,7 @@ Visitare tutti i castelli dell’Inghilterra e del Galles è un’impresa quasi 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/Top%2010%20Castles%20of%20England%20and%20Wales.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/Top%2010%20Castles%20of%20England%20and%20Wales.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -65,50 +65,50 @@ If you want to know more about this topic, read the article Castles Of England 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **cliff-top** = in cima alla scogliera
-* **motte-and-bailey** = motta castrale (tipo di fortificazione medievale)
-* **dungeons** = segrete, prigioni sotterranee
-* **heritage** = patrimonio
-* **sweeping** = ampie, vaste
-* **fairytale** = fiabesco
-* **Perched** = arroccato
-* **rugged cliffs** = scogliere frastagliate
-* **display** = mostra, esibizione
-* **dramatic** = spettacolare, suggestivo
-* **boasts** = vantare
+* **lavish** = sfarzosi
 * **keep** = mastio (torre principale di un castello)
-* **moated castle** = castello circondato da un fossato
-* **inner courtyard** = cortile interno
-* **charm** = fascino
-* **footbridge** = passerella pedonale
-* **banks** = rive
-* **tide** = marea
-* **Ness** = promontorio, luogo di confine
-* **stately home** = dimora signorile
-* **withstood** = resistere
+* **battlements** = merlature
+* **Chapel** = cappella
+* **might** = potenza, forza
+* **cleverly** = ingegnosamente
 * **integral link** = collegamento importante
 * **stark** = severa, essenziale
-* **stronghold** = roccaforte
-* **blends** = mescolare
+* **moated castle** = castello circondato da un fossato
+* **inner courtyard** = cortile interno
 * **buttresses** = contrafforti
-* **unlike** = a differenza di
-* **gatehouse** = ingresso fortificato
-* **overlooks** = affacciarsi
-* **lavish** = sfarzosi
-* **seat** = sede, dimora
-* **Chapel** = cappella
-* **cleverly** = ingegnosamente
-* **backdrop** = sfondo
+* **display** = mostra, esibizione
+* **Strait** = stretto
+* **eerie** = inquietante, misterioso
+* **Ness** = promontorio, luogo di confine
+* **stately home** = dimora signorile
 * **warfare** = attività bellica
+* **overlooks** = affacciarsi
+* **deter** = scoraggiare, dissuadere
+* **cliff-top** = in cima alla scogliera
+* **dramatic** = spettacolare, suggestivo
+* **motte-and-bailey** = motta castrale (tipo di fortificazione medievale)
+* **stronghold** = roccaforte
+* **dungeons** = segrete, prigioni sotterranee
+* **withstood** = resistere
+* **heritage** = patrimonio
+* **blends** = mescolare
 * **stunning** = mozzafiato
-* **battlements** = merlature
-* **lend** = conferire
-* **Earl** = conte
+* **charm** = fascino
+* **footbridge** = passerella pedonale
+* **gorge** = gola
+* **gatehouse** = ingresso fortificato
+* **banks** = rive
+* **tide** = marea
+* **haunting** = suggestivo
+* **rugged cliffs** = scogliere frastagliate
+* **unlike** = a differenza di
 * **enduring** = duraturi
 * **Dating back to** = risalire a
-* **Strait** = stretto
-* **deter** = scoraggiare, dissuadere
-* **haunting** = suggestivo
-* **gorge** = gola
-* **might** = potenza, forza
-* **eerie** = inquietante, misterioso
+* **boasts** = vantare
+* **backdrop** = sfondo
+* **sweeping** = ampie, vaste
+* **Earl** = conte
+* **seat** = sede, dimora
+* **fairytale** = fiabesco
+* **lend** = conferire
+* **Perched** = arroccato

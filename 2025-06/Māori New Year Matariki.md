@@ -8,7 +8,7 @@ Alla fine di giugno, la cultura aborigena neozelandese celebra l’inizio del nu
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/M%C4%81ori%20New%20Year%20Matariki.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/M%C4%81ori%20New%20Year%20Matariki.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -29,20 +29,20 @@ Today, Matariki has become an important part of the identity of Aotearoa/New Zea
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **discouraged** = scoraggiare
-* **due to** = a causa di
-* **to pass down** = tramandare
-* **New Year’s Eve** = Vigilia di Capodanno
+* **offerings** = offerte
+* **cluster** = gruppo
+* **harvesting** = raccogliere
+* **crops** = coltura
 * **dim** = tenue, poco illuminato
+* **blending** = mescolare
+* **New Year’s Eve** = Vigilia di Capodanno
+* **dawn** = alba
 * **shortages** = scarsità
 * **nationwide** = a livello nazionale
 * **earth oven** = forno di terra
-* **cluster** = gruppo
-* **dawn** = alba
-* **harvesting** = raccogliere
-* **crops** = coltura
-* **deceased** = defunti
 * **to strengthen** = rafforzare
-* **offerings** = offerte
-* **blending** = mescolare
+* **due to** = a causa di
+* **discouraged** = scoraggiare
+* **to pass down** = tramandare
+* **deceased** = defunti
 * **resolutions** = propositi

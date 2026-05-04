@@ -8,7 +8,7 @@ La popolazione mondiale cresce sempre di più e, di conseguenza, aumenta anche l
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Growing%20Underground%20Sustainable%20Urban%20Farming.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Growing%20Underground%20Sustainable%20Urban%20Farming.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -46,30 +46,30 @@ www.zerocarbonfarms.co.uk
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **stacks** = scaffali
-* **warehouses** = magazzini
-* **trial** = prova, test
-* **seed density** = densità di semina
-* **draw** = attirare, attingere
-* **crops** = colture
-* **spray** = spruzzare
-* **barns** = fienili
-* **waste** = rifiuti, scarti
-* **feeding** = alimentare
-* **power** = fornire energia
-* **early noughties** = primi anni Duemila
-* **broader** = più ampio
-* **spot** = individuare, rilevare
 * **yield** = resa
-* **raise** = raccogliere fondi
+* **disused** = inutilizzati
+* **barns** = fienili
+* **seed density** = densità di semina
 * **economist by trade** = economista di professione
 * **came up with** = ideare, proporre
-* **smart grids** = reti intelligenti
+* **power** = fornire energia
+* **early noughties** = primi anni Duemila
+* **warehouses** = magazzini
+* **broader** = più ampio
+* **spot** = individuare, rilevare
+* **feeding** = alimentare
 * **waste streams** = flussi di rifiuti
-* **starches** = amidi
-* **roots** = radici
-* **airflow** = flusso d’aria
+* **trial** = prova, test
+* **raise** = raccogliere fondi
+* **draw** = attirare, attingere
 * **elongate** = allungare
 * **bushier** = più folta
+* **starches** = amidi
+* **waste** = rifiuti, scarti
+* **smart grids** = reti intelligenti
+* **stacks** = scaffali
+* **airflow** = flusso d’aria
+* **crops** = colture
 * **misting** = nebulizzazione
-* **disused** = inutilizzati
+* **spray** = spruzzare
+* **roots** = radici

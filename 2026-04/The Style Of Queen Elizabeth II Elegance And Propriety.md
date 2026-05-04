@@ -8,7 +8,7 @@ Ad aprile di quest’anno, la regina avrebbe compiuto cent’anni. Per l’occas
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/The%20Style%20Of%20Queen%20Elizabeth%20II%20Elegance%20And%20Propriety.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/The%20Style%20Of%20Queen%20Elizabeth%20II%20Elegance%20And%20Propriety.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -56,45 +56,45 @@ If you want to know more about this topic, read the article Queen Elizabeth II: 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **matching** = coordinato
-* **pearl necklace** = collana di perle
-* **patron** = sostenitrice
+* **gown** = abito lungo
 * **Black-owned businesses** = imprenditoria nera
-* **coming across** = dare l’impressione
-* **approachable** = disponibile, alla mano
-* **commoner** = cittadina comune
-* **risqué** = audace
+* **void** = vuoto
+* **propriety** = decoro
+* **is much less the case** = essere così
+* **long-held** = radicate
 * **kilt** = gonna scozzese
 * **background** = origine, contesto
-* **figurehead** = figura rappresentativa
-* **unassuming** = discreto
-* **propriety** = decoro
-* **shaking hands** = stringere la mano
-* **long-held** = radicate
-* **confident** = sicura di sé
-* **staples** = elementi essenziali
-* **gown** = abito lungo
 * **showy** = appariscente
-* **void** = vuoto
-* **demeanour** = comportamento, portamento
-* **heritage** = tradizionali
+* **unassuming** = discreto
+* **approachable** = disponibile, alla mano
 * **bespoke fashion** = moda su misura
-* **outfits** = completi
-* **three-strand** = a tre fili
+* **duty** = dovere
 * **PhD** = dottorato
+* **patron** = sostenitrice
+* **commoner** = cittadina comune
+* **strong-minded** = dal carattere forte, determinata
+* **longest-reigning** = che ha regnato più a lungo
+* **demeanour** = comportamento, portamento
+* **coming across** = dare l’impressione
 * **split** = rottura
 * **aware** = consapevole
-* **dignified** = dignitosa, maestosa
 * **steady** = costante, stabile
-* **strong-minded** = dal carattere forte, determinata
+* **outfits** = completi
+* **pearl necklace** = collana di perle
+* **full-length** = lunga
 * **fundraiser** = evento di raccolta fondi
 * **reassurance** = sicurezza, conforto
+* **figurehead** = figura rappresentativa
 * **relate to** = sentirsi legati a
-* **eldest daughter** = figlia maggiore
-* **is much less the case** = essere così
-* **marked a striking departure** = segnò una rottura evidente
-* **full-length** = lunga
 * **charm** = fascino
-* **longest-reigning** = che ha regnato più a lungo
-* **duty** = dovere
+* **confident** = sicura di sé
+* **staples** = elementi essenziali
+* **eldest daughter** = figlia maggiore
 * **timeless** = senza tempo
+* **dignified** = dignitosa, maestosa
+* **marked a striking departure** = segnò una rottura evidente
+* **matching** = coordinato
+* **three-strand** = a tre fili
+* **shaking hands** = stringere la mano
+* **risqué** = audace
+* **heritage** = tradizionali

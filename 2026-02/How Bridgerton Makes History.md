@@ -8,7 +8,7 @@ Nonostante non manchino gli elementi di fantasia e le reinterpretazioni, il 'per
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/How%20Bridgerton%20Makes%20History.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/How%20Bridgerton%20Makes%20History.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -47,42 +47,42 @@ Published in The New York Times on 13 June 2024. Reprinted with permission.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **compliment** = complimento
-* **spanning** = estendersi, coprire
-* **Regency-ify** = adattare allo stile dell’età della Reggenza
-* **cast** = avere nel cast
-* **Thank goodness** = grazie al cielo
-* **knowingly** = consapevolmente
-* **hot air balloons** = mongolfiere
-* **speech** = battute, discorso
-* **widow** = vedova
-* **evening out the scales** = riequilibrare le cose
-* **hews** = attenersi
-* **echelons** = ranghi
-* **dull** = noiosa
-* **repurposes** = dare una nuova funzione
-* **absolute letter** = cronaca letterale
-* **conterminous** = che coincide
-* **schoolmistress** = maestra
-* **astounding** = sorprendente
-* **plot hole** = buco di trama
-* **motto of sorts** = una sorta di motto
-* **telling them off** = rimproverare
-* **posited** = ipotizzare
-* **swan wig** = parrucca a forma di cigno
-* **barely** = a malapena
-* **spark** = innescare
+* **online threads** = discussioni online
 * **enflowered** = fiorito
 * **swoon** = andare in estasi
-* **wrought** = provocare, infliggere
-* **period dramas** = drammi in costume
-* **erasure** = cancellazione
+* **speech** = battute, discorso
+* **posited** = ipotizzare
+* **border** = affiancare
 * **on-call geek** = esperto reperibile
 * **depart** = allontanarsi
 * **tidbits** = curiosità
-* **showrunner** = produttrice creativa
+* **evening out the scales** = riequilibrare le cose
+* **spark** = innescare
+* **astounding** = sorprendente
+* **cast** = avere nel cast
+* **compliment** = complimento
+* **Regency-ify** = adattare allo stile dell’età della Reggenza
+* **schoolmistress** = maestra
 * **balls** = balli
+* **barely** = a malapena
+* **wrought** = provocare, infliggere
+* **motto of sorts** = una sorta di motto
+* **dull** = noiosa
+* **hot air balloons** = mongolfiere
+* **showrunner** = produttrice creativa
+* **swan wig** = parrucca a forma di cigno
 * **laypeople** = non esperti, profani
 * **grounded** = basarsi
-* **online threads** = discussioni online
-* **border** = affiancare
+* **telling them off** = rimproverare
+* **period dramas** = drammi in costume
+* **absolute letter** = cronaca letterale
+* **spanning** = estendersi, coprire
+* **widow** = vedova
+* **plot hole** = buco di trama
+* **echelons** = ranghi
+* **Thank goodness** = grazie al cielo
+* **repurposes** = dare una nuova funzione
+* **knowingly** = consapevolmente
+* **conterminous** = che coincide
+* **erasure** = cancellazione
+* **hews** = attenersi

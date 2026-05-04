@@ -8,7 +8,7 @@ Nato in una fattoria di mucche, è cresciuto fino a diventare il più grande fes
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Glastonbury%20Festival%20Mud,%20Music%20and%20Mayhem.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Glastonbury%20Festival%20Mud,%20Music%20and%20Mayhem.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -30,22 +30,22 @@ Throughout its history, Glastonbury has [featured](## "includere, presentare") m
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **fallow year** = anno di maggese
+* **gone down in music history** = entrare nella storia
 * **muddy** = fangosi
 * **revellers** = festaioli
+* **delighting** = entusiasmare
+* **wellies** = stivali di gomma
+* **rite of passage** = rito di passaggio
+* **blaring** = risuonare fragorosamente
 * **springboard** = trampolino
+* **n keeping with** = conforme a
 * **aims** = avere come obiettivo
 * **featured** = includere, presentare
+* **buried** = seppellire
+* **stomping** = calpestare con forza
+* **rolling over in his grave** = rivoltarsi nella tomba
+* **dairy farmer** = produttore lattiero
+* **fringe theatre** = teatro sperimentale
 * **stunned** = stupire, sbalordire
 * **awe-inspiring** = impressionanti
-* **blaring** = risuonare fragorosamente
-* **stomping** = calpestare con forza
-* **dairy farmer** = produttore lattiero
-* **gone down in music history** = entrare nella storia
-* **wellies** = stivali di gomma
-* **rolling over in his grave** = rivoltarsi nella tomba
-* **n keeping with** = conforme a
-* **rite of passage** = rito di passaggio
-* **fallow year** = anno di maggese
-* **buried** = seppellire
-* **fringe theatre** = teatro sperimentale
-* **delighting** = entusiasmare

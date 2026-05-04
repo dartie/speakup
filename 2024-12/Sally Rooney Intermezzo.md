@@ -8,7 +8,7 @@ Nel suo quarto romanzo, la giovane scrittrice irlandese esplora i temi del lutto
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Sally%20Rooney%20Intermezzo.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Sally%20Rooney%20Intermezzo.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -47,54 +47,54 @@ Rooney commented that, for her, writing is an exploration of the dynamics betwee
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **out of hand** = senza nemmeno pensare
-* **aim** = obiettivo
-* **slippage** = perdita di contatto
-* **chessboard** = scacchiera
-* **triggered** = provocare
-* **attached** = legato
-* **features** = comparire
-* **rueful** = triste
-* **stored** = conservare
-* **ten years his junior** = di dieci anni più giovane
-* **drawn** = coinvolta
-* **boundaries** = confini
-* **to break out** = uscire
-* **stuff** = cose
-* **prompts** = spingere
-* **disbelief** = incredulità
-* **remorse** = rimorso
-* **chess move** = mossa di scacchi
-* **seemingly** = apparentemente
-* **stagnant** = stagnante
-* **in his own right** = per conto proprio
-* **unmet** = non soddisfatto
-* **sketch out** = fare un abbozzo
-* **failed** = non riuscire
-* **unbearably** = insostenibilmente
-* **drive** = impulso, spinta
-* **insight** = visione
-* **pawns** = pedoni
 * **guilt** = colpa
+* **labelled** = etichettare
+* **chessboard** = scacchiera
 * **hesitate** = esitare
-* **being in denial** = essere in negazione
-* **grieving** = essere in lutto
+* **remorse** = rimorso
+* **some extent** = in parte, parzialmente
+* **sketch out** = fare un abbozzo
+* **stagnant** = stagnante
+* **copes** = affrontare
+* **capable** = capace
+* **out of hand** = senza nemmeno pensare
+* **drive** = impulso, spinta
 * **regret** = rimpianto
-* **spiral** = essere fuori controllo
-* **pouring** = versare
-* **dismiss** = rimuovere, scartare
-* **people-become-entrapped** = le persone rimangono intrappolate
+* **siblings** = fratelli e sorelle
+* **dealt with** = affrontare
+* **stuff** = cose
+* **features** = comparire
+* **demands** = esigenze
+* **attached** = legato
+* **boundaries** = confini
+* **being in denial** = essere in negazione
+* **failed** = non riuscire
+* **seemingly** = apparentemente
+* **ten years his junior** = di dieci anni più giovane
+* **in his own right** = per conto proprio
 * **stuck** = bloccato
+* **triggered** = provocare
+* **spiral** = essere fuori controllo
+* **stored** = conservare
+* **unbearably** = insostenibilmente
+* **people-become-entrapped** = le persone rimangono intrappolate
+* **slippage** = perdita di contatto
+* **to break out** = uscire
+* **unmet** = non soddisfatto
+* **prompts** = spingere
+* **jar** = barattolo
+* **pouring** = versare
+* **doorway** = accesso
+* **chess move** = mossa di scacchi
+* **pawns** = pedoni
+* **disbelief** = incredulità
+* **rueful** = triste
+* **dismiss** = rimuovere, scartare
+* **aim** = obiettivo
+* **grieving** = essere in lutto
+* **shape** = plasmare
+* **insight** = visione
+* **drawn** = coinvolta
+* **overrunning** = superare
 * **shifts** = spostare
 * **break-up** = rottura
-* **dealt with** = affrontare
-* **shape** = plasmare
-* **capable** = capace
-* **labelled** = etichettare
-* **jar** = barattolo
-* **demands** = esigenze
-* **copes** = affrontare
-* **siblings** = fratelli e sorelle
-* **overrunning** = superare
-* **some extent** = in parte, parzialmente
-* **doorway** = accesso

@@ -8,7 +8,7 @@ Ridley Scott firma il sequel del suo stesso successo, con l’irlandese Paul Mes
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Gladiator%20II%20Back%20To%20the%20Colosseum.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Gladiator%20II%20Back%20To%20the%20Colosseum.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -47,33 +47,33 @@ Gladiator movies often suggest that gladiators were treated similarly to modern-
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **accolades** = riconoscimenti
-* **clue** = idea
-* **blacked out** = avere un black out, perdere i sensi
-* **pinching** = pizzicare
-* **has big shoes to fill** = trovarsi di fronte a una grande sfida
-* **dearly** = avere a cuore
-* **breakthrough** = svolta, passi avanti
+* **undergo** = sottoporsi
 * **resonated with** = trovare il favore di
+* **accolades** = riconoscimenti
+* **performer** = interprete
 * **loosely** = liberamente
-* **bubble** = bolla
-* **BAFTA** = organizzazione cinematografica (British Academy of Film and Television Arts)
+* **breakthrough** = svolta, passi avanti
 * **up-and-coming** = emergente
-* **period piece** = opera d’epoca
-* **step into** = entrare
-* **reprises** = riprendere
+* **praise** = elogi
+* **bubble** = bolla
+* **dearly** = avere a cuore
 * **lingering** = persistenti
+* **BAFTA** = organizzazione cinematografica (British Academy of Film and Television Arts)
+* **landed** = ottenere
+* **reprises** = riprendere
+* **blacked out** = avere un black out, perdere i sensi
+* **thrive** = prosperare
+* **has big shoes to fill** = trovarsi di fronte a una grande sfida
+* **box-office** = botteghino
+* **boundaries** = confini
+* **Streetcar** = tram
+* **step into** = entrare
+* **daunting** = spaventoso, intimorente
+* **plague** = peste
+* **lowly** = modesto
+* **clue** = idea
+* **takes on** = assumere
 * **weird** = strana
 * **surreal** = surreale
-* **daunting** = spaventoso, intimorente
-* **performer** = interprete
-* **box-office** = botteghino
-* **landed** = ottenere
-* **thrive** = prosperare
-* **undergo** = sottoporsi
-* **Streetcar** = tram
-* **takes on** = assumere
-* **boundaries** = confini
-* **praise** = elogi
-* **lowly** = modesto
-* **plague** = peste
+* **pinching** = pizzicare
+* **period piece** = opera d’epoca

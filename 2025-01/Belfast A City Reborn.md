@@ -8,7 +8,7 @@ La capitale dell’Irlanda del Nord sta cercando di superare decenni di violenza
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/Belfast%20A%20City%20Reborn.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/Belfast%20A%20City%20Reborn.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -41,25 +41,25 @@ Belfast has so many faces: St. George’s Market, Samson and Goliath (the giant 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **healing** = sanare
-* **quarters** = quartieri, rioni
-* **harbour** = porto
-* **sprawling** = in espansione
-* **HMS** = nave di sua maestà (His/Her Majesty’s Ship)
-* **state-of-the-art** = all’avanguardia
-* **lie** = trovarsi
-* **settled** = stabilirsi
 * **driving force** = forza trainante
-* **Loyalists** = lealisti
-* **mild** = mite
+* **healing** = sanare
+* **fine dining** = cucina raffinata
 * **given way** = cedere il passo
 * **UNESCO** = United Nations Educational, Scientific and Cultural Organization
+* **lie** = trovarsi
+* **HMS** = nave di sua maestà (His/Her Majesty’s Ship)
+* **Granted** = concedere
 * **docklands** = zona portuale
-* **cranes** = gru
-* **fine dining** = cucina raffinata
+* **mild** = mite
+* **settled** = stabilirsi
+* **quarters** = quartieri, rioni
+* **state-of-the-art** = all’avanguardia
+* **sprawling** = in espansione
+* **hub** = centro
 * **linen** = lino
 * **shipyards** = cantieri navali
 * **tonnage** = tonnellaggio
-* **hub** = centro
+* **Loyalists** = lealisti
+* **cranes** = gru
+* **harbour** = porto
 * **ruled** = governare
-* **Granted** = concedere

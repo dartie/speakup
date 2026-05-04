@@ -8,7 +8,7 @@ Duecento anni fa, un giovane intraprendente fondò un’azienda che produceva i 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/Cadbury%27s%20200th%20Anniversary.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/Cadbury%27s%20200th%20Anniversary.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -29,28 +29,28 @@ With the [dawning](## "alba, principio") of the 20th century, the company contin
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **to flow** = fluire
-* **Quaker** = quacchero
-* **took over** = prendere il controllo
-* **Easter eggs** = uova di Pasqua
-* **fair** = equi
-* **treat** = delizia
-* **Tray** = vassoio
-* **failing** = fallire
 * **cocoa beans** = fave di cacao
+* **fair** = equi
 * **wages** = salari
-* **humble** = modesto, umile
-* **dawning** = alba, principio
-* **Crunchie** = croccante
-* **confectionery** = confettiera
+* **household name** = nome familiare
+* **Tray** = vassoio
+* **Nut** = frutta a guscio
+* **Easter eggs** = uova di Pasqua
 * **ought** = dovrebbe
 * **cottages** = casette
 * **dentistry** = odontoiatria
-* **tent** = tenda
-* **household name** = nome familiare
-* **Nut** = frutta a guscio
-* **has a firm hold** = avere sotto controllo
-* **merger** = fusione
+* **humble** = modesto, umile
+* **Crunchie** = croccante
 * **takeover** = acquisizione
-* **estate** = proprietà immobiliari
+* **Quaker** = quacchero
 * **beliefs** = credenze, valori
+* **tent** = tenda
+* **dawning** = alba, principio
+* **has a firm hold** = avere sotto controllo
+* **confectionery** = confettiera
+* **merger** = fusione
+* **failing** = fallire
+* **took over** = prendere il controllo
+* **estate** = proprietà immobiliari
+* **treat** = delizia
+* **to flow** = fluire

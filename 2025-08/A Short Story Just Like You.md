@@ -8,7 +8,7 @@ E se le macchine si ribellassero agli umani? Ci pentiremmo di come le abbiamo tr
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/A%20Short%20Story%20Just%20Like%20You.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/A%20Short%20Story%20Just%20Like%20You.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -50,34 +50,34 @@ The car stopped at the edge of a [makeshift](## "improvvisata") arena. Victor o
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **rust bucket** = rottame
-* **handle** = maniglia
-* **slammed the door** = sbattere la porta
-* **intervening years** = anni successivi
-* **fell to pieces** = cadere a pezzi
-* **parts** = pezzi
-* **slamming into** = schiantarsi
-* **tinted** = oscurare
-* **shaken** = scuotere
-* **gone rogue** = ribellarsi, fare di testa propria
-* **to comply** = obbedire
 * **Run me over** = investire
-* **flew past them** = volare oltre, sorpassare
-* **to and from** = da e verso
-* **sold off** = svendere
-* **emotionally attached** = emotivamente legate
-* **kidnapper** = sequestratore
-* **dead-end street** = strada senza uscita
-* **grabbed** = afferrare
-* **sympathy** = compassione
-* **Downtown LA** = abbr. di Downtown Los Angeles, centro di Los Angeles
-* **freeway** = autostrada senza pedaggio
-* **turned off** = lasciare
-* **tracker** = localizzatore
-* **self-aware** = consapevoli di sé
-* **makeshift** = improvvisata
-* **growled** = ringhiare
-* **pounded** = colpire, picchiare
 * **state of the art** = all’avanguardia
-* **rash** = avventato
+* **rust bucket** = rottame
+* **slamming into** = schiantarsi
 * **dispose** = sbarazzarsi
+* **tracker** = localizzatore
+* **slammed the door** = sbattere la porta
+* **growled** = ringhiare
+* **flew past them** = volare oltre, sorpassare
+* **parts** = pezzi
+* **dead-end street** = strada senza uscita
+* **to comply** = obbedire
+* **makeshift** = improvvisata
+* **Downtown LA** = abbr. di Downtown Los Angeles, centro di Los Angeles
+* **pounded** = colpire, picchiare
+* **handle** = maniglia
+* **gone rogue** = ribellarsi, fare di testa propria
+* **sympathy** = compassione
+* **rash** = avventato
+* **emotionally attached** = emotivamente legate
+* **to and from** = da e verso
+* **freeway** = autostrada senza pedaggio
+* **sold off** = svendere
+* **turned off** = lasciare
+* **tinted** = oscurare
+* **self-aware** = consapevoli di sé
+* **intervening years** = anni successivi
+* **kidnapper** = sequestratore
+* **shaken** = scuotere
+* **fell to pieces** = cadere a pezzi
+* **grabbed** = afferrare

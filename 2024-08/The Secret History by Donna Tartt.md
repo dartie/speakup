@@ -8,7 +8,7 @@ L’autrice americana ha esordito con questo thriller psicologico in cui un grup
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/The%20Secret%20History%20by%20Donna%20Tartt.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/The%20Secret%20History%20by%20Donna%20Tartt.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -54,38 +54,38 @@ Donna Lousie Tartt was only twenty-nine when The Secret History was published. V
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **whydunnit** = perché l’ha fatto
-* **remorse** = rimorso
-* **jar** = vasetto
-* **burden** = carico
-* **loathsome** = ripugnante
+* **grief** = dolore
+* **background** = passato
+* **fleeting** = fugaci
+* **a twist of fate** = un giro del destino
+* **lavish** = sontuoso
+* **guilt** = colpa
+* **stand out** = risaltare
 * **braying** = raglio
 * **brash** = sfacciati
-* **grief** = dolore
-* **backdrop** = sfondo, scenario
-* **lavish** = sontuoso
-* **fleeting** = fugaci
-* **clever** = intelligenti
-* **pangs** = fitte, strette
-* **cupboards** = credenze
-* **to enrol** = immatricolarsi
-* **a twist of fate** = un giro del destino
-* **spoilt** = viziati
-* **to assert themselves** = affermarsi
-* **Goldfinch** = cardellino
-* **whodunnit** = poliziesco (lett. chi l’ha fatto)
-* **yearns** = desiderare fare
-* **disdain** = disprezzo
-* **catch glimpses** = intravedere
-* **stand out** = risaltare
-* **sneeringly** = beffardamente
-* **outburst** = esplosione
-* **strike Richard as** = sembrare a
-* **background** = passato
-* **unreliable** = inaffidabile
-* **warmth** = calore
-* **beery breath** = alito da birra
 * **relief** = sollievo
+* **sneeringly** = beffardamente
+* **pangs** = fitte, strette
+* **Goldfinch** = cardellino
+* **to enrol** = immatricolarsi
+* **cupboards** = credenze
+* **to assert themselves** = affermarsi
+* **backdrop** = sfondo, scenario
+* **yearns** = desiderare fare
+* **unreliable** = inaffidabile
+* **spoilt** = viziati
+* **catch glimpses** = intravedere
+* **warmth** = calore
+* **outburst** = esplosione
+* **remorse** = rimorso
+* **clever** = intelligenti
+* **strike Richard as** = sembrare a
+* **disdain** = disprezzo
+* **loathsome** = ripugnante
 * **label** = etichetta
 * **pin them down** = individuare
-* **guilt** = colpa
+* **burden** = carico
+* **beery breath** = alito da birra
+* **jar** = vasetto
+* **whydunnit** = perché l’ha fatto
+* **whodunnit** = poliziesco (lett. chi l’ha fatto)

@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/Bizarre%20Science%20Ig%20Nobel%20Prize.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/Bizarre%20Science%20Ig%20Nobel%20Prize.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,20 +35,20 @@ www. improbable.com
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **poultry farmers** = allevatori di pollame
-* **dropped** = cadere
-* **trout** = trota
-* **downright** = decisamente
-* **in disbelief** = per l’incredulità
+* **dubious** = discutibili
+* **ignoble** = ignobile
 * **spur** = stimolare
 * **banknotes** = banconote
 * **ten trillion** = diecimila miliardi
-* **achievements** = risultati scientifici
+* **trout** = trota
+* **downright** = decisamente
+* **in disbelief** = per l’incredulità
+* **delight** = con piacere
 * **awards** = premiare
 * **lecture** = conferenza
-* **dubious** = discutibili
-* **delight** = con piacere
-* **ignoble** = ignobile
+* **ostriches** = struzzi
+* **achievements** = risultati scientifici
 * **frog** = rana
 * **claim** = dichiarazione
-* **ostriches** = struzzi
+* **poultry farmers** = allevatori di pollame
+* **dropped** = cadere

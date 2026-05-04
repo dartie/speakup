@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/Isambard%20Kingdom%20Brunel%20Britain%E2%80%99s%20Greatest%20Engineer.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/Isambard%20Kingdom%20Brunel%20Britain%E2%80%99s%20Greatest%20Engineer.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -37,19 +37,19 @@ Brunel was a visionary who only thought on the grand scale and never allowed any
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **gorges** = gole, forre
+* **to be dragged** = trascinare
+* **steamships** = navi a vapore
+* **SS** = piroscafo (acronimo di screw steamer)
+* **ocean liner** = transatlantico
+* **raw sewage** = liquame grezzo
+* **sailed** = salpare
+* **stroke** = ictus
 * **propeller-driven** = propulsione a elica
 * **to the waves** = prendere il largo
+* **laid** = posare
+* **gorges** = gole, forre
 * **tunnelling shield** = copertura protettiva per i tunnel
-* **to be dragged** = trascinare
 * **the rising** = salire
 * **span** = campata
-* **steamships** = navi a vapore
-* **sailed** = salpare
-* **ocean liner** = transatlantico
-* **stroke** = ictus
-* **raw sewage** = liquame grezzo
-* **SS** = piroscafo (acronimo di screw steamer)
 * **iron-hulled** = scafo in ferro
 * **launch** = prendere il mare
-* **laid** = posare

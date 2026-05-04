@@ -8,7 +8,7 @@ Come si interpreta il linguaggio delle creature non umane? Sarà possibile parla
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/Speaking%20with%20Animals%20Inter-species%20Conversation.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/Speaking%20with%20Animals%20Inter-species%20Conversation.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,14 +35,14 @@ Globally, conservationists have described the combination of digital recordings 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **aims** = aspirare, mirare
-* **sperm whales** = capodogli
-* **hearing aid** = apparecchio acustico
-* **time-consuming** = che richiede tempo
-* **shapes** = forme
-* **parrots** = pappagalli
-* **non-profit organisation** = organizzazione senza scopo di lucro
-* **mole rats** = ratti talpa
-* **fruit bats** = pipistrelli della frutta
 * **has enabled** = permettere, consentire
 * **accurately** = con precisione
+* **parrots** = pappagalli
+* **time-consuming** = che richiede tempo
+* **non-profit organisation** = organizzazione senza scopo di lucro
+* **sperm whales** = capodogli
+* **fruit bats** = pipistrelli della frutta
+* **shapes** = forme
+* **aims** = aspirare, mirare
+* **mole rats** = ratti talpa
+* **hearing aid** = apparecchio acustico

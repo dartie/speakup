@@ -8,7 +8,7 @@ Al giorno d’oggi sembra impossibile da immaginare, ma potrebbero esserci le co
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/Could%20the%20English%20Language%20Die.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/Could%20the%20English%20Language%20Die.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -31,34 +31,34 @@ Published in The Guardian on 11 May 2025. Reprinted with permission. 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **illiterate** = analfabeta
-* **so to speak** = per così dire
-* **brakes** = freni
-* **stood still** = restare fermo, immobile
-* **the former** = questi ultimi
-* **pull the lexical blanket** = tirare la coperta
-* **loanwords** = prestiti linguistici
-* **lumbering** = goffo, pesante
-* **driver** = forza trainante
-* **to go the way of** = seguire lo stesso destino di
-* **drops** = abbandonare
-* **strongholds** = bastioni
-* **morass** = intrigo, ammasso
-* **speeding up** = accelerare
-* **AD** = dopo Cristo  (anno Domini)
-* **nattering** = chiacchierare
-* **buffer** = ammortizzatore
-* **vanish** = scomparire
-* **unwittingly** = involontariamente
-* **underfoot** = lungo il cammino
-* **in all likelihood.** = con ogni probabilità
 * **grip** = dominio
-* **backlash** = reazione negativa, contraccolpo
+* **pull the lexical blanket** = tirare la coperta
+* **strongholds** = bastioni
+* **buffer** = ammortizzatore
 * **labelled** = etichettare, considerare
-* **hapless** = sfortunati
-* **uncharted territory** = territorio inesplorato
-* **staggering** = sconvolgente, impressionante
+* **speeding up** = accelerare
+* **brakes** = freni
 * **booze** = bevande alcoliche
+* **hapless** = sfortunati
+* **so to speak** = per così dire
 * **usher in** = introdurre
+* **unwittingly** = involontariamente
+* **morass** = intrigo, ammasso
+* **nattering** = chiacchierare
 * **literacy** = alfabetizzazione
+* **to go the way of** = seguire lo stesso destino di
+* **the former** = questi ultimi
+* **stood still** = restare fermo, immobile
+* **backlash** = reazione negativa, contraccolpo
+* **loanwords** = prestiti linguistici
+* **vanish** = scomparire
+* **AD** = dopo Cristo  (anno Domini)
+* **uncharted territory** = territorio inesplorato
+* **underfoot** = lungo il cammino
+* **driver** = forza trainante
+* **in all likelihood.** = con ogni probabilità
+* **illiterate** = analfabeta
+* **staggering** = sconvolgente, impressionante
 * **stemming** = contenere
+* **lumbering** = goffo, pesante
+* **drops** = abbandonare

@@ -8,7 +8,7 @@ Questo audace navigatore ed esploratore, proveniente da un’umile famiglia, con
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/Captain%20Cook%20History%E2%80%99s%20Intrepid%20Explorer.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/Captain%20Cook%20History%E2%80%99s%20Intrepid%20Explorer.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,32 +32,32 @@ In Cook’s three voyages, he [sailed](## "navigare") thousands of miles across 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **longboat** = barcaccia
-* **set out** = partire
-* **Venus passing** = transito di Venere
-* **claim** = reclamare
 * **trade** = commercio
-* **theft** = furto
-* **retaliated** = vendicarsi
-* **legacy** = eredità
-* **to survey** = ispezionare
-* **moods** = umori, stati d’animo
-* **ensued** = seguire
-* **seamanship** = arte della navigazione
-* **fabled** = mitico
-* **overseas** = oltremare
-* **take the Hawaiian chief hostage** = prendere in ostaggio
-* **aftermath** = periodo successivo
-* **chart** = tracciare
-* **awe** = stupore
 * **sailed** = navigare
-* **skirmish** = scaramuccia
-* **wounds** = ferite
-* **vanquished** = sconfitto
-* **boundaries** = confini
-* **stabbed** = pugnalare
-* **clubbed** = bastonare
-* **contentious** = polemico
 * **source** = fonte
-* **HMS** = Nave di Sua Maestà (His Majesty’s Ship)
+* **to survey** = ispezionare
 * **punished** = punire
+* **ensued** = seguire
+* **clubbed** = bastonare
+* **vanquished** = sconfitto
+* **chart** = tracciare
+* **Venus passing** = transito di Venere
+* **boundaries** = confini
+* **HMS** = Nave di Sua Maestà (His Majesty’s Ship)
+* **set out** = partire
+* **fabled** = mitico
+* **moods** = umori, stati d’animo
+* **wounds** = ferite
+* **awe** = stupore
+* **theft** = furto
+* **claim** = reclamare
+* **take the Hawaiian chief hostage** = prendere in ostaggio
+* **skirmish** = scaramuccia
+* **overseas** = oltremare
+* **longboat** = barcaccia
+* **stabbed** = pugnalare
+* **aftermath** = periodo successivo
+* **retaliated** = vendicarsi
+* **contentious** = polemico
+* **legacy** = eredità
+* **seamanship** = arte della navigazione

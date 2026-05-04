@@ -8,7 +8,7 @@ Il prolifico poeta e drammaturgo gallese Dylan Thomas continua ad affascinare il
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/In%20Love%20With%20Words.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/In%20Love%20With%20Words.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -34,7 +34,7 @@ Thomas had a reputation for heavy drinking and [larking around](## "divertirsi")
 
 ## DYLAN THOMAS CENTRE
 So, what can visitors experience at the Dylan Thomas Centre?
-**Jo Furber:** We’ve got a permanent exhibition, which is about Dylan’s life and work and also about his cultural connections as well. And we’ve got such a range of artifacts ranging from [worksheets](## "fogli per appunti"), original manuscripts to his poems. We’ve got the doors to his writing [shed](## "capanno") from Laugharne, so you can actually see the doors that he used to open every day when he was going into his [shed](## "capanno") to write or to struggle with his writing. And of course, we��ve got a range of audio recordings and first editions of his books, different bits of film of other people reading his work as well. So there’s plenty to just [dive into](## "immergersi")and explore.
+**Jo Furber:** We’ve got a permanent exhibition, which is about Dylan’s life and work and also about his cultural connections as well. And we’ve got such a range of artifacts ranging from [worksheets](## "fogli per appunti"), original manuscripts to his poems. We’ve got the doors to his writing [shed](## "capanno") from Laugharne, so you can actually see the doors that he used to open every day when he was going into his [shed](## "capanno") to write or to struggle with his writing. And of course, we’ve got a range of audio recordings and first editions of his books, different bits of film of other people reading his work as well. So there’s plenty to just [dive into](## "immergersi")and explore.
 
 ## SELF-TAUGHT
 Thomas’s father, David Thomas, had won a [scholarship](## "borsa di studio") to attend Aberystwyth University, where he gained a first in English. He then went into teaching, but regretted it as he had always wanted to be a poet. Although clearly guided by his father, Dylan Thomas was a [self-taught](## "autodidatta")writer who did not go to university. Furber believes that he can be an example for young people today.
@@ -50,36 +50,36 @@ www.dylanthomas.com
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **resonate with** = persistere
+* **rooted in** = radicato
+* **informed by** = influenzata da
+* **pledges** = promesse
+* **dive into** = immergersi
+* **lacked** = mancare
+* **anchoring** = ancorare
+* **Council** = comune
+* **handing** = consegnare
+* **scholarship** = borsa di studio
+* **curator** = curatrice
+* **pursue** = dedicarsi a
 * **some extent** = in parte
+* **to a large extent** = in gran parte
+* **qualification** = titolo
+* **thousand-odd** = mille e passa
 * **packed into** = compattare
 * **fondness** = affetto
-* **dive into** = immergersi
-* **scholarship** = borsa di studio
-* **lacked** = mancare
-* **grammar school** = liceo
+* **concern** = preoccupazione
+* **household** = intorno domestico
+* **larking around** = divertirsi
+* **worksheets** = fogli per appunti
+* **shed** = capanno
+* **peers** = colleghi
+* **self-taught** = autodidatta
+* **resonate with** = persistere
+* **acted up** = attenersi a un comportamento
+* **ivory** = avorio
 * **engaged** = impegnato, intraprendente
+* **grammar school** = liceo
 * **achieving** = realizzare
 * **churchyard** = cimitero
 * **joy** = gioia
 * **he lived up to** = essere all’altezza di
-* **acted up** = attenersi a un comportamento
-* **informed by** = influenzata da
-* **Council** = comune
-* **larking around** = divertirsi
-* **to a large extent** = in gran parte
-* **ivory** = avorio
-* **self-taught** = autodidatta
-* **curator** = curatrice
-* **rooted in** = radicato
-* **pledges** = promesse
-* **shed** = capanno
-* **concern** = preoccupazione
-* **qualification** = titolo
-* **worksheets** = fogli per appunti
-* **anchoring** = ancorare
-* **thousand-odd** = mille e passa
-* **household** = intorno domestico
-* **pursue** = dedicarsi a
-* **peers** = colleghi
-* **handing** = consegnare

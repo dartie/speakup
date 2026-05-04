@@ -8,7 +8,7 @@ Scopriamo quali tracce ha lasciato l'arrivo dei Romani nella Britannia dell'Età
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/The%20Roman%20Legacy.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/The%20Roman%20Legacy.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -52,36 +52,36 @@ www.cimuseums.org.uk
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **heating** = riscaldamento
-* **lighthouse** = faro
+* **the flip side** = il rovescio della medaglia
 * **bell tower** = campanile
-* **worlds apart** = essere mondi diversi
-* **edge** = bordo, margine
-* **springs** = sorgenti
-* **sample** = provare
-* **drains** = scarichi
-* **flush away** = buttare nel gabinetto
-* **improvement** = miglioramento
-* **surgery** = chirurgia
-* **underneath** = sotto
-* **exploits** = imprese
 * **Middle East** = Medio Oriente
-* **manure** = letame
-* **that stretches** = estendersi
-* **Steaming hot** = fumante
-* **mirrors** = rappresentare
-* **sanitation** = servizi igienici
-* **were flushed** = tirare lo sciacquone
-* **healers** = guaritori
+* **upset** = turbamento
 * **to oversee** = supervisionare
-* **World Heritage site** = patrimonio dell’umanità
-* **straw roofs** = tetti di paglia
-* **stinging nettles** = ortiche
-* **iron fist** = pugno di ferro
-* **enclosing** = racchiudere
+* **mirrors** = rappresentare
 * **sticks** = ramoscelli, bastoncini
 * **sewage** = acque di scolo, fogne
-* **the flip side** = il rovescio della medaglia
+* **surgery** = chirurgia
 * **poo** = cacca
+* **worlds apart** = essere mondi diversi
 * **Drainpipes** = tubi di scarico
-* **upset** = turbamento
+* **were flushed** = tirare lo sciacquone
+* **sample** = provare
+* **lighthouse** = faro
+* **underneath** = sotto
+* **drains** = scarichi
+* **flush away** = buttare nel gabinetto
+* **healers** = guaritori
+* **that stretches** = estendersi
+* **Steaming hot** = fumante
+* **World Heritage site** = patrimonio dell’umanità
+* **enclosing** = racchiudere
+* **springs** = sorgenti
+* **manure** = letame
+* **straw roofs** = tetti di paglia
+* **heating** = riscaldamento
+* **improvement** = miglioramento
+* **stinging nettles** = ortiche
+* **iron fist** = pugno di ferro
+* **edge** = bordo, margine
+* **exploits** = imprese
+* **sanitation** = servizi igienici

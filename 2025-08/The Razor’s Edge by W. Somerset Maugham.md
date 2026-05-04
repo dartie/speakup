@@ -8,7 +8,7 @@ Questo romanzo introspettivo, che tocca temi come l’esistenzialismo, il materi
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/The%20Razor%E2%80%99s%20Edge%20by%20W.%20Somerset%20Maugham.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/The%20Razor%E2%80%99s%20Edge%20by%20W.%20Somerset%20Maugham.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -45,13 +45,13 @@ Maugham leaves, and never sees Larry or Isabel again. He reflects that while he 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **monk** = monaco
-* **typhoid** = tifo
 * **nervous breakdown** = esaurimento nervoso
 * **Razor’s Edge** = filo del rasoio
-* **becomes engaged** = fidanzarsi, promettersi matrimonio
-* **retreat** = ritiro
-* **fulfilment** = realizzazione personale
+* **monk** = monaco
+* **typhoid** = tifo
 * **acquaintance** = conoscente
+* **becomes engaged** = fidanzarsi, promettersi matrimonio
 * **socialite** = membro dell’alta società
 * **embarrassing** = imbarazzante
+* **retreat** = ritiro
+* **fulfilment** = realizzazione personale

@@ -8,7 +8,7 @@ Locale iconico della scena artistica newyorkese, è stato decisivo per la diffus
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/CBGB%20Hey%20Ho%20Let%E2%80%99s%20Go.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/CBGB%20Hey%20Ho%20Let%E2%80%99s%20Go.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -30,17 +30,17 @@ In the 1980s, CBGB became a temple for hardcore punk, and in the 1990s it hosted
 
 # Glossary
 * **hairdos** = acconciature
-* **Gourmandizers** = buongustai, intenditori
-* **Cramps** = crampi
-* **rough** = dura
-* **grimy** = sporco
-* **testament** = testimonianza
-* **venue** = locale
-* **damp** = umido
 * **cover bands** = gruppi che fanno cover
-* **Uplifting** = ispirati
-* **over-the-top** = esuberanti
 * **hence** = da qui, perciò
-* **gigs** = concerti
+* **Gourmandizers** = buongustai, intenditori
 * **fancy** = elegante, sofisticato
+* **damp** = umido
+* **Uplifting** = ispirati
+* **rough** = dura
+* **testament** = testimonianza
+* **over-the-top** = esuberanti
 * **rawness** = crudezza, freschezza
+* **venue** = locale
+* **gigs** = concerti
+* **Cramps** = crampi
+* **grimy** = sporco

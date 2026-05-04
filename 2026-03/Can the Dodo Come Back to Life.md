@@ -8,7 +8,7 @@ Secondo Colossal Biosciences, tra circa un decennio migliaia di dodo potrebbero 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/Can%20the%20Dodo%20Come%20Back%20to%20Life.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/Can%20the%20Dodo%20Come%20Back%20to%20Life.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -19,7 +19,7 @@ The Texas-based company, which [has made splashy headlines](## "fare titoloni d
 “[Rough ballpark](## "stima approssimativa"), we think [it’s still five to seven years out](## "mancare (tempo)"), but it’s not twenty years out,” Ben Lamm, Colossal’s chief executive, s[aid](## "aiutare") about the timeline for the dodo’s return. Colossal is working with wildlife groups to identify safe, rat-free sites in Mauritius where the species could once again [roam](## "vagare").
 “Our goal is to make enough dodos with enough genetic diversity engineered into them that we can put them back into the wild where they can truly [thrive](## "prosperare"),” he s[aid](## "aiutare"). “So we’re not looking to make two dodos, we’re looking to make thousands.”
 Dodos once [plodded](## "camminare pesantemente") the forests of Mauritius, located in the Indian Ocean, without predators until humans started killing them [in earnest](## "seriamente, con impegno"), a process accele[rate](## "tasso, indice")d by European exploration and expansion.
-Habitat loss and introduced invasive species, such as macaques, pigs and rats that r[aid](## "aiutare")ed dodo [nests](## "nidi"), [sealed the fate](## "segnare il destino") of the largely defenseless, fruit-eating bird. The last reliable [sighting](## "avvistamento") of a dodo came from a Dutch sailor, who described it as a “kind of very big [goose](## "oca")”, in 1662.
+Habitat loss and introduced invasive species, such as macaques, pigs and rats that [r[aid](## "aiutare")ed](## "saccheggiare") dodo [nests](## "nidi"), [sealed the fate](## "segnare il destino") of the largely defenseless, fruit-eating bird. The last reliable [sighting](## "avvistamento") of a dodo came from a Dutch sailor, who described it as a “kind of very big [goose](## "oca")”, in 1662.
 Colossal Biosciences CEO Ben Lamm with a de-extinct dire wolf pup.
 The dodo has since become a [byword](## "sinonimo") for extinction but Colossal has s[aid](## "aiutare") it is confident its methods, centered on its Crispr gene editing technology, can [turn the clock back](## "tornare indietro nel tempo") and return dodos to their former home.
 Beth Shapiro, Colossal’s scientific chief who has a tattoo of a dodo on her arm, s[aid](## "aiutare") the “super exciting” [breakthrough](## "svolta decisiva") came following a year of work to gene-edit birds, which are more complex to work on in this way than mammals.
@@ -53,45 +53,45 @@ Published in The Guardian on 17 September 2025. Reprinted with permission.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **thrive** = prosperare
-* **wooly mammoths** = mammut lanosi
-* **plodded** = camminare pesantemente
-* **nests** = nidi
-* **byword** = sinonimo
-* **turn the clock back** = tornare indietro nel tempo
-* **encroachment** = invasione
-* **endeavour** = impresa
-* **razing** = radere al suolo, distruzione
+* **Rough ballpark** = stima approssimativa
 * **flightless bird** = uccello che non vola
 * **eggs** = ovuli
-* **Rough ballpark** = stima approssimativa
-* **ground-dwelling** = terricolo
-* **aid** = aiutare
-* **at best** = nel migliore dei casi
-* **testament to** = dimostrazione di
-* **quest** = ricerca
-* **goose** = oca
-* **feat** = impresa, prodezza
-* **breakthrough** = svolta decisiva
-* **sighting** = avvistamento
-* **takes off** = decollare
-* **funding round** = round di investimenti
-* **controversy you drive** = generare controversie
-* **relatives** = parenti
-* **moral hazard** = azzardo morale
-* **flocked to** = accorrere
-* **germ cells** = cellule germinali
-* **in earnest** = seriamente, con impegno
-* **raided** = saccheggiare
+* **wooly mammoths** = mammut lanosi
 * **sealed the fate** = segnare il destino
-* **unnerving** = inquietanti, destabilizzanti
-* **has made splashy headlines** = fare titoloni da prima pagina
-* **surrogates** = gestanti surrogate
+* **encroachment** = invasione
+* **razing** = radere al suolo, distruzione
+* **takes off** = decollare
+* **dire wolves** = lupi terribili (grandi lupi preistorici)
 * **it’s still five to seven years out** = mancare (tempo)
 * **roam** = vagare
-* **rate** = tasso, indice
-* **enabler** = complice, abilitatore
-* **underlined** = sottolineare, mettere in evidenza
-* **demise** = scomparsa, estinzione
-* **dire wolves** = lupi terribili (grandi lupi preistorici)
+* **ground-dwelling** = terricolo
+* **flocked to** = accorrere
+* **germ cells** = cellule germinali
 * **breed** = riprodurre
+* **nests** = nidi
+* **sighting** = avvistamento
+* **rate** = tasso, indice
+* **underlined** = sottolineare, mettere in evidenza
+* **testament to** = dimostrazione di
+* **demise** = scomparsa, estinzione
+* **relatives** = parenti
+* **thrive** = prosperare
+* **moral hazard** = azzardo morale
+* **byword** = sinonimo
+* **endeavour** = impresa
+* **surrogates** = gestanti surrogate
+* **raided** = saccheggiare
+* **goose** = oca
+* **aid** = aiutare
+* **funding round** = round di investimenti
+* **controversy you drive** = generare controversie
+* **breakthrough** = svolta decisiva
+* **quest** = ricerca
+* **has made splashy headlines** = fare titoloni da prima pagina
+* **turn the clock back** = tornare indietro nel tempo
+* **at best** = nel migliore dei casi
+* **enabler** = complice, abilitatore
+* **feat** = impresa, prodezza
+* **plodded** = camminare pesantemente
+* **in earnest** = seriamente, con impegno
+* **unnerving** = inquietanti, destabilizzanti

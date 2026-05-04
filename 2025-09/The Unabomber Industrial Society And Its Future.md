@@ -8,7 +8,7 @@ Nel 1995, il Washington Post pubblicò il manifesto di Ted Kaczynski, aka Unabom
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Unabomber%20Industrial%20Society%20And%20Its%20Future.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Unabomber%20Industrial%20Society%20And%20Its%20Future.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -30,28 +30,28 @@ Over time, the Unabomber Manifesto has become a [vortex](## "vortice") of ideas
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **newsstands** = edicole
-* **tenets** = principi, dogmi
-* **mass surveillance** = sorveglianza di massa
-* **turned out** = risultare
-* **fringe** = marginali, estremiste
 * **widespread** = generalizzata
-* **prescient** = preveggente, premonitore
-* **insurance executive** = dirigente assicurativo
-* **vortex** = vortice
-* **embraced** = abbracciare, accogliere
-* **praised** = elogiare
-* **life expectancy** = aspettativa di vita
 * **vowed** = promettere
 * **served the terrorist’s purposes** = fare gli interessi
-* **sold out** = esaurire
-* **core** = centrali
 * **harms** = danni
-* **brought on** = causare, provocare
+* **fringe** = marginali, estremiste
+* **embraced** = abbracciare, accogliere
 * **the likes of** = gente come, del calibro di
-* **unfulfilling** = insoddisfacente
-* **shook** = scuotere
-* **endorsement** = appoggio, sostegno
+* **sold out** = esaurire
 * **looming** = incombente
+* **turned out** = risultare
+* **vortex** = vortice
+* **newsstands** = edicole
+* **tenets** = principi, dogmi
+* **core** = centrali
+* **brought on** = causare, provocare
+* **endorsement** = appoggio, sostegno
+* **mass surveillance** = sorveglianza di massa
 * **foresaw** = prevedere
 * **echo** = risuonare
+* **unfulfilling** = insoddisfacente
+* **shook** = scuotere
+* **prescient** = preveggente, premonitore
+* **insurance executive** = dirigente assicurativo
+* **praised** = elogiare
+* **life expectancy** = aspettativa di vita

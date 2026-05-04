@@ -8,7 +8,7 @@ Scopri il vocabolario dei colloqui di lavoro e alcuni consigli su come preparart
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/Chatbot%20Assistance%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/Chatbot%20Assistance%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -44,13 +44,13 @@ The idiom ‘**that’s more like it**!’ is used to show that you think someth
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **handle** = gestire
-* **recruiting company** = azienda di reclutamento
-* **welcoming** = accogliente
-* **chance** = possibilità, occasione
-* **to assess** = valutare
-* **slang** = gergo
-* **settings** = scenari, contesti
 * **improved** = migliorare
-* **advice** = consiglio
+* **welcoming** = accogliente
+* **handle** = gestire
 * **outcome** = risultato
+* **recruiting company** = azienda di reclutamento
+* **to assess** = valutare
+* **settings** = scenari, contesti
+* **advice** = consiglio
+* **chance** = possibilità, occasione
+* **slang** = gergo

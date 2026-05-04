@@ -8,7 +8,7 @@ In questa società usa e getta, la vera rivoluzione sta nel riparare e rammendar
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Repair%20Caf%C3%A9s%20Make%20Do%20And%20Mend.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Repair%20Caf%C3%A9s%20Make%20Do%20And%20Mend.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -37,26 +37,26 @@ www.repaircafe.org/en
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **crockery** = stoviglie
-* **grants** = sovvenzioni
-* **wardrobes** = armadi
 * **throwaway** = usa e getta
+* **goods** = beni
+* **Tools** = attrezzi
+* **funded** = finanziare
+* **partnerships** = collaborazioni
 * **spare parts** = pezzi di ricambio
+* **fix up** = aggiustare
+* **make do and mend** = arrangiarsi, riparare e riutilizzare
+* **electrical appliances** = elettrodomestici
 * **darn** = rammendare
 * **stitch** = ricamare
 * **sew** = cucire
 * **garment** = capo d’abbigliamento
-* **partnerships** = collaborazioni
-* **goods** = beni
-* **Tools** = attrezzi
+* **pieces of furniture** = mobili
+* **wardrobes** = armadi
 * **patch** = rattoppare
-* **fix up** = aggiustare
-* **rubbish** = spazzatura
+* **crockery** = stoviglie
 * **household items** = articoli per la casa
-* **funded** = finanziare
+* **grants** = sovvenzioni
 * **lifespan** = ciclo di vita, durata di vita
 * **knit** = lavorare a maglia
 * **tossing** = buttare
-* **make do and mend** = arrangiarsi, riparare e riutilizzare
-* **pieces of furniture** = mobili
-* **electrical appliances** = elettrodomestici
+* **rubbish** = spazzatura

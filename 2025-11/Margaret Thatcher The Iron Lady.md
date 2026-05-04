@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Margaret%20Thatcher%20The%20Iron%20Lady.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Margaret%20Thatcher%20The%20Iron%20Lady.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -31,7 +31,7 @@ Then, for their election campaign, Labour published a radically socialist manife
 
 ## MARKET RULES
 Influenced by a political approach known as neoliberalism, Thatcher [rolled back](## "ridurre, tagliare") the public sphere. She privatised state-owned industries and public services such as gas, water and electricity, offering [shares](## "azioni") to the public in her new “capital-owning democracy.” Her Right-to-Buy [scheme](## "programma") all[owe](## "dovere")d [tenants](## "inquilini, affittuari") of [council properties](## "case popolari") to buy their homes to give people more of a [stake](## "partecipazione") in society. Around 1.5 million homes were sold. Some experts [blame](## "incolpare") Britain’s current chronic housing [shortage](## "scarsità, carenza") on Thatcher’s idea.
-Thatcher also seriously [weakened](## "indebolire") the unions, [curbing](## "limitare") their p[owe](## "dovere")r and influence over government [once and for all](## "una volta per tutte"). Her opportunity came when the all-p[owe](## "dovere")rful National Union of Mineworkers went on strike after Thatcher announced the closure of twenty mines that she claimed were [unprofitable](## "non redditizie"). After a [bitter](## "accanita, amara"), often violent, year-long dispute, the government won; h[owe](## "dovere")ver, many mining communities suffered badly, economically and socially.
+Thatcher also seriously [weakened](## "indebolire") the unions, [curbing](## "limitare") their p[owe](## "dovere")r and influence over government [once and for all](## "una volta per tutte"). Her opportunity came when the [all-p[owe](## "dovere")rful](## "onnipotente") National Union of Mineworkers went on strike after Thatcher announced the closure of twenty mines that she claimed were [unprofitable](## "non redditizie"). After a [bitter](## "accanita, amara"), often violent, year-long dispute, the government won; h[owe](## "dovere")ver, many mining communities suffered badly, economically and socially.
 
 ## A GLOBAL ROLE
 Thatcher played an important role on the world stage. She had a close relationship with US President Ronald Reagan. Their anti-communist [stance](## "posizione") put severe economic pressure on the Soviet Union, contributing to the fall of the Berlin Wall in 1989. The Soviet press called Thatcher the Iron Lady. 
@@ -53,65 +53,65 @@ Thatcher was only the fifth woman to sit in Cabinet, yet as Prime Minister only 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **unfit** = inadatte
-* **not for turning** = non era disposta a cambiare idea
-* **term** = mandato, legislatura
-* **council properties** = case popolari
-* **bitter** = accanita, amara
-* **odd** = occasionale
-* **weakened** = indebolire
+* **all-powerful** = onnipotente
 * **looming** = incombere
-* **compromising** = cedere, scendere a compromessi
-* **tenure** = mandato
-* **blame** = incolpare
-* **adept** = abile
-* **divisiveness** = polarizzazione, disaccordo
-* **greed** = avidità
-* **conscripted** = arruolare, chiamare alle armi
-* **grocery store** = negozio di alimentari
+* **appointed** = nominare
 * **hand-bagging** = attaccare verbalmente
-* **policies** = politiche
-* **self-reliance** = autosufficienza
-* **exploiting** = sfruttare
-* **stake** = partecipazione
 * **curbing** = limitare
-* **unprofitable** = non redditizie
-* **poll tax** = tassa pro capite
-* **narrow** = rigida, intollerante
-* **trade unions** = sindacati
-* **strikes** = scioperi
-* **Falkland Islands** = Isole Falkland
-* **foghorn diplomacy** = diplomazia aggressiva
-* **barrister** = avvocato
-* **thrift** = frugalità
-* **welfare state** = stato sociale
-* **recast** = ridefinire
-* **duty** = dovere
-* **shook** = scuotere
+* **once and for all** = una volta per tutte
+* **income tax** = imposta sul reddito
+* **scheme** = programma
+* **council properties** = case popolari
+* **divisiveness** = polarizzazione, disaccordo
 * **ill-prepared** = impreparato
-* **shares** = azioni
-* **deepen** = rendere più grave
-* **commanding** = autorevole
+* **MPs** = deputati (acronimo di Member or Parliament)
+* **narrow** = rigida, intollerante
+* **adept** = abile
+* **foghorn diplomacy** = diplomazia aggressiva
+* **self-reliance** = autosufficienza
+* **poll tax** = tassa pro capite
+* **owe** = dovere
 * **armada** = flotta
+* **conscripted** = arruolare, chiamare alle armi
 * **shortage** = scarsità, carenza
 * **groundbreaking** = rivoluzionarie
-* **appointed** = nominare
-* **imprint** = segno, impronta
-* **engage** = trattare, relazionarsi
-* **owe** = dovere
-* **rolled back** = ridurre, tagliare
-* **tenants** = inquilini, affittuari
-* **resigned** = dimettersi
-* **stance** = posizione
 * **burst into** = irrompere
-* **income tax** = imposta sul reddito
-* **once and for all** = una volta per tutte
-* **all-powerful** = onnipotente
-* **stating** = dichiarare
-* **hold the office** = ricoprire la carica
-* **loathing** = detestare
+* **duty** = dovere
 * **harsh** = dure, severe
-* **tantrum** = capriccio
-* **scheme** = programma
-* **MPs** = deputati (acronimo di Member or Parliament)
+* **barrister** = avvocato
+* **shook** = scuotere
+* **shares** = azioni
+* **unprofitable** = non redditizie
+* **strikes** = scioperi
+* **resigned** = dimettersi
+* **odd** = occasionale
+* **hold the office** = ricoprire la carica
+* **weakened** = indebolire
+* **thrift** = frugalità
+* **compromising** = cedere, scendere a compromessi
+* **not for turning** = non era disposta a cambiare idea
+* **stating** = dichiarare
+* **imprint** = segno, impronta
+* **tenants** = inquilini, affittuari
+* **stake** = partecipazione
+* **exploiting** = sfruttare
+* **commanding** = autorevole
+* **tenure** = mandato
+* **greed** = avidità
+* **engage** = trattare, relazionarsi
+* **grocery store** = negozio di alimentari
+* **bitter** = accanita, amara
+* **welfare state** = stato sociale
+* **term** = mandato, legislatura
+* **Falkland Islands** = Isole Falkland
+* **rolled back** = ridurre, tagliare
+* **stance** = posizione
 * **outperformed** = superare
+* **unfit** = inadatte
+* **trade unions** = sindacati
+* **recast** = ridefinire
+* **loathing** = detestare
+* **deepen** = rendere più grave
+* **tantrum** = capriccio
+* **policies** = politiche
+* **blame** = incolpare

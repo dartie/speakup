@@ -8,7 +8,7 @@ Matematico autodidatta e dal carattere irascibile, fu una delle menti più brill
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/Charles%20Babbage%20The%20Father%20of%20the%20Computer.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/Charles%20Babbage%20The%20Father%20of%20the%20Computer.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -44,43 +44,43 @@ Babbage’s campaign was finally victorious, with the introduction of strict lim
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **to deflect** = evitare
-* **unwell** = malato
-* **lay the foundations** = porre le basi
-* **groundbreaking** = rivoluzionario
-* **greenhouse** = serra
-* **self-taught** = autodidatta
-* **clashes** = conflitti, scontri
-* **currency** = moneta
-* **brass bands** = bande di ottoni
-* **bagpipes** = cornamuse
-* **soirées** = serate
-* **steam-driven** = a vapore
-* **whispered** = sussurrare
-* **noughts and crosses** = tris
-* **broke a cypher** = decifrare un codice
-* **boosting** = stimolare
-* **organ grinder** = suonatore di organetto
-* **funding** = finanziamento
-* **punched cards** = schede perforate
+* **raconteur** = aneddotista, buon raccontatore
+* **Enlightenment** = Illuminismo
 * **lighthouse** = faro
-* **track** = pista
-* **coined** = coniare
+* **noughts and crosses** = tris
+* **to deflect** = evitare
 * **drawing on** = attingere a
-* **fell out** = litigare
-* **weighing** = pesare
-* **jet engine** = motore a reazione
 * **output** = produzione
 * **geek** = fanatico della tecnologia
-* **Enlightenment** = Illuminismo
+* **cow-catcher** = deviare le vacche
+* **whispered** = sussurrare
 * **tidal power** = energia delle maree
+* **track** = pista
+* **greenhouse** = serra
+* **forerunner** = precursore
+* **lay the foundations** = porre le basi
+* **shortlist** = lista ristretta
+* **brass bands** = bande di ottoni
+* **self-taught** = autodidatta
+* **fell out** = litigare
+* **steam-driven** = a vapore
+* **punched cards** = schede perforate
+* **groundbreaking** = rivoluzionario
 * **touchy** = permaloso
+* **coined** = coniare
+* **toothed wheels** = ruote dentate
+* **boosting** = stimolare
+* **organ grinder** = suonatore di organetto
+* **broke a cypher** = decifrare un codice
+* **unwell** = malato
+* **storage** = immagazzinamento
+* **funding** = finanziamento
+* **weighing** = pesare
+* **clashes** = conflitti, scontri
+* **fiddles** = violini
+* **bagpipes** = cornamuse
+* **soirées** = serate
+* **jet engine** = motore a reazione
+* **currency** = moneta
 * **matters of principle** = questioni di principio
 * **savagery** = brutalità
-* **fiddles** = violini
-* **toothed wheels** = ruote dentate
-* **raconteur** = aneddotista, buon raccontatore
-* **forerunner** = precursore
-* **storage** = immagazzinamento
-* **shortlist** = lista ristretta
-* **cow-catcher** = deviare le vacche

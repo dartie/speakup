@@ -8,7 +8,7 @@ L’immigrazione italiana del secondo dopoguerra ha trasformato molte città deg
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/Italian%20Heritage%20in%20the%20Bronx%20The%20Bronx%20Italian%20American%20History%20Initiative.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/Italian%20Heritage%20in%20the%20Bronx%20The%20Bronx%20Italian%20American%20History%20Initiative.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,7 +38,7 @@ Joe’s Italian Deli, located on Arthur Avenue, is a historic, family-owned salu
 
 ## BUILDING THE BRONX
 This project not only [aims to](## "avere l’obiettivo di") promote understanding about the demographic and cultural landscape of the Bronx, but also helps to [shed light on](## "fare luce su") the [wider history](## "contesto storico generale") of Italian migration. For Fordham, the initiative is especially meaningful: the university has been part of the Bronx for more than a century and has evolved [alongside](## "insieme a") the Italian American communities that helped shape the surrounding neighbourhoods.
-LaPenta [out[line](## "stare in fila, costeggiare")d](## "illustrare") how Italian immigrants gradually moved into the Bronx as neighbourhoods developed and the [borough](## "distretto, quartiere") urbanised, explaining that the evolution of these communities followed waves of economic expansion.
+LaPenta out[line](## "stare in fila, costeggiare")d how Italian immigrants gradually moved into the Bronx as neighbourhoods developed and the [borough](## "distretto, quartiere") urbanised, explaining that the evolution of these communities followed waves of economic expansion.
 **Kathleen LaPenta:**The archive itself is an interesting exercise in how the different Italian neighbourhoods have evolved in the Bronx. There is really one main commercial centre now, which is the Arthur Avenue in the Belmont neighbourhood, which is right across the street from Fordham’s Rose Hill Campus, but there’s also a more residential neighbourhood called Morris Park, there’s also Allerton Avenue. So when you’re looking at the ways in which the urban development of the Bronx took place, there’s [form](## "formulario")ations of small villages that then become part of the urban landscape in New York City, right in the early 20th century. Italian immigrants, the first wave, [so to speak](## "per così dire"), between 1880 and 1914, they often moved into the Midtown East, which is now where the [UN](## "ONU") is. They were living in the Lower East Side or they were living in East Harlem near Our Lady of Mount Carmel Church, right at East 105th Street, I think. And so the neighbourhoods in the Bronx become a little bit more populated by many immigrant families moving up and out of Manhattan into the green Bronx, ‘cause the Bronx has the most green space in New York City.
 
 ## LOOKING FOR ONE’S IDENTITY
@@ -51,34 +51,34 @@ https://biahi.ace.fordham.edu
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **relatives** = parenti, familiari
-* **form** = formulario
-* **shed light on** = fare luce su
-* **alongside** = insieme a
+* **boasts** = vantarsi di
 * **outlined** = illustrare
-* **line** = stare in fila, costeggiare
-* **lecturer** = docente universitaria
-* **Nonetheless** = tuttavia
-* **hyphenated identity** = identità ibrida (lett. con trattino)
-* **northward** = verso nord
+* **low-wage labour** = manodopera a basso costo
+* **relate to** = identificarsi con
 * **response rate** = tasso di risposta
 * **coming of age** = raggiungere la maggiore età
-* **belonging** = senso di appartenenza
-* **roots** = radici, origini
-* **settled** = stabilirsi
-* **low-wage labour** = manodopera a basso costo
-* **so to speak** = per così dire
-* **borough** = distretto, quartiere
+* **landscaping** = giardinaggio
+* **Nonetheless** = tuttavia
 * **Italian-ness** = italianità
 * **in this day and age** = al giorno d’oggi
-* **wider history** = contesto storico generale
-* **background** = passato
-* **shrinking** = diminuire
-* **unfolds** = svilupparsi
-* **relate to** = identificarsi con
-* **attachment** = attaccamento, legame
-* **aims to** = avere l’obiettivo di
+* **shed light on** = fare luce su
+* **borough** = distretto, quartiere
+* **alongside** = insieme a
 * **UN** = ONU
+* **belonging** = senso di appartenenza
+* **background** = passato
 * **fleeing** = fuggire
-* **landscaping** = giardinaggio
-* **boasts** = vantarsi di
+* **northward** = verso nord
+* **line** = stare in fila, costeggiare
+* **unfolds** = svilupparsi
+* **relatives** = parenti, familiari
+* **form** = formulario
+* **roots** = radici, origini
+* **hyphenated identity** = identità ibrida (lett. con trattino)
+* **so to speak** = per così dire
+* **attachment** = attaccamento, legame
+* **settled** = stabilirsi
+* **wider history** = contesto storico generale
+* **shrinking** = diminuire
+* **aims to** = avere l’obiettivo di
+* **lecturer** = docente universitaria

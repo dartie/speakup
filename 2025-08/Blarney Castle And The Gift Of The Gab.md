@@ -8,7 +8,7 @@ Costruito nel primo Medioevo, il Blarney Castle è uno degli edifici storici pi�
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/Blarney%20Castle%20And%20The%20Gift%20Of%20The%20Gab.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/Blarney%20Castle%20And%20The%20Gift%20Of%20The%20Gab.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -37,29 +37,29 @@ If you want to know more about this topic, read the article Blarney Castle: Kiss
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **features** = elementi
-* **to bestow** = concedere
-* **rocky outcrop** = sperone roccioso
-* **thick** = spessi
-* **roaring fire** = fuoco scoppiettante
+* **limestone** = calcare
+* **talked his way out of** = tirarsene fuori parlando
+* **blarney** = lusinga
 * **charms** = ammaliare
-* **flatters** = adulare
 * **cages** = gabbie
-* **speechless** = senza parole
-* **tongue-tied** = impacciato, ammutolito
 * **the gift of the gab** = il dono della parlantina
 * **lie** = trovarsi
-* **rulers** = governanti
-* **limestone** = calcare
-* **labelled** = etichettare
-* **blarney** = lusinga
+* **watchtower** = torre di guardia
+* **roofless** = senza tetto
+* **link** = collegare
+* **features** = elementi
+* **speechless** = senza parole
+* **to bestow** = concedere
+* **rocky outcrop** = sperone roccioso
+* **roaring fire** = fuoco scoppiettante
+* **yew tree** = tasso
+* **tongue-tied** = impacciato, ammutolito
 * **estate** = tenuta
+* **rulers** = governanti
 * **sits** = trovarsi
 * **a close eye was kept on** = tenere d’occhio
-* **stronghold** = roccaforte
-* **roofless** = senza tetto
-* **talked his way out of** = tirarsene fuori parlando
+* **labelled** = etichettare
+* **flatters** = adulare
 * **settlement** = insediamento
-* **watchtower** = torre di guardia
-* **link** = collegare
-* **yew tree** = tasso
+* **thick** = spessi
+* **stronghold** = roccaforte

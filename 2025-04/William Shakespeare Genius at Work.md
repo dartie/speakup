@@ -8,7 +8,7 @@ Il Globe Theatre di Londra, ricostruzione dell’antico teatro in cui Shakespear
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/William%20Shakespeare%20Genius%20at%20Work.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/William%20Shakespeare%20Genius%20at%20Work.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -45,62 +45,62 @@ A theatre reconstructed to look almost exactly like a building from the early 16
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **slave trade** = tratta degli schiavi
-* **tumblers** = acrobati
-* **granted** = concedere
-* **Earl** = conte
-* **code switching** = cambiamento di codice
-* **fairly** = abbastanza
-* **work out** = lavorare, risolvere
-* **involved** = coinvolto
-* **skilled** = qualificato
-* **disreputable** = disdicevole, riprovevole
-* **coterie** = cricca
-* **to piece together** = mettere insieme
+* **Scholars** = studiosi
+* **demanding** = esigente
+* **ripple** = vibrare
 * **to look straight in the eye** = guardare dritto negli occhi
-* **roofless** = senza tetto
-* **lines** = battute
-* **to enact** = rappresentare
-* **concerns** = preoccupazioni
-* **ensemble** = gruppo
-* **precluded** = escludere
+* **parts** = ruoli
+* **attest** = affermare
 * **aim** = obiettivo
+* **yardling** = spettatore in piedi
+* **work out** = lavorare, risolvere
 * **workarounds** = soluzioni alternative
-* **patron** = mecenate
-* **heightened** = aumentare
+* **concerns** = preoccupazioni
+* **royal households** = case reali
+* **to reckon with** = prendere in considerazione
+* **fairly** = abbastanza
+* **lines** = battute
 * **from all ranks of society** = da ogni ceto sociale
-* **essays** = saggi
+* **to piece together** = mettere insieme
 * **bound up** = legare
+* **legacy** = eredità
+* **acknowledges** = riconoscere
+* **fellow company members** = altri membri della compagnia
+* **dubious** = moralmente discutibile
+* **granted** = concedere
+* **code switching** = cambiamento di codice
+* **keen** = ansiosi
+* **disreputable** = disdicevole, riprovevole
+* **Earl** = conte
+* **stand throughout the performance** = stare in piedi per tutto lo spettacolo
+* **to address** = affrontare
+* **precluded** = escludere
+* **slave trade** = tratta degli schiavi
+* **positively** = con certezza
+* **ensemble** = gruppo
+* **patron** = mecenate
+* **essays** = saggi
+* **think through** = riflettere attentamente
+* **to enact** = rappresentare
+* **opening night** = notte di debutto
+* **skilled** = qualificato
+* **walkers** = funamboli
+* **heightened** = aumentare
+* **awarenesses** = consapevolezza
+* **swordplay** = arte della scherma
+* **ableism** = discriminazione dei disabili
+* **roofless** = senza tetto
+* **input** = contributo
+* **spread** = distanza
+* **coterie** = cricca
+* **hangs out** = passare il tempo
 * **close-up** = da vicino
 * **lack** = mancanza
-* **attest** = affermare
-* **demanding** = esigente
-* **opening night** = notte di debutto
-* **stand throughout the performance** = stare in piedi per tutto lo spettacolo
-* **ripple** = vibrare
-* **rehearsals** = prove
-* **input** = contributo
-* **Scholars** = studiosi
-* **keen** = ansiosi
-* **acknowledges** = riconoscere
-* **royal households** = case reali
-* **hangs out** = passare il tempo
+* **tumblers** = acrobati
+* **involved** = coinvolto
 * **is facing up** = affrontare
-* **to address** = affrontare
-* **to reckon with** = prendere in considerazione
-* **awarenesses** = consapevolezza
-* **tailoring** = adattare
-* **positively** = con certezza
-* **swordplay** = arte della scherma
-* **dubious** = moralmente discutibile
-* **fellow company members** = altri membri della compagnia
-* **yardling** = spettatore in piedi
-* **putting on** = mettere in scena
+* **rehearsals** = prove
 * **Research Fellow** = ricercatore
-* **parts** = ruoli
-* **think through** = riflettere attentamente
-* **walkers** = funamboli
+* **tailoring** = adattare
 * **scripts** = copioni
-* **spread** = distanza
-* **legacy** = eredità
-* **ableism** = discriminazione dei disabili
+* **putting on** = mettere in scena

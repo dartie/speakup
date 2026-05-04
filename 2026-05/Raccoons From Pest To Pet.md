@@ -8,7 +8,7 @@ Cani e gatti dovranno condividere le loro cucce con i procioni? È presto per di
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/Raccoons%20From%20Pest%20To%20Pet.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/Raccoons%20From%20Pest%20To%20Pet.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -50,38 +50,38 @@ Although native to North America, these adaptable ‘backyard bandits’, as the
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **mammals** = mammiferi
-* **dampened** = ridurre
-* **traits** = tratti
-* **coat** = pelliccia
 * **trash cans** = bidoni della spazzatura
-* **undergoing** = attraversare
+* **mammals** = mammiferi
 * **tricky puzzles** = enigmi complicati
-* **demeanour** = comportamento
-* **ringed tails** = code ad anelli
-* **jars** = barattoli
-* **tameness** = mansuetudine
-* **In this light** = visto così
-* **bushy** = folte
-* **pests** = piaga
-* **rummaging** = frugare
-* **foraging** = cercare cibo
-* **crunching** = sgranocchiare
 * **leftovers** = avanzi
-* **flight** = fuga
-* **human-driven** = indotto dagli esseri umani
-* **raccoons** = procioni
-* **fearful** = timorosi
-* **suite** = insieme, serie
-* **skulls** = crani
-* **paws** = zampe
-* **latches** = chiavistelli
-* **snout** = muso
-* **relatives** = parenti
-* **better suited** = più adatti
-* **floppy ears** = orecchie cadenti
-* **behavioural** = comportamentali
-* **dexterous** = abili
-* **thrive** = prosperare
 * **less of a threat** = una minaccia minore
+* **traits** = tratti
+* **latches** = chiavistelli
+* **foraging** = cercare cibo
+* **undergoing** = attraversare
+* **better suited** = più adatti
+* **demeanour** = comportamento
+* **floppy ears** = orecchie cadenti
+* **tameness** = mansuetudine
+* **skulls** = crani
+* **pests** = piaga
+* **bushy** = folte
+* **ringed tails** = code ad anelli
+* **snout** = muso
+* **dampened** = ridurre
+* **human-driven** = indotto dagli esseri umani
+* **rummaging** = frugare
+* **relatives** = parenti
+* **In this light** = visto così
+* **dexterous** = abili
+* **paws** = zampe
+* **thrive** = prosperare
+* **fearful** = timorosi
+* **flight** = fuga
+* **coat** = pelliccia
 * **live prey** = prede vive
+* **raccoons** = procioni
+* **behavioural** = comportamentali
+* **jars** = barattoli
+* **crunching** = sgranocchiare
+* **suite** = insieme, serie

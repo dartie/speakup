@@ -8,7 +8,7 @@ Questa giornata è una festa annuale celebrata in Nuova Zelanda per commemorare 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Waitangi%20Day%20A%20Celebration%20of%20New%20Zealand%E2%80%99s%20History.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Waitangi%20Day%20A%20Celebration%20of%20New%20Zealand%E2%80%99s%20History.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,22 +32,22 @@ Waitangi Day commemorates the past and the present, and looks forward to the fut
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **founding document** = documento fondante
-* **misunderstandings** = malintesi
 * **plunder** = saccheggio
-* **grieve** = piangere, lamentarsi
+* **founding document** = documento fondante
+* **sealers** = cacciatori di foche
+* **misunderstandings** = malintesi
 * **terms** = condizioni
-* **reminder** = promemoria
-* **commitment** = impegno
-* **settlers** = coloni
-* **flax** = lino
-* **tinder** = esca
-* **sought** = cercare
-* **thrive** = prosperare
 * **Treaty** = trattato
 * **framework** = quadro
-* **sealers** = cacciatori di foche
-* **stance** = posizione
-* **whalers** = balenieri
-* **outrage** = indignazione
 * **ongoing** = in corso
+* **thrive** = prosperare
+* **outrage** = indignazione
+* **settlers** = coloni
+* **flax** = lino
+* **sought** = cercare
+* **stance** = posizione
+* **grieve** = piangere, lamentarsi
+* **reminder** = promemoria
+* **commitment** = impegno
+* **whalers** = balenieri
+* **tinder** = esca

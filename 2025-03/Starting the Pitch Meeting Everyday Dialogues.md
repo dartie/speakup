@@ -8,7 +8,7 @@ Non perdete di vista alcune cose fondamentali che vanno fatte per far sì che la
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/Starting%20the%20Pitch%20Meeting%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/Starting%20the%20Pitch%20Meeting%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -45,8 +45,8 @@ To break into a market’ means to become active in a new industry, in which you
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **partners** = soci
 * **eager** = ansiosi
 * **along with** = insieme a
 * **pour** = mettere
 * **proof** = prova
+* **partners** = soci

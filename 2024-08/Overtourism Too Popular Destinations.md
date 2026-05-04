@@ -8,7 +8,7 @@ Il turismo è una forza trainante per molte economie, ma alcune delle destinazio
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/Overtourism%20Too%20Popular%20Destinations.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/Overtourism%20Too%20Popular%20Destinations.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -31,18 +31,18 @@ Such actions have resulted in increased hostility from locals towards tourists, 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **trend** = tendenza
-* **hijacked** = sequestrare
-* **overcrowding** = sovraffollamento
-* **carving** = scolpire
-* **Spanish Steps** = scalinata di Trinità dei Monti
-* **landlords** = proprietari
-* **toppled** = far cadere
-* **deem** = considerare
 * **revenue** = entrate
 * **overwhelming** = travolgente
-* **manmade** = fatto dall’essere umano
+* **shortages** = carenza
+* **carving** = scolpire
+* **Spanish Steps** = scalinata di Trinità dei Monti
+* **trend** = tendenza
+* **landlords** = proprietari
 * **Leaning Tower** = torre inclinata
 * **fines** = multe
 * **sheer** = vero e proprio
-* **shortages** = carenza
+* **hijacked** = sequestrare
+* **overcrowding** = sovraffollamento
+* **manmade** = fatto dall’essere umano
+* **toppled** = far cadere
+* **deem** = considerare

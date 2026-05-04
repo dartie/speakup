@@ -8,7 +8,7 @@ Nota per il suo approccio innovativo al true crime, l’autrice e psicologa fond
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/Mikita%20Brottman%20The%20Secret%20Life%20Of%20Words.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/Mikita%20Brottman%20The%20Secret%20Life%20Of%20Words.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -54,33 +54,33 @@ Exposure to different kinds of reading is key, says Brottman. We expect to fall 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **pieces together** = ricomporre
-* **surge** = aumento
-* **awareness** = consapevolezza
-* **it happened to** = capitato che, si dà il caso che
-* **posed an unusual question** = porre una domanda
-* **crafted** = realizzare
-* **creepier** = più inquietante
-* **thoughtful** = riflessivi
-* **palate** = gusto
 * **threat** = minaccia
-* **encouraging** = incentivare, promuovere
+* **thoughtful** = riflessivi
+* **strike a balance** = trovare un equilibrio
 * **facilities** = strutture
 * **were to blame** = erano colpevoli
-* **hinder** = ostacolare
-* **is still up to** = dipendere da
-* **blend** = mescolare
-* **fade out** = svanire
-* **broader** = più ampia
-* **come into** = entrare in, subentrare
-* **open-minded** = aperti di mente
 * **resonant** = rilevanti
-* **tap into** = attingere
-* **grew on her** = iniziare a piacere
+* **it happened to** = capitato che, si dà il caso che
+* **surge** = aumento
+* **encouraging** = incentivare, promuovere
 * **complaints** = lamentele
-* **illiterate** = analfabeta
-* **embarrassed** = imbarazzati
 * **praised** = elogiare
-* **werewolves** = lupi mannari
+* **crafted** = realizzare
+* **grew on her** = iniziare a piacere
+* **broader** = più ampia
+* **illiterate** = analfabeta
+* **tap into** = attingere
 * **engaging** = coinvolgere, partecipare
-* **strike a balance** = trovare un equilibrio
+* **blend** = mescolare
+* **is still up to** = dipendere da
+* **open-minded** = aperti di mente
+* **awareness** = consapevolezza
+* **palate** = gusto
+* **pieces together** = ricomporre
+* **come into** = entrare in, subentrare
+* **fade out** = svanire
+* **hinder** = ostacolare
+* **embarrassed** = imbarazzati
+* **werewolves** = lupi mannari
+* **creepier** = più inquietante
+* **posed an unusual question** = porre una domanda

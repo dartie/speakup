@@ -8,7 +8,7 @@ Non è solo la storia di un preziosissimo gioiello di cui si erano perse le trac
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/The%20Florentine%20Diamond.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/The%20Florentine%20Diamond.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -60,38 +60,38 @@ Published in The New York Times on 6 November 2025. Reprinted with permission.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **mounting threats** = crescenti minacce
-* **prize** = pezzo pregiato
-* **Gingerly** = delicatamente
-* **settled** = stabilirsi
-* **spawned** = generare
-* **surfaced** = emergere, apparire
-* **arresting** = impressionante
 * **Order of the Golden Fleece** = Ordine del Toson d’Oro
+* **ruling** = al potere, regnanti
+* **glittering** = scintillante, brillante
+* **attested to** = attestare, certificare
+* **settled** = stabilirsi
+* **safe** = cassaforte
+* **surfaced** = emergere, apparire
+* **mounting threats** = crescenti minacce
+* **relatives** = parenti
+* **battered** = malconcia
+* **tensions built** = aumentare le tensioni
 * **hue** = sfumatura
 * **allure** = fascino
-* **vault** = caveau, camera blindata
-* **out of** = in segno di
-* **vow** = promessa
-* **battered** = malconcia
-* **associate fellow** = membro associato
-* **ruling** = al potere, regnanti
-* **anchored** = basare
-* **fled** = fuggire
-* **fulfilled** = compiere
-* **safe** = cassaforte
-* **auction** = asta
-* **jumped to the conclusion** = giungere alla conclusione
-* **ensuing** = successivi
-* **attested to** = attestare, certificare
-* **tensions built** = aumentare le tensioni
-* **cardboard** = cartone
-* **conceal** = nascondere
-* **glittering** = scintillante, brillante
-* **cut pattern** = schema di taglio
 * **in the midst of** = nel mezzo di
 * **aware** = consapevole
-* **wrapped** = avvolgere
-* **relatives** = parenti
-* **undisclosed** = non rivelato, riservato
 * **taking in** = accogliere, dare rifugio
+* **arresting** = impressionante
+* **associate fellow** = membro associato
+* **cardboard** = cartone
+* **prize** = pezzo pregiato
+* **vault** = caveau, camera blindata
+* **vow** = promessa
+* **fled** = fuggire
+* **ensuing** = successivi
+* **Gingerly** = delicatamente
+* **wrapped** = avvolgere
+* **conceal** = nascondere
+* **spawned** = generare
+* **auction** = asta
+* **jumped to the conclusion** = giungere alla conclusione
+* **anchored** = basare
+* **out of** = in segno di
+* **undisclosed** = non rivelato, riservato
+* **fulfilled** = compiere
+* **cut pattern** = schema di taglio

@@ -8,7 +8,7 @@ Esiste una linea sottile che separa la risata dal pianto e la lingua inglese la 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/Laugh%20Until%20You%20Cry%20Getting%20Emotional.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/Laugh%20Until%20You%20Cry%20Getting%20Emotional.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -37,49 +37,49 @@ After this comes more sustained crying or [weeping](## "piangere") If it starts 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **guffaw** = risata fragorosa
-* **has overtaken** = superare
-* **grizzling** = piagnucolare
-* **burst into tears** = eslpodere in lacrime
-* **amused** = divertito
-* **wicked** = malvagio
-* **salacious** = lascivo
-* **whimper** = frignare
-* **weeping** = piangere
-* **floods of tears** = fiume di lacrime
-* **bawling** = strillare
+* **grief** = pena
 * **grieve** = essere in lutto
-* **ache** = to ache
-* **cracked up** = crepare
-* **to sniff** = annusare
-* **miserable** = triste
-* **are crying their eyes out** = piangere a dirotto
-* **slightly** = leggermente
-* **grin** = sorriso
-* **foolish** = sciocco
-* **snigger** = ridere sotto i baffi
-* **howled with laughter** = ululare dalle risate
-* **oared with laughter** = scoppiare a ridere
+* **moved** = commossi
+* **smirk** = sorrisetto
+* **sniffling** = tirare su, tirare su con il naso
+* **floods of tears** = fiume di lacrime
+* **mother-in-law** = suocera
+* **chortle** = risatina
 * **split your sides** = spaccarsi i fianchi
-* **a lump in your throat** = un groppo in gola
+* **has overtaken** = superare
+* **evil** = maligno, malizioso
+* **foolish** = sciocco
+* **silly** = stupido, sciocco
+* **the odd tear** = con lacrime occasionali
+* **weeping** = piangere
+* **outburst** = scoppio
+* **salacious** = lascivo
+* **giggle** = risatina nervosa
+* **guffaw** = risata fragorosa
+* **howled with laughter** = ululare dalle risate
+* **grizzling** = piagnucolare
 * **fretful** = ansioso, nervoso
 * **crying their heart out** = piangere a crepacuore
 * **sobbing** = singhiozzare
-* **moved** = commossi
-* **mother-in-law** = suocera
-* **silly** = stupido, sciocco
-* **tearful** = in lacrime
-* **sniffling** = tirare su, tirare su con il naso
-* **outburst** = scoppio
-* **snort** = sbuffare
-* **chortle** = risatina
-* **giggle** = risatina nervosa
-* **chuckle** = sogghigno
+* **snigger** = ridere sotto i baffi
+* **oared with laughter** = scoppiare a ridere
 * **wet yourself** = farsi pipì addosso
-* **the odd tear** = con lacrime occasionali
-* **wailing** = gemere
-* **howling** = urlare
+* **cracked up** = crepare
 * **nuance** = sfumatura
-* **smirk** = sorrisetto
-* **evil** = maligno, malizioso
-* **grief** = pena
+* **slightly** = leggermente
+* **chuckle** = sogghigno
+* **tearful** = in lacrime
+* **to sniff** = annusare
+* **howling** = urlare
+* **miserable** = triste
+* **a lump in your throat** = un groppo in gola
+* **snort** = sbuffare
+* **amused** = divertito
+* **grin** = sorriso
+* **wicked** = malvagio
+* **ache** = to ache
+* **are crying their eyes out** = piangere a dirotto
+* **whimper** = frignare
+* **burst into tears** = eslpodere in lacrime
+* **bawling** = strillare
+* **wailing** = gemere

@@ -8,7 +8,7 @@ Questa imponente fortezza costruita su due isole ha ospitato diversi re d’Ingh
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/Leeds%20Castle%20The%20Loveliest%20Castle%20in%20the%20World.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/Leeds%20Castle%20The%20Loveliest%20Castle%20in%20the%20World.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -41,25 +41,25 @@ www.leeds-castle.com
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **named after** = chiamare come
+* **walk up** = strada verso l’accesso
+* **spiky** = a punte
+* **high ropes** = corde
+* **stunning** = sbalorditivo
+* **ducklings** = anatroccoli
 * **geese** = oche
+* **wolfhounds** = cani lupo
+* **golf course** = campo da golf
+* **trust** = fondo fiduciario
 * **stronghold** = fortezza
 * **maze** = labirinto
-* **falconry** = falconeria
-* **supper parties** = cene di gala
-* **stunning** = sbalorditivo
-* **high ropes** = corde
-* **walk up** = strada verso l’accesso
-* **kitchen gardens** = orti
-* **wolfhounds** = cani lupo
-* **spiky** = a punte
 * **grotto** = grotta
-* **trust** = fondo fiduciario
-* **ducklings** = anatroccoli
-* **jousting** = giostra
-* **peacocks** = pavoni
-* **golf course** = campo da golf
-* **named after** = chiamare come
-* **grassy slopes** = pendii erbosi
 * **late** = defunta
 * **tennis courts** = campi da tennis
+* **supper parties** = cene di gala
 * **onward** = in avanti
+* **falconry** = falconeria
+* **grassy slopes** = pendii erbosi
+* **peacocks** = pavoni
+* **kitchen gardens** = orti
+* **jousting** = giostra

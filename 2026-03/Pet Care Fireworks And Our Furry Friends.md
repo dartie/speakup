@@ -8,7 +8,7 @@ I fuochi d’artificio piacciono a tutti, ma non ai nostri amici a quattro zampe
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/Pet%20Care%20Fireworks%20And%20Our%20Furry%20Friends.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/Pet%20Care%20Fireworks%20And%20Our%20Furry%20Friends.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -63,54 +63,54 @@ There are some artificial methods of managing dogs’ natural fear response to l
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **fight or flight** = attacco o fuga
+* **puppies** = cuccioli
+* **firecrackers** = petardi
+* **clothesline** = stendibiancheria
+* **pegged** = fissare con mollette
+* **carrier** = trasportino
+* **howling** = ululare
+* **dusk-until-dawn** = dal tramonto all’alba
 * **cosy** = accogliente
-* **syrup** = sciroppo
-* **avoid** = evitare
-* **humongous** = enormi
-* **crowds** = folle
+* **revellers** = festaioli
+* **exhilarating** = esaltanti, emozionanti
+* **towering** = gigantesche
+* **in a row** = consecutivi
+* **farthest away** = il più lontano possibile
+* **shutters** = persiane
+* **whereby** = per cui
+* **chewing** = mordere
+* **kennel** = cuccia
+* **side effects** = effetti collaterali
+* **Town Hall** = municipio
+* **drag** = trascinare
+* **Loud** = rumorose
+* **fireworks** = fuochi d’artificio
 * **Styrofoam** = polistirene espanso
 * **portray** = rappresentare
-* **kennel** = cuccia
-* **revellers** = festaioli
-* **put your animal through** = sottoporre a
-* **factor in** = tenere in conto
-* **fight or flight** = attacco o fuga
-* **freeze** = restare paralizzato
-* **whereby** = per cui
-* **drag** = trascinare
-* **Pet** = accarezzare
-* **reach the threshold** = raggiungere la soglia
-* **surplus** = eccedenza
-* **lie-in** = rimanere a letto, dormire fino a tardi
-* **comfy** = comodo
-* **fearful** = paurosa
-* **setting off** = far esplodere
-* **kittens** = gattini
-* **plaster** = gesso
-* **Town Hall** = municipio
-* **howling** = ululare
-* **fireworks** = fuochi d’artificio
 * **current affairs** = attualità
 * **pyrotechnic displays** = spettacoli pirotecnici
-* **gunpowder** = polvere da sparo
-* **pegged** = fissare con mollette
-* **in a row** = consecutivi
-* **dusk-until-dawn** = dal tramonto all’alba
-* **exhilarating** = esaltanti, emozionanti
-* **firecrackers** = petardi
-* **carrier** = trasportino
-* **slightly ajar** = socchiusa
+* **coping** = affrontare
 * **cardboard** = cartone
-* **side effects** = effetti collaterali
+* **gunpowder** = polvere da sparo
+* **syrup** = sciroppo
+* **setting off** = far esplodere
+* **humongous** = enormi
+* **crowds** = folle
+* **Pet** = accarezzare
+* **last resort** = ultima risorsa
+* **kittens** = gattini
+* **lie-in** = rimanere a letto, dormire fino a tardi
+* **cage** = gabbia
+* **comfy** = comodo
+* **slightly ajar** = socchiusa
+* **fearful** = paurosa
+* **reach the threshold** = raggiungere la soglia
+* **factor in** = tenere in conto
+* **freeze** = restare paralizzato
+* **surplus** = eccedenza
+* **plaster** = gesso
+* **avoid** = evitare
+* **put your animal through** = sottoporre a
 * **treats** = premi
 * **off school** = in vacanza
-* **clothesline** = stendibiancheria
-* **coping** = affrontare
-* **cage** = gabbia
-* **shutters** = persiane
-* **last resort** = ultima risorsa
-* **puppies** = cuccioli
-* **chewing** = mordere
-* **Loud** = rumorose
-* **towering** = gigantesche
-* **farthest away** = il più lontano possibile

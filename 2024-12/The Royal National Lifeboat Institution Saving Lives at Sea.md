@@ -8,7 +8,7 @@ Fondata nel 1824, la RNLI è una delle più amate organizzazioni del Regno Unito
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/The%20Royal%20National%20Lifeboat%20Institution%20Saving%20Lives%20at%20Sea.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/The%20Royal%20National%20Lifeboat%20Institution%20Saving%20Lives%20at%20Sea.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -37,7 +37,7 @@ While the RNLI is still clearly one of the most popular institutions in British 
 In 1899, the RNLI carried out the most famous rescue in its history. In the middle of one of the worst storms of the century, a boat with eighteen crew on board was in serious trouble off the North Devon coast. The seas were so ferocious that it was impossible to launch lifeboats. The local RNLI members knew they had to find a place somewhere on the coast [sheltered](## "ripararsi") from the storm. With the help of a hundred locals and eighteen horses, they dragged their ten-metre, ten-tonne lifeboat across land for thirteen miles during the night until they found a calmer [spot](## "posto"). The lifeboat was launched and the members saved the boat and crew. 
 
 ## THE BUSIEST LIFEBOAT STATIONS
-Surprisingly, the RNLI’s two busiest lifeboat stations are not actually on the coast; they are the Tower and Chiswick [lifeboat crews](## "equipaggi di barche di salvataggio") beside the River Thames in Central London. The Thames may be one of London’s landmarks and a tourist [hot[spot](## "posto")](## "area di grande interesse, luogo turistico"), but the river’s tide is extremely powerful and sometimes dangerous. Charles Dickens made the perilous, cruel river a central element in his last complete novel, Our Mutual Friend. In fact, there are four stations on the Thames, with crews of full-time members and volunteers offering a 24-hour service. The Tower Lifeboat Station is the busiest of all. In 2013, its crews rescued 372 people and saved twenty-five lives. The river’s history shows that disaster can [strike](## "colpire") in water at any time. In the tragic 1989 Marchioness disaster, a boat full of [partygoers](## "festaioli") collided with a [dredger](## "draga"), with the loss of fifty-one lives in just a few minutes.
+Surprisingly, the RNLI’s two busiest lifeboat stations are not actually on the coast; they are the Tower and Chiswick [lifeboat crews](## "equipaggi di barche di salvataggio") beside the River Thames in Central London. The Thames may be one of London’s landmarks and a tourist hot[spot](## "posto"), but the river’s tide is extremely powerful and sometimes dangerous. Charles Dickens made the perilous, cruel river a central element in his last complete novel, Our Mutual Friend. In fact, there are four stations on the Thames, with crews of full-time members and volunteers offering a 24-hour service. The Tower Lifeboat Station is the busiest of all. In 2013, its crews rescued 372 people and saved twenty-five lives. The river’s history shows that disaster can [strike](## "colpire") in water at any time. In the tragic 1989 Marchioness disaster, a boat full of [partygoers](## "festaioli") collided with a [dredger](## "draga"), with the loss of fifty-one lives in just a few minutes.
  
 www.rnli.org
 
@@ -46,25 +46,25 @@ www.rnli.org
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **charity** = organizzazione benefica
-* **wild swimmers** = nuotatori in acque libere
-* **spot** = posto
-* **Reef** = scogliera areale, barriera corallina,
-* **flood** = inondazione
-* **fund** = finanziare
-* **to run** = finanziare
-* **strike** = colpire
-* **swiftly** = prontamente
-* **motto** = motto, slogan
-* **shipwrecks** = naufragi
 * **SS** = piroscafo (abbr. steamship)
-* **gale** = tempesta
-* **lifeboat crews** = equipaggi di barche di salvataggio
 * **aircraft** = aeroplano
 * **Training** = formazione
-* **sheltered** = ripararsi
-* **dredger** = draga
-* **downed** = abbattuti
-* **legacies** = eredità
+* **to run** = finanziare
 * **hotspot** = area di grande interesse, luogo turistico
+* **strike** = colpire
+* **shipwrecks** = naufragi
+* **lifeboat crews** = equipaggi di barche di salvataggio
+* **downed** = abbattuti
+* **charity** = organizzazione benefica
+* **legacies** = eredità
+* **sheltered** = ripararsi
+* **spot** = posto
+* **Reef** = scogliera areale, barriera corallina,
+* **gale** = tempesta
+* **swiftly** = prontamente
 * **partygoers** = festaioli
+* **motto** = motto, slogan
+* **flood** = inondazione
+* **fund** = finanziare
+* **wild swimmers** = nuotatori in acque libere
+* **dredger** = draga

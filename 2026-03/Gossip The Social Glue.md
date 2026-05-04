@@ -8,7 +8,7 @@ Il pettegolezzo non è certo un’abitudine dei giorni nostri: ce lo dimostra l�
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/Gossip%20The%20Social%20Glue.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/Gossip%20The%20Social%20Glue.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -45,29 +45,29 @@ Jane Austen is also a master in the use of gossip to [move the plot](## "far ava
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **aim** = obiettivo
-* **shapes** = modellare
-* **pointless** = futile
-* **embodied** = incarnare, personificare
-* **asserts** = affermare, sostenere
-* **over time** = col passare del tempo
-* **godfathers and godmothers** = padrini e madrine
-* **a great deal** = una grande quantità
-* **talkative** = loquace, chiacchierone
-* **derogatory** = peggiorativo, dispregiativo
 * **glue** = collante
-* **grooming** = toelettatura, pulizia sociale (etologia
-* **bonds** = legami
-* **legally binding** = legalmente vincolante
-* **engaged in** = partecipare a
-* **sharper** = più marcato
-* **dismissed** = sminuire
-* **Hearsay** = voci di corridoio, testimonianza per sentito dire
-* **court of law** = tribunale
+* **strikingly** = sorprendentemente
+* **Much Ado About Nothing** = "Molto rumore per nulla"
 * **move the plot** = far avanzare la trama
 * **trust** = fiducia
 * **shifted** = cambiare
+* **dismissed** = sminuire
+* **grooming** = toelettatura, pulizia sociale (etologia
+* **Hearsay** = voci di corridoio, testimonianza per sentito dire
+* **court of law** = tribunale
+* **shapes** = modellare
+* **asserts** = affermare, sostenere
+* **legally binding** = legalmente vincolante
+* **engaged in** = partecipare a
+* **talkative** = loquace, chiacchierone
 * **widening gap** = divario crescente
 * **reprehensible behaviour** = comportamento riprovevole
-* **strikingly** = sorprendentemente
-* **Much Ado About Nothing** = "Molto rumore per nulla"
+* **embodied** = incarnare, personificare
+* **godfathers and godmothers** = padrini e madrine
+* **bonds** = legami
+* **a great deal** = una grande quantità
+* **derogatory** = peggiorativo, dispregiativo
+* **sharper** = più marcato
+* **aim** = obiettivo
+* **over time** = col passare del tempo
+* **pointless** = futile

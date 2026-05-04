@@ -8,7 +8,7 @@ Abbiamo incontrato la saggista e scrittrice di origine belga per parlare dell’
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/New%20York%20Stories%20Lucy%20Sante.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/New%20York%20Stories%20Lucy%20Sante.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -28,14 +28,14 @@ With gentrification, it is harder for artists and musicians to be experimental. 
 **Lucy Sante:**So many things that people can’t [take a chance on](## "rischiare, scommettere") anymore so a whole wide field of experimentation is lost. So much has been [shut down](## "chiudere"), young people are forced to go through institutional channels, people stay in school a lot longer. I taught writing for twenty-seven years. For a long time my course was called ‘The Essay’. And at Bard where I taught for twenty-three of those years, there were only three of us teaching writing, and then somehow, mysteriously, it became a department [wit](## "arguzia")h, like, twenty-two people and [essay writing](## "scrittura di saggi") in general has become much more popular and so people have attempted to [fit laws onto it](## "adattarvi delle leggi") and what it can do and what it should do and… it just closes doors, in my opinion.
 
 ## SCOTTISH CRIME
-Sante is currently writing a book about iconic New York band The Velvet Underground. As she explains, she became fascinated by the club scene in New York in the late 1970s and early 1980s, at a time when the city was rife [wit](## "arguzia")h crime. We asked her about her interest in true crime podcasts and series. As she [points out](## "segnalare"), one of the pioneers of the true crime genre was a professional lawyer who lived and worked in early 20th century Edinburgh. 
+Sante is currently writing a book about iconic New York band The Velvet Underground. As she explains, she became fascinated by the club scene in New York in the late 1970s and early 1980s, at a time when the city was [rife [wit](## "arguzia")h](## "piena di") crime. We asked her about her interest in true crime podcasts and series. As she [points out](## "segnalare"), one of the pioneers of the true crime genre was a professional lawyer who lived and worked in early 20th century Edinburgh. 
 **Lucy Sante:**There are some great true crime writers. The great master is a Scottish writer named William Roughead. It was his job to [attend](## "assistere") very prominent trials held in Edinburgh and make an official [account](## "resoconto") for the government, but the language is just extraordinary. It’s very human, it gets under the skin of the accused; he is kind of a novelist in his way. So, there’s [there are] a few people like that. 
 
 ## WILLIAM ROUGHEAD: TRUE CRIME PIONEER
 Born in Edinburgh in 1870, William Roughead was a lawyer and a member of the Society of Writers to Her Majesty’s [Signet](## "sigillo"), an historic group of Scottish solicitors entitled to supervise use of the King’s [Signet](## "sigillo"), or seal. From 1901, Roughead established himself as an unofficial historian of crime, [attend](## "assistere")ing almost every prominent murder trial at the High Court of Justiciary and publishing brilliant [account](## "resoconto")s of cases, initially in the monthly legal journal The Juridical Review and then anthologies of essays, including Twelve Scots Trials (1914), In Queer Street (1932) and Murder and More Murder (1939). Roughead, much admired by the American author Henry James, wrote in a style that combined intelligence, [wit](## "arguzia"), scepticism and storytelling. In 1928, he and Arthur Conan Doyle helped [secure](## "garantire, assicurare") the freedom of Oscar Slater, the victim of a [miscarriage of justice](## "errore giudiziario"). According to author Joyce Carol Oates: “Roughead’s influence was enormous, and since his time “true crime” has become a crowded, flourishing field.”
 
 ## A GIANT SECRET
-In her recent memoir, published in 2024, Sante explores gender and tries to get to grips [wit](## "arguzia")h why she decided to transition at an advanced age. 
+In her recent memoir, published in 2024, Sante explores gender and tries to [get to grips [wit](## "arguzia")h](## "affrontare, venire a capo") why she decided to transition at an advanced age. 
 **Lucy Sante:** [By and large](## "in generale"), I don’t think that there are many [gender issues](## "questioni di genere") in my work… I was never very good at being a man. It’s certainly changed my relation to other people. I’m much more open to people, I’m not [crippled](## "paralizzata") by [shyness](## "timidezza") the way I was for sixty-six years, and part of that is just having [dropped](## "lasciar cadere") this giant secret that I carried like a giant stone for decades.  
 
 --------------
@@ -43,29 +43,29 @@ In her recent memoir, published in 2024, Sante explores gender and tries to get
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **Snares** = trappole
-* **Darlings** = cari
-* **nursery** = infanzia
-* **unavoidable** = inevitabile
-* **fit laws onto it** = adattarvi delle leggi
-* **secure** = garantire, assicurare
-* **crippled** = paralizzata
-* **shyness** = timidezza
-* **essay writing** = scrittura di saggi
-* **shut down** = chiudere
-* **account** = resoconto
-* **wit** = arguzia
-* **get to grips with** = affrontare, venire a capo
-* **ever present** = sempre presente
+* **Lures** = esche
 * **take a chance on** = rischiare, scommettere
-* **rife with** = piena di
-* **attend** = assistere
 * **Signet** = sigillo
+* **wit** = arguzia
+* **secure** = garantire, assicurare
 * **miscarriage of justice** = errore giudiziario
 * **By and large** = in generale
+* **ever present** = sempre presente
 * **gender issues** = questioni di genere
-* **Lures** = esche
+* **shyness** = timidezza
+* **nursery** = infanzia
+* **shut down** = chiudere
+* **rife with** = piena di
+* **account** = resoconto
+* **get to grips with** = affrontare, venire a capo
+* **crippled** = paralizzata
+* **dropped** = lasciar cadere
+* **Snares** = trappole
+* **Darlings** = cari
 * **from scratch** = da zero
 * **at the bottom of the ladder** = ai piedi della scala
+* **unavoidable** = inevitabile
+* **fit laws onto it** = adattarvi delle leggi
 * **points out** = segnalare
-* **dropped** = lasciar cadere
+* **attend** = assistere
+* **essay writing** = scrittura di saggi

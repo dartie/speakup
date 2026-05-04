@@ -8,7 +8,7 @@ Con quasi quattro secoli di storia, questa attrazione londinese è stata celebra
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Covent%20Garden%20London%E2%80%99s%20Greatest%20Historical%20Market.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Covent%20Garden%20London%E2%80%99s%20Greatest%20Historical%20Market.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -39,25 +39,25 @@ An important [feature](## "caratteristica") of Covent Garden life, now and durin
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **raffish** = vistosa, appariscente
-* **dens** = antri
-* **brothels** = bordelli
-* **inquiry** = indagine
-* **feature** = caratteristica
-* **puppet play** = spettacolo di marionette
-* **alike** = allo stesso modo
-* **high-wire walkers** = funamboli
-* **traders** = venditori
-* **stalls** = bancarelle
-* **genteel** = elegante
-* **boarding houses** = pensioni
-* **Charter Market** = mercati istituiti con decreto reale
 * **drawn** = attrarre
 * **fire-eaters** = mangiatori di fuoco
-* **knife jugglers** = giocolieri con coltelli
-* **buskers** = artisti di strada
-* **dating back to** = risalire a
-* **granted** = concedere
-* **Earl** = conte
 * **fit** = adatti, idonei
+* **stalls** = bancarelle
+* **brothels** = bordelli
+* **alike** = allo stesso modo
+* **knife jugglers** = giocolieri con coltelli
+* **granted** = concedere
+* **raffish** = vistosa, appariscente
+* **Charter Market** = mercati istituiti con decreto reale
+* **puppet play** = spettacolo di marionette
+* **buskers** = artisti di strada
+* **boarding houses** = pensioni
 * **gambling houses** = luoghi di gioco d’azzardo
+* **feature** = caratteristica
+* **high-wire walkers** = funamboli
+* **traders** = venditori
+* **dating back to** = risalire a
+* **Earl** = conte
+* **genteel** = elegante
+* **dens** = antri
+* **inquiry** = indagine

@@ -8,7 +8,7 @@ Con questo romanzo, che costituisce la prima parte di una trilogia su Thomas Cro
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/Wolf%20Hall%20by%20Hilary%20Mantel.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/Wolf%20Hall%20by%20Hilary%20Mantel.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -54,17 +54,17 @@ Wolf Hall is a work of fiction but Hilary Mantel refused to sacrifice historical
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **mesmerising** = ipnotico, magnetico
-* **turmoil** = tumulto, subbuglio
-* **accuracy** = accuratezza, precisione
-* **beliefs** = credenze
-* **skilled** = abile, esperto
-* **trust** = fiducia
-* **heir** = erede
 * **Archbishop** = arcivescovo
-* **attend** = accompagnare
+* **accuracy** = accuratezza, precisione
+* **mindset** = mentalità
 * **remarkable** = straordinaria
 * **wise** = saggio
 * **to arrange** = organizzare
+* **skilled** = abile, esperto
+* **attend** = accompagnare
 * **learns** = apprendere
-* **mindset** = mentalità
+* **turmoil** = tumulto, subbuglio
+* **beliefs** = credenze
+* **mesmerising** = ipnotico, magnetico
+* **trust** = fiducia
+* **heir** = erede

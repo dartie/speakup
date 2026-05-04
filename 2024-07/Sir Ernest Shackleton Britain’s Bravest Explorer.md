@@ -8,7 +8,7 @@ Il temerario esploratore gareggiò con il norvegese Roald Admunsen per essere il
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/Sir%20Ernest%20Shackleton%20Britain%E2%80%99s%20Bravest%20Explorer.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/Sir%20Ernest%20Shackleton%20Britain%E2%80%99s%20Bravest%20Explorer.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,25 +35,25 @@ Shackleton’s team lived on [ice floes](## "banchi di ghiaccio") for five month
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **crushed** = schiacciare
+* **Astonishingly** = sorprendentemente
 * **attempt** = tentativo
+* **insurmountable** = insormontabili
+* **in rags** = ridotti a brandelli
+* **ice floes** = banchi di ghiaccio
+* **lionised** = lodare
+* **to set off** = partire
+* **worsening** = aggravarsi, peggiorare
+* **sank** = affondare
 * **odds** = contro ogni previsione
-* **sledge** = slitta
-* **drifting** = andare alla deriva
-* **rescue party** = squadra di salvataggio
 * **surveying** = rilevare, mappare
 * **Not to be outdone** = per non essere da meno
 * **doomed** = desinata al fracasso
-* **ice floes** = banchi di ghiaccio
-* **lionised** = lodare
-* **grief** = dolore
-* **to ensure** = garantire
-* **was knighted** = nominare cavaliere
-* **Astonishingly** = sorprendentemente
-* **to set off** = partire
-* **worsening** = aggravarsi, peggiorare
-* **insurmountable** = insormontabili
-* **threshold** = soglia
-* **in rags** = ridotti a brandelli
-* **crushed** = schiacciare
-* **sank** = affondare
 * **strain** = sforzo
+* **threshold** = soglia
+* **was knighted** = nominare cavaliere
+* **rescue party** = squadra di salvataggio
+* **grief** = dolore
+* **sledge** = slitta
+* **to ensure** = garantire
+* **drifting** = andare alla deriva

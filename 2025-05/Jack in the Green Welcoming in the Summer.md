@@ -8,7 +8,7 @@ Questa festa di quattro giorni affonda le sue radici nelle tradizioni pagane del
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/Jack%20in%20the%20Green%20Welcoming%20in%20the%20Summer.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/Jack%20in%20the%20Green%20Welcoming%20in%20the%20Summer.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -29,30 +29,30 @@ Until 1889, at least two groups in the Hastings area celebrated Jack in the Gree
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **bank holiday** = festività nazionale
+* **seaside town** = località costiera
+* **to pay homage** = rendere omaggio
+* **parade** = sfilata
+* **heads up** = dirigersi verso
+* **or failing that** = o in alternativa
 * **eye-catching** = accattivante
-* **abide by** = rispettare
-* **barn dances** = balli popolari
-* **dates back at least to** = risalire a
+* **milkmaids** = mungitrici
+* **Slaying** = uccidere
 * **tips** = mance
 * **greenery** = vegetazione
-* **Bogies** = spiriti maligni
-* **to pay homage** = rendere omaggio
-* **foliage** = fogliame
-* **stripped** = strappare
-* **seaside town** = località costiera
-* **leafiest** = più frondoso
-* **milkmaids** = mungitrici
-* **finest clothes** = migliori abiti
 * **outlandish** = stravagante
 * **head-to-toe** = dalla testa ai piedi
-* **chimney sweeps** = spazzacamini
-* **Slaying** = uccidere
-* **make the most of** = sfruttare al massimo
-* **parade** = sfilata
-* **or failing that** = o in alternativa
-* **dab** = applicare tamponando
-* **heads up** = dirigersi verso
-* **pails** = secchi
 * **revellers** = partecipanti alla festa
+* **bank holiday** = festività nazionale
+* **leafiest** = più frondoso
+* **pails** = secchi
+* **foliage** = fogliame
+* **Bogies** = spiriti maligni
+* **dab** = applicare tamponando
+* **stripped** = strappare
+* **dates back at least to** = risalire a
+* **chimney sweeps** = spazzacamini
+* **finest clothes** = migliori abiti
+* **make the most of** = sfruttare al massimo
 * **onlookers** = spettatori
+* **abide by** = rispettare
+* **barn dances** = balli popolari

@@ -8,7 +8,7 @@ In occasione del centenario della nascita di Elisabetta II, ripercorriamo come l
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/Queen%20Elizabeth%20II%20Toning%20Outfits%20And%20Wellington%20Boots.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/Queen%20Elizabeth%20II%20Toning%20Outfits%20And%20Wellington%20Boots.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -31,7 +31,7 @@ The End of an Era: Elizabeth II (1926-2022)
 La morte della Regina Elisabetta II rappresenta la scomparsa di un simbolo di altri tempi. La più longeva tra i regnanti della storia britannica, era, più che una semplice governante, l’incarnazione di un’istituzione che garantiva coesione e un senso di continuità per una società che si trova immersa in una crisi di identità.
 Conor Gleeson , Sarah Davison
 Hazel Clark, Professor of Design Studies and Fashion Studies at Parsons School of Design in New York City, reflects on the [late](## "defunta") Queen’s uniquely British style and her enduring fashion [legacy](## "eredità, lascito").
-**Hazel Clark:** Obviously, the Queen was very [long-lived](## "longeva"), and obviously she came to the throne when she was very young. But over time, she just developed a style which I always felt she seemed very comfortable in the way she looked, be it for a gala event or when she was out in Scotland in the countryside of Balmoral. I mean, she was famous for certain items, like the famous [headscarf](## "foulard, fazzoletto per la testa"), which she [fastened](## "legare, allacciare") under the [chin](## "mento"), and as well as wearing Barbour jackets, et cetera. But I think something like the [headscarf](## "foulard, fazzoletto per la testa") from the 1950s, she carried it on way beyond it being a fashion. She became known for being what would be called ‘very [put-together](## "curata, elegante")’. She tended to favour, in [late](## "defunta")r life, wearing distinctly mat[chin](## "mento")g outfits, coats and dresses, which were made in the same colour, same [fabric](## "stoffa"), distinctive hats, always carried her handbag, and of course, those very bright colours that she’s very famous for wearing. 
+**Hazel Clark:** Obviously, the Queen was very [long-lived](## "longeva"), and obviously she came to the throne when she was very young. But over time, she just developed a style which I always felt she seemed very comfortable in the way she looked, be it for a gala event or when she was out in Scotland in the countryside of Balmoral. I mean, she was famous for certain items, like the famous [headscarf](## "foulard, fazzoletto per la testa"), which she [fastened](## "legare, allacciare") under the [chin](## "mento"), and as well as wearing Barbour jackets, et cetera. But I think something like the [headscarf](## "foulard, fazzoletto per la testa") from the 1950s, she carried it on way beyond it being a fashion. She became known for being what would be called ‘very [put-together](## "curata, elegante")’. She tended to favour, in [late](## "defunta")r life, wearing distinctly [mat[chin](## "mento")g outfits](## "completi coordinati"), coats and dresses, which were made in the same colour, same [fabric](## "stoffa"), distinctive hats, always carried her handbag, and of course, those very bright colours that she’s very famous for wearing. 
 Queen Elizabeth in 1956 wearing an evening gown designed by Norman Hartnell.
 
 ## STRIKING CONTRAST
@@ -49,31 +49,31 @@ If you want to know more about this topic, read the article The Style Of Queen 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **couturiers** = stilisti di alta moda
-* **fastened** = legare, allacciare
-* **chin** = mento
-* **matching outfits** = completi coordinati
-* **striking** = evidente, notevole
-* **toning outfits** = completi in tonalità coordinate
-* **petite** = minuta, di bassa statura
-* **turns not only to** = rivolgersi a, ricordare
-* **hosting** = ospitare, accogliere
-* **bolstering** = sostenere
-* **long-lived** = longeva
-* **rode horses** = andare a cavallo
-* **tweeds** = capi in tweed
-* **rim** = bordo
 * **heir** = erede
-* **wardrobe** = guardaroba
+* **chart** = tracciare, mostrare
+* **late** = defunta
+* **matching outfits** = completi coordinati
+* **rode horses** = andare a cavallo
+* **rubber** = di gomma
+* **hosting** = ospitare, accogliere
 * **off-duty** = fuori servizio, nel tempo libero
 * **bridesmaid** = damigella d’onore
-* **shed new light on** = far luce su
-* **late** = defunta
+* **chin** = mento
+* **put-together** = curata, elegante
+* **striking** = evidente, notevole
+* **toning outfits** = completi in tonalità coordinate
+* **rim** = bordo
+* **wardrobe** = guardaroba
+* **bolstering** = sostenere
+* **legacy** = eredità, lascito
+* **fastened** = legare, allacciare
+* **tweeds** = capi in tweed
 * **stand out** = spiccare, risaltare
 * **crowd** = folla
-* **chart** = tracciare, mostrare
-* **legacy** = eredità, lascito
-* **headscarf** = foulard, fazzoletto per la testa
-* **put-together** = curata, elegante
-* **rubber** = di gomma
 * **fabric** = stoffa
+* **shed new light on** = far luce su
+* **couturiers** = stilisti di alta moda
+* **long-lived** = longeva
+* **headscarf** = foulard, fazzoletto per la testa
+* **petite** = minuta, di bassa statura
+* **turns not only to** = rivolgersi a, ricordare

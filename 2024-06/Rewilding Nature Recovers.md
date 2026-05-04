@@ -9,7 +9,7 @@ I vantaggi sono molti, ma anche i rischi e le sfide.
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/Rewilding%20Nature%20Recovers.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/Rewilding%20Nature%20Recovers.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -41,24 +41,24 @@ Rewilding can also have a positive impact on mental health and [wellbeing](## "b
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **shaped** = modellare
-* **waterways** = corsi d’acqua
-* **deer** = cervi
-* **beaver** = castoro
-* **lynx** = lince
-* **dams** = dighe
-* **quarried** = scavare
-* **reclaimed** = reclamare
-* **predators** = superpredatori
-* **tales** = racconti
-* **concern** = preoccupazione
-* **wetlands** = terreni acquitrinosi
-* **sequester** = segregare
 * **grazed** = pascolare
-* **assessments** = valutazioni
-* **One in six** = una su sei
-* **aims** = mirare
-* **felled** = abbattere
-* **banning** = vietare
-* **peatlands** = terreni torbosi
+* **sequester** = segregare
 * **wellbeing** = benessere
+* **quarried** = scavare
+* **waterways** = corsi d’acqua
+* **predators** = superpredatori
+* **concern** = preoccupazione
+* **lynx** = lince
+* **beaver** = castoro
+* **reclaimed** = reclamare
+* **assessments** = valutazioni
+* **aims** = mirare
+* **deer** = cervi
+* **banning** = vietare
+* **dams** = dighe
+* **peatlands** = terreni torbosi
+* **felled** = abbattere
+* **One in six** = una su sei
+* **tales** = racconti
+* **wetlands** = terreni acquitrinosi
+* **shaped** = modellare

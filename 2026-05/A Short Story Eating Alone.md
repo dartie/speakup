@@ -8,7 +8,7 @@ Per il protagonista di questo racconto, il cibo non è solo nutrimento: è un pi
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/A%20Short%20Story%20Eating%20Alone.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/A%20Short%20Story%20Eating%20Alone.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -43,54 +43,54 @@ That night, a handful of influencers arrived in the neighbourhood, carrying thei
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **hit the viral jackpot** = vincere la lotteria
-* **savoury** = salato
-* **young** = cuccioli
-* **munched** = divorare
-* **furry** = pelosa
+* **jury was still out** = non c’è ancora un verdetto
+* **berries** = frutti di bosco
+* **wholegrain bread** = pane integrale
+* **stale** = duro, secco
+* **cheese rinds** = croste di formaggio
 * **Potbelly Bigfoot** = Bigfoot Panzuto
 * **catch a glimpse** = intravedere
-* **pickle butter** = burro aromatizzato ai cetriolini
-* **offspring** = prole
-* **nibbled** = rosicchiare
-* **goat** = capra
-* **sweatpants** = pantaloni della tuta
-* **Masked Muncher** = Divoratore Mascherato
-* **break my fast** = rompere il digiuno
-* **prick** = fitta
-* **sipping** = sorseggiare
-* **cheese rinds** = croste di formaggio
-* **corncobs** = pannocchie
-* **burst out laughing** = scoppiare a ridere
-* **nudging** = spingere
-* **wholegrain bread** = pane integrale
-* **cul‑de‑sac** = vicolo cieco
-* **overripe** = troppo maturi
-* **slurped** = risucchiare rumorosamente
-* **stale** = duro, secco
-* **curb** = bordo del marciapiede
-* **Humongous Snacker** = Enorme Ghiottone
-* **devour by the spoonful** = divorare a cucchiaiate
-* **lap** = grembo
-* **rummaging** = frugare
-* **licked it clean** = leccare fino a lasciare pulito
-* **blurry** = sfocato
-* **berries** = frutti di bosco
-* **folding chair** = sedia pieghevole
-* **in awe** = meravigliato
-* **leftovers** = avanzi
-* **chewed** = masticare
-* **for hours on end** = per ore e ore
-* **craving** = voglia
-* **sensible choice** = scelta sensata
-* **nourishment** = nutrimento
-* **sustenance** = sostentamento
-* **bins** = bidoni della spazzatura
-* **Raccoons** = procioni
+* **hit the viral jackpot** = vincere la lotteria
+* **savoury** = salato
 * **waistline** = girovita
-* **locked eyes** = incrociare gli sguardi
+* **folding chair** = sedia pieghevole
 * **laid out** = disporre
+* **sweatpants** = pantaloni della tuta
 * **raided** = assaltare, saccheggiare
-* **scavenging** = rovistare
+* **Humongous Snacker** = Enorme Ghiottone
+* **Masked Muncher** = Divoratore Mascherato
+* **in awe** = meravigliato
+* **munched** = divorare
+* **chewed** = masticare
+* **sensible choice** = scelta sensata
+* **young** = cuccioli
+* **rummaging** = frugare
+* **overripe** = troppo maturi
+* **locked eyes** = incrociare gli sguardi
+* **offspring** = prole
+* **nudging** = spingere
+* **pickle butter** = burro aromatizzato ai cetriolini
+* **prick** = fitta
+* **Raccoons** = procioni
+* **nibbled** = rosicchiare
+* **leftovers** = avanzi
+* **goat** = capra
+* **licked it clean** = leccare fino a lasciare pulito
 * **popped up** = comparire all’improvviso
-* **jury was still out** = non c’è ancora un verdetto
+* **cul‑de‑sac** = vicolo cieco
+* **nourishment** = nutrimento
+* **lap** = grembo
+* **scavenging** = rovistare
+* **blurry** = sfocato
+* **for hours on end** = per ore e ore
+* **devour by the spoonful** = divorare a cucchiaiate
+* **sipping** = sorseggiare
+* **bins** = bidoni della spazzatura
+* **corncobs** = pannocchie
+* **craving** = voglia
+* **break my fast** = rompere il digiuno
+* **sustenance** = sostentamento
+* **slurped** = risucchiare rumorosamente
+* **furry** = pelosa
+* **curb** = bordo del marciapiede
+* **burst out laughing** = scoppiare a ridere

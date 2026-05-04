@@ -8,7 +8,7 @@ Il paesaggio, la cultura e l’economia della Scozia sono caratterizzati dall’
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Lakes%20of%20Scotland%20Dramatic%20Landscapes.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Lakes%20of%20Scotland%20Dramatic%20Landscapes.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,21 +35,21 @@ Large quantities of pure, clear loch water are used for a product that [lies](##
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **dramatic** = spettacolari
-* **trout** = trota
-* **otters** = lontre
-* **settlement** = insediamento
-* **supply** = rifornimento
-* **throughout** = durante, per tutto
-* **inlets** = golfi, baie
-* **retreated** = ritirarsi
+* **leisure** = ozio, tempo libero
 * **tidal** = della marea
-* **lies** = trovarsi
+* **inlets** = golfi, baie
+* **dramatic** = spettacolari
+* **in their own right.** = a pieno titolo
 * **surrounded** = circondare
 * **freshwater** = acqua dolce
-* **Further south** = più a sud
-* **seals** = foche
 * **seafaring** = marittima
-* **in their own right.** = a pieno titolo
+* **settlement** = insediamento
 * **scenic** = panoramico
-* **leisure** = ozio, tempo libero
+* **retreated** = ritirarsi
+* **trout** = trota
+* **otters** = lontre
+* **seals** = foche
+* **supply** = rifornimento
+* **lies** = trovarsi
+* **throughout** = durante, per tutto
+* **Further south** = più a sud

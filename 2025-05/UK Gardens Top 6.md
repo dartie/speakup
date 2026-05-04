@@ -8,7 +8,7 @@ Da quelli meticolosamente progettati e curati a quelli più selvaggi, ecco una s
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/UK%20Gardens%20Top%206.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/UK%20Gardens%20Top%206.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -26,32 +26,32 @@ One of the UK’s most celebrated gardens, and voted one of the world’s top te
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **crimson** = cremisi
-* **shores** = rive
-* **stunning** = mozzafiato
-* **showcases** = mostrare
-* **sprawling** = vasta
-* **glimpse** = sguardo
-* **glasshouse** = serra
-* **overgrown** = trascurati
-* **towering** = imponenti
-* **tree ferns** = felci arboree
 * **delights** = delizie
+* **showcases** = mostrare
 * **woven together** = intrecciare
+* **towering** = imponenti
+* **glimpse** = sguardo
+* **Treetop Walkway** = passerella tra gli alberi
+* **Nestled** = incastonati
+* **ever-changing** = in continuo cambiamento
+* **tree ferns** = felci arboree
 * **ongoing** = in corso
 * **Set against the spectacular backdrop** = con lo sfondo di
-* **Nestled** = incastonati
+* **sprawling** = vasta
+* **bold** = audaci
 * **Marchioness** = marchesa
 * **boast** = vantarsi di
-* **hub** = centro
-* **blooms** = fioriture
-* **bold** = audaci
-* **estates** = proprietà
-* **Treetop Walkway** = passerella tra gli alberi
-* **trails** = sentieri
-* **tapestry** = arazzo
-* **blend** = mescolanza
-* **thrive** = prosperare
 * **burst** = esplodere
+* **tapestry** = arazzo
+* **crimson** = cremisi
+* **shores** = rive
+* **overgrown** = trascurati
+* **stunning** = mozzafiato
+* **hub** = centro
+* **thrive** = prosperare
 * **rugged** = accidentato
-* **ever-changing** = in continuo cambiamento
+* **trails** = sentieri
+* **blooms** = fioriture
+* **estates** = proprietà
+* **glasshouse** = serra
+* **blend** = mescolanza

@@ -8,7 +8,7 @@ Sostituire il proprio ex con una versione migliorata: è l’idea rivoluzionaria
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/A%20Short%20Story%20The%20ReboundBot.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/A%20Short%20Story%20The%20ReboundBot.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -60,30 +60,30 @@ She imagined the horror in Brian’s apartment, and then the horror being inflic
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **self-aware** = consapevoli di sé
-* **dumping** = buttare
-* **landfills** = discariche
-* **grand** = splendida
-* **argue** = discutere
-* **Past tense** = tempo passato
+* **amusing** = divertente
 * **flaw** = difetto
-* **CEO** = amministratrice delegata (Chief Executive Officer)
-* **rolled her eyes** = alzare gli occhi al cielo
 * **Gran** = nonna
-* **rebound** = riprendersi
-* **confident** = sicura
-* **in the guise of** = nei panni di
-* **closure** = voltare pagina
-* **harming** = fare male
 * **sentient beings** = esseri senzienti
-* **release** = lanciare
-* **What’s the big deal?** = qual è il problema?
+* **dumping** = buttare
+* **grand** = splendida
+* **rebound** = riprendersi
+* **closure** = voltare pagina
+* **empty milk carton** = cartone del latte vuoto
+* **Past tense** = tempo passato
+* **CEO** = amministratrice delegata (Chief Executive Officer)
+* **dispose** = disfarsi
 * **besides** = inoltre
 * **fault** = colpa
-* **dispose** = disfarsi
-* **Improved** = migliorare
+* **in the guise of** = nei panni di
+* **rolled her eyes** = alzare gli occhi al cielo
+* **self-aware** = consapevoli di sé
+* **landfills** = discariche
 * **Whatever** = vabbè, come vuoi
-* **argument** = litigio
-* **empty milk carton** = cartone del latte vuoto
-* **amusing** = divertente
+* **argue** = discutere
+* **harming** = fare male
 * **facing** = affrontare
+* **Improved** = migliorare
+* **confident** = sicura
+* **release** = lanciare
+* **argument** = litigio
+* **What’s the big deal?** = qual è il problema?

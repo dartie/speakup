@@ -8,7 +8,7 @@ Tra discendenti, fedelissimi e yes-men, la Casa Bianca è sempre più simile a u
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/In%20The%20Court%20Of%20Trump.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/In%20The%20Court%20Of%20Trump.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -45,54 +45,54 @@ Kushner served as a senior advisor to the President during Trump’s first term,
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **deceased** = defunto
-* **FLOTUS** = sigla di First Lady of the United States
-* **tenure** = incarico
-* **unwilling** = riluttante, restia
-* **crony capitalism** = capitalismo clientelare
-* **U-turn** = inversione di marcia
-* **failed miserably** = fallire miseramente
-* **have fallen out** = litigare
-* **rule out** = escludere
+* **inner circle** = cerchia ristretta
+* **appointed** = nominare
+* **bitterly** = amaramente
+* **features** = essere presente
 * **draft** = elaborare, redigere
-* **private equity firm** = società di investimenti privata
-* **sovereign wealth fund** = fondo sovrano
-* **running mate** = compagno di candidatura, vice
-* **complexion** = aspetto
-* **currency** = valuta
 * **delayed** = ritardare
 * **demeanour** = atteggiamento
-* **speak up** = esprimersi, farsi sentire
-* **co-chair** = co-presidente
-* **If constitutional term limits hold** = se si rispettano i termini costituzionali
-* **courtier** = cortigiano
-* **appointed** = nominare
-* **hostess** = padrona di casa
-* **damsel in distress** = damigella in pericolo
-* **raising concerns** = sollevare preoccupazioni
-* **blood relations** = legami di sangue
-* **alleged** = presunto
-* **yes-men** = leccapiedi, che dicono sempre sì
-* **token of mercy** = gesto di misericordia
-* **scolding** = ramanzina
-* **duties** = doveri
-* **detached** = distante
-* **sparked** = provocare
-* **rooted as much in** = basarsi
-* **bully’s sidekick** = la spalla del bullo
-* **venture capital** = capitale di rischio
 * **presidential run** = candidatura a presidente
-* **wildly** = estremamente
 * **trusted appointees** = incaricati fidati
-* **ventures** = imprese
-* **regret** = rammarico
-* **short-lived** = breve, effimera
-* **bitterly** = amaramente
+* **failed miserably** = fallire miseramente
+* **rule out** = escludere
+* **wildly** = estremamente
+* **co-chair** = co-presidente
+* **sovereign wealth fund** = fondo sovrano
+* **raising concerns** = sollevare preoccupazioni
+* **hostess** = padrona di casa
+* **unwilling** = riluttante, restia
+* **speak up** = esprimersi, farsi sentire
+* **alleged** = presunto
+* **prizes** = premiare
+* **have fallen out** = litigare
+* **deceased** = defunto
+* **duties** = doveri
+* **tenure** = incarico
 * **hinted at** = insinuare
 * **seat** = posto
-* **prizes** = premiare
+* **blood relations** = legami di sangue
+* **courtier** = cortigiano
+* **regret** = rammarico
+* **currency** = valuta
+* **venture capital** = capitale di rischio
+* **rooted as much in** = basarsi
+* **bully’s sidekick** = la spalla del bullo
 * **had Trump’s ear** = essere in confidenza con qualcuno, essere benvoluto da qualcuno
-* **features** = essere presente
+* **short-lived** = breve, effimera
+* **complexion** = aspetto
+* **sparked** = provocare
+* **damsel in distress** = damigella in pericolo
+* **yes-men** = leccapiedi, che dicono sempre sì
+* **U-turn** = inversione di marcia
+* **token of mercy** = gesto di misericordia
+* **running mate** = compagno di candidatura, vice
+* **scolding** = ramanzina
 * **made the headlines** = fare notizia
+* **private equity firm** = società di investimenti privata
+* **ventures** = imprese
+* **If constitutional term limits hold** = se si rispettano i termini costituzionali
+* **FLOTUS** = sigla di First Lady of the United States
+* **detached** = distante
 * **siblings** = fratelli e sorelle
-* **inner circle** = cerchia ristretta
+* **crony capitalism** = capitalismo clientelare

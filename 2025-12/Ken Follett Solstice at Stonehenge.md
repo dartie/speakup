@@ -8,7 +8,7 @@ L'ultimo libro di Ken Follett, "Circle of Days", ci dà l'occasione di scoprire 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Ken%20Follett%20Solstice%20at%20Stonehenge.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Ken%20Follett%20Solstice%20at%20Stonehenge.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,33 +32,33 @@ When Seft finds that his house is about to collapse, he comes up with an ingenio
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **gather** = riunirsi, radunarsi
-* **worship** = culto
-* **trade** = commerciare
-* **raise** = crescere
-* **joints** = giunti, giunture
-* **priestesses** = sacerdotesse
-* **flint** = selce
-* **gene pool** = patrimonio genetico
 * **timber** = legno
-* **goat’s cheese** = formaggio di capra
-* **lintel** = architrave
-* **straps** = cinghie
-* **Revel** = festa, celebrazione
-* **chisel** = scalpello
-* **sticking out** = sporgere
-* **earthwork enclosure** = recinto di terra
-* **drum** = suonare il tamburo
 * **goods** = merci
+* **goat’s cheese** = formaggio di capra
+* **fix in place** = fissare, mettere in posizione
+* **earthwork enclosure** = recinto di terra
+* **crowd** = folla
+* **gather** = riunirsi, radunarsi
+* **gene pool** = patrimonio genetico
+* **settlements** = insediamenti
+* **leather goods** = articoli di pelletteria
+* **regardless** = a prescindere
+* **sticking out** = sporgere
 * **accurate** = affidabili
 * **crossbars** = traverse
-* **level** = livellato, allo stesso livello
-* **regardless** = a prescindere
-* **slot together** = incastrare, assemblare
-* **fix in place** = fissare, mettere in posizione
-* **traces** = tracce
-* **leather goods** = articoli di pelletteria
+* **raise** = crescere
+* **lintel** = architrave
+* **flint** = selce
 * **widen** = ampliare
-* **crowd** = folla
-* **settlements** = insediamenti
+* **chisel** = scalpello
+* **joints** = giunti, giunture
+* **level** = livellato, allo stesso livello
+* **slot together** = incastrare, assemblare
+* **drum** = suonare il tamburo
+* **straps** = cinghie
+* **traces** = tracce
+* **priestesses** = sacerdotesse
+* **worship** = culto
+* **trade** = commerciare
+* **Revel** = festa, celebrazione
 * **uprights** = pali

@@ -8,7 +8,7 @@ Nata in un periodo di crisi, l’auto più amata dagli inglesi del XX secolo, ha
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/The%20Mini%20Less%20Is%20More.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/The%20Mini%20Less%20Is%20More.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,16 +38,16 @@ BMW acquired British Leyland in 1996 and the last original Mini [rolled off](## 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **bottom hinged** = con cerniera inferiore
 * **race track** = pista, circuito
 * **cute** = carino
 * **speedster** = auto sportiva
-* **hit** = successo
+* **built on** = basarsi su
+* **four-seater** = a quattro posti
 * **inch** = pollice (25,4 mm)
 * **tyres** = pneumatici
-* **boot** = bagagliaio
 * **crime caper** = film d’azione
-* **quirky** = strano
-* **four-seater** = a quattro posti
-* **bottom hinged** = con cerniera inferiore
 * **rolled off** = cadere da, rotolare giù
-* **built on** = basarsi su
+* **hit** = successo
+* **quirky** = strano
+* **boot** = bagagliaio

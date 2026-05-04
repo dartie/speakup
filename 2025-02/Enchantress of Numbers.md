@@ -8,7 +8,7 @@ Ada Lovelace, pioniera dell'informatica, ha sfidato le convenzioni sociali e per
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Enchantress%20of%20Numbers.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Enchantress%20of%20Numbers.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,17 +33,17 @@ On a global scale, there is now, since 2009, an Ada Lovelace Day, on the second 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **raise** = crescere, educare
-* **shut** = chiudere
-* **spell** = incantesimo
-* **to lie** = giacere
-* **grasped** = comprendere
+* **Earl** = conte
+* **enchantress** = incantatrice, seduttrice
+* **gambler** = giocatrice d’azzardo
 * **self-centred** = egocentrica
 * **lacking** = mancare
-* **achievements** = conquiste
+* **to lie** = giacere
 * **reclining board** = tavola reclinabile
-* **fidgeted** = non smettere di muoversi
-* **enchantress** = incantatrice, seduttrice
-* **Earl** = conte
-* **gambler** = giocatrice d’azzardo
+* **spell** = incantesimo
+* **grasped** = comprendere
 * **forceful** = forte, con energia
+* **achievements** = conquiste
+* **raise** = crescere, educare
+* **fidgeted** = non smettere di muoversi
+* **shut** = chiudere

@@ -8,7 +8,7 @@ Lontano dall’inquinamento luminoso delle città, due parchi naturali nel nord 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Dark%20Skies%20What%E2%80%99s%20Hiding%20in%20the%20Dark%20Skies%20of%20Yorkshire.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Dark%20Skies%20What%E2%80%99s%20Hiding%20in%20the%20Dark%20Skies%20of%20Yorkshire.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -57,7 +57,7 @@ Dalton has been involved in the Dark Skies Festival since 2017 and has experienc
 **Helen Dalton:** My most memorable moment was the [shooting stars](## "stelle cadenti"). That was absolutely magical, and actually to turn round and watch everybody’s faces... I think for me, it’s just the excitement, and the pleasure of them seeing something which you’ve never seen before. And a lot of the visitors are from towns and cities, and you don’t get to see the [blanket](## "manto") of [mesmerising](## "hipnóticas, fascinantes") stars in the sky. So, for me it’s the pleasure of seeing other people [in awe](## "con stupore") of the dark sky. Another one that was a really good event last year, it was grandmother’s or great grandmother’s 80th birthday, and all she wanted to see was the stars through a telescope. So, she came to one of our events, and she had all the family with her, and she saw the Seven Sisters through the telescope. And it was just so lovely to see and lovely that her family had all enjoyed and experienced that with her as well. 
 
 ## DARK SKY RESERVES
-Dark Sky Reserves are places where darkness is conserved for scientific, educational and cultural purposes, and of course, for the enjoyment of the general public. This has increased [awareness](## "consapevolezza") of the benefits of protecting the 3,615sq km  area from [light pollution](## "inquinamento luminoso"). Many local businesses now participate in the festival and have obtained “dark sky friendly business” status, meaning that they offer binoculars, literature on the dark skies, warm [blanket](## "manto")s and other essentials for a night under the stars.
+Dark Sky Reserves are places where darkness is conserved for scientific, educational and cultural purposes, and of course, for the enjoyment of the general public. This has increased [awareness](## "consapevolezza") of the benefits of protecting the 3,615sq km  area from [light pollution](## "inquinamento luminoso"). Many local businesses now participate in the festival and have obtained “dark sky friendly business” status, meaning that they offer binoculars, literature on the dark skies, [warm [blanket](## "manto")s](## "coperte calde") and other essentials for a night under the stars.
  
 
 --------------
@@ -65,50 +65,50 @@ Dark Sky Reserves are places where darkness is conserved for scientific, educati
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **warm blankets** = coperte calde
-* **glow** = bagliore
+* **field barns** = fienili
+* **take on** = assumere
+* **rewilding** = rinaturalizzazione
+* **tawny owl** = allocco comune
+* **moths** = falene
+* **stargazing** = osservazione delle stelle
+* **estate** = proprietà, tenuta
+* **awareness** = consapevolezza
+* **shooting stars** = stelle cadenti
+* **lie** = giacere
+* **bitter** = gelido
+* **crisp** = fresco
+* **light pollution** = inquinamento luminoso
+* **time slot** = fascia oraria
+* **Reservoir** = bacino
+* **to spot** = avvistare, individuare
+* **dimmer** = meno luminose
 * **Moors** = brughiere
 * **dry-stone** = muretto a secco
-* **lie** = giacere
-* **awareness** = consapevolezza
-* **hue** = tonalità
-* **shooting stars** = stelle cadenti
-* **ringed plover** = corriere grosso
-* **tawny owl** = allocco comune
-* **to spot** = avvistare, individuare
-* **barn owls** = barbagianni comune
-* **bats** = pipistrelli
-* **northern lights** = aurore boreali
-* **blanket** = manto
-* **plover** = piviere
-* **estate** = proprietà, tenuta
-* **taking in** = contemplare
-* **in awe** = con stupore
-* **heather** = brugo
-* **bitter** = gelido
-* **Reservoir** = bacino
-* **take on** = assumere
-* **crisp** = fresco
-* **rewilding** = rinaturalizzazione
-* **mesmerising** = hipnóticas, fascinantes
 * **skyward** = verso il cielo
-* **moths** = falene
-* **peppered** = sparso
-* **upland** = altipiani
-* **stargazing** = osservazione delle stelle
+* **barn owls** = barbagianni comune
+* **warm blankets** = coperte calde
+* **range** = gamma, varietà
+* **taking in** = contemplare
+* **northern lights** = aurore boreali
+* **glow** = bagliore
+* **heather** = brugo
+* **ringed plover** = corriere grosso
+* **bats** = pipistrelli
+* **in awe** = con stupore
+* **hosted** = ospitare, accogliere
 * **Milky Way** = Via Lattea
 * **wellbeing** = benessere
-* **merlin** = smeriglio
-* **light pollution** = inquinamento luminoso
-* **Officer** = responsabile, direttrice
-* **dimmer** = meno luminose
-* **Dales** = valli
-* **snake** = serpeggiare
-* **field barns** = fienili
+* **peppered** = sparso
 * **hiking** = escursioni, camminate
-* **feature** = caratteristica
-* **range** = gamma, varietà
-* **hosted** = ospitare, accogliere
-* **time slot** = fascia oraria
+* **plover** = piviere
+* **hue** = tonalità
+* **upland** = altipiani
+* **merlin** = smeriglio
+* **Officer** = responsabile, direttrice
 * **pushchairs** = passeggini
 * **wheelchairs** = sedie a rotelle
+* **feature** = caratteristica
+* **blanket** = manto
+* **mesmerising** = hipnóticas, fascinantes
+* **Dales** = valli
+* **snake** = serpeggiare

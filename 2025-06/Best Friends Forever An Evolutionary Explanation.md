@@ -8,7 +8,7 @@ Gli esseri umani amiamo i cani e loro sembrano amarci a loro volta. Ma fino a ch
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Best%20Friends%20Forever%20An%20Evolutionary%20Explanation.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Best%20Friends%20Forever%20An%20Evolutionary%20Explanation.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -73,40 +73,40 @@ www.lynnmuseum.norfolk.gov.uk
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **dumbed them down** = rendere stupidi
-* **even bother** = prendersi la briga
-* **prey** = prede
-* **roughly** = approssimativamente
-* **lizards** = lucertole
-* **plot** = terreno
-* **claim** = affermare
-* **trained** = addestrare
-* **fit** = adattarsi
-* **in packs** = in branchi
-* **traits** = tratti
-* **well-being** = benessere
-* **cues** = segnali
-* **piglets** = maialini
-* **roamed** = vagare
-* **picking up on** = cogliere
-* **stick insects** = insetti stecco
-* **outlier** = eccezione
-* **rabbits** = conigli
-* **mammals** = mammiferi
-* **bred** = allevare
-* **skunks** = puzzole
-* **thriving** = in espansione
-* **it undergo** = sottoporsi a
-* **outperform** = superare, ottenere risultati migliori
-* **raising** = allevare
-* **dumb** = stupido
-* **of hang out** = passare il tempo
-* **let’s face it** = affrontiamolo
-* **tame** = addomesticato
-* **cope with** = affrontare
 * **nursery** = asilo
+* **roamed** = vagare
+* **suitable** = adatti, appropriati
+* **cope with** = affrontare
+* **dumb** = stupido
+* **rabbits** = conigli
 * **dine on** = cenare a base di
 * **breeds** = razze
-* **commands** = ordini
+* **roughly** = approssimativamente
+* **skunks** = puzzole
+* **stick insects** = insetti stecco
+* **raising** = allevare
+* **mammals** = mammiferi
+* **even bother** = prendersi la briga
+* **picking up on** = cogliere
+* **dumbed them down** = rendere stupidi
+* **outperform** = superare, ottenere risultati migliori
+* **outlier** = eccezione
+* **let’s face it** = affrontiamolo
+* **cues** = segnali
 * **raccoons** = procioni
-* **suitable** = adatti, appropriati
+* **trained** = addestrare
+* **claim** = affermare
+* **in packs** = in branchi
+* **bred** = allevare
+* **well-being** = benessere
+* **lizards** = lucertole
+* **of hang out** = passare il tempo
+* **plot** = terreno
+* **commands** = ordini
+* **piglets** = maialini
+* **prey** = prede
+* **traits** = tratti
+* **thriving** = in espansione
+* **tame** = addomesticato
+* **fit** = adattarsi
+* **it undergo** = sottoporsi a

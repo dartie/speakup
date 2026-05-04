@@ -8,7 +8,7 @@ Filosofo, umanista e statista, fu uno dei più brillanti studiosi del Rinascimen
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Thomas%20More%20Humanist%20and%20Statesman.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Thomas%20More%20Humanist%20and%20Statesman.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -43,46 +43,46 @@ More’s execution is one of the most famous in British history. The condemned m
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **gentleman-farmer** = proprietario terriero
+* **advisor** = consigliere
+* **statesman** = statista
+* **brewer** = birraio
 * **ruled** = governare
-* **heir** = erede
-* **resigned** = dimettere
-* **beheaded** = decapitare
-* **Yet** = eppure
-* **blindfolding** = bendare
 * **late** = defunto
-* **Act** = legge
-* **charged** = accusare
+* **burnt at the stake** = bruciare sul rogo
+* **See me safe up** = aiutami a salire in sicurezza
+* **to trap** = tendere una trappola
 * **pun** = gioco di parole
 * **greed** = avidità
-* **statesman** = statista
-* **candlestick** = candeliere
-* **knighted** = nominare cavaliere
-* **void** = nullo
-* **courtier** = cortigiana
-* **buried** = seppellire
-* **gave rise** = dare origine
-* **See me safe up** = aiutami a salire in sicurezza
-* **let me shift for myself** = lasciami arrangiare da solo
-* **maligned** = diffamare
-* **to relieve** = alleviare
-* **Council** = consiglio
-* **Exchequer** = tesoro pubblico
-* **burnt at the stake** = bruciare sul rogo
-* **coined** = coniare
-* **lieutenant** = tenente
-* **advisor** = consigliere
-* **heresy** = eresia
-* **threat** = minaccia
-* **scaffold** = patibolo
-* **severed** = tagliare
-* **baker** = fornaio
-* **to trap** = tendere una trappola
-* **begged** = supplicare
-* **kneeling** = inginocchiarsi
 * **principled** = esemplare, onesto
-* **brewer** = birraio
-* **Oath** = giuramento
-* **to deny** = negare
+* **to relieve** = alleviare
+* **gentleman-farmer** = proprietario terriero
+* **void** = nullo
+* **heresy** = eresia
+* **gave rise** = dare origine
 * **blueprint** = progetto, modello
+* **scaffold** = patibolo
+* **to deny** = negare
+* **beheaded** = decapitare
+* **begged** = supplicare
+* **resigned** = dimettere
+* **Oath** = giuramento
+* **Act** = legge
+* **knighted** = nominare cavaliere
+* **courtier** = cortigiana
+* **coined** = coniare
+* **let me shift for myself** = lasciami arrangiare da solo
+* **blindfolding** = bendare
+* **baker** = fornaio
+* **heir** = erede
 * **freedom of worship** = libertà di culto
+* **buried** = seppellire
+* **maligned** = diffamare
+* **Exchequer** = tesoro pubblico
+* **threat** = minaccia
+* **lieutenant** = tenente
+* **kneeling** = inginocchiarsi
+* **severed** = tagliare
+* **candlestick** = candeliere
+* **Council** = consiglio
+* **charged** = accusare
+* **Yet** = eppure

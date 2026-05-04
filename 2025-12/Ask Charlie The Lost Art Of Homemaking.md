@@ -8,7 +8,7 @@ Orgogliosa madre di tre figli, casalinga e influencer, ha conquistato milioni di
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Ask%20Charlie%20The%20Lost%20Art%20Of%20Homemaking.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Ask%20Charlie%20The%20Lost%20Art%20Of%20Homemaking.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -53,39 +53,39 @@ If you want to know more about this topic, read the article Charlie Gray: I Am 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **ready meals** = piatti pronti
+* **from scratch** = da zero
+* **fits** = incarnare, adattarsi
+* **woollen jumper** = maglione di lana
+* **cookery** = cucina
+* **argue** = sostenere
+* **vacuum** = passare l’aspirapolvere
+* **empty the dustbins** = svuotare i bidoni della spazzatura
+* **I’m aware** = essere consapevole
+* **whatever it might be** = qualunque cosa possa essere
+* **household** = domestiche
+* **freezer** = congelatore
+* **mess** = disordine
+* **shift back** = ritorno
+* **sense of achievement** = senso di realizzazione
+* **spring beans** = fagiolini
 * **ironing** = stiratura
 * **cut back** = ridurre
-* **fits** = incarnare, adattarsi
-* **aiming** = avere come obiettivo
-* **niche down** = specializzarsi
-* **whatever it might be** = qualunque cosa possa essere
-* **ready meals** = piatti pronti
-* **pull out** = tirare fuori
-* **sense of achievement** = senso di realizzazione
-* **stitch something up** = rammendare
 * **delighted** = felice
-* **argue** = sostenere
+* **niche down** = specializzarsi
 * **bake** = cuocere al forno
-* **freezer** = congelatore
-* **cookery** = cucina
-* **from scratch** = da zero
-* **I’m aware** = essere consapevole
-* **lifts your spirit** = sollevare lo spirito
-* **homemaker** = casalinga
-* **batch cook** = cucinare in grandi quantità
-* **pass on** = trasmettere, insegnare
-* **empty the dustbins** = svuotare i bidoni della spazzatura
-* **spring beans** = fagiolini
-* **woollen jumper** = maglione di lana
 * **tips** = trucchi, consigli
-* **sewing** = cucito
-* **mess** = disordine
-* **vacuum** = passare l’aspirapolvere
-* **wash up** = lavare i piatti
 * **removed** = rimuovere
+* **stitch something up** = rammendare
+* **batch cook** = cucinare in grandi quantità
+* **lifts your spirit** = sollevare lo spirito
+* **pass on** = trasmettere, insegnare
+* **homemaker** = casalinga
+* **sewing** = cucito
 * **became apparent** = diventare evidente
+* **aiming** = avere come obiettivo
+* **boosts your mood** = migliorare l’umore
+* **wash up** = lavare i piatti
+* **pull out** = tirare fuori
 * **take pride in** = essere orgoglioso di
 * **wait on him hand and foot** = servire qualcuno in tutto e per tutto
-* **household** = domestiche
-* **shift back** = ritorno
-* **boosts your mood** = migliorare l’umore

@@ -8,7 +8,7 @@ L’eredità romana è rimasta (sorprendentemente) quasi invariata in alcuni mod
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/Latin%20in%20Everyday%20English.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/Latin%20in%20Everyday%20English.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -41,21 +41,21 @@ In conclusion, it is fair to say that English speakers, in everyday speech, do l
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **launch pad** = piattaforma di lancio
+* **Notice** = notare, accorgersi
+* **keen** = diligente, scrupoloso
+* **insight** = conoscenza
 * **collocation** = collocazione linguistica
 * **to throw in** = inserire
-* **caveat** = avvertenza
+* **fairly** = abbastanza
 * **pledge** = promessa
+* **rough** = irregolare, ruvido
+* **launch pad** = piattaforma di lancio
+* **casual** = informale
 * **Bear in mind** = tenere presente
 * **to avoid** = evitare
-* **keen** = diligente, scrupoloso
+* **otherwise** = altrimenti
+* **caveat** = avvertenza
 * **unrehearsed** = improvvisato
 * **learned** = colto
-* **fairly** = abbastanza
 * **we are moving away** = allontanarsi
 * **realms** = campi, sfere
-* **otherwise** = altrimenti
-* **rough** = irregolare, ruvido
-* **casual** = informale
-* **Notice** = notare, accorgersi
-* **insight** = conoscenza

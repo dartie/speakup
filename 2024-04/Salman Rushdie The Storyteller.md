@@ -8,7 +8,7 @@ Lo scrittore anglo-indiano pubblica un nuovo volume di memorie in cui esamina le
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Salman%20Rushdie%20The%20Storyteller.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Salman%20Rushdie%20The%20Storyteller.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,18 +38,18 @@ However, on 12 August 2022, as Rushdie was about to speak at the [non-profit org
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **carried out** = eseguire
-* **non-profit organisation** = organizzazione senza scopo di lucro
 * **attended** = andare a lezione
+* **to make sense** = dare un senso
+* **riots** = sommosse, rivolte
+* **carried out** = eseguire
+* **Muhammad** = Maometto
+* **stabbed** = pugnalare
+* **hiding** = nascondersi
+* **essay** = saggio
+* **knighted** = nominare cavaliere
+* **non-profit organisation** = organizzazione senza scopo di lucro
+* **rushed** = precipitarsi
 * **praise** = elogi
 * **plot** = trama
-* **hiding** = nascondersi
-* **knighted** = nominare cavaliere
-* **cooled off** = raffreddarsi
-* **rushed** = precipitarsi
-* **stabbed** = pugnalare
-* **to make sense** = dare un senso
-* **Muhammad** = Maometto
-* **essay** = saggio
-* **riots** = sommosse, rivolte
 * **to conceal** = tenere segreto
+* **cooled off** = raffreddarsi

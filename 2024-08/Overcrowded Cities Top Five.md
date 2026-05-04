@@ -8,7 +8,7 @@ Queste cinque città europee stanno assistendo a un lento degrado a causa dell�
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/Overcrowded%20Cities%20Top%20Five.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/Overcrowded%20Cities%20Top%20Five.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -25,15 +25,15 @@ Last year, the vacation rental agency Holidu named Dubrovnik the most overcrowde
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **overnight tax** = tassa di soggiorno
-* **discourage** = dissuadere
-* **astonishing** = sorprendente
-* **climbing** = arrampicarsi
-* **day trips** = gite giornaliere
-* **walled city** = città murata
 * **busiest** = maggiore affluenza
 * **ban** = divieto
+* **locusts** = cavallette
+* **astonishing** = sorprendente
+* **overnight tax** = tassa di soggiorno
 * **docking** = attraccare
 * **trucks** = camion
+* **discourage** = dissuadere
 * **flooding** = inondare
-* **locusts** = cavallette
+* **day trips** = gite giornaliere
+* **walled city** = città murata
+* **climbing** = arrampicarsi

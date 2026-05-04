@@ -8,7 +8,7 @@ In questo breve dialogo ripassiamo alcuni termini utili in ambito lavorativo, so
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/Everyday%20Dialogues%20Performance%20Review.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/Everyday%20Dialogues%20Performance%20Review.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -48,17 +48,17 @@ Keep going as you are is a phrase used to [encourage](## "incoraggiare") someon
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **schedule** = programma, agenda
+* **policy** = politica
+* **time management** = gestione del tempo
 * **team effort** = lavoro di squadra
 * **performance** = prestazione, rendimento
 * **achievements** = risultati
-* **ongoing** = continuo, costante
 * **improvement** = miglioramento
+* **ongoing** = continuo, costante
+* **schedule** = programma, agenda
 * **skills** = competenze
 * **enable** = rendere possibile
 * **engages** = coinvolgere
 * **summarises** = riassumere
 * **encourage** = incoraggiare
 * **busy** = impegnativo
-* **policy** = politica
-* **time management** = gestione del tempo

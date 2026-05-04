@@ -8,7 +8,7 @@ Come Dickens e George Eliot, l'opera di Zadie Smith combina magistralmente impeg
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/A%2021st-Century%20Dickens.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/A%2021st-Century%20Dickens.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -29,21 +29,21 @@ Although The Fraud describes the horrors of [slavery](## "schiavitù"), it’s a
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **vividly-drawn** = vividamente delineati
-* **slavery** = schiavitù
 * **soundbites** = estratti, citazioni
+* **slavery** = schiavitù
+* **of its own accord** = di propria iniziativa
+* **woven around** = intrecciare, sviluppare attorno
+* **gap** = divario, differenza
+* **speaks out** = parlare apertamente
+* **engagement** = coinvolgimento
 * **straight line** = linea retta
 * **screeds** = sermoni
-* **gap** = divario, differenza
-* **nuanced** = ricco di sfumature
-* **engagement** = coinvolgimento
-* **of its own accord** = di propria iniziativa
-* **speaks out** = parlare apertamente
-* **levity** = leggerezza
-* **woven around** = intrecciare, sviluppare attorno
-* **relatable** = comprensibile
-* **noticed** = notare
-* **runs in my family** = è una caratteristica della mia famiglia
-* **topics** = argomenti
-* **annoying** = fastidioso
 * **AI** = intelligenza artificiale
+* **levity** = leggerezza
+* **relatable** = comprensibile
+* **nuanced** = ricco di sfumature
+* **annoying** = fastidioso
+* **runs in my family** = è una caratteristica della mia famiglia
+* **vividly-drawn** = vividamente delineati
+* **noticed** = notare
+* **topics** = argomenti

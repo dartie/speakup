@@ -8,7 +8,7 @@ In occasione del suo primo ritratto ufficiale da re, Carlo III ha scelto un cont
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/Jonathan%20Yeo%E2%80%99s%20King%20Charles%20III%20Vivid%20Red%20King.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/Jonathan%20Yeo%E2%80%99s%20King%20Charles%20III%20Vivid%20Red%20King.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -27,15 +27,15 @@ In the portrait, the King is wearing the uniform of the Welsh Guards, has a swor
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **mildly** = moderatamente
-* **unveiled** = svelare
-* **mixed response** = reazioni contrastanti
-* **released a statement** = rilasciare una dichiarazione
-* **slightly** = leggermente
+* **in the early 2000s** = nei primi anni del 2000
 * **sittings** = sessioni
 * **hovering** = volteggiare
-* **treasonous** = sovversivo
+* **unveiled** = svelare
 * **poorly** = male
 * **above all else** = soprattutto
-* **in the early 2000s** = nei primi anni del 2000
+* **slightly** = leggermente
 * **high-profile people** = persone di alto rilievo
+* **mildly** = moderatamente
+* **treasonous** = sovversivo
+* **mixed response** = reazioni contrastanti
+* **released a statement** = rilasciare una dichiarazione

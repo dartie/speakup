@@ -8,7 +8,7 @@ Un’usanza popolare britannica è quella di cenare pesce il venerdì. Sebbene q
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/Fish%20Fridays%20A%20Short%20History.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/Fish%20Fridays%20A%20Short%20History.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -29,24 +29,24 @@ After King Henry VIII broke with the Catholic Church and founded the Church of E
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **to boost** = promuovere
-* **to last through the week.** = durare tutta la settimana
-* **believers** = fedeli
-* **flesh** = carne
-* **was frowned upon** = essere malvisto
 * **commonwealth** = comunità dei cittadini
-* **waiting in line** = fare la fila
-* **pope** = papa
-* **fasting** = digiuno
-* **trade** = commercio
+* **to last through the week.** = durare tutta la settimana
 * **looking through** = esaminare, consultare
-* **warm-blooded** = sangue caldo
-* **sins** = peccati
-* **meal** = pasto
-* **was passed** = approvare
-* **to treat yourself** = concedersi, viziarsi con
-* **takeaway food** = cibo da asporto
-* **to avoid** = evitare
+* **any such** = di questo tipo
 * **humankind** = umanità
 * **therefore** = perciò, quindi
-* **any such** = di questo tipo
+* **meal** = pasto
+* **was frowned upon** = essere malvisto
+* **waiting in line** = fare la fila
+* **to treat yourself** = concedersi, viziarsi con
+* **fasting** = digiuno
+* **to boost** = promuovere
+* **was passed** = approvare
+* **takeaway food** = cibo da asporto
+* **trade** = commercio
+* **to avoid** = evitare
+* **warm-blooded** = sangue caldo
+* **sins** = peccati
+* **pope** = papa
+* **believers** = fedeli
+* **flesh** = carne

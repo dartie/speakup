@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/American%20Britishisms%20Why%20Some%20Americans%20Are%20Speaking%20Like%20Brits.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/American%20Britishisms%20Why%20Some%20Americans%20Are%20Speaking%20Like%20Brits.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -51,27 +51,27 @@ Example: “Could you please get me a sandwich for lunch?” “Will do!”
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **grew out of** = essere grande per
-* **ginger-haired wizard** = mago dai capelli rossi
-* **awkward** = scomodo
-* **fortnight** = quindici giorni
-* **fell out of usage** = cadere in disuso
-* **playful** = giocoso, scherzoso
-* **toasting** = brindare
-* **astonished** = stupito, meravigliato
-* **sick** = figo
 * **to notice** = notare
 * **trend** = moda, tendenza
-* **to Handle** = gestire
-* **Therefore** = perciò, quindi
-* **argue** = argomentare
-* **mischievous** = malizioso
-* **utterly** = totalmente
-* **penniless** = al verde, senza soldi
-* **complaining** = lamentarsi
-* **the late 2010s** = alla fine del decennio 2010
-* **to alienate themselves** = estraniarsi
-* **anger** = rabbia
+* **grew out of** = essere grande per
 * **softening** = attenuare
 * **to engage** = intraprendere una conversazione
 * **broke** = in bancarotta
+* **complaining** = lamentarsi
+* **anger** = rabbia
+* **fortnight** = quindici giorni
+* **Therefore** = perciò, quindi
+* **argue** = argomentare
+* **utterly** = totalmente
+* **astonished** = stupito, meravigliato
+* **sick** = figo
+* **the late 2010s** = alla fine del decennio 2010
+* **to Handle** = gestire
+* **awkward** = scomodo
+* **fell out of usage** = cadere in disuso
+* **mischievous** = malizioso
+* **playful** = giocoso, scherzoso
+* **toasting** = brindare
+* **to alienate themselves** = estraniarsi
+* **ginger-haired wizard** = mago dai capelli rossi
+* **penniless** = al verde, senza soldi

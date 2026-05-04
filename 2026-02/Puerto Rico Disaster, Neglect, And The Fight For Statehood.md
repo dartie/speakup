@@ -8,7 +8,7 @@ Gli uragani del 2017 non hanno solo devastato Porto Rico, ma hanno anche messo i
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Puerto%20Rico%20Disaster,%20Neglect,%20And%20The%20Fight%20For%20Statehood.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Puerto%20Rico%20Disaster,%20Neglect,%20And%20The%20Fight%20For%20Statehood.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -45,38 +45,38 @@ If you want to know more about this topic, read the article Puerto Rico And Its
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **no matter what** = in ogni caso
-* **outrage** = indignazione
+* **knocked out** = mettere fuori servizio
+* **scorn** = disprezzo
+* **outcome** = esito
 * **Commonwealth status** = condizione di Stato libero associato
-* **surveys** = sondaggi
-* **took over** = assumere il controllo
-* **in the aftermath of** = come conseguenza di
+* **switching** = cambiare
+* **allowed** = permettere
+* **disrupted** = interrompere
+* **one-two punch** = doppio colpo (lett. combinazione uno-due del pugilato)
+* **lagged** = tardare
+* **lack** = mancanza
+* **gave even more credence to** = dare credito a
+* **surged** = impennarsi
+* **Despite** = nonostante
+* **mainland** = continente
 * **aid** = aiuto
 * **delayed** = ritardare
 * **disparaging** = denigratori
-* **lack** = mancanza
-* **lagged** = tardare
-* **mandatory subject** = materia obbligatoria
-* **disrupted** = interrompere
-* **handful** = manciata
-* **scorn** = disprezzo
-* **outcome** = esito
-* **hired** = assumere
-* **strengthened** = rafforzare
-* **gave even more credence to** = dare credito a
-* **surged** = impennarsi
-* **knocked out** = mettere fuori servizio
-* **power grid** = rete elettrica
-* **mainland** = continente
 * **fuelled** = alimentare
-* **shipping** = trasporto
-* **allowed** = permettere
-* **statehood** = status di stato
-* **compounding** = aggravare
+* **outrage** = indignazione
+* **strengthened** = rafforzare
+* **power grid** = rete elettrica
 * **death toll** = bilancio delle vittime
-* **dismissive** = offensivo
-* **switching** = cambiare
-* **one-two punch** = doppio colpo (lett. combinazione uno-due del pugilato)
+* **no matter what** = in ogni caso
 * **glib** = frivolo
-* **Despite** = nonostante
+* **dismissive** = offensivo
+* **statehood** = status di stato
+* **took over** = assumere il controllo
+* **compounding** = aggravare
+* **shipping** = trasporto
+* **mandatory subject** = materia obbligatoria
+* **surveys** = sondaggi
+* **handful** = manciata
+* **in the aftermath of** = come conseguenza di
 * **remarks** = commenti
+* **hired** = assumere

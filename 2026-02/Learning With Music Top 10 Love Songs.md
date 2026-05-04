@@ -8,7 +8,7 @@ Non c’è niente di più romantico che dedicare una canzone d’amore. Eccone 1
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Learning%20With%20Music%20Top%2010%20Love%20Songs.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Learning%20With%20Music%20Top%2010%20Love%20Songs.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,7 +40,7 @@ Look into my eyesYou will seeWhat you mean to meSearch your heartSearch your sou
 
 ## B2 UPPER INTERMEDIATE
 [Concerned](## "preoccupato") that 2014’s [corny](## "sdolcinata") romantic ballad Thinking Out Loud would be his defining song, Ed Sheeran [set out](## "decidersi") to write what became the most successful song of his career. A serenade to his [wife-to-be](## "futura moglie"), reflecting on their past, present and future, this captured the hearts of millions of listeners, with duets performed with Beyoncé and Andrea Bocelli bringing it to an even wider audience. The lyrics use the past simple, future, imperatives and descriptive adjectives.
-I found a love for meOh, darling, just [dive right in](## "buttarsi, lanciarsi") and [follow my [lead](## "protagonista")](## "reggere il gioco, assecondare")Well, I found a girl, beautiful and sweetOh, I never knew you were the someone waitin’ for me
+I found a love for meOh, darling, just [dive right in](## "buttarsi, lanciarsi") and follow my [lead](## "protagonista")Well, I found a girl, beautiful and sweetOh, I never knew you were the someone waitin’ for me
 Mis[take](## "versione")nly perceived as a romantic [paean](## "inno"), this is in fact a [prayer](## "preghiera"). English poet Brian Hinton compared the lyrics to Dante, naming it “one of the finest love songs of the century.” It was only a minor hit for Morrison but a cover by Rod Stewart was hugely successful in 1993. The song’s title and opening line were [pilfered](## "rubare") from a 1968 soul song and are an example of a question in the present perfect.
 Have I told you lately that I love you?Have I told you there’s no one above you?Fill my heart with [gladness](## "gioia")Take away my sadness[Ease](## "alleviare") my troubles, that’s what you do
 The best-selling single of all time by a female solo artist, Whitney Houston recorded this pop-ballad cover of a 1973 Dolly Parton country song for movie The Bodyguard, in which she made her debut as an actor [alongside](## "accanto a") Kevin Costner, the quintessential romantic [lead](## "protagonista") of 1990s cinema. The original was a [farewell](## "addio") to Parton’s business manager as she embarked on a solo career, but Whitney turned it into a [tear-jerking](## "strappalacrime") acceptance that her relationship, though still loving, was over. The lyrics use mixed conditionals and modals ‘should’ and ‘would’.
@@ -53,45 +53,45 @@ Fergal Kavanagh runs the website www.tuneintoenglish.com, the web’s largest f
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **Ease** = alleviare
-* **undying** = immortale, eterna
-* **deity** = divinità
-* **fancy** = elegante
-* **corny** = sdolcinata
 * **prayer** = preghiera
+* **starred in the film opposite** = recitare con
+* **upbeat** = allegre
+* **plea** = supplica
+* **set out** = decidersi
+* **farewell** = addio
+* **superstardom** = status di celebrità
+* **corny** = sdolcinata
+* **Righteous** = giusti
+* **release** = uscita
+* **gladness** = gioia
+* **Hailed** = elogiare
+* **then-wife** = allora moglie
+* **deity** = divinità
+* **heart-wrenching** = struggente
+* **knocked out** = buttare giù
+* **dive right in** = buttarsi, lanciarsi
+* **take** = versione
+* **pull at listeners’ heartstrings** = commuovere profondamente
+* **dismissing** = respingere
+* **highly-charged** = ad alta carica emotiva
+* **pottery** = tornio, ceramica
+* **hungered for** = desiderare
+* **fancy** = elegante
+* **blues** = tristezza
+* **dumb** = sciocca
+* **Concerned** = preoccupato
+* **wife-to-be** = futura moglie
+* **paean** = inno
+* **pilfered** = rubare
 * **alongside** = accanto a
 * **lead** = protagonista
 * **tear-jerking** = strappalacrime
-* **theme** = colonna sonora
-* **Righteous** = giusti
-* **pull at listeners’ heartstrings** = commuovere profondamente
-* **starred in the film opposite** = recitare con
-* **highly-charged** = ad alta carica emotiva
-* **pottery** = tornio, ceramica
-* **plea** = supplica
-* **wife-to-be** = futura moglie
-* **dive right in** = buttarsi, lanciarsi
-* **dumb** = sciocca
-* **upbeat** = allegre
-* **prompting** = incitare, indurre
-* **superstardom** = status di celebrità
-* **farewell** = addio
-* **Hailed** = elogiare
-* **then-wife** = allora moglie
-* **fall apart** = cadere a pezzi
-* **whomever** = chiunque
-* **Concerned** = preoccupato
-* **release** = uscita
-* **follow my lead** = reggere il gioco, assecondare
-* **take** = versione
-* **hungered for** = desiderare
-* **knocked out** = buttare giù
-* **set out** = decidersi
-* **gladness** = gioia
+* **undying** = immortale, eterna
 * **woos** = corteggiare, conquistare
-* **dismissing** = respingere
-* **heart-wrenching** = struggente
+* **theme** = colonna sonora
+* **whomever** = chiunque
+* **follow my lead** = reggere il gioco, assecondare
+* **Ease** = alleviare
+* **fall apart** = cadere a pezzi
+* **prompting** = incitare, indurre
 * **void** = vuoto
-* **blues** = tristezza
-* **paean** = inno
-* **pilfered** = rubare

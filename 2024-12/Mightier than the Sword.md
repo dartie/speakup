@@ -8,7 +8,7 @@ Un giovane aspirante scrittore scompare misteriosamente dopo aver visitato la ca
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Mightier%20than%20the%20Sword.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Mightier%20than%20the%20Sword.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -22,7 +22,7 @@ In response to the reporter’s questions, she’d said the author had become mo
 Naturally, his final book had become his biggest bestseller of all. And Terrence was certain the author [had staged](## "mettere in scena") his disappearance. He’d [run out](## "esaurire") of ideas to write about, and instead of admitting this, he’d disappeared, [ensuring](## "assicurarsi") his notoriety.
 Now his house in Brooklyn, New York, had been transformed into a museum, and Terrence was hoping a tour of it would inspire his writing.
 However, there wasn’t much about Richard Elliott’s house that Terrence found inspiring. He was hoping for a cabinet of curiosities— a house filled with the objects that had inspired the author’s fantastic stories. But the interior was [sparsely](## "scarsamente")[furnished](## "arredare") and depressingly normal.
-Terrence [[trailed](## "seguire") behind](## "rimanere indietro") the tour guide with the other visitors, as she recounted facts about the author that he already knew. He was considering leaving when they entered Elliott’s office: the office where he’d written his final book, the office from which he’d disappeared, leaving behind his clothes on a chair — no doubt, thought Terrence, to give the scene a dramatic touch.
+Terrence [trailed](## "seguire") behind the tour guide with the other visitors, as she recounted facts about the author that he already knew. He was considering leaving when they entered Elliott’s office: the office where he’d written his final book, the office from which he’d disappeared, leaving behind his clothes on a chair — no doubt, thought Terrence, to give the scene a dramatic touch.
 The clothes were still there, as was the manuscript, which had been transcribed and published. Beside it was the pen he’d used to write it.
 Like everything else in Elliott’s house, the pen looked banal and normal. But Terrence knew it wasn’t normal. Terrence knew that the pen had made Richard Elliott a bestselling author, that it had unleashed his writing talent, and that it could do the same for Terrence, that it wanted to do the same for Terrence. The pen wanted him. And he wanted it.
 He waited until the tour [trailed](## "seguire") into the next room to grab the pen, and replaced it with the one he always kept in his shirt pocket — an [affectation](## "artificio") he hoped made him look like the author he wanted to be.
@@ -43,23 +43,23 @@ It was two weeks before his [landlord](## "proprietario") found him gone, his cl
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **Mightier** = più potente
-* **furnished** = arredare
-* **trailed behind** = rimanere indietro
-* **spun** = girare (la testa)
-* **retrieved** = recuperare
-* **resented** = provare risentimento
 * **threw the pen across the room** = lanciare dall’altra parte della stanza
-* **had staged** = mettere in scena
-* **in his prime** = nel suo momento migliore
-* **unnerved** = nervoso
+* **Mightier** = più potente
 * **sparsely** = scarsamente
-* **handwritten** = manoscritto
-* **run out** = esaurire
+* **unnerved** = nervoso
+* **retrieved** = recuperare
+* **spun** = girare (la testa)
+* **in his prime** = nel suo momento migliore
+* **housekeeper** = governante
 * **ensuring** = assicurarsi
+* **furnished** = arredare
 * **trailed** = seguire
 * **affectation** = artificio
-* **infirm** = debole, malato
 * **otherwise** = altrimenti
-* **housekeeper** = governante
+* **handwritten** = manoscritto
+* **had staged** = mettere in scena
 * **landlord** = proprietario
+* **resented** = provare risentimento
+* **run out** = esaurire
+* **trailed behind** = rimanere indietro
+* **infirm** = debole, malato

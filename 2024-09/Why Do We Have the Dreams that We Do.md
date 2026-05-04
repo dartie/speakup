@@ -8,7 +8,7 @@ Un tempo considerati come messaggi provenienti dalle divinità, i sogni sono ogg
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/Why%20Do%20We%20Have%20the%20Dreams%20that%20We%20Do.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/Why%20Do%20We%20Have%20the%20Dreams%20that%20We%20Do.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -52,46 +52,46 @@ Published in The Guardian on 20 June 2024. Reprinted with permission. 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **reassessed** = rivalutare
-* **screening** = proiezione
-* **lends itself to** = prestare
-* **eliciting** = provocare, suscitare
-* **nap** = pisolino
-* **let alone** = per non parlare di
-* **muster** = radunare
-* **He rolled his eyes** = sgranare gli occhi
-* **onset** = inizio, principio
-* **flee** = fuggire
+* **Rehashing** = rielaborazione
+* **Never mind** = non importa, non fa niente
+* **byproduct** = sottoprodotto
+* **annoyed** = essere infastidita
+* **to defuse** = disinnescare
 * **run riot** = scatenarsi
 * **aka** = anche noto come (also known as)
-* **Rehashing** = rielaborazione
-* **blatantly** = palesemente
-* **visuospatial lobe** = lobo visuo-spaziale
-* **to cope** = resistere, reagire
-* **maze** = labirinto
 * **allegedly** = secondo quanto si dice
 * **boost** = promuovere, aumentare
-* **off duty** = fuori servizio
-* **wishful thinking** = pia illusione
-* **marauding** = depredare
-* **to defuse** = disinnescare
-* **rooted** = radicata
-* **posited** = ipotizzare
-* **one-size-fits-all** = uguale per tutti
-* **cast** = personaggi
-* **byproduct** = sottoprodotto
-* **delve into** = investigare
-* **betrayal** = tradimento
-* **deemed** = considerare
-* **late** = defunta
-* **lessened** = diminuire
-* **rehearsal** = prova
+* **muster** = radunare
 * **cavorting** = fare festa
-* **chased** = inseguire
-* **mistrust** = sfiducia
-* **hunch** = presentimento, presagio
-* **to harness** = sfruttare
-* **annoyed** = essere infastidita
-* **MRI** = risonanza magnetica (magnetic resonance imaging)
-* **Never mind** = non importa, non fa niente
 * **deep-seated** = profonda
+* **visuospatial lobe** = lobo visuo-spaziale
+* **off duty** = fuori servizio
+* **rehearsal** = prova
+* **nap** = pisolino
+* **blatantly** = palesemente
+* **betrayal** = tradimento
+* **lends itself to** = prestare
+* **one-size-fits-all** = uguale per tutti
+* **onset** = inizio, principio
+* **hunch** = presentimento, presagio
+* **chased** = inseguire
+* **to cope** = resistere, reagire
+* **deemed** = considerare
+* **mistrust** = sfiducia
+* **delve into** = investigare
+* **wishful thinking** = pia illusione
+* **maze** = labirinto
+* **marauding** = depredare
+* **cast** = personaggi
+* **posited** = ipotizzare
+* **flee** = fuggire
+* **lessened** = diminuire
+* **eliciting** = provocare, suscitare
+* **reassessed** = rivalutare
+* **let alone** = per non parlare di
+* **He rolled his eyes** = sgranare gli occhi
+* **screening** = proiezione
+* **to harness** = sfruttare
+* **late** = defunta
+* **MRI** = risonanza magnetica (magnetic resonance imaging)
+* **rooted** = radicata

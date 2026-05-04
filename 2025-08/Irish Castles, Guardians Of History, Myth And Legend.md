@@ -8,7 +8,7 @@ Dalle roccaforti alle rovine spazzate dal vento: l’Irlanda abbonda di castelli
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/Irish%20Castles,%20Guardians%20Of%20History,%20Myth%20And%20Legend.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/Irish%20Castles,%20Guardians%20Of%20History,%20Myth%20And%20Legend.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -51,27 +51,27 @@ Like all Irish castles, McDermott’s Castle is [allegedly](## "presuntamente") 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **wrecked** = naufragare
-* **crew members** = membri dell’equipaggio
-* **commoner** = plebeo
-* **rolling green hills** = dolci colline verdi
-* **quartered** = squartare
+* **allegedly** = presuntamente
+* **glasshouses** = serre
 * **Earl** = conte
 * **front gate** = cancello principale
 * **drowned** = annegare
-* **chieftains** = capoclan
-* **allegedly** = presuntamente
-* **beggar** = mendicante
-* **Co.** = abbr. di 'County', contea
-* **glasshouses** = serre
-* **stretch** = distendersi
-* **waterways** = corsi d’acqua
-* **haunt** = infestare
+* **fairy tale** = favola
 * **hung** = impiccare
+* **commoner** = plebeo
+* **haunt** = infestare
+* **Co.** = abbr. di 'County', contea
+* **conservatory** = giardino d’inverno
 * **drawn** = trascinare
 * **graveyard** = cimitero
-* **tower house** = casatorre
+* **beggar** = mendicante
 * **reached** = allungare
-* **fairy tale** = favola
+* **chieftains** = capoclan
 * **These latter** = questi ultimi
-* **conservatory** = giardino d’inverno
+* **waterways** = corsi d’acqua
+* **wrecked** = naufragare
+* **crew members** = membri dell’equipaggio
+* **tower house** = casatorre
+* **quartered** = squartare
+* **rolling green hills** = dolci colline verdi
+* **stretch** = distendersi

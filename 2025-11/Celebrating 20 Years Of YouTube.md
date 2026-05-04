@@ -8,7 +8,7 @@ Per celebrare i 20 anni di YouTube, diamo un’occhiata a cinque dei video più 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Celebrating%2020%20Years%20Of%20YouTube.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Celebrating%2020%20Years%20Of%20YouTube.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -39,16 +39,16 @@ Perhaps the funniest video from the pandemic era was of Texas [attorney](## "av
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **over five billion** = oltre cinque miliardi
+* **troupe** = compagnia
+* **T.G.I.F.** = sigla di Thank God it’s Friday
 * **attorney** = avvocato
+* **inadvertently** = inavvertitamente
 * **sanity** = normalità
 * **at my expense** = a mie spese
-* **policies** = politiche, norme
 * **handling** = trattamento, gestione
 * **harmful** = nocivo, pericoloso
 * **trunks** = proboscidi
-* **troupe** = compagnia
 * **Despite** = nonostante ciò
-* **T.G.I.F.** = sigla di Thank God it’s Friday
 * **court hearing** = udienza in tribunale
-* **inadvertently** = inavvertitamente
+* **over five billion** = oltre cinque miliardi
+* **policies** = politiche, norme

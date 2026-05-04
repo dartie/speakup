@@ -8,7 +8,7 @@ Una nuova generazione dei figli delle star di Hollywood sta irrompendo sullo sch
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/%E2%80%98Nepo%20Baby%E2%80%99%20Was%20Just%20the%20Start%20Inside%20the%20Expanding%20Nepo%20Universe.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/%E2%80%98Nepo%20Baby%E2%80%99%20Was%20Just%20the%20Start%20Inside%20the%20Expanding%20Nepo%20Universe.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,54 +40,54 @@ Published in The Guardian on December 23, 2023. Reprinted with permission. 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **willing** = disposte
-* **Posh** = snob
-* **folks** = genitori
-* **broke** = anticipare una notizia
-* **jury duty** = fare il giurato
+* **out-of-focus** = sfocato
+* **scorn** = disprezzo
+* **picket line** = picchetto
+* **self-aware** = consapevole di sé, conscio di sé
+* **bc** = perché (abb. because)
+* **brood** = prole
 * **networking** = rete di contatti
 * **Ditto** = idem
-* **parlour games** = giochi di società
-* **up-and-comer** = emergente
-* **feud** = faida
-* **picket line** = picchetto
-* **brood** = prole
-* **IMDb** = Internet Movie Database (sito web sui film)
+* **flurry** = ondata
+* **bestie** = migliore amica
+* **offspring** = prole
+* **raw** = crudo
 * **gigs** = lavori
-* **come in handy** = rivelare utile
-* **getting her hair done** = pettinarsi
-* **honkers** = seni
-* **fiancee** = promessa sposa
-* **tight end** = estremo stretto (ruolo d’attacco di una squadra di football americano)
-* **entourage** = seguito
-* **deli** = ristorante (abb. delicatessen)
+* **willing** = disposte
 * **calling out** = segnalare
-* **rides on his more celebrated partner’s coattails** = cavalcare il successo di
-* **mom-ager** = madre-manager
+* **cop to** = rendersi conto
 * **he booked** = ottenere
-* **hooked up** = frequentare
-* **Leprechaun** = folletto
+* **tight end** = estremo stretto (ruolo d’attacco di una squadra di football americano)
+* **jury duty** = fare il giurato
+* **probs** = probabilmente (abb. probably)
+* **dawn** = albori
+* **feud** = faida
+* **mess up** = incasinare
+* **folks** = genitori
+* **dropped** = abbandonare
+* **blacklisting** = mettere nella lista nera
+* **getting her hair done** = pettinarsi
+* **rides on his more celebrated partner’s coattails** = cavalcare il successo di
+* **parlour games** = giochi di società
 * **strike** = sciopero
+* **leaned on** = appoggiarsi a
+* **broke** = anticipare una notizia
+* **deli** = ristorante (abb. delicatessen)
+* **come in handy** = rivelare utile
+* **Posh** = snob
+* **armchair critics** = critici da poltrona
+* **IMDb** = Internet Movie Database (sito web sui film)
+* **rally** = manifestazione
+* **mom-ager** = madre-manager
+* **cast** = assegnare a
+* **Leprechaun** = folletto
 * **Dunno** = non sapere (contrazione di I don’t know)
 * **wink** = occhiolino
 * **savvy** = esperti
 * **moniker** = soprannome
-* **flurry** = ondata
-* **bestie** = migliore amica
-* **raw** = crudo
 * **befriend** = stringere amicizia
-* **probs** = probabilmente (abb. probably)
-* **offspring** = prole
-* **out-of-focus** = sfocato
-* **scorn** = disprezzo
-* **mess up** = incasinare
-* **self-aware** = consapevole di sé, conscio di sé
-* **dropped** = abbandonare
-* **bc** = perché (abb. because)
-* **cast** = assegnare a
-* **dawn** = albori
-* **armchair critics** = critici da poltrona
-* **cop to** = rendersi conto
-* **leaned on** = appoggiarsi a
-* **rally** = manifestazione
-* **blacklisting** = mettere nella lista nera
+* **up-and-comer** = emergente
+* **honkers** = seni
+* **fiancee** = promessa sposa
+* **hooked up** = frequentare
+* **entourage** = seguito

@@ -8,13 +8,13 @@ A Londra, una piccola statua di due topolini che mangiano del formaggio onora la
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/A%20Short%20Story%20In%20Philpot%20Lane.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/A%20Short%20Story%20In%20Philpot%20Lane.mp3" type="audio/mpeg">
 </audio>
 </div>
 
 
 Bob reached the top of the [ladder](## "scala") just as dawn appeared on the eastern horizon. The air was ice cold and frost [gleamed](## "risplendere") on the wooden planks of the [scaffolding](## "impalcatura"). He was glad of his gloves. Bob always arrived before the other builders so that he could hide his [knapsack](## "zaino"). He never talked much to the other workmen on any site, but this time it was worse. Jem, the gang leader, was a [cocky](## "arrogante"), belligerent man, who had [taken against](## "prendere in antipatia") Bob and used him as [the butt of his jokes](## "il bersaglio delle sue battute"). He’d twice hidden Bob’s [knapsack](## "zaino") and Bob was sure that Jem had taken his best [chisel](## "scalpello"). The other builders also [resented](## "serbare rancore") the compliments Bob received from the Master Mason.
-Bob opened his [knapsack](## "zaino") and took out his tools, slotting the [chisel](## "scalpello")s into his belt and weighing the [sturdy](## "robusto") [mallet](## "mazzuolo, martello") [lovingly](## "con cura") in his hand. Made of gleaming [lignum vitae](## "legno di guaiaco"), the head was small, but the dense wood was heavy and powerful. Leaving his flask of beer and his lunch of bread and cheese inside, he rolled the [canvas](## "tela") [knapsack](## "zaino") into [a tight bundle](## "un fagotto stretto") and [stowed](## "riporre, mettere via") it carefully under a plank, away from [vermin](## "parassiti, animali nocivi") — both [rodent](## "roditori") and human.
+Bob opened his [knapsack](## "zaino") and took out his tools, [slotting the [chisel](## "scalpello")s into](## "incastrare, inserire") his belt and weighing the [sturdy](## "robusto") [mallet](## "mazzuolo, martello") [lovingly](## "con cura") in his hand. Made of gleaming [lignum vitae](## "legno di guaiaco"), the head was small, but the dense wood was heavy and powerful. Leaving his flask of beer and his lunch of bread and cheese inside, he rolled the [canvas](## "tela") [knapsack](## "zaino") into [a tight bundle](## "un fagotto stretto") and [stowed](## "riporre, mettere via") it carefully under a plank, away from [vermin](## "parassiti, animali nocivi") — both [rodent](## "roditori") and human.
 As Bob set to work finishing off a piece of delicate moulding, the sky brightened steadily and the [rumble](## "rumore") of [cartwheels](## "carriole") [drifted up](## "salire") from Eastcheap. Just as the sun flamed up over the [docks](## "moli"), Jem’s [fleshy](## "paffuta") face appeared at the top of the [ladder](## "scala").
 “Well, look who’s here! [Bootlicker](## "leccapiedi") Bob is hard at work, boys!” 
 “All right, Jem?” Bob knew it was best not to react.
@@ -54,64 +54,64 @@ On a building in Philpot Lane in London, on the corner of Eastcheap Street, the 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **frowned** = aggrottare le sopracciglia
-* **leapt to his feet** = balzare in piedi
-* **slipped right over** = scivolare oltre
-* **gleamed** = risplendere
-* **resented** = serbare rancore
-* **sturdy** = robusto
-* **glared** = fulminare con lo sguardo
-* **wrenched** = strappare
-* **sat frozen to the spot** = restare impietrito
-* **canvas** = tela
-* **inched the heavy bucket along** = avanzare lentamente
-* **pattering feet** = passi rapidi
-* **ladder** = scala
-* **rodent** = roditori
-* **felt for** = cercare tastando
-* **tussled** = azzuffarsi
-* **fleshy** = paffuta
-* **missus** = signora
 * **aiming for** = mirare a
-* **outraged** = indignato
+* **gazing** = fissare
 * **roared** = ruggire
+* **canvas** = tela
+* **fleshy** = paffuta
+* **streaked** = scattare
+* **outraged** = indignato
+* **taken against** = prendere in antipatia
+* **drifted up** = salire
+* **skidding** = scivolare
+* **inched the heavy bucket along** = avanzare lentamente
+* **scaffolding** = impalcatura
+* **nick** = rubacchiare
+* **slipped right over** = scivolare oltre
+* **pattering feet** = passi rapidi
+* **grasp** = presa
+* **a sharp whistle** = un fischio acuto
+* **knapsack** = zaino
+* **rodent** = roditori
+* **lashed out** = inveire, attaccare
+* **mocked** = prendere in giro
+* **slotting the chisels into** = incastrare, inserire
+* **mallet** = mazzuolo, martello
+* **uprights** = montanti
+* **sturdy** = robusto
+* **vermin** = parassiti, animali nocivi
+* **hoist** = carrucola
+* **felt for** = cercare tastando
+* **wrenched** = strappare
+* **a tight bundle** = un fagotto stretto
+* **gleamed** = risplendere
+* **cartwheels** = carriole
+* **flung down** = scagliare, gettare
+* **leapt to his feet** = balzare in piedi
+* **seized hold** = afferrare
+* **stowed** = riporre, mettere via
+* **rumble** = rumore
+* **Portland** = cemento Portland
+* **sleeve** = manica
+* **tumbled** = precipitare
+* **peered over** = sporgersi oltre
+* **clutching** = stringere
 * **dragged** = trascinare
 * **cocky** = arrogante
-* **clutching** = stringere
-* **tumbled** = precipitare
-* **scampering** = sgattaiolare
-* **slotting the chisels into** = incastrare, inserire
-* **drifted up** = salire
-* **Bootlicker** = leccapiedi
-* **Portland** = cemento Portland
-* **lovingly** = con cura
-* **cartwheels** = carriole
-* **his face split into a grin** = il suo volto si illuminò con un sorriso
-* **lignum vitae** = legno di guaiaco
-* **chisel** = scalpello
-* **knapsack** = zaino
-* **stowed** = riporre, mettere via
-* **hoist** = carrucola
-* **lashed out** = inveire, attaccare
-* **scaffolding** = impalcatura
-* **streaked** = scattare
-* **flung down** = scagliare, gettare
+* **frowned** = aggrottare le sopracciglia
 * **ear-splitting** = assordante
+* **ladder** = scala
+* **resented** = serbare rancore
+* **Bootlicker** = leccapiedi
 * **docks** = moli
-* **uprights** = montanti
-* **a tight bundle** = un fagotto stretto
-* **a sharp whistle** = un fischio acuto
-* **skidding** = scivolare
-* **seized hold** = afferrare
-* **grasp** = presa
-* **peered over** = sporgersi oltre
-* **mocked** = prendere in giro
-* **sleeve** = manica
-* **mallet** = mazzuolo, martello
-* **taken against** = prendere in antipatia
-* **nick** = rubacchiare
+* **glared** = fulminare con lo sguardo
+* **scampering** = sgattaiolare
 * **sliding backwards** = scivolare all’indietro
+* **sat frozen to the spot** = restare impietrito
+* **tussled** = azzuffarsi
 * **the butt of his jokes** = il bersaglio delle sue battute
-* **vermin** = parassiti, animali nocivi
-* **rumble** = rumore
-* **gazing** = fissare
+* **chisel** = scalpello
+* **lovingly** = con cura
+* **his face split into a grin** = il suo volto si illuminò con un sorriso
+* **missus** = signora
+* **lignum vitae** = legno di guaiaco

@@ -8,7 +8,7 @@ I devastanti incendi di Los Angeles sono una tragica conseguenza del cambiamento
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20Chronicle%20of%20a%20Fire%20Foretold.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20Chronicle%20of%20a%20Fire%20Foretold.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -16,7 +16,7 @@ I devastanti incendi di Los Angeles sono una tragica conseguenza del cambiamento
 The fires [raging](## "propagarsi") in and around Los Angeles were huge, and they were terrible, and they were also the latest in a series of catastrophic fires in Los Angeles county and the region, the latest consequence of heat and [drought](## "siccità") and wind that have long created the region’s volatile fire weather.
 The climate crisis has made it hotter and drier and made [wildfire](## "incendio boschivo") worse here and across the west and around the world, but this region’s ecology has always been [wedded](## "legato") to fire. Homes built in and around natural landscapes — canyons, chaparral coastal hills, forests, mountainsides – with a history of [wildfire](## "incendio boschivo") that are pretty much guaranteed to burn again sooner or later create the personal tragedies and losses and the pressure for [fire crews](## "squadre di pompieri") to try to contain the [blazes](## "fiamme"). But suppressing the [blazes](## "fiamme") lets the [fuel load](## "carico di combustibile") [build up](## "accumularsi"), meaning that fire will be worse when it comes.
 It was only recently that the Franklin fire, [fanned](## "accrescere") by the dry Santa Ana winds from the east [gusting](## "soffiare a raffiche") up to 50mph [80kph], burned four thousand acres [1,618 hectares] around Malibu in forty-eight hours. The Station fire burned 160,577 acres 64,983 hectares] in 2009 to set the record as LA’s largest and the Woolsey fire in 2018 burned 96,949 acres [39,233 hectares] and destroyed 1,643 structures, while the 1970 Malibu fire destroyed 31,000 [12,545 hectares] acres, incinerated hundreds of structures, and killed ten people, [fed](## "alimentar") in part by six months of no rain. Los Angeles has a history of catastrophic fire.
-As Mike Davis, in his [bluntly](## "senza mezzi termini") titled 1998 essay The Case for Letting Malibu Burn, noted: “Malibu, meanwhile, is the [wildfire](## "incendio boschivo") capital of North America and, possibly, the world. Fire here has a relentless staccato rhythm, syncopated by [landslides](## "frane") and [floods.](## "inondazioni") The [rugged](## "accidentata") twenty-two-mile-long [35 kilometres] coastline is [sco[urged](## "esortare, incitare")](## "flagellare"), on the average, by a large fire ([one thousand acres [404 hectares] plus](## "più di mille")) every two and a half years, and the entire surface area of the western Santa Monica Mountains has been burnt three times over the 20th century.” The case for letting Malibu burn is that it is inevitably going to burn, over and over, but fire departments protect structures as long as they can.
+As Mike Davis, in his [bluntly](## "senza mezzi termini") titled 1998 essay The Case for Letting Malibu Burn, noted: “Malibu, meanwhile, is the [wildfire](## "incendio boschivo") capital of North America and, possibly, the world. Fire here has a relentless staccato rhythm, syncopated by [landslides](## "frane") and [floods.](## "inondazioni") The [rugged](## "accidentata") twenty-two-mile-long [35 kilometres] coastline is sco[urged](## "esortare, incitare"), on the average, by a large fire ([one thousand acres [404 hectares] plus](## "più di mille")) every two and a half years, and the entire surface area of the western Santa Monica Mountains has been burnt three times over the 20th century.” The case for letting Malibu burn is that it is inevitably going to burn, over and over, but fire departments protect structures as long as they can.
 None of these facts make what is happening now less terrible. And it is terrible – to me personally as well; people I know have lost not just their homes but their neighbourhoods; friends and family have had to evacuate not knowing if they’ll have homes to return to. But these facts do perhaps make it all less surprising. While central and northern California has been [soaked](## "inzuppare, bagnare") by successive storms since November, LA remained [parched](## "seccata, prosciugata"), dry season being pretty much the same as fire-vulnerable season in California.
 When you’re a coastal Californian, almost all your weather [blows in](## "piombare") from the Pacific, but in the fall with the Bay Area’s Diablo winds and LA’s famous Santa Ana winds, the weather comes as dry wind from the deserts to the east. This is a dangerous time, especially if the winds from the east come before the rains from the west. I remember the October 1991 fire that raged across the Oakland Hills, destroying three thousand homes in two days. The dry winds fanning the flames reportedly reached 65mph [104kph]. In 2011, Santa Ana gusts in the LA region were reported to have reached a record 167mph [269kph]. The winds that [fed](## "alimentar") the current fires were not record speed, but they were scary fast — up to 100mph [160kph].
 California’s catastrophic autumn fires since 2017 are in some ways not a repeat of history — they’re the violent arrival of a new era, just as Hurricane Helene was when it [swept](## "spazzare, travolgere") hundreds of miles [inland](## "verso l’interno") to smash into western North Carolina only four months ago. But you could remember the warnings, which have been abundant from climate scientists, fire experts and climate journalists. And remember that this place was already [prone to](## "incline a, soggetto a") fire and how the suppression of the natural fire cycle [set up](## "preparare") fire to be devastating rather than renewing.
@@ -36,46 +36,46 @@ That past includes decades of warnings from climate scientists that we are [head
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **prone to** = incline a, soggetto a
-* **put off** = rimandare, posticipare
-* **belongs** = appartenere
-* **wildfire** = incendio boschivo
-* **fire crews** = squadre di pompieri
 * **erases** = cancellare
-* **fed** = alimentar
-* **staffing hours** = orari di lavoro
-* **undermining** = indebolire
-* **mild** = moderati
-* **blasts** = critiche
-* **urged** = esortare, incitare
+* **foreseen** = previsti
+* **fuel load** = carico di combustibile
+* **one thousand acres [404 hectares] plus** = più di mille
 * **set up** = preparare
-* **train** = formarsi
-* **blazes** = fiamme
-* **fanned** = accrescere
+* **staffing hours** = orari di lavoro
+* **blasts** = critiche
+* **swept** = spazzare, travolgere
+* **blame** = incolpare
+* **wedded** = legato
+* **build up** = accumularsi
 * **gusting** = soffiare a raffiche
 * **landslides** = frane
-* **rugged** = accidentata
-* **swept** = spazzare, travolgere
-* **unholy** = nefasta
+* **undermining** = indebolire
 * **mingling** = mescolanza
-* **foreseen** = previsti
-* **heading into** = dirigersi verso
-* **blame** = incolpare
-* **is put out** = spegnere
-* **parched** = seccata, prosciugata
-* **blows in** = piombare
+* **wake-up call** = campanello d’allarme
+* **urged** = esortare, incitare
 * **raging** = propagarsi
 * **drought** = siccità
-* **floods.** = inondazioni
-* **scourged** = flagellare
-* **one thousand acres [404 hectares] plus** = più di mille
 * **soaked** = inzuppare, bagnare
-* **inland** = verso l’interno
-* **wake-up call** = campanello d’allarme
-* **build up** = accumularsi
-* **due to** = a causa di
-* **wedded** = legato
-* **fuel load** = carico di combustibile
-* **bluntly** = senza mezzi termini
-* **councilwoman** = consigliera comunale
+* **blows in** = piombare
+* **belongs** = appartenere
 * **accuracy** = precisione
+* **fanned** = accrescere
+* **bluntly** = senza mezzi termini
+* **floods.** = inondazioni
+* **rugged** = accidentata
+* **councilwoman** = consigliera comunale
+* **put off** = rimandare, posticipare
+* **heading into** = dirigersi verso
+* **fed** = alimentar
+* **scourged** = flagellare
+* **prone to** = incline a, soggetto a
+* **mild** = moderati
+* **inland** = verso l’interno
+* **due to** = a causa di
+* **unholy** = nefasta
+* **wildfire** = incendio boschivo
+* **fire crews** = squadre di pompieri
+* **blazes** = fiamme
+* **parched** = seccata, prosciugata
+* **train** = formarsi
+* **is put out** = spegnere

@@ -8,7 +8,7 @@ Giovane, musulmano e con un passato da rapper: scopriamo chi è il nuovo sindaco
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/Zohran%20Mamdani%20The%20Mayor%20Of%20NYC.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/Zohran%20Mamdani%20The%20Mayor%20Of%20NYC.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,29 +40,29 @@ While many are optimistic about Mamdani’s success, he has made some big promis
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **rattled** = inquietare
-* **grassroots** = popolare
+* **hold the post** = ricoprire la carica
 * **Academy Award-nominated** = candidata all’Oscar
-* **backgrounds** = origini
-* **grocery stores** = negozi di alimentari
-* **nut job** = pazzo, svitato
-* **withhold** = ritirare
-* **widened the gap** = ampliare la distanza
-* **approachable manner** = atteggiamento alla mano
-* **knowledgeable** = colto
-* **resonated with** = essere in sintonia con
-* **pledged** = impegnarsi a
-* **stance** = posizione
-* **beleaguered** = vessato, indebolito
 * **sought a career** = cercare una carriera professionale
-* **running for mayor** = candidarsi a sindaco
+* **appealed to** = affascinare, attrarre
+* **affordable** = accessibile
+* **resonated with** = essere in sintonia con
+* **nut job** = pazzo, svitato
+* **stance** = posizione
 * **endorsed** = sostenere, appoggiare
 * **ballots cast** = voti espressi
-* **appealed to** = affascinare, attrarre
 * **came across** = sembrare, dare l’impressione
-* **arguably** = probabilmente
-* **hold the post** = ricoprire la carica
+* **knowledgeable** = colto
+* **minimum wage** = salario minimo
+* **grocery stores** = negozi di alimentari
+* **withhold** = ritirare
+* **widened the gap** = ampliare la distanza
+* **running for mayor** = candidarsi a sindaco
 * **former** = ex, già
 * **personable** = affabile, simpatico
-* **affordable** = accessibile
-* **minimum wage** = salario minimo
+* **pledged** = impegnarsi a
+* **grassroots** = popolare
+* **arguably** = probabilmente
+* **approachable manner** = atteggiamento alla mano
+* **backgrounds** = origini
+* **rattled** = inquietare
+* **beleaguered** = vessato, indebolito

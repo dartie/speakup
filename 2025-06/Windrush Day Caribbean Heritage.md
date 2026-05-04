@@ -8,7 +8,7 @@ Una festività che rende omaggio alla prima ondata di immigrati caraibici giunti
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Windrush%20Day%20Caribbean%20Heritage.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Windrush%20Day%20Caribbean%20Heritage.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,20 +32,20 @@ A 2018 government report revealed the impact on the migrants and their families.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **wages** = stipendi
-* **compensation scheme** = programma di risarcimenti
-* **HMT** = acronimo di His/Her Majesty’s Transport
+* **SS** = nave a vapore (acronimo di screw steamship)
 * **Act** = legge
 * **prospect** = futuro
-* **prearranged** = predefinito
-* **hub** = centro
 * **due to** = a causa di
-* **acknowledges** = riconoscere
-* **SS** = nave a vapore (acronimo di screw steamship)
-* **motherland** = madrepatria
-* **wide range** = ampia gamma
-* **welders** = saldatori
+* **compensation scheme** = programma di risarcimenti
 * **docked** = attraccato
+* **wide range** = ampia gamma
+* **hub** = centro
+* **acknowledges** = riconoscere
+* **motherland** = madrepatria
+* **prearranged** = predefinito
+* **wages** = stipendi
 * **seeking** = cercare
+* **welders** = saldatori
 * **air-raid shelter** = rifugio antiaereo
 * **put forward** = presentare
+* **HMT** = acronimo di His/Her Majesty’s Transport

@@ -8,7 +8,7 @@ Più che una parola, è un’onomatopea, un’espressione di ammirazione e sorpr
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/Wow.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/Wow.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,25 +32,25 @@ The word ‘wow’ is very similar in a vast number of languages: the Spanish �
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **vow** = promettere
 * **found its way into** = trovare spazio in
-* **features** = caratteristiche
+* **lasting** = duraturo
+* **unpleasant** = sgradevole
+* **improper** = inappropriato
+* **lousy** = schifoso, disgustoso
+* **widely** = ampiamente
 * **date back** = risalire
-* **statement** = affermazione
+* **noun** = sostantivo
+* **rise** = aumento
 * **addressed** = rivolgere
 * **slang** = gergo
-* **bishop** = vescovo
-* **Over** = nel corso
-* **rise** = aumento
-* **improper** = inappropriato
-* **noun** = sostantivo
-* **staple** = di base
-* **Mind the context, though!** = presta attenzione al contesto, però
-* **lengthy** = lunghi
-* **widely** = ampiamente
-* **lasting** = duraturo
 * **point** = diretto
-* **unpleasant** = sgradevole
+* **Mind the context, though!** = presta attenzione al contesto, però
+* **bishop** = vescovo
+* **staple** = di base
+* **features** = caratteristiche
+* **lengthy** = lunghi
 * **astonishment** = stupore
-* **vow** = promettere
+* **statement** = affermazione
+* **Over** = nel corso
 * **soared** = sollevarsi, andare in alto
-* **lousy** = schifoso, disgustoso

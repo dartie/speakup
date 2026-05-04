@@ -8,7 +8,7 @@ L’EdTech, abbreviazione di “educational technology”, sostiene di aumentare
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/EdTech%20The%20Online%20Learning%20Boom.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/EdTech%20The%20Online%20Learning%20Boom.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,21 +35,21 @@ The 2020s has brought artificial intelligence that powers intelligent tutoring a
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **spanning** = attraversare, coprire
-* **engaged with** = entrare in contatto
 * **reliable** = affidabile
 * **supply** = fornitura, approvvigionamento
-* **privately-held** = in mano a investitori privati
 * **tool** = strumento
-* **whiteboards** = lavagne
-* **boasted** = vantare
+* **widen** = ampliare
+* **let alone** = figurarsi, senza contare
 * **further** = ulteriormente
 * **shifted** = spostarsi, cambiare
 * **ongoing** = costante
 * **keep up** = stare al passo
-* **devices** = dispositivi
-* **let alone** = figurarsi, senza contare
-* **widen** = ampliare
-* **gaps** = lacune
 * **lack** = mancare
+* **spanning** = attraversare, coprire
+* **devices** = dispositivi
+* **whiteboards** = lavagne
+* **boasted** = vantare
+* **engaged with** = entrare in contatto
+* **gaps** = lacune
+* **privately-held** = in mano a investitori privati
 * **turning point** = punto di svolta

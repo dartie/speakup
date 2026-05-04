@@ -8,7 +8,7 @@ Il famoso esperimento del "gatto di Schrödinger" è stato ideato dal fisico Erw
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/Schr%C3%B6dinger%E2%80%99s%20Cat%20Explained.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/Schr%C3%B6dinger%E2%80%99s%20Cat%20Explained.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -30,11 +30,11 @@ If you want to know more about this topic, read the article Quantum Technology: 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **laypeople** = profani, non addetti ai lavori
-* **devised** = ideare
 * **device** = dispositivo
 * **decays** = disintegrarsi
 * **triggers** = innescare
 * **releasing** = rilasciare
 * **encodes** = codificare
 * **outcomes** = risultati
+* **laypeople** = profani, non addetti ai lavori
+* **devised** = ideare

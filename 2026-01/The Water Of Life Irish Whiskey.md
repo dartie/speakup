@@ -8,7 +8,7 @@ In Irlanda non si beve solo birra: il whiskey dell’isola di Smeraldo (quello c
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/The%20Water%20Of%20Life%20Irish%20Whiskey.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/The%20Water%20Of%20Life%20Irish%20Whiskey.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -59,57 +59,57 @@ www.whiskeyisland.ie
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **dealt a major blow** = assestare un colpo
-* **affordability** = prezzo accessibile
-* **flooding** = invadere
-* **set their product apart** = distinguere
-* **the done thing** = la cosa abituale
-* **slice** = fetta
-* **ageing** = invecchiare
-* **smoother** = più morbido, più delicato
-* **ruled the world** = dominare il mondo
-* **discourage** = sconsigliare
-* **lore** = leggenda
-* **filled the gaps** = colmare le lacune
-* **made its way into** = farsi strada verso
-* **seized the opportunity** = cogliere l’opportunità
-* **brands** = marche
-* **drop** = goccio
-* **casks** = botti
-* **insight** = approfondimento
-* **barley** = orzo
+* **warming up** = riscaldarsi
+* **share** = parte, quota
 * **to an extent** = in un certo senso
-* **costly** = caro
-* **hanging in there** = resistere, sopravvivere
-* **traces back to** = risalire a
-* **despite** = nonostante
-* **knock it back** = bere tutto d’un fiato
-* **breweries** = birrerie
-* **spelled** = scrivere
-* **stool** = sgabello
-* **in one** = d’un colpo
-* **cranberry** = mirtillo rosso
+* **brands** = marche
 * **tall drink** = long drink
-* **steeped in** = impregnato di
-* **cracked open** = aprire
-* **blended** = mescolare
-* **family-run business** = azienda a conduzione familiare
+* **filled the gaps** = colmare le lacune
+* **ageing** = invecchiare
+* **lids** = coperchi
+* **affordability** = prezzo accessibile
 * **spirit** = distillato
 * **pushed out** = espellere
-* **hesitated** = esitare
+* **breweries** = birrerie
+* **costly** = caro
 * **former** = precedente
-* **raise an eyebrow** = mostrare disapprovazione
-* **advises against** = sconsigliare
-* **tastings** = degustazioni
-* **Low Countries** = Paesi Bassi
-* **reluctance** = riluttanza
-* **navy** = marina
-* **trade wars** = guerre commerciali
-* **bolder** = più deciso
-* **share** = parte, quota
-* **lids** = coperchi
-* **supplies** = scorte, provviste
-* **sailors** = marinai
-* **merged** = fondersi
 * **sips** = sorsi
-* **warming up** = riscaldarsi
+* **raise an eyebrow** = mostrare disapprovazione
+* **dealt a major blow** = assestare un colpo
+* **tastings** = degustazioni
+* **hesitated** = esitare
+* **sailors** = marinai
+* **spelled** = scrivere
+* **flooding** = invadere
+* **stool** = sgabello
+* **knock it back** = bere tutto d’un fiato
+* **casks** = botti
+* **cracked open** = aprire
+* **barley** = orzo
+* **Low Countries** = Paesi Bassi
+* **hanging in there** = resistere, sopravvivere
+* **merged** = fondersi
+* **bolder** = più deciso
+* **the done thing** = la cosa abituale
+* **slice** = fetta
+* **lore** = leggenda
+* **blended** = mescolare
+* **smoother** = più morbido, più delicato
+* **family-run business** = azienda a conduzione familiare
+* **made its way into** = farsi strada verso
+* **trade wars** = guerre commerciali
+* **discourage** = sconsigliare
+* **in one** = d’un colpo
+* **cranberry** = mirtillo rosso
+* **reluctance** = riluttanza
+* **seized the opportunity** = cogliere l’opportunità
+* **ruled the world** = dominare il mondo
+* **supplies** = scorte, provviste
+* **despite** = nonostante
+* **drop** = goccio
+* **advises against** = sconsigliare
+* **steeped in** = impregnato di
+* **insight** = approfondimento
+* **navy** = marina
+* **traces back to** = risalire a
+* **set their product apart** = distinguere

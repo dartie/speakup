@@ -8,7 +8,7 @@ Rendere felici gli altri non costa molto: un sorriso o un complimento possono mi
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Random%20Acts%20of%20Kindness.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Random%20Acts%20of%20Kindness.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,24 +35,24 @@ The movement gets bigger every year. Influencers share content on social media. 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **thoughtful** = premurosi
 * **passerby** = passante
-* **random** = fortuito
-* **grew into** = trasformarsi in
+* **caring** = premuroso, attento
+* **spreading** = diffondere
+* **coined** = coniare
 * **senseless** = insensato
-* **Slowly but surely** = lentamente ma indubbiamente
-* **short for** = abbreviazione di
-* **eager** = desiderosi
+* **to join in** = unirsi a
 * **dropped** = fare cadere
+* **random** = fortuito
 * **lift your mood** = sollevare l’umore
 * **meaningful** = significativi
-* **to join in** = unirsi a
-* **one act of kindness at a time** = uno alla volta
-* **spreading** = diffondere
-* **trigger** = scatenare
-* **alike** = allo stesso modo
-* **coined** = coniare
-* **nonprofit** = senza scopo di lucro
+* **grew into** = trasformarsi in
+* **short for** = abbreviazione di
+* **thoughtful** = premurosi
+* **Slowly but surely** = lentamente ma indubbiamente
 * **were in a hurry** = avere fretta
 * **pick up** = raccogliere
-* **caring** = premuroso, attento
+* **trigger** = scatenare
+* **nonprofit** = senza scopo di lucro
+* **eager** = desiderosi
+* **one act of kindness at a time** = uno alla volta
+* **alike** = allo stesso modo

@@ -8,7 +8,7 @@ Belfast: storia, musica e rinascimento. Un viaggio nel cuore di una città che s
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/A%20Radical%20Soul.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/A%20Radical%20Soul.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -47,37 +47,37 @@ www.experiencebelfast.com
 
 # Glossary
 * **nonsense** = assurdità
-* **overlook** = guardare su
-* **noticed** = notare
-* **begs the question** = suscitare la domanda
-* **eliciting** = ottenere
+* **bridge** = superare
 * **divides** = differenze
 * **running the streets** = controllare le strade
-* **hatred** = odio
-* **comes down to** = ridursi a
+* **Lough** = lago
 * **target** = obiettivo
+* **hatred** = odio
 * **kind-hearted** = di buon cuore
+* **seasoning** = condimento
 * **to trade** = scambiare
-* **motto** = slogan
-* **banter** = scambio di battute
-* **ceasefire** = cessate il fuoco
-* **bar none** = nessuno escluso
-* **lookers** = persone di bell’aspetto
+* **don’t give a flying fuck** = non fregarsene niente
+* **waterfront** = costa
+* **HMS** = nave di sua maestà (His/Her Majesty’s Ship)
+* **overlook** = guardare su
 * **rooted** = radicato
 * **patois** = gergo
-* **got rid** = eliminare
-* **to club them people to death** = picchiare a morte
-* **bollocks** = coglioni
-* **seasoning** = condimento
-* **don’t give a flying fuck** = non fregarsene niente
 * **gone beyond the pale** = spingersi troppo oltre
-* **HMS** = nave di sua maestà (His/Her Majesty’s Ship)
-* **Lough** = lago
-* **collude** = collaborare
-* **bridge** = superare
-* **unrest** = disordini
-* **broad Belfast accent** = accento marcato
-* **waterfront** = costa
 * **undercurrent** = sottofondo
+* **eliciting** = ottenere
 * **butcher gangs** = bande di assassini
+* **banter** = scambio di battute
+* **bollocks** = coglioni
+* **bar none** = nessuno escluso
+* **unrest** = disordini
+* **motto** = slogan
+* **got rid** = eliminare
+* **ceasefire** = cessate il fuoco
+* **collude** = collaborare
+* **comes down to** = ridursi a
+* **to club them people to death** = picchiare a morte
 * **gripped** = avvincere
+* **lookers** = persone di bell’aspetto
+* **broad Belfast accent** = accento marcato
+* **noticed** = notare
+* **begs the question** = suscitare la domanda

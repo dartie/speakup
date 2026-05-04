@@ -8,7 +8,7 @@ Tra divulgazione archeologica e finzione storica, l’autore gallese costruisce 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Ken%20Follett%20The%20Magic%20of%20Stonehenge.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Ken%20Follett%20The%20Magic%20of%20Stonehenge.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -19,7 +19,7 @@ Stonehenge is one of the most iconic and mysterious monuments of the Neolithic e
 Best-selling Welsh writer Ken Follett takes us back to Salisbury Plain in 2500 [BCE](## "avanti Cristo (before Common Era)") for his latest novel Circle of Days. Combining historical research with a lot of imagination, Follett tells a dramatic version of how and why the great stone monument we now call Stonehenge was built. We meet characters from the Neolithic communities living on “the Great Plain” 4,500 years ago. There is Seft, an ingenious [flint](## "selce") miner and [craftsperson](## "artigiano"), whose engineering skills are ahead of his time; Joia, whose sexuality and mind for maths lead her to join the community of [priestesses](## "sacerdotesse"); Ani, an [elder](## "anziano") who tries to keep the peace as resources become [scarce](## "scarse"); and many, many more.
 
 ## AN AGE-OLD MYSTERY
-The novel moves fast, combining historical details about life in the Neolithic period with the kind of dramas that happen in any period of history: family [feuds](## "conflitti, faide"), teenage romance, and dreams of a better future. Follett is fascinating on the different ways that the Neolithic communities survived on the Great Plain. He creates characters who are [herders](## "allevatori, pastori"), farmers, miners and hunter-[gather](## "riunirsi, radunarsi")ers and explains why the different communities sometimes [clashed](## "scontrarsi").
+The novel moves fast, combining historical details about life in the Neolithic period with the kind of dramas that happen in any period of history: family [feuds](## "conflitti, faide"), teenage romance, and dreams of a better future. Follett is fascinating on the different ways that the Neolithic communities survived on the Great Plain. He creates characters who are [herders](## "allevatori, pastori"), farmers, miners and [hunter-[gather](## "riunirsi, radunarsi")ers](## "cacciatori-raccoglitori") and explains why the different communities sometimes [clashed](## "scontrarsi").
 But the most intriguing questions at the heart of the novel are about the construction of Stonehenge itself. How did people with only stone-age technology [manage](## "riuscire") to construct the circle of huge [standing stones](## "pietre erette")? And what was its [purpose](## "scopo")? 
 
 ## ORIGIN STORIES
@@ -49,50 +49,50 @@ If you want to know more about this topic, read the article Ken Follett: Solsti
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **flint** = selce
-* **feuds** = conflitti, faide
-* **sales figures** = cifre di vendita
-* **draft** = bozza
-* **pick out** = scegliere, selezionare
-* **underline** = sottolineare
-* **keyboard** = tastiera
-* **Midsummer Solstice** = solstizio d’estate
-* **clashed** = scontrarsi
-* **drive past** = passare accanto (guidando)
-* **deal** = trattare
 * **slightly** = leggermente
-* **joy** = gioia, piacere
-* **made it up** = inventare
-* **the Sun rises** = il sole sorge
-* **gather** = riunirsi, radunarsi
-* **standing stones** = pietre erette
-* **priestesses** = sacerdotesse
-* **sets** = il sole tramonta
-* **spooky** = inquietante, spaventoso
-* **craftsperson** = artigiano
-* **purpose** = scopo
-* **Heel Stone** = Pietra del tallone
-* **likely** = probabile
-* **lapsed atheist** = ateo non praticante
-* **northernmost** = più a nord
-* **elder** = anziano
-* **herders** = allevatori, pastori
-* **catch my imagination** = affascinare, catturare l’immaginazione di qualcuno
-* **keep track** = tenere traccia
-* **hunter-gatherers** = cacciatori-raccoglitori
-* **plenty** = un sacco di
-* **gaps** = lacune
-* **worshippers** = adoratori
-* **page-turner** = libro avvincente, che si legge tutto d’un fiato
-* **check** = verificare
-* **a bit off** = un po’ strane, fuori luogo
-* **wise** = saggio
+* **underline** = sottolineare
 * **overcome** = superare
-* **fond of** = essere appassionato di
+* **worshippers** = adoratori
+* **hunter-gatherers** = cacciatori-raccoglitori
 * **weird** = strano
+* **standing stones** = pietre erette
 * **BCE** = avanti Cristo (before Common Era)
-* **scarce** = scarse
-* **manage** = riuscire
-* **drove** = spingere, motivare
+* **craftsperson** = artigiano
+* **elder** = anziano
+* **purpose** = scopo
 * **shelf** = scaffale
+* **made it up** = inventare
+* **Heel Stone** = Pietra del tallone
+* **feuds** = conflitti, faide
+* **check** = verificare
+* **draft** = bozza
+* **northernmost** = più a nord
+* **catch my imagination** = affascinare, catturare l’immaginazione di qualcuno
+* **the Sun rises** = il sole sorge
+* **sets** = il sole tramonta
+* **keep track** = tenere traccia
+* **manage** = riuscire
+* **plenty** = un sacco di
+* **pick out** = scegliere, selezionare
+* **gaps** = lacune
+* **gather** = riunirsi, radunarsi
+* **priestesses** = sacerdotesse
+* **drove** = spingere, motivare
+* **page-turner** = libro avvincente, che si legge tutto d’un fiato
+* **joy** = gioia, piacere
+* **fond of** = essere appassionato di
+* **lapsed atheist** = ateo non praticante
+* **spooky** = inquietante, spaventoso
+* **clashed** = scontrarsi
+* **sales figures** = cifre di vendita
+* **deal** = trattare
+* **keyboard** = tastiera
 * **to some extent** = in qualche modo
+* **herders** = allevatori, pastori
+* **drive past** = passare accanto (guidando)
+* **wise** = saggio
+* **Midsummer Solstice** = solstizio d’estate
+* **likely** = probabile
+* **flint** = selce
+* **scarce** = scarse
+* **a bit off** = un po’ strane, fuori luogo

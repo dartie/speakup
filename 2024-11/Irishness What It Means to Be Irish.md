@@ -8,7 +8,7 @@ Numerose persone in Irlanda e nel mondo sono orgogliose della loro cultura e del
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Irishness%20What%20It%20Means%20to%20Be%20Irish.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Irishness%20What%20It%20Means%20to%20Be%20Irish.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -55,30 +55,30 @@ Ireland is a country of dichotomies, where the past meets the present. You can e
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **leprechaun** = folletto, gnomo
-* **famine** = carestia
 * **thriving** = fiorente
-* **rule** = dominio
-* **gather** = riunirsi
-* **settling** = stabilirsi
-* **pride** = orgoglio
-* **waving** = sventolare
-* **parades** = parate, sfilate
-* **throughout** = in ogni parte di
-* **warm** = calorosi
-* **shamrock** = trifoglio
-* **quick-witted** = spigliato
-* **divisive issue** = questione divisiva
-* **tease** = prendere in giro
+* **rarely if ever** = raramente se non addirittura mai
 * **stout** = birra scura
-* **heritage** = patrimonio
-* **dyed** = tingere
-* **black pudding** = sanguinaccio scozzese
+* **brewery** = birrificio
 * **fierce** = feroce
 * **lazy** = pigri
 * **stew** = stufa
-* **further** = ulteriore
-* **rarely if ever** = raramente se non addirittura mai
+* **rule** = dominio
+* **pride** = orgoglio
+* **waving** = sventolare
+* **parades** = parate, sfilate
+* **dyed** = tingere
+* **tease** = prendere in giro
+* **throughout** = in ogni parte di
 * **Kiss my arse** = baciami il culo
-* **brewery** = birrificio
+* **famine** = carestia
+* **further** = ulteriore
+* **shamrock** = trifoglio
+* **warm** = calorosi
+* **quick-witted** = spigliato
+* **gather** = riunirsi
+* **heritage** = patrimonio
 * **beans** = fagioli
+* **leprechaun** = folletto, gnomo
+* **divisive issue** = questione divisiva
+* **settling** = stabilirsi
+* **black pudding** = sanguinaccio scozzese

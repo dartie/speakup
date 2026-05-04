@@ -8,7 +8,7 @@ L’etologa e conservazionista britannica ha trasformato la nostra comprensione 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/Jane%20Goodall%20Lessons%20on%20Science%20and%20Humanity.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/Jane%20Goodall%20Lessons%20on%20Science%20and%20Humanity.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -53,47 +53,47 @@ www.janegoodall.org
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **conveying** = trasmettere
+* **exchange** = scambi
+* **facilities** = strutture
 * **raised awareness** = sensibilizzare
-* **vanished** = scomparire
-* **whenever** = ogni volta che
-* **across their range** = in tutto il loro areale
-* **NGOs** = (non-governmental organisations)
-* **achievements** = risultati
-* **appalling** = terribili
-* **nourishment** = alimento
-* **tools** = strumenti
-* **wage primitive warfare** = fare la guerra
-* **plight** = situazione difficile
-* **enforcement** = applicazione
-* **safe haven** = rifugio
-* **by themselves** = da soli
 * **she holds dear** = avere a cuore
-* **mischievous** = birichina, monella
-* **Shoots** = germogli
-* **apes** = scimmie antropomorfe
+* **wise** = saggia
+* **the funds raised** = raccogliere fondi
+* **enhancing** = migliorare
+* **reflected** = riflettere
+* **stout** = robusti
 * **endure** = sopportare
-* **youngster** = giovane
-* **Roots** = radici
+* **conveying** = trasmettere
 * **recalled** = ricordare
+* **whenever** = ogni volta che
+* **record** = registrare, documentare
+* **enforcement** = applicazione
+* **appalling** = terribili
+* **by themselves** = da soli
 * **set foot** = mettere piede
+* **wage primitive warfare** = fare la guerra
+* **apes** = scimmie antropomorfe
+* **runs** = gestire, dirigere
+* **safe haven** = rifugio
+* **by fostering** = incoraggiare, promuovere
+* **in greeting** = per salutarsi
+* **Roots** = radici
+* **Shoots** = germogli
+* **plight** = situazione difficile
+* **cages** = gabbie
+* **youngster** = giovane
+* **tools** = strumenti
+* **acknowledging** = riconoscer
+* **behaviour.** = comportamento
+* **Trying** = difficili
 * **harsh** = dure, difficili
 * **endangered** = in pericolo di estinzione
-* **exchange** = scambi
-* **enhancing** = migliorare
-* **acknowledging** = riconoscer
+* **achievements** = risultati
+* **mischievous** = birichina, monella
+* **nourishment** = alimento
 * **engaging in wars** = combattere
-* **in greeting** = per salutarsi
-* **stout** = robusti
-* **facilities** = strutture
-* **the funds raised** = raccogliere fondi
-* **by fostering** = incoraggiare, promuovere
-* **behaviour.** = comportamento
+* **vanished** = scomparire
 * **relatives** = parenti
+* **across their range** = in tutto il loro areale
 * **Threatened** = minacciati
-* **runs** = gestire, dirigere
-* **cages** = gabbie
-* **wise** = saggia
-* **Trying** = difficili
-* **reflected** = riflettere
-* **record** = registrare, documentare
+* **NGOs** = (non-governmental organisations)

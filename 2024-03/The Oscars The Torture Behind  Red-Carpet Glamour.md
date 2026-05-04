@@ -8,7 +8,7 @@ Per molte celebrità, i preparativi alla cerimonia degli Oscar includono pratich
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/The%20Oscars%20The%20Torture%20Behind%20%20Red-Carpet%20Glamour.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/The%20Oscars%20The%20Torture%20Behind%20%20Red-Carpet%20Glamour.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,44 +33,44 @@ Published in The Guardian on February 22, 2013. Reprinted with permission. 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **catwalk** = passerella
-* **close-up** = primo piano
-* **pimple** = brufolo
-* **plot** = pianificare
-* **A-list** = lista VIP
-* **blade** = scapola
-* **bulge** = sporgere
-* **worked out** = decidere
-* **facialist** = visagista
-* **tanning suite** = solarium
-* **gowns** = tirare fuori
-* **resort** = ricorrere a
-* **sweating** = sudare
-* **accolade** = riconoscimento, lode
-* **mess the designers around** = scherzare
 * **settle** = stabilire, assestare
-* **nail bars** = saloni per manicure
-* **heaving** = sospirare forte
 * **whooshing** = sfrecciare
+* **gowns** = tirare fuori
+* **pushing leaves around** = mescolare foglie (di insalata)
+* **resort** = ricorrere a
+* **the run-up to** = periodo precedente
+* **tanning suite** = solarium
+* **nail bars** = saloni per manicure
+* **effortless fun** = divertimento spontaneo
+* **mess the designers around** = scherzare
+* **lined up** = preparare
+* **summed up** = riassumere
+* **heaving** = sospirare forte
+* **There is no way around it** = non c’è modo di evitarlo
+* **glow** = brillare
+* **blade** = scapola
+* **to make out otherwise** = fare diversamente
+* **make-up** = trucco
 * **pulling** = tirare fuori
+* **toned** = tonici
+* **sweating** = sudare
+* **paves the way** = spianare la strada
+* **worked out** = decidere
+* **bulge** = sporgere
+* **gilded** = dorato
+* **accomplished** = esperti, abili
+* **bid** = tentativo
+* **take over** = prendere il sopravvento
 * **been higher** = la posta in gioco è alta
 * **decamp** = levare le tende
-* **to make out otherwise** = fare diversamente
-* **gilded** = dorato
-* **Underpinning** = sostenere
-* **pushing leaves around** = mescolare foglie (di insalata)
-* **glow** = brillare
-* **summed up** = riassumere
-* **accomplished** = esperti, abili
-* **the run-up to** = periodo precedente
-* **bid** = tentativo
-* **to lose** = perdere
-* **toned** = tonici
-* **paves the way** = spianare la strada
-* **make-up** = trucco
-* **take over** = prendere il sopravvento
-* **There is no way around it** = non c’è modo di evitarlo
 * **strapless dress** = abito senza spalline
-* **effortless fun** = divertimento spontaneo
-* **lined up** = preparare
+* **Underpinning** = sostenere
+* **close-up** = primo piano
+* **plot** = pianificare
+* **to lose** = perdere
+* **A-list** = lista VIP
+* **accolade** = riconoscimento, lode
 * **slaughter** = massacrare
+* **catwalk** = passerella
+* **facialist** = visagista
+* **pimple** = brufolo

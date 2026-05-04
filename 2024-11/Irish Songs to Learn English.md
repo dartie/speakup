@@ -8,7 +8,7 @@ L’accento irlandese ha una qualità vocale gioviale e festosa che rende l’in
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Irish%20Songs%20to%20Learn%20English.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Irish%20Songs%20to%20Learn%20English.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -166,56 +166,56 @@ the boys are back in town
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **produced** = mostrare
-* **rapier** = stocco, broccio
-* **shrine** = santuario
-* **lies** = giacere
-* **breathless** = senza fiato
-* **cover** = versión
-* **stand** = rimanere in piedi, stare in piedi
-* **deliver** = consegnare
-* **deserve** = meritare
-* **Famine** = carestia
-* **worshipped** = adorare
-* **Hailing from** = essere originario di
-* **misadventures** = disavventure
-* **enduring** = duraturo, durevole
-* **trad music** = musica tradizionale
-* **charts** = classifiche
-* **sins** = peccati
-* **fronted** = guidare
-* **staple** = base, principale
-* **deceiver** = imbroglione
-* **Skippin’** = saltare
-* **morn** = domani (abbr. morning)
-* **to blame** = culpare
-* **NYPD** = acronimo di New York Police Department
-* **topped** = essere in vetta
-* **bold** = coraggioso, audace
-* **mouthpiece** = portavoce
-* **choir** = coro
-* **impromptu** = improvvisato
-* **misty** = nebbioso
-* **a-thumping** = palpitare
-* **fancy** = di lusso, costoso
-* **To drag** = trascinare
-* **deny** = negare
-* **enhanced** = aumentare
-* **bleak** = squallido
-* **Drivin’ all the old men crazy** = impazzire
-* **will** = volontà
-* **chorus** = ritornello
-* **Low lie** = passare inosservati
-* **cats** = tipi
-* **whomever** = chiunque
-* **hollow** = buca
-* **long** = bramare
-* **highway man** = bandito, brigante
-* **giggle** = risatina
-* **sharpen** = affilare
 * **tease** = tentare
-* **mired in** = bloccato in, impantanato in
-* **released** = pubblicare
-* **Whack for the daddy-o** = una bevanda per il compagno
+* **deny** = negare
+* **cover** = versión
+* **highway man** = bandito, brigante
+* **rapier** = stocco, broccio
+* **hollow** = buca
 * **now-evergreen** = sempreverde
+* **will** = volontà
+* **whomever** = chiunque
+* **a-thumping** = palpitare
+* **deserve** = meritare
+* **NYPD** = acronimo di New York Police Department
+* **lies** = giacere
+* **impromptu** = improvvisato
+* **enduring** = duraturo, durevole
+* **deceiver** = imbroglione
+* **worshipped** = adorare
+* **sharpen** = affilare
+* **to blame** = culpare
+* **To drag** = trascinare
+* **cats** = tipi
+* **deliver** = consegnare
+* **Whack for the daddy-o** = una bevanda per il compagno
+* **Skippin’** = saltare
+* **mouthpiece** = portavoce
+* **fronted** = guidare
+* **breathless** = senza fiato
+* **charts** = classifiche
+* **misadventures** = disavventure
+* **produced** = mostrare
+* **mired in** = bloccato in, impantanato in
+* **giggle** = risatina
+* **bleak** = squallido
+* **shrine** = santuario
+* **trad music** = musica tradizionale
+* **topped** = essere in vetta
+* **enhanced** = aumentare
+* **bold** = coraggioso, audace
 * **regardless'** = in ogni caso, a prescindere
+* **Famine** = carestia
+* **Low lie** = passare inosservati
+* **fancy** = di lusso, costoso
+* **stand** = rimanere in piedi, stare in piedi
+* **misty** = nebbioso
+* **choir** = coro
+* **morn** = domani (abbr. morning)
+* **released** = pubblicare
+* **Drivin’ all the old men crazy** = impazzire
+* **Hailing from** = essere originario di
+* **long** = bramare
+* **chorus** = ritornello
+* **sins** = peccati
+* **staple** = base, principale

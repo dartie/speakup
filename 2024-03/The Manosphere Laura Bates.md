@@ -8,7 +8,7 @@ Laura Bates, una delle voci femministe più potenti del nostro tempo, autrice di
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/The%20Manosphere%20Laura%20Bates.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/The%20Manosphere%20Laura%20Bates.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,23 +35,23 @@ In truth, most [rape](## "vantarsi")s [go unreported](## "non essere denunciato"
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **former** = ex
+* **showing off** = mostrare
+* **rape** = vantarsi
+* **harassment** = molestia sessuale
+* **high-profile** = di alto profilo
+* **yachts** = panfili
+* **spread** = diffondere
+* **accounted for** = rappresentare
+* **go unreported** = non essere denunciato
+* **mainstream media** = mezzi di comunicazione di massa
+* **make things up** = inventare le cose
 * **unfounded allegations** = accuse infondate
 * **are reach court** = giungere il tribunale (denunciare)
 * **aggrieved entitlement** = diritto infranto
-* **high-profile** = di alto profilo
-* **yachts** = panfili
-* **rape** = vantarsi
-* **mainstream media** = mezzi di comunicazione di massa
-* **go unreported** = non essere denunciato
-* **crawlers** = spider, robot (software)
-* **spread** = diffondere
-* **accounted for** = rappresentare
-* **news source** = fonte di notizie
-* **harassment** = molestia sessuale
 * **rightfully** = giustamente
 * **trends** = tendenze
-* **make things up** = inventare le cose
-* **former** = ex
-* **showing off** = mostrare
 * **bragging** = vantarsi
 * **sock puppets** = truffatori (pupazzo fatto con un calzino)
+* **crawlers** = spider, robot (software)
+* **news source** = fonte di notizie

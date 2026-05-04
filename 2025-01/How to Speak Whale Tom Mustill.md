@@ -8,7 +8,7 @@ Sappiamo ancora molto poco sulla vita delle balene, ma la scienza si sta avvicin
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/How%20to%20Speak%20Whale%20Tom%20Mustill.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/How%20to%20Speak%20Whale%20Tom%20Mustill.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -53,50 +53,50 @@ www.tommustill.com
 
 # Glossary
 * **landed** = atterrare
-* **rock slide** = frana di roccia
-* **calves** = balenotteri (plurale di calf)
-* **tail** = coda
-* **chewing gum** = gomma da masticare
-* **far-reaching** = di ampia portata
-* **inquisitive** = curioso
-* **mammals** = mammiferi
-* **high squeaks** = alti squittii
-* **deep** = profondi
-* **harmful** = dannoso
-* **outcomes** = risultati
-* **self-centred** = egoista, egocentrico
-* **fellow** = compagni, colleghi
 * **joyful** = gioioso
+* **rudders** = timoni
+* **I was struck** = impressionare
+* **peacock** = pavone
+* **gray whale** = balena grigia
+* **pilot whales** = balene pilota
+* **distant relatives** = parenti lontani
+* **sperm whales** = capodogli
+* **deep** = profondi
+* **sinking** = affondare
+* **breached** = emergere
+* **inquisitive** = curioso
 * **bull** = balena maschio
+* **enlightening** = illustrativo
+* **tagged** = etichettare
+* **calves** = balenotteri (plurale di calf)
+* **pitches** = toni
+* **blue whales** = balene azzurre
+* **tied together** = mettere insieme
+* **mammals** = mammiferi
+* **humpback whale** = megattera
+* **fellow** = compagni, colleghi
+* **fads** = mode
+* **thrive** = prosperare
+* **mournful** = afflitti
+* **tail** = coda
+* **outcomes** = risultati
+* **rock slide** = frana di roccia
+* **quest** = ricerca
+* **trends** = tendenze
+* **nurse** = allattare
+* **moans** = gemiti
+* **rub** = accarezzare
+* **claws** = artigli
 * **striking** = eclatante
 * **berries** = bacche
 * **predator** = predatore
-* **distant relatives** = parenti lontani
-* **[ninety-] plus** = più di novanta
-* **moans** = gemiti
-* **tied together** = mettere insieme
-* **claws** = artigli
-* **tagged** = etichettare
-* **fads** = mode
-* **mournful** = afflitti
+* **high squeaks** = alti squittii
 * **jet engine** = motore a reazione
-* **insights** = conoscenze
-* **quest** = ricerca
-* **sperm whales** = capodogli
-* **pitches** = toni
-* **I was struck** = impressionare
-* **breached** = emergere
-* **sinking** = affondare
-* **rudders** = timoni
-* **nurse** = allattare
-* **gray whale** = balena grigia
-* **blue whales** = balene azzurre
-* **humpback whale** = megattera
-* **fibreglass vessel** = imbarcazione in fibra di vetro
-* **trends** = tendenze
-* **peacock** = pavone
-* **enlightening** = illustrativo
-* **thrive** = prosperare
-* **rub** = accarezzare
-* **pilot whales** = balene pilota
+* **chewing gum** = gomma da masticare
 * **minke whale** = balenottere minore
+* **harmful** = dannoso
+* **fibreglass vessel** = imbarcazione in fibra di vetro
+* **[ninety-] plus** = più di novanta
+* **insights** = conoscenze
+* **far-reaching** = di ampia portata
+* **self-centred** = egoista, egocentrico

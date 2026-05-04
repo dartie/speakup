@@ -8,7 +8,7 @@ Cinquant’anni fa è stato realizzato uno dei film più terrificanti e cruenti 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/The%20Texas%20Chain%20Saw%20Massacre%20Horror%20History.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/The%20Texas%20Chain%20Saw%20Massacre%20Horror%20History.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -16,7 +16,7 @@ Cinquant’anni fa è stato realizzato uno dei film più terrificanti e cruenti 
 Fifty years ago, The Texas [Chain Saw](## "motosega") Massacre, one of the most influential films in Hollywood history, [hit cinema screens](## "arrivare sugli schermi cinematografici"), shocking people around the world and influencing the genre for decades to come. Even the slasher film poster’s [blood-dripping](## "sangue che cola") message was designed to disturb: “Who will survive and what will be left of them?”
 
 ## TRESPASSERS WILL BE EATEN
-The film’s plot was simple: a group of sadistic, [grave-robbing](## "tombaroli") cannibals torture, kill and eat [trespassers](## "intrusi"). To add a little [flesh](## "carne") to these bones: the film is described on the website Rotten Tomatoes as being about a group of hippies who travel to an old farmhouse, where they discover crazed, murderous [out[cast](## "attori")s](## "emarginati") living next door. The group is then attacked one by one by a man in a mask made of human skin — Leatherface — [wielding](## "brandire") a chainsaw.    
+The film’s plot was simple: a group of sadistic, [grave-robbing](## "tombaroli") cannibals torture, kill and eat [trespassers](## "intrusi"). To add a little [flesh](## "carne") to these bones: the film is described on the website Rotten Tomatoes as being about a group of hippies who travel to an old farmhouse, where they discover crazed, murderous out[cast](## "attori")s living next door. The group is then attacked one by one by a man in a mask made of human skin — Leatherface — [wielding](## "brandire") a chainsaw.    
 
 ## STUNNING SUCCESS
 The film was an immediate success in the US, making today’s equivalent of $150 million. Now considered a classic, one of the scariest films ever made, reviews at the time were mixed. The LA Times simply called it “[despicable](## "disprezzabile").” Other critics [praised](## "elogiare") its aesthetic quality and power, although reviews could be confusing, with one journalist calling it a “masterpiece of fear and [loathing](## "odio, disgusto").” 
@@ -35,24 +35,24 @@ Co-written and directed by Tobe Hooper, The Texas [Chain Saw](## "motosega") Mas
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **grave-robbing** = tombaroli
-* **wielding** = brandire
-* **gore** = sangue
 * **insanity** = follia, pazzia
-* **faulty** = difettose
-* **devoid** = priva
-* **trespassers** = intrusi
-* **furniture** = mobili
-* **flesh** = carne
-* **despicable** = disprezzabile
-* **praised** = elogiare
 * **loathing** = odio, disgusto
-* **foul-smelling** = maleodorante
-* **power tools** = utensili elettrici
-* **Chain Saw** = motosega
-* **hit cinema screens** = arrivare sugli schermi cinematografici
-* **blood-dripping** = sangue che cola
-* **outcasts** = emarginati
+* **gore** = sangue
 * **cast** = attori
+* **faulty** = difettose
+* **power tools** = utensili elettrici
+* **devoid** = priva
+* **outcasts** = emarginati
+* **praised** = elogiare
+* **furniture** = mobili
 * **abattoir** = macello, mattatoio
+* **foul-smelling** = maleodorante
+* **hit cinema screens** = arrivare sugli schermi cinematografici
+* **grave-robbing** = tombaroli
+* **flesh** = carne
+* **wielding** = brandire
 * **Lambs** = agnelli
+* **Chain Saw** = motosega
+* **blood-dripping** = sangue che cola
+* **trespassers** = intrusi
+* **despicable** = disprezzabile

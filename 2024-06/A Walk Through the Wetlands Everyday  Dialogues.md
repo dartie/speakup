@@ -8,7 +8,7 @@ Le passeggiate nella natura permettono di imparare un nuovo vocabolario sulle me
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/A%20Walk%20Through%20the%20Wetlands%20Everyday%20%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/A%20Walk%20Through%20the%20Wetlands%20Everyday%20%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -46,14 +46,14 @@ A **birdwatcher** observes birds out of scientific interest or just as a recreat
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **beavers** = castori
 * **dam** = diga
+* **sight** = vista
 * **hunted** = cacciare
-* **fur** = pelliccia
+* **deer** = cervo
 * **eventually'.** = alla fine
 * **walk** = passeggiata
-* **sight** = vista
+* **beavers** = castori
 * **restore** = ripristinare
-* **deer** = cervo
+* **fur** = pelliccia
 * **praise** = lode
 * **briefly** = brevemente

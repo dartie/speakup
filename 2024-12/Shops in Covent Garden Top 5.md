@@ -8,7 +8,7 @@ Abbiamo selezionato cinque negozi che incarnano lo stile eclettico, dinamico ed 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Shops%20in%20Covent%20Garden%20Top%205.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Shops%20in%20Covent%20Garden%20Top%205.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,17 +35,17 @@ This historic building is now host to modern market traders. From Tuesday to Sun
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **claims** = affermare
+* **watercolours** = acquerelli
+* **collectables** = articoli da collezione
+* **retailers** = rivenditori
+* **flagship store** = negozio principale
+* **sparkling** = spumoso
+* **craft beer** = birra artigianale
+* **in-house** = interno
 * **monogramming** = incisione delle iniziali
+* **trendiest** = più alla moda
 * **print shop** = tipografia
 * **Fine Art** = belle arti
-* **post** = spedire
-* **collectables** = articoli da collezione
-* **craft beer** = birra artigianale
 * **knowledgeable** = esperto
-* **claims** = affermare
-* **retailers** = rivenditori
-* **sparkling** = spumoso
-* **trendiest** = più alla moda
-* **watercolours** = acquerelli
-* **flagship store** = negozio principale
-* **in-house** = interno
+* **post** = spedire

@@ -8,7 +8,7 @@ Sir Francis Drake è una delle figure più leggendarie della storia britannica. 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/Sir%20Francis%20Drake,%20England%E2%80%99s%20Greatest%20Mariner.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/Sir%20Francis%20Drake,%20England%E2%80%99s%20Greatest%20Mariner.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -39,7 +39,7 @@ In 1596, Drake and Hawkins decided to launch one last mission to the West Indies
 Drake’s place in history is controversial. For hundreds of years he was a heroic, almost mythical figure, protecting English [shores](## "coste") from Spanish invasion and sailing to the four corners of the earth. But he also engaged in piracy, [raiding](## "razziare") and destroying peaceful Spanish [settlements](## "insediamenti") in the Americas. He was a key figure in the founding of the Navy and the British Empire, through his voyages of exploration and pioneering of [trade routes](## "tratte commerciali"). And his maritime and battle techniques profoundly influenced naval practices.  
 
 ## DRAKE IN DEPTH
-Drake was a classic example of a self-made man. His [humble](## "umili") roots provoked [contempt](## "disprezzo") from some [courtiers](## "cortigiani") at the Queen’s court, but this feeling was not shared by Elizabeth herself, who admired his bravery. The [motto](## "motto") of his [coat of arms](## "stemma, blasone") was “Sic Parvis Magna” (‘Great [achievements](## "successi, risultati") from small beginnings’.) Drake was a [social c[limb](## "braccia")er](## "arrampicatore sociale") and liked to [show off](## "sfoggiare") his wealth. He made a fortune investing in his own privateering and piratical adventures. The historian Robert Hutchison has spoken of Drake’s “[reckless](## "sconsiderata") [greed](## "avidità")”. Some [courtiers](## "cortigiani") said he was actually the main cause of wars! [Fellow](## "colleghi") sea captains found him [unreliable](## "inaffidabile") and [self-seeking](## "egoista"). The mariner was also [ruthless](## "spietato"). He [fell out with](## "litigare con") Thomas Doughty, his co-commander during his famous circumnavigation, and had him [beheaded](## "decapitare"). Three years before that he had seen service in Ireland under the [Earl](## "conte") of Essex, during which time hundreds of civilians were [slaughtered](## "uccidere, massacrare") by English forces. His role is not clear. He was said to treat captured Spanish officers with courtesy and care. Were his attacks on Spanish galleons and [settlements](## "insediamenti") acts of bravery in the service of his Queen or simply acts of piracy? He regularly kidnapped whole communities in Guinea and Sierra Leone and sold them as slaves to the Spanish in the West Indies. The Spanish ambassador in England called Drake “the master-thief of the unknown world.” The Elizabethan historian John Stow wrote of Drake: “He was more skilful in all parts of navigation than any … He was also of a perfect memory, great observation, eloquent by nature.” The Spanish ambassador said Drake was “low of stature, of strong [limb](## "braccia") [with a] large and clear, well-favoured face and of a [cheerful countenance](## "espressione allegra").”
+Drake was a classic example of a self-made man. His [humble](## "umili") roots provoked [contempt](## "disprezzo") from some [courtiers](## "cortigiani") at the Queen’s court, but this feeling was not shared by Elizabeth herself, who admired his bravery. The [motto](## "motto") of his [coat of arms](## "stemma, blasone") was “Sic Parvis Magna” (‘Great [achievements](## "successi, risultati") from small beginnings’.) Drake was a social c[limb](## "braccia")er and liked to [show off](## "sfoggiare") his wealth. He made a fortune investing in his own privateering and piratical adventures. The historian Robert Hutchison has spoken of Drake’s “[reckless](## "sconsiderata") [greed](## "avidità")”. Some [courtiers](## "cortigiani") said he was actually the main cause of wars! [Fellow](## "colleghi") sea captains found him [unreliable](## "inaffidabile") and [self-seeking](## "egoista"). The mariner was also [ruthless](## "spietato"). He [fell out with](## "litigare con") Thomas Doughty, his co-commander during his famous circumnavigation, and had him [beheaded](## "decapitare"). Three years before that he had seen service in Ireland under the [Earl](## "conte") of Essex, during which time hundreds of civilians were [slaughtered](## "uccidere, massacrare") by English forces. His role is not clear. He was said to treat captured Spanish officers with courtesy and care. Were his attacks on Spanish galleons and [settlements](## "insediamenti") acts of bravery in the service of his Queen or simply acts of piracy? He regularly kidnapped whole communities in Guinea and Sierra Leone and sold them as slaves to the Spanish in the West Indies. The Spanish ambassador in England called Drake “the master-thief of the unknown world.” The Elizabethan historian John Stow wrote of Drake: “He was more skilful in all parts of navigation than any … He was also of a perfect memory, great observation, eloquent by nature.” The Spanish ambassador said Drake was “low of stature, of strong [limb](## "braccia") [with a] large and clear, well-favoured face and of a [cheerful countenance](## "espressione allegra").”
 
 ## DRAKE’S DRUM
 Drake’s life produced many myths. One of the most famous surrounded his ‘[drum](## "tamburo")’. The [drum](## "tamburo"), [emblazoned](## "decorare, abbellire") with his [coat of arms](## "stemma, blasone"), reputedly accompanied him on his final voyage in 1596. The legend is that Drake, before his death, said that his [drum](## "tamburo") should go to his home at Buckland Abbey in Devon. He [vowed](## "giurare") that if England were ever in danger, and the [drum](## "tamburo") was sounded, he would return to defend his homeland.  
@@ -49,48 +49,48 @@ Drake’s life produced many myths. One of the most famous surrounded his ‘[dr
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **slaughtered** = uccidere, massacrare
+* **slave-trading** = tratta degli schiavi
 * **tenant farmer** = mezzadro
-* **privateers** = corsari
+* **relatives** = parenti
+* **Reputedly** = presumibilmente
+* **show off** = sfoggiare
+* **beheaded** = decapitare
+* **kidnapping** = rapire, sequestrare
+* **humble** = umili
+* **ruthless** = spietato
+* **slaughtered** = uccidere, massacrare
+* **emblazoned** = decorare, abbellire
+* **vowed** = giurare
 * **MATTER** = impresa
 * **contempt** = disprezzo
-* **Reputedly** = presumibilmente
-* **Earl** = conte
-* **kidnapping** = rapire, sequestrare
-* **settlements** = insediamenti
-* **knighted** = nominare cavaliere
-* **bowls** = bocce
-* **beard** = barba
-* **achievements** = successi, risultati
-* **Fellow** = colleghi
-* **fell out with** = litigare con
-* **raiding** = razziare
-* **motto** = motto
-* **greed** = avidità
-* **self-seeking** = egoista
-* **courtiers** = cortigiani
-* **coat of arms** = stemma, blasone
-* **social climber** = arrampicatore sociale
-* **trade routes** = tratte commerciali
-* **relatives** = parenti
-* **sailed** = navigare
-* **Hind** = cerva
-* **humble** = umili
-* **reckless** = sconsiderata
-* **beheaded** = decapitare
-* **drum** = tamburo
-* **fuelling** = alimentare
-* **slave-trading** = tratta degli schiavi
-* **funded** = finanziare
-* **shores** = coste
-* **cheerful countenance** = espressione allegra
-* **emblazoned** = decorare, abbellire
-* **defeat** = sconfiggere
-* **show off** = sfoggiare
 * **unreliable** = inaffidabile
-* **ruthless** = spietato
-* **vowed** = giurare
-* **plundering** = saccheggiare
-* **YIELDS** = produrre
+* **cheerful countenance** = espressione allegra
+* **Hind** = cerva
+* **coat of arms** = stemma, blasone
+* **greed** = avidità
+* **Fellow** = colleghi
+* **self-seeking** = egoista
+* **fell out with** = litigare con
 * **singeing** = bruciacchiare
+* **bowls** = bocce
+* **shores** = coste
 * **limb** = braccia
+* **drum** = tamburo
+* **privateers** = corsari
+* **social climber** = arrampicatore sociale
+* **achievements** = successi, risultati
+* **fuelling** = alimentare
+* **plundering** = saccheggiare
+* **sailed** = navigare
+* **knighted** = nominare cavaliere
+* **defeat** = sconfiggere
+* **motto** = motto
+* **Earl** = conte
+* **trade routes** = tratte commerciali
+* **raiding** = razziare
+* **settlements** = insediamenti
+* **funded** = finanziare
+* **YIELDS** = produrre
+* **beard** = barba
+* **courtiers** = cortigiani
+* **reckless** = sconsiderata

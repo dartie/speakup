@@ -8,7 +8,7 @@ Luogo di incontro per gli amanti della letteratura, questa piccola libreria indi
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/Shakespeare%20and%20Company%20A%20Parisian%20Literary%20Landmark.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/Shakespeare%20and%20Company%20A%20Parisian%20Literary%20Landmark.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,15 +33,15 @@ The new Shakespeare and Company was already a centre for anglophone literary lif
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **hub** = centro
-* **rejected** = rifiutare
 * **first printing** = prima stampa
-* **Seine** = Senna
-* **damp** = umido
-* **grocery store** = negozio di alimentari
-* **lending library** = biblioteca
-* **despondent** = sconfortati
 * **expat** = espatriato (abbreviazione di 'expatriate')
 * **bank** = riva
 * **jam-packed** = pieno zeppo
+* **damp** = umido
+* **grocery store** = negozio di alimentari
+* **despondent** = sconfortati
+* **rejected** = rifiutare
 * **flattered** = lusingato
+* **Seine** = Senna
+* **lending library** = biblioteca
+* **hub** = centro

@@ -8,7 +8,7 @@ Il bacio è il gesto che, più di tutti, rappresenta l’amore. Ma perché ci ba
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/The%20First%20Kiss%20Twenty-One%20Million%20Years%20Ago.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/The%20First%20Kiss%20Twenty-One%20Million%20Years%20Ago.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -43,16 +43,16 @@ Brindle hopes other researchers will conduct their own studies to find out not w
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **spread** = diffusione
+* **evolved trait** = tratto evoluto
 * **pick up the mantle** = raccogliere il testimone
 * **pivotal** = cruciale
-* **behaviour** = comportamento
 * **clay** = argilla
 * **likely** = probabilmente
 * **apes** = scimmie
+* **interbred** = incrociarsi, accoppiarsi
 * **most notably** = soprattutto
-* **evolved trait** = tratto evoluto
+* **disease** = malattia
+* **spread** = diffusione
+* **behaviour** = comportamento
 * **up to** = fino a
 * **ancestry** = lignaggio, antenati
-* **interbred** = incrociarsi, accoppiarsi
-* **disease** = malattia

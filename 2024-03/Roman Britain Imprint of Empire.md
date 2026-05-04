@@ -8,7 +8,7 @@ I Romani hanno governato gran parte della Gran Bretagna per tre secoli e mezzo. 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/Roman%20Britain%20Imprint%20of%20Empire.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/Roman%20Britain%20Imprint%20of%20Empire.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,20 +32,20 @@ In 312 [AD](## "dopo Cristo (anno Domini)"), Emperor Constantine the Great conve
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **uncertain grip** = incerta presa
-* **workforce** = forza lavoro
-* **Iron Age** = età del ferro
-* **produce** = prodotti agricoli
-* **AD** = dopo Cristo (anno Domini)
-* **deafness** = sordità
-* **accounts** = racconti
-* **paved** = pavimentare
-* **to strengthen** = rafforzare
-* **looked down** = guardare con disprezzo
-* **set about** = cominciare a
-* **settlements** = insediamenti
-* **latter part** = la seconda metà
 * **limp** = zoppaggine
 * **brought about** = introdurre, apportare
+* **settlements** = insediamenti
+* **accounts** = racconti
+* **workforce** = forza lavoro
+* **Iron Age** = età del ferro
+* **AD** = dopo Cristo (anno Domini)
+* **to strengthen** = rafforzare
+* **deafness** = sordità
+* **set about** = cominciare a
+* **paved** = pavimentare
 * **goods** = merci
+* **latter part** = la seconda metà
+* **uncertain grip** = incerta presa
+* **looked down** = guardare con disprezzo
+* **produce** = prodotti agricoli
 * **lay** = trovarsi

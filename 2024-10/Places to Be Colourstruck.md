@@ -8,7 +8,7 @@ Abbiamo selezionato cinque luoghi ideali per osservare il mutevole fogliame dell
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/Places%20to%20Be%20Colourstruck.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/Places%20to%20Be%20Colourstruck.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -36,25 +36,25 @@ The leaves in Guadalupe mountains are among the last to change colour, from mid-
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **waterfalls** = cascate
 * **mating** = accoppiamento
 * **larch trees** = larici
-* **trails** = sentieri
-* **in bloom** = in fiore
-* **aspen trees** = pioppi tremuli
-* **elk** = wapiti, alci
-* **cliffs** = scogliere
-* **hike** = fare una camminata
-* **deer** = cervi
-* **crimson** = cremisi
-* **wetlands** = terreni acquitrinosi
-* **squirrels** = scoiattoli
-* **overlooks** = punti panoramici
-* **head for** = recarsi, dirigersi
 * **accuracy** = precisione
-* **rolling hills** = colline ondeggianti
-* **waterfalls** = cascate
-* **straddles** = stare a cavalcioni di
+* **soggy** = inzuppate
+* **hike** = fare una camminata
+* **trails** = sentieri
+* **deer** = cervi
+* **elk** = wapiti, alci
 * **rut** = calore
 * **glacier-carved** = scolpite dai ghiacciai
-* **soggy** = inzuppate
+* **squirrels** = scoiattoli
+* **overlooks** = punti panoramici
+* **in bloom** = in fiore
+* **straddles** = stare a cavalcioni di
+* **aspen trees** = pioppi tremuli
+* **cliffs** = scogliere
 * **maple** = aceri
+* **wetlands** = terreni acquitrinosi
+* **head for** = recarsi, dirigersi
+* **rolling hills** = colline ondeggianti
+* **crimson** = cremisi

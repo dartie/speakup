@@ -8,7 +8,7 @@ L’IA sostituirà gli umani anche nelle produzioni cinematografiche e televisiv
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/Tilly%20Norwood%20Hollywood%20Hates%20Her.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/Tilly%20Norwood%20Hollywood%20Hates%20Her.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,17 +35,17 @@ However, van der Velden, an actress herself, has defended the creation, insistin
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **features** = avere come protagonista
-* **threat** = minaccia
-* **advocated** = sostenere
-* **regardless of** = a prescindere da
-* **pretend** = fingere
-* **released** = pubblicare
-* **mock** = falsi
-* **signing** = ingaggiare
-* **union** = sindacato
-* **untethered** = scollegato, svincolato
-* **there’s no stopping** = non si può fermare
-* **replace** = sostituire
 * **tagline** = didascalia, slogan
 * **Dutch** = olandese
+* **mock** = falsi
+* **signing** = ingaggiare
+* **untethered** = scollegato, svincolato
+* **advocated** = sostenere
+* **there’s no stopping** = non si può fermare
+* **replace** = sostituire
+* **pretend** = fingere
+* **features** = avere come protagonista
+* **released** = pubblicare
+* **threat** = minaccia
+* **union** = sindacato
+* **regardless of** = a prescindere da

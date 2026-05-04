@@ -8,7 +8,7 @@ La Grande barriera corallina, che risale a novemila anni fa, si estende a est de
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/The%20Great%20Barrier%20Reef%20Australia%E2%80%99s%20Natural%20Wonder.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/The%20Great%20Barrier%20Reef%20Australia%E2%80%99s%20Natural%20Wonder.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -28,7 +28,7 @@ The [Great Barrier Reef](## "Grande barriera corallina") Foundation is one of th
 
 ## THE WHITSUNDAYS
 The Whitsunday Islands are one of the most popular and iconic destinations for tourists planning on going to the [Great Barrier Reef](## "Grande barriera corallina"). These islands serve as vital [nurseries](## "vivai") for [seagrass](## "posidonia"). Seagrass not only offers crucial feeding grounds for numerous species but also generates nutrients essential for oxygenating the water. Seagrass has also been shown to remove [harmful](## "nocivi") elements like microplastics from the ocean environment. Clarissa elaborated on what the project in the Whitsundays is specifically focused on.
-**Clarissa Eliakis:** In the Whitsundays, it’s a completely different flavour. The Whitsundays experienced some environmental degradation due to Cyclone Debbie. It impacted the local coral reefs as well as some of the [[seagrass](## "posidonia") meadows](## "praterie di fanerogame marine"). And so what we’re doing is working predominantly with our local tourism operators and researchers to look at different coral restoration techniques. So one of them is coral gardening, or the coral [nurture](## "allevamento") programme, which is about establishing coral [nurseries](## "vivai") in situ and then growing these coral colonies in the [nurseries](## "vivai") and then planting them onto reefs that need some additional assistance with restoration. The other coral restoration technique that we’re doing is under a programme called Boats4Corals. The corals in the [Great Barrier Reef](## "Grande barriera corallina") typically [spawn](## "deporre uova") simultaneously at one mass event each year, and the coral programme is all about [harnessing](## "sfruttare") this natural phenomenon so we can capture some of the [spawn](## "deporre uova") [slick](## "macchia") that’s [released](## "rilasciare") and then cultivate that into coral larvae and then disperse that onto coral reefs, that once again need a little bit of assistance.
+**Clarissa Eliakis:** In the Whitsundays, it’s a completely different flavour. The Whitsundays experienced some environmental degradation due to Cyclone Debbie. It impacted the local coral reefs as well as some of the [seagrass](## "posidonia") meadows. And so what we’re doing is working predominantly with our local tourism operators and researchers to look at different coral restoration techniques. So one of them is coral gardening, or the coral [nurture](## "allevamento") programme, which is about establishing coral [nurseries](## "vivai") in situ and then growing these coral colonies in the [nurseries](## "vivai") and then planting them onto reefs that need some additional assistance with restoration. The other coral restoration technique that we’re doing is under a programme called Boats4Corals. The corals in the [Great Barrier Reef](## "Grande barriera corallina") typically [spawn](## "deporre uova") simultaneously at one mass event each year, and the coral programme is all about [harnessing](## "sfruttare") this natural phenomenon so we can capture some of the [spawn](## "deporre uova") [slick](## "macchia") that’s [released](## "rilasciare") and then cultivate that into coral larvae and then disperse that onto coral reefs, that once again need a little bit of assistance.
 
 ## FIRST NATIONS PEOPLES
 The Marine Park Authority is the main entity that takes charge of managing the Reef. They officially recognise the Aboriginal and Torres Strait Islander Peoples as the Traditional Owners of the Reef. These cultures are the oldest continuous civilisation on Earth, their presence in the territory dates back sixty-five thousand years. These peoples already had an intimate knowledge of the diverse ecosystems of the reef, and it continued to be a central part of many stories and traditions. Since the early establishment of First Nations laws and traditions, the Reef was [regarded](## "considerare") as a part of their lands that needed to be protected and cared for.
@@ -50,54 +50,54 @@ www.barrierreef.com
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **regarded** = considerare
-* **raises awareness** = sensibilizzare
-* **purchases** = comprare
 * **rise** = innalzamento
-* **upscale** = migliorare
-* **devoid** = privare
-* **harmful** = nocivi
-* **harnessing** = sfruttare
-* **jeopardise** = mettere a rischio
-* **to enact** = realizzare
-* **revenue** = fatturato
-* **seagrass** = posidonia
-* **spawn** = deporre uova
-* **stewards** = amministratori
-* **Spanning** = estendersi
 * **roughly** = approssimativamente
-* **cast a shadow** = proiettare un’ombra
-* **starving** = patire la fame
-* **moonscape** = paesaggio lunare
-* **released** = rilasciare
-* **jellyfish** = medusa
-* **teeming** = essere pieno di
-* **nesting site** = luogo di nidificazione
+* **to enact** = realizzare
+* **to mined** = estrarre
 * **lighthouse** = faro
-* **nurture** = allevamento
-* **scuba diving** = immersione
-* **shallow** = poco profondo
-* **akin to** = assomigliare
+* **seagrass** = posidonia
+* **released** = rilasciare
+* **healing** = curare
 * **picture** = immaginare
-* **whales** = megattere
-* **looming threats** = minacce incombenti
-* **insights** = idee, visioni
-* **shading** = proteggere dal sole
-* **World Heritage site** = patrimonio dell’umanità
 * **scratch** = graffiare
-* **bleaching** = sbiancamento
-* **slick** = macchia
-* **support** = sostenere
-* **to fund** = finanziare
-* **runoff** = fughe
 * **subside** = diminuire
 * **nurseries** = vivai
-* **to mined** = estrarre
-* **seagrass meadows** = praterie di fanerogame marine
-* **alongside** = insieme a
-* **thrive** = crescere
-* **Great Barrier Reef** = Grande barriera corallina
-* **pygmy seahorses** = cavallucci marini pigmeo
 * **hotspot** = punto centrale
-* **healing** = curare
+* **harmful** = nocivi
+* **purchases** = comprare
+* **thrive** = crescere
+* **pygmy seahorses** = cavallucci marini pigmeo
+* **looming threats** = minacce incombenti
+* **starving** = patire la fame
+* **moonscape** = paesaggio lunare
+* **seagrass meadows** = praterie di fanerogame marine
+* **scuba diving** = immersione
+* **revenue** = fatturato
+* **alongside** = insieme a
+* **whales** = megattere
+* **runoff** = fughe
+* **bleaching** = sbiancamento
+* **insights** = idee, visioni
+* **upscale** = migliorare
+* **raises awareness** = sensibilizzare
+* **nesting site** = luogo di nidificazione
+* **harnessing** = sfruttare
+* **akin to** = assomigliare
+* **Spanning** = estendersi
+* **jellyfish** = medusa
+* **teeming** = essere pieno di
+* **devoid** = privare
+* **slick** = macchia
+* **regarded** = considerare
 * **driver** = incentivo, motore
+* **Great Barrier Reef** = Grande barriera corallina
+* **World Heritage site** = patrimonio dell’umanità
+* **cast a shadow** = proiettare un’ombra
+* **jeopardise** = mettere a rischio
+* **shading** = proteggere dal sole
+* **spawn** = deporre uova
+* **support** = sostenere
+* **nurture** = allevamento
+* **stewards** = amministratori
+* **to fund** = finanziare
+* **shallow** = poco profondo

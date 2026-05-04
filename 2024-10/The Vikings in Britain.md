@@ -8,7 +8,7 @@ L’epoca dei Vichinghi, compresa tra il 750 e il 1050 d.C., ha cambiato la mapp
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/The%20Vikings%20in%20Britain.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/The%20Vikings%20in%20Britain.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,18 +32,18 @@ Linking the archaeological evidence of the Vikings are written sources from late
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **household items** = oggetti domestici
-* **burial sites** = luogo di sepoltura
-* **plunder** = saccheggio
-* **defeat** = sconfitta
-* **raiders** = saccheggiatori
-* **off the northeast coast** = al largo della costa
-* **rule** = governo
-* **seafarers** = navigatori, marinai
-* **further and wider** = più lontano e ampio
-* **settlements** = insediamenti
-* **mindset** = mentalità
 * **Norse** = nordici, norreni
-* **tidal island** = isola tidale
+* **rule** = governo
 * **loosely** = genericamente
+* **further and wider** = più lontano e ampio
+* **burial sites** = luogo di sepoltura
+* **defeat** = sconfitta
+* **seafarers** = navigatori, marinai
+* **settlements** = insediamenti
+* **household items** = oggetti domestici
+* **raiders** = saccheggiatori
+* **tidal island** = isola tidale
+* **off the northeast coast** = al largo della costa
+* **plunder** = saccheggio
 * **finds** = ritrovamenti
+* **mindset** = mentalità

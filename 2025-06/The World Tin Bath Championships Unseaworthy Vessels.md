@@ -8,7 +8,7 @@ In questa gara di beneficenza, un centinaio di partecipanti sfidano le fredde ac
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/The%20World%20Tin%20Bath%20Championships%20Unseaworthy%20Vessels.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/The%20World%20Tin%20Bath%20Championships%20Unseaworthy%20Vessels.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -29,22 +29,22 @@ This year’s World [Tin](## "latta") Bath Championships will be held on 7 Septe
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **one of a kind** = unica nel suo genere
-* **paddle** = remare
-* **cheer them on** = incitare
-* **further afield** = da più lontano
-* **charities** = organizzazioni benefiche
-* **further up** = più in alto
-* **Harbour** = porto
-* **light-hearted** = spensierato
-* **raise money** = raccogliere fondi
-* **Tin** = latta
-* **Ale** = birra
-* **Strict rules apply** = si applicano regole rigide
-* **means** = mezzo, modo
-* **off the northwest coast** = di fronte alla costa
-* **shore** = riva
-* **seaworthy** = adatto alla navigazione
 * **sinking** = affondare
 * **human-powered flights** = voli a propulsione umana
+* **further afield** = da più lontano
+* **means** = mezzo, modo
+* **off the northwest coast** = di fronte alla costa
+* **Ale** = birra
+* **seaworthy** = adatto alla navigazione
+* **charities** = organizzazioni benefiche
+* **one of a kind** = unica nel suo genere
+* **Tin** = latta
+* **further up** = più in alto
+* **Harbour** = porto
+* **cheer them on** = incitare
+* **Strict rules apply** = si applicano regole rigide
+* **light-hearted** = spensierato
 * **descend upon** = arrivare
+* **paddle** = remare
+* **shore** = riva
+* **raise money** = raccogliere fondi

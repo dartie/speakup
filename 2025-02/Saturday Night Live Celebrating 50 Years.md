@@ -8,7 +8,7 @@ Il programma che ha intrattenuto intere generazioni con la sua comicità e satir
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Saturday%20Night%20Live%20Celebrating%2050%20Years.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Saturday%20Night%20Live%20Celebrating%2050%20Years.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,7 +35,6 @@ SNL has also produced some controversial moments, the most memorable of which wa
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **breaking character** = uscire dal personaggio
 * **hosts** = presentare
 * **rendition** = interpretazione
 * **airs** = trasmettere
@@ -43,3 +42,4 @@ SNL has also produced some controversial moments, the most memorable of which wa
 * **renowned** = rinomato
 * **edge** = margine
 * **current events** = fatti di attualità
+* **breaking character** = uscire dal personaggio

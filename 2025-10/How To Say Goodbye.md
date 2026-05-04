@@ -8,7 +8,7 @@ Non dire sempre "goodbye"! In inglese, proprio come in italiano, esistono molti 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/How%20To%20Say%20Goodbye.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/How%20To%20Say%20Goodbye.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -42,31 +42,31 @@ Be careful! In English, expressions like ‘Good morning’, ‘Good afternoon�
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **speech** = discorso
-* **So long** = a presto
-* **greetings** = saluti
-* **nursery** = scuola materna
-* **slang** = colloquiali
-* **Cheers** = ciao, saluti
-* **Take care** = stammi bene
-* **I look forward to** = non vedo l’ora di
-* **eventually** = alla fine
 * **shortened** = abbreviata
-* **old-fashioned** = all’antica, vecchio stampo
+* **Catch you later** = ci becchiamo dopo
+* **Cheers** = ciao, saluti
+* **playful** = giocosi
+* **Take care** = stammi bene
 * **kind** = premuroso
 * **trendy** = di moda
+* **remark** = espressione, frase
+* **dates back to** = risalire
+* **Over time** = col tempo
+* **linked** = collegare, fare riferimento
+* **nursery** = scuola materna
+* **old-fashioned** = all’antica, vecchio stampo
+* **polite** = gentili, educati
+* **I look forward to** = non vedo l’ora di
 * **carries** = portare, comportare
 * **borrowed** = prendere in prestito
 * **plenty of** = molte
-* **remark** = espressione, frase
-* **dates back to** = risalire
-* **God be with ye** = Dio sia con voi
-* **Over time** = col tempo
-* **playful** = giocosi
-* **On the other hand** = invece, al contrario
-* **Catch you later** = ci becchiamo dopo
+* **So long** = a presto
+* **greetings** = saluti
+* **eventually** = alla fine
+* **speech** = discorso
+* **slang** = colloquiali
 * **warm** = caloroso
-* **linked** = collegare, fare riferimento
-* **polite** = gentili, educati
-* **the latter** = gli ultimi
 * **rather** = piuttosto
+* **the latter** = gli ultimi
+* **On the other hand** = invece, al contrario
+* **God be with ye** = Dio sia con voi

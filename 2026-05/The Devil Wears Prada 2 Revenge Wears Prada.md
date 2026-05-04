@@ -8,7 +8,7 @@ Uscito nel 2003 e ispirato a esperienze reali, "Il diavolo veste Prada" ha lanci
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/The%20Devil%20Wears%20Prada%202%20Revenge%20Wears%20Prada.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/The%20Devil%20Wears%20Prada%202%20Revenge%20Wears%20Prada.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -39,28 +39,28 @@ If you want to know more about this topic, read the article The Devil Wears Pra
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **calls** = decisioni, scelte
-* **backlash** = reazione negativa, contraccolpo
-* **it’s fair to say** = si può affermare che
-* **in any way, shape, or form** = di nessun tipo
-* **Enduring** = sopportare
-* **put up with** = sopportare, tollerare
-* **hideous** = orribili
-* **editor-in-chief** = caporedattrice
-* **former** = ex, precedente
+* **overwhelmed** = sopraffatta
 * **confident** = sicura di sé
-* **at all** = per nulla
+* **stark** = netto
+* **it’s fair to say** = si può affermare che
 * **downcoats** = piumini
-* **resonated a lot with** = risuonare, colpire
-* **struck a chord** = colpire nel segno
+* **in any way, shape, or form** = di nessun tipo
+* **bird’s eye view** = visione d’insieme, dall’alto
+* **from the top down** = dai vertici
 * **scathing** = tagliente
 * **go down too well** = essere ben accolto
-* **overwhelmed** = sopraffatta
-* **from the top down** = dai vertici
-* **notorious** = famigerata
-* **figure that out** = capirlo, venirne a capo
-* **stark** = netto
-* **flashy** = vistosa, appariscente
-* **demanding** = esigenti
+* **at all** = per nulla
 * **fleece** = pile
-* **bird’s eye view** = visione d’insieme, dall’alto
+* **calls** = decisioni, scelte
+* **resonated a lot with** = risuonare, colpire
+* **put up with** = sopportare, tollerare
+* **struck a chord** = colpire nel segno
+* **former** = ex, precedente
+* **backlash** = reazione negativa, contraccolpo
+* **figure that out** = capirlo, venirne a capo
+* **demanding** = esigenti
+* **Enduring** = sopportare
+* **hideous** = orribili
+* **notorious** = famigerata
+* **editor-in-chief** = caporedattrice
+* **flashy** = vistosa, appariscente

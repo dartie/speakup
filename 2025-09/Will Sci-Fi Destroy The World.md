@@ -8,7 +8,7 @@ I magnati della tecnologia si sono spesso ispirati ai classici della fantascienz
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/Will%20Sci-Fi%20Destroy%20The%20World.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/Will%20Sci-Fi%20Destroy%20The%20World.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,40 +33,40 @@ Published in The Guardian on 14 April 2025. Reprinted with permission. 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **overrun** = invasi
-* **infused** = infondere, ispirare
-* **Raft** = zattera
-* **fleet** = flotta
-* **forestall** = prevenire
+* **fate** = destino, futuro
+* **stems** = derivare
 * **unabashedly** = sfacciatamente
+* **neural lace** = laccio neurale
 * **barges** = chiatte
 * **sticker** = adesivo
-* **sunk** = investire, perdere
-* **warped** = distorta, deformata
-* **benefit fraud** = frode fiscale sulle erogazioni pubbliche
-* **Hitchhiker** = autostoppista
 * **plug** = connettere
-* **overlords** = capi supremi
-* **backing** = sostenere
-* **odd brand** = strano tipo
-* **moguls** = magnati
-* **fuelled** = alimentare, fomentare
-* **hideous** = orribili
-* **spawned** = generare
-* **bitterly** = amaramente
-* **outspoken** = schietto, esplicito
-* **neural lace** = laccio neurale
+* **fleet** = flotta
+* **overrun** = invasi
+* **troll-in-chief** = capo dei 'troll'
 * **staunch** = convinto
-* **$100bn** = cento miliardi (one hundred billion)
-* **call** = decisione
+* **sunk** = investire, perdere
+* **hideous** = orribili
+* **overlords** = capi supremi
+* **bitterly** = amaramente
 * **defence contractor** = appaltatore della difesa
-* **booster rockets** = razzi propulsori
+* **late** = compianto
 * **repurposed** = riutilizzare, riadattare
 * **blame** = colpa
-* **fate** = destino, futuro
+* **Raft** = zattera
+* **$100bn** = cento miliardi (one hundred billion)
+* **spawned** = generare
+* **backing** = sostenere
+* **forestall** = prevenire
+* **benefit fraud** = frode fiscale sulle erogazioni pubbliche
+* **fuelled** = alimentare, fomentare
+* **odd brand** = strano tipo
 * **NHS** = Servizio Sanitario Nazionale (National Health Service)
-* **late** = compianto
-* **stems** = derivare
+* **outspoken** = schietto, esplicito
+* **booster rockets** = razzi propulsori
 * **sparked** = accendere, innescare
+* **Hitchhiker** = autostoppista
 * **typewriter** = macchina da scrivere
-* **troll-in-chief** = capo dei 'troll'
+* **call** = decisione
+* **infused** = infondere, ispirare
+* **moguls** = magnati
+* **warped** = distorta, deformata

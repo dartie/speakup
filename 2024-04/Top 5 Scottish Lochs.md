@@ -8,7 +8,7 @@ Abbiamo selezionato i cinque laghi più famosi della Scozia. Ce n’è uno per o
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Top%205%20Scottish%20Lochs.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Top%205%20Scottish%20Lochs.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,31 +35,31 @@ This peaceful and remote body of water in the northwest Highlands is home to ove
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **sightings** = avvistamenti
-* **trails** = sentieri
-* **stretching** = estendersi
-* **woodland** = bosco
+* **western shore** = sponda occidentale
+* **scenery** = paesaggio
 * **far-removed** = ben lontano
-* **overlooked by** = sovrastato da
-* **boasts** = vantarsi di
-* **verdant green** = verdeggiante, lussureggiante
+* **pine martens** = martore dei pini
+* **looms** = incombere
 * **spot** = individuare, scoprire
 * **gateway** = entrata
 * **waterfalls** = cascate
-* **scenery** = paesaggio
-* **sink** = affondare
-* **Highland Clearances** = liberazione delle Highland
-* **fault line** = faglia
-* **focal point** = punto focale, centro dell’attenzione
-* **golden eagles** = aquile reali
-* **rocky beaches** = spiagge rocciose
 * **emptied** = svuotare
+* **Highland Clearances** = liberazione delle Highland
+* **haunting** = inquietante, suggestivo
+* **stretching** = estendersi
+* **golden eagles** = aquile reali
+* **to catch a glimpse** = avvistare, intravedere
+* **sightings** = avvistamenti
+* **woodland** = bosco
+* **trails** = sentieri
+* **verdant green** = verdeggiante, lussureggiante
+* **rocky beaches** = spiagge rocciose
+* **awe-inspiring** = maestoso
+* **sink** = affondare
+* **overlooked by** = sovrastato da
 * **hermitage** = ermo, monastero
 * **bulk** = mole, volume
-* **haunting** = inquietante, suggestivo
-* **awe-inspiring** = maestoso
-* **pine martens** = martore dei pini
-* **looms** = incombere
 * **tumble down** = cadere, precipitare
-* **to catch a glimpse** = avvistare, intravedere
-* **western shore** = sponda occidentale
+* **fault line** = faglia
+* **focal point** = punto focale, centro dell’attenzione
+* **boasts** = vantarsi di

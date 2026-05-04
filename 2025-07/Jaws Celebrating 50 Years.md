@@ -8,7 +8,7 @@ Si celebra il 50° anniversario del leggendario squalo con trecento zanne seghet
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/Jaws%20Celebrating%2050%20Years.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/Jaws%20Celebrating%2050%20Years.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -36,22 +36,22 @@ Today, [Jaws](## "mascelle") is considered the prototypical summer [blockbuster]
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **stars** = avere come protagonista
-* **caught** = catturare, pescare
-* **thrilled** = entusiasmare
-* **soundtrack** = colonna sonora
-* **weighed** = pesare
-* **Released** = uscire
-* **catchphrase** = motto
-* **to great effect** = con grande efficacia
-* **crew members** = membri della produzione
-* **Jaws** = mascelle
-* **challenging** = difficile
-* **Nevertheless** = ciò nonostante
-* **overall** = totale
-* **kill count** = numero totale di morti
-* **blockbuster** = successo commerciale
-* **to go over budget** = sforare il budget
 * **over schedule** = andare oltre la scadenza
 * **rather than** = invece di
+* **to great effect** = con grande efficacia
+* **crew members** = membri della produzione
+* **blockbuster** = successo commerciale
+* **Jaws** = mascelle
+* **overall** = totale
+* **kill count** = numero totale di morti
+* **thrilled** = entusiasmare
+* **challenging** = difficile
+* **stars** = avere come protagonista
+* **Nevertheless** = ciò nonostante
+* **caught** = catturare, pescare
 * **highest-grossing** = con il maggior incasso
+* **Released** = uscire
+* **catchphrase** = motto
+* **to go over budget** = sforare il budget
+* **weighed** = pesare
+* **soundtrack** = colonna sonora

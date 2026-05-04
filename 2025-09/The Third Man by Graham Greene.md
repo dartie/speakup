@@ -8,7 +8,7 @@ Il celebre autore inglese ha firmato la sceneggiatura di uno dei migliori film n
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Third%20Man%20by%20Graham%20Greene.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Third%20Man%20by%20Graham%20Greene.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -51,20 +51,20 @@ The Third Man was filmed in Vienna in 1948 during a brief period of peace betwee
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **lurking** = aggirarsi, stare in agguato
 * **callous** = cinico, insensibile
-* **onset** = scoppio, inizio
-* **screenplay** = sceneggiatura
-* **novella** = racconto
-* **musing** = riflettere
+* **former** = ex, già
 * **fall from grace** = caduta in disgrazia
 * **pulp-fiction** = narrativa popolare, di consumo
 * **penniless** = senza soldi
 * **ferris wheel** = ruota panoramica
-* **betrayal** = tradimento
-* **countless** = innumerevoli
 * **sewer tunnels** = rete fognaria
+* **onset** = scoppio, inizio
 * **troubled** = travagliato, problematico
-* **rely on** = affidarsi, dipendere da
+* **screenplay** = sceneggiatura
+* **musing** = riflettere
+* **lurking** = aggirarsi, stare in agguato
 * **ride** = salire, fare un giro
-* **former** = ex, già
+* **betrayal** = tradimento
+* **novella** = racconto
+* **rely on** = affidarsi, dipendere da
+* **countless** = innumerevoli

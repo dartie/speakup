@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/The%20White%20House%20The%20Rooms%20Of%20Power.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/The%20White%20House%20The%20Rooms%20Of%20Power.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,33 +40,33 @@ If you want to know more about this topic, read the articles The Oval Office: T
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **curator** = curatore (delle opere d’arte della Casa Bianca)
-* **houses** = ospitare
-* **parlours** = salotti
-* **Work-Out Room** = palestra
-* **run** = gestire
-* **raid** = incursione
-* **As such** = come tale
-* **wings** = ali
-* **laundry** = lavanderia
-* **Last but not least** = ultimo ma non meno importante
-* **blown up** = far saltare in aria
-* **Alongside** = accanto
-* **Further offices** = altri uffici
-* **former** = ex
 * **seat** = sede
-* **two-floor basement** = seminterrato su due piani
-* **bowling alley** = pista da bowling
-* **stunning** = mozzafiato
-* **sitting room** = salotto
-* **compound** = complesso
 * **staircases** = scale
 * **lifts** = ascensori
-* **Starting at the bottom** = iniziando dal basso
 * **housekeeper** = governante
-* **Ushers’ Room** = sala degli uscieri
-* **ballroom** = sala da ballo
-* **mess** = mensa
-* **Colonnade** = colonnato
+* **Last but not least** = ultimo ma non meno importante
+* **stunning** = mozzafiato
+* **curator** = curatore (delle opere d’arte della Casa Bianca)
+* **sitting room** = salotto
+* **Work-Out Room** = palestra
 * **Press Corps Offices** = uffici della stampa
+* **blown up** = far saltare in aria
+* **bowling alley** = pista da bowling
+* **former** = ex
+* **wings** = ali
+* **Ushers’ Room** = sala degli uscieri
+* **Alongside** = accanto
+* **parlours** = salotti
+* **run** = gestire
+* **raid** = incursione
+* **compound** = complesso
+* **two-floor basement** = seminterrato su due piani
+* **Colonnade** = colonnato
+* **ballroom** = sala da ballo
 * **shelter** = rifugio
+* **Further offices** = altri uffici
+* **As such** = come tale
+* **Starting at the bottom** = iniziando dal basso
+* **houses** = ospitare
+* **laundry** = lavanderia
+* **mess** = mensa

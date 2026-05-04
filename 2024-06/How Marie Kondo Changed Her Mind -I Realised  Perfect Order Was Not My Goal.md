@@ -8,7 +8,7 @@ Trasforma il suo concetto radicale di ordine in un impero mediatico e commercial
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/How%20Marie%20Kondo%20Changed%20Her%20Mind%20-I%20Realised%20%20Perfect%20Order%20Was%20Not%20My%20Goal.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/How%20Marie%20Kondo%20Changed%20Her%20Mind%20-I%20Realised%20%20Perfect%20Order%20Was%20Not%20My%20Goal.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -29,23 +29,23 @@ Published in The Guardian on March 30, 2024. Reprinted with permission. 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **betrayal** = tradimento
-* **stringent** = rigoroso
-* **pile-up** = accatastare, impilare
+* **reprises** = riprendere
+* **Tidying Up** = ordinare
+* **decluttering** = mettere in ordine
+* **overwhelming** = schiacciante
 * **attainable** = raggiungibile
 * **acknowledging** = riconoscere
-* **Tidying Up** = ordinare
-* **spark joy** = suscitare gioia
-* **overwhelming** = schiacciante
-* **relatability** = sentimento di connessione
-* **core** = centro, nucleo
-* **plush toys** = peluches
-* **decluttering** = mettere in ordine
-* **reprises** = riprendere
-* **triggered** = innescare
-* **strewn** = spargere
-* **spreading** = propagare
-* **undented** = essere intaccato
 * **trademarked** = registrare un marchio commerciale
+* **spark joy** = suscitare gioia
+* **spreading** = propagare
+* **core** = centro, nucleo
+* **triggered** = innescare
 * **threshold** = soglia
 * **messy** = disordinata
+* **relatability** = sentimento di connessione
+* **stringent** = rigoroso
+* **plush toys** = peluches
+* **pile-up** = accatastare, impilare
+* **undented** = essere intaccato
+* **strewn** = spargere
+* **betrayal** = tradimento

@@ -8,7 +8,7 @@ Il genere tutto britannico del romanzo di campagna permette a questa scrittrice 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/Anna%20Hope%20Telling%20Stories%20To%20Change%20Things.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/Anna%20Hope%20Telling%20Stories%20To%20Change%20Things.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -65,46 +65,46 @@ Hope spent time researching the history of slave trading and its legacy in Brita
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **outrage** = indignazione
-* **in inverted commas** = tra virgolette
-* **at all** = affatto, per niente
-* **aimed at** = volta a
-* **charged** = carica di energia, intensa
-* **demonstrations** = manifestazioni
-* **weave** = tessere
-* **not-too-distant** = non troppo lontano
-* **lockdown** = confinamento
-* **tight** = ristretta
-* **channelling** = incanalare
-* **lit up** = entusiasta
-* **proceeds** = proventi, ricavi
-* **taxpayer** = contribuente
-* **engaged** = impegnarsi
-* **beyond our shores** = oltre i nostri confini
-* **commissioned** = incaricare
-* **dare** = osare
-* **gripping** = avvincente
-* **weighty** = di grande peso emotivo
-* **I’m always drawn to** = sentirsi attratto da
-* **time frames** = archi temporali
-* **van** = furgone
-* **ruling class** = classe dirigente
-* **the question remains** = la domanda rimane
-* **heritage** = patrimonio
+* **estate** = tenuta
 * **raising awareness** = sensibilizzare
+* **gripping** = avvincente
+* **lit up** = entusiasta
+* **conservation charity** = organizzazione benefica per la conservazione
+* **framing** = impostazione, inquadramento
+* **engaged** = impegnarsi
+* **I’m always drawn to** = sentirsi attratto da
+* **not-too-distant** = non troppo lontano
+* **beyond our shores** = oltre i nostri confini
+* **pushback** = resistenza, opposizione
+* **taxpayer** = contribuente
+* **at all** = affatto, per niente
+* **tight** = ristretta
+* **outlaw** = vietare, mettere al bando
+* **funded** = finanziare
+* **breathtaking** = mozzafiato
 * **eldest daughter** = figlia maggiore
+* **grief** = dolore
+* **aftermath** = indomani, periodo successivo
+* **time frames** = archi temporali
+* **charged** = carica di energia, intensa
+* **in inverted commas** = tra virgolette
+* **the question remains** = la domanda rimane
+* **proceeds** = proventi, ricavi
+* **heritage** = patrimonio
 * **tensions already running high** = la tensione è alle stelle
 * **NGO** = ONG (Non-Governmental Organisation)
-* **aftermath** = indomani, periodo successivo
-* **slave trade** = tratta degli schiavi
-* **funded** = finanziare
-* **framing** = impostazione, inquadramento
-* **pushback** = resistenza, opposizione
-* **willing** = disposto
-* **breathtaking** = mozzafiato
-* **grief** = dolore
-* **in the wake of** = a seguito di
-* **estate** = tenuta
+* **aimed at** = volta a
+* **van** = furgone
+* **ruling class** = classe dirigente
 * **forged** = forgiare, creare
-* **outlaw** = vietare, mettere al bando
-* **conservation charity** = organizzazione benefica per la conservazione
+* **weighty** = di grande peso emotivo
+* **channelling** = incanalare
+* **demonstrations** = manifestazioni
+* **slave trade** = tratta degli schiavi
+* **dare** = osare
+* **outrage** = indignazione
+* **willing** = disposto
+* **lockdown** = confinamento
+* **weave** = tessere
+* **commissioned** = incaricare
+* **in the wake of** = a seguito di

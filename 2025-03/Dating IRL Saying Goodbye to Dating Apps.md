@@ -8,7 +8,7 @@ Stanchi di Tinder? Potreste soffrire di “stanchezza da app di incontri”, un 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/Dating%20IRL%20Saying%20Goodbye%20to%20Dating%20Apps.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/Dating%20IRL%20Saying%20Goodbye%20to%20Dating%20Apps.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -47,33 +47,33 @@ www.lockandkeyevents.com
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **backgrounds** = origini
-* **singles mixer** = festa per single
-* **Grindr** = macina
-* **padlock** = lucchetto
-* **shy** = timida
-* **at your core** = nel tuo profondo
-* **hook up** = uscire (con qualcuno)
-* **altogether** = del tutto
-* **Lock** = serratura
-* **turned away** = respingere
-* **staring** = fissare
-* **awkward** = imbarazzante
-* **Tinder** = esca
-* **trademarked** = marchio registrato
-* **necklace** = collana
-* **advice** = consiglio
-* **engagement** = coinvolgimento
-* **gets in the way** = ostacolare
-* **time** = cronometrare
-* **Bumble** = bombo
-* **banned** = proibire
-* **sheet** = foglio
-* **approach** = approccio
-* **loose** = rilassato
-* **prize draw** = sorteggio
-* **host** = anfitrione
-* **odds** = probabilità
 * **raising a family** = formare una familia
-* **bond** = legarsi
+* **altogether** = del tutto
+* **gets in the way** = ostacolare
+* **trademarked** = marchio registrato
+* **approach** = approccio
+* **shy** = timida
+* **staring** = fissare
+* **time** = cronometrare
+* **necklace** = collana
+* **sheet** = foglio
+* **odds** = probabilità
+* **awkward** = imbarazzante
+* **at your core** = nel tuo profondo
+* **Tinder** = esca
+* **backgrounds** = origini
+* **Bumble** = bombo
+* **Grindr** = macina
+* **hook up** = uscire (con qualcuno)
+* **engagement** = coinvolgimento
+* **Lock** = serratura
+* **padlock** = lucchetto
 * **rate** = tasso
+* **singles mixer** = festa per single
+* **advice** = consiglio
+* **host** = anfitrione
+* **turned away** = respingere
+* **loose** = rilassato
+* **bond** = legarsi
+* **banned** = proibire
+* **prize draw** = sorteggio

@@ -8,7 +8,7 @@ KPI, CAC, lead, conversion rate... A volte, il linguaggio del marketing può man
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Everyday%20Dialogues%20Key%20Performance%20Indicators.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Everyday%20Dialogues%20Key%20Performance%20Indicators.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -41,15 +41,15 @@ In this context, progress is the advancement towards achieving a [goal](## "obie
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **the order has been placed** = effettuare un ordine
+* **increase** = aumentare
 * **aligns** = allineare, essere coerente
-* **improve** = migliorare
-* **gather** = accogliere, riunire
-* **key performance indicator** = indicatore chiave di prestazione
-* **goal** = obiettivo
 * **matches** = corrispondere
 * **timeframe** = periodo di tempo
+* **gather** = accogliere, riunire
 * **customer** = cliente
-* **increase** = aumentare
 * **purchased** = acquistare
 * **reach** = raggiungere
+* **the order has been placed** = effettuare un ordine
+* **goal** = obiettivo
+* **improve** = migliorare
+* **key performance indicator** = indicatore chiave di prestazione

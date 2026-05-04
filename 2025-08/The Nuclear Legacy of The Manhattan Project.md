@@ -8,7 +8,7 @@ Tra il 1942 e il 1946, circa 600.000 persone contribuirono alla creazione di unâ
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/The%20Nuclear%20Legacy%20of%20The%20Manhattan%20Project.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/The%20Nuclear%20Legacy%20of%20The%20Manhattan%20Project.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -28,13 +28,13 @@ If you want to know more about this topic, read the articleÂ An Explosive Histor
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **channelled into** = destinare a
 * **sprang up** = sorgere, spuntare
 * **run** = gestire, dirigere
+* **fenced off** = recintare
 * **ethical issues** = questioni etiche
-* **channelled into** = destinare a
+* **arose out of** = sorgere da
 * **radioactive waste** = rifiuti radioattivi
 * **health hazards** = rischi per la salute
-* **fenced off** = recintare
 * **roam** = vagare per, passeggiare
 * **breakthroughs** = scoperte, innovazioni
-* **arose out of** = sorgere da

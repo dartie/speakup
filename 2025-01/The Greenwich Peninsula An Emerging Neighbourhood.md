@@ -8,7 +8,7 @@ Questo quartiere su un’ansa del Tamigi, nel sud-est di Londra, vanta un’ampi
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/The%20Greenwich%20Peninsula%20An%20Emerging%20Neighbourhood.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/The%20Greenwich%20Peninsula%20An%20Emerging%20Neighbourhood.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,28 +32,28 @@ At the heart of Greenwich Peninsula, a permanent creative hub called the Design 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **commuters** = pendolari
-* **Dangleway** = penzolare
-* **Gherkin** = cetriolino
-* **skyscraper** = grattacieli
-* **leisure** = svago, tempo libero
-* **craft artists** = artigiani
-* **scheme** = piano
-* **lanes** = corsie
-* **bold** = audace
-* **Tide** = marea
-* **nestled in** = incastonata in
-* **bend** = ansa
-* **devised** = concepire
-* **stroll** = passeggiata
-* **cable car** = funivia
 * **landmarks** = punti di riferimento, attrazioni
-* **venue** = locale
-* **cutting-edge** = innovativo, all’avanguardia
 * **thriving** = florido, prospero
 * **singled out** = individuare
-* **state-of-the-art** = all’avanguardia
-* **sail** = navigare
+* **devised** = concepire
+* **scheme** = piano
+* **bold** = audace
+* **lanes** = corsie
+* **stroll** = passeggiata
 * **arguably** = probabilmente
+* **bend** = ansa
+* **state-of-the-art** = all’avanguardia
+* **skyscraper** = grattacieli
+* **venue** = locale
+* **leisure** = svago, tempo libero
+* **cutting-edge** = innovativo, all’avanguardia
+* **Tide** = marea
+* **sail** = navigare
+* **Dangleway** = penzolare
+* **Gherkin** = cetriolino
+* **craft artists** = artigiani
+* **nestled in** = incastonata in
 * **affordable** = accessibile, conveniente
 * **boasts** = vantarsi
+* **commuters** = pendolari
+* **cable car** = funivia

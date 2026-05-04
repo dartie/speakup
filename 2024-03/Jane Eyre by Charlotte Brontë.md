@@ -8,7 +8,7 @@ La maggiore delle sorelle Brontë ha affascinato i lettori con la sua avvincente
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/Jane%20Eyre%20by%20Charlotte%20Bront%C3%AB.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/Jane%20Eyre%20by%20Charlotte%20Bront%C3%AB.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -52,22 +52,22 @@ Victorian readers were [enthralled](## "affascinare") by the passion and drama o
 # Glossary
 * **despite** = nonostante
 * **to please** = compiacere
-* **brooding** = pensieroso
-* **enthralled** = affascinare
-* **poet laureate** = poeta emerito
-* **humble** = umile, modesto
-* **applying** = candidarsi
-* **governess** = governante, istitutrice
+* **looks** = aspetto
+* **unlikely** = poco probabile
+* **haunted** = perseguitare
 * **bravely** = audacemente
 * **drawn** = attratta
-* **refusal** = rifiuto
-* **plain** = semplice, insignificante
-* **well-behaved** = ben educata
-* **Hall** = sala
-* **looks** = aspetto
-* **haunted** = perseguitare
+* **enthralled** = affascinare
+* **applying** = candidarsi
 * **inherits** = ereditare
-* **advised** = consigliare
 * **challenges** = sfidare
-* **unlikely** = poco probabile
+* **plain** = semplice, insignificante
+* **Hall** = sala
 * **locked away** = rinchiudere
+* **refusal** = rifiuto
+* **poet laureate** = poeta emerito
+* **humble** = umile, modesto
+* **well-behaved** = ben educata
+* **governess** = governante, istitutrice
+* **brooding** = pensieroso
+* **advised** = consigliare

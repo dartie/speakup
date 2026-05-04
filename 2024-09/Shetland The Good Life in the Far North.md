@@ -8,17 +8,17 @@ Questo arcipelago scozzese composto da circa 100 isole poco abitate è il punto 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/Shetland%20The%20Good%20Life%20in%20the%20Far%20North.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/Shetland%20The%20Good%20Life%20in%20the%20Far%20North.mp3" type="audio/mpeg">
 </audio>
 </div>
 
 
 On the Shetland Islands, an archipelago in the far north of Scotland, Shetland sheep have been [roaming](## "girovagare") the hills for thousands of years. These sheep have a type of wool that is ideal for creating quality textiles, now internationally renowned. Every year, people come from all over the world for Shetland Wool Week, a celebration of sheep, wool and the local textile industry.
 
-## Sheep, and more
+## SHEEP, AND MORE
 Shetland Wool Week began in 2010. It takes place th[rough](## "agitata")out the Shetland Islands, which [comprises](## "includere, comprendere") around one hundred islands, sixteen of which are inhabited. It includes a variety of exhibitions, classes, and events on things like [weaving](## "tessere"), [spinning](## "filare"), [dyeing](## "tingere") and the famous Fair Isle [knitting](## "lavoro a maglia") technique which originated there. It offers visitors an opportunity to experience this remote and [rugged](## "accidentata") region th[rough](## "agitata") an industry that has evolved there over hundreds of years.
 
-## Nordic Origins
+## NORDIC ORIGINS
 To find out more, Speak Up spoke to Carol Christiansen, the curator and community museums officer at Shetland Museum and Archives. Christiansen has been involved in organising Shetland Wool Week every year since it began. We began by asking her about the Shetland Islands.
 **Carol Christiansen (American accent):**The Shetland Islands are an archipelago of about one hundred islands, and we’re at the very far north of Scotland. So we’re beyond the [mainland](## "terraferma") of Britain. And between us and the [mainland](## "terraferma") of Britain are the [Orkney Islands](## "Isole Orcadi"), another archipelago, but we’re the furthest north. The main port that we go to, because we’re accessible by boat or by plane, is Aberdeen on the Scottish [mainland](## "terraferma"). And we’re about the same distance from Aberdeen as we are to [from] Bergen, Norway. Up until 1469, Shetland was part of Norway and then it got [traded](## "scambiare") to Scotland. But there’s still a lot of [Norse heritage](## "eredità nordica") in Shetland, so Shetlanders typically… they don’t do the Scottish cultural things that [mainland](## "terraferma") Scots do, neither do the Orcadians. So they don’t wear kilts, they don’t play [bagpipes](## "cornamusa"). It’s a Norse culture that we inhabit. So this is why we have a fire festival in January and the months of winter. 
  
@@ -55,68 +55,68 @@ www.shetlandwoolweek.com
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **to keep track** = tenere la traccia
-* **rugged** = accidentata
-* **raw** = grezza
-* **jumper** = maglione
-* **coarse** = ruvidi, grezzi
-* **fawn** = fulvo chiaro
-* **wind farms** = parchi eolici
-* **mittens** = guanti
-* **Dutch** = olandesi
-* **cattle** = bestiame
-* **silk** = seta
-* **spinning** = filare
-* **knitting** = lavoro a maglia
-* **mainland** = terraferma
-* **handspun** = filato a mano
-* **patron** = mecenate
-* **pale** = chiaro, tenue
-* **raise** = allevare
-* **stockings** = calze
-* **knitwear** = maglieria
-* **shades** = tonos
+* **sandy beaches** = spiagge di sabbia
+* **hallmarks** = tratti distintivi
+* **garment** = indumento
+* **weaving** = tessere
+* **fairly mild** = piuttosto miti
+* **shear** = tosare
+* **roaming** = girovagare
+* **comprises** = includere, comprendere
 * **range** = gamma
-* **skipper** = capitano
+* **rough** = agitata
+* **wind farms** = parchi eolici
+* **peat** = torba
+* **picked up** = prendere
+* **spinning** = filare
 * **dry it out** = far seccare
 * **shed** = fare la muta
-* **hallmarks** = tratti distintivi
-* **freeze** = gelare
-* **fleece** = lana
-* **slow basis** = graduale, lento
+* **Dutch** = olandesi
+* **coarse** = ruvidi, grezzi
+* **patron** = mecenate
 * **hardy** = forti, robuste
-* **stocking cap** = berretta
-* **comprises** = includere, comprendere
-* **cliff** = scogliera
-* **peat** = torba
-* **undergarments** = indumenti intimi
-* **in the scheme of things** = in prospettiva
-* **dyeing** = tingere
-* **oil tankers** = petroliere
-* **caps** = cappelli
-* **pulled it off** = strappare, tirare via
-* **picked up** = prendere
-* **floor rugs** = tappeti
+* **grazing** = pascolare
+* **tufts** = ciuffi
 * **overshadowed** = offuscare
-* **sandy beaches** = spiagge di sabbia
-* **fairly mild** = piuttosto miti
+* **Orkney Islands** = Isole Orcadi
+* **freeze** = gelare
+* **mittens** = guanti
+* **knitwear** = maglieria
+* **handspun** = filato a mano
+* **undergarments** = indumenti intimi
+* **fleece** = lana
+* **gene pool** = pool genico
+* **Norse heritage** = eredità nordica
+* **renewable power** = energia rinnovabile
 * **heather** = brugo
-* **garment** = indumento
-* **rough** = agitata
-* **roaming** = girovagare
+* **shades** = tonos
+* **pale** = chiaro, tenue
+* **jumper** = maglione
+* **stocking cap** = berretta
+* **oil tankers** = petroliere
+* **cattle** = bestiame
+* **slow basis** = graduale, lento
+* **pulled it off** = strappare, tirare via
+* **drive** = campagna
+* **raw** = grezza
+* **knitting** = lavoro a maglia
+* **rugged** = accidentata
+* **Gulf Stream** = Corrente del Golfo
+* **caps** = cappelli
+* **fluffs up** = rendere più gonfio
+* **fawn** = fulvo chiaro
+* **raise** = allevare
+* **to keep track** = tenere la traccia
+* **skipper** = capitano
+* **floor rugs** = tappeti
+* **mainland** = terraferma
 * **bagpipes** = cornamusa
 * **to lamb** = partorire (un agnello)
-* **Norse heritage** = eredità nordica
-* **gene pool** = pool genico
-* **weaving** = tessere
-* **renewable power** = energia rinnovabile
 * **yarn** = filo
-* **traded** = scambiare
-* **tufts** = ciuffi
-* **grazing** = pascolare
 * **patterns** = motivi
-* **fluffs up** = rendere più gonfio
-* **drive** = campagna
-* **Orkney Islands** = Isole Orcadi
-* **Gulf Stream** = Corrente del Golfo
-* **shear** = tosare
+* **dyeing** = tingere
+* **traded** = scambiare
+* **stockings** = calze
+* **in the scheme of things** = in prospettiva
+* **silk** = seta
+* **cliff** = scogliera

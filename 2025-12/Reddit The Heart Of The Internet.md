@@ -8,7 +8,7 @@ Da un semplice forum a uno dei siti più popolari e controversi: questo social n
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Reddit%20The%20Heart%20Of%20The%20Internet.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Reddit%20The%20Heart%20Of%20The%20Internet.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,21 +32,21 @@ Today, Reddit uses [AI](## "intelligenza artificiale") to help with moderation 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **misinformation** = disinformazione
-* **in the guise of** = con il pretesto di
-* **free speech** = libertà d'espressione
-* **soar** = crescere, impennarsi
-* **upheaval** = sconvolgimento
-* **undisclosed** = non rivelata
-* **headquartered in** = con sede a
-* **rank** = classificare
-* **retailer** = rivenditore
-* **stock** = azioni
-* **triggered** = scatenare
 * **gaming** = videogiochi
 * **submit** = inviare, caricare
-* **upvoting or downvoting** = votare a favore o contro
 * **banning** = vietare
-* **spreading** = diffondere
-* **hedge funds** = fondi speculativi
+* **stock** = azioni
 * **AI** = intelligenza artificiale
+* **triggered** = scatenare
+* **upheaval** = sconvolgimento
+* **headquartered in** = con sede a
+* **upvoting or downvoting** = votare a favore o contro
+* **misinformation** = disinformazione
+* **in the guise of** = con il pretesto di
+* **hedge funds** = fondi speculativi
+* **undisclosed** = non rivelata
+* **rank** = classificare
+* **spreading** = diffondere
+* **free speech** = libertà d'espressione
+* **retailer** = rivenditore
+* **soar** = crescere, impennarsi

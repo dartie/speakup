@@ -8,14 +8,14 @@ La scrittrice e regista métis parla delle sue memorie, pubblicate cinquant’an
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/Halfbreed%20Maria%20Campbell.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/Halfbreed%20Maria%20Campbell.mp3" type="audio/mpeg">
 </audio>
 </div>
 
 
 Born in a rural area in Saskatchewan, Canada, Maria Campbell is an Indigenous Métis elder, teacher, writer and filmmaker. Now eighty-four years old, her memoir [Halfbreed](## "mezzosangue")(1973) is regarded as a foundational piece of Indigenous literature. Published when she was in her early 30s, it describes the discrimination, oppression and poverty that Indigenous and Métis people experience.
 
-## Indigenous PEOPLES
+## INDIGENOUS PEOPLES
 Around 4.9 per cent of Canadians identify as Indigenous. They [belong](## "appartenere") to three main peoples: First Nations, Inuit or Métis. The name Métis derives from the 1700s, when French and Scottish [fur traders](## "commercianti di pellicce") married Indigenous women. Their descendants were called ‘half-breeds’, but the term is both [derogatory](## "dispregiativo") and [inaccurate](## "impreciso"), says Campbell, as the Métis formed their own distinct nation and collective culture. 
 
 ## THE STRUGGLE
@@ -47,32 +47,32 @@ Campbell believes that Métis heritage is being reclaimed. But while Canadians a
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **hanged** = impiccare
+* **inaccurate** = impreciso
+* **landless** = senza terra
 * **rose** = avanzare
 * **put it down** = mettere da parte
-* **Halfbreed** = mezzosangue
-* **inaccurate** = impreciso
-* **derogatory** = dispregiativo
-* **settlements** = accordi
-* **hardship** = avversità, difficoltà
-* **wisdom** = saggezza
-* **belong** = appartenere
-* **fur traders** = commercianti di pellicce
+* **wounding** = ferire
 * **down-to-earth** = con i piedi per terra
-* **worth** = valore
-* **draft** = bozza
-* **rape** = stupro
-* **hid away.** = nascondere
 * **disrupted** = interrompere
 * **siblings** = fratelli e sorelle
-* **settlers** = coloni
-* **land theft** = robo de tierras
-* **homelessness** = l’essere senza tetto
 * **granted** = concedere
-* **crippled** = invalido
-* **wounding** = ferire
-* **life-affirming** = carica vitale
-* **landless** = senza terra
+* **worth** = valore
+* **settlements** = accordi
+* **homelessness** = l’essere senza tetto
+* **belong** = appartenere
+* **land theft** = robo de tierras
 * **nurtured** = alimentare
+* **hanged** = impiccare
+* **hardship** = avversità, difficoltà
+* **wisdom** = saggezza
+* **rape** = stupro
+* **hid away.** = nascondere
+* **Halfbreed** = mezzosangue
+* **derogatory** = dispregiativo
+* **settlers** = coloni
 * **claims** = rivendicazioni
 * **rates** = indici
+* **draft** = bozza
+* **crippled** = invalido
+* **fur traders** = commercianti di pellicce
+* **life-affirming** = carica vitale

@@ -8,7 +8,7 @@ Trascorri troppo tempo davanti allo schermo? Fai attenzione alle tensioni che si
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Digital%20Addiction%20Everyday%20%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Digital%20Addiction%20Everyday%20%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -41,12 +41,12 @@ When more money has been taken out of a bank account than it contains, the accou
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **clause** = clausola, proposizione
-* **waste** = sprecare
-* **staring** = fissare (con lo sguardo)
-* **order** = ordine
-* **Put down** = to put down
 * **shall we** = lo facciamo?
-* **disparaging** = denigratorio
+* **order** = ordine
 * **is bothering** = infastidire
 * **harassing** = molestare
+* **clause** = clausola, proposizione
+* **staring** = fissare (con lo sguardo)
+* **Put down** = to put down
+* **disparaging** = denigratorio
+* **waste** = sprecare

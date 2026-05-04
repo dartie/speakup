@@ -8,7 +8,7 @@ Una grande sfida per tutti gli amanti della montagna e dell'alpinismo: scalare t
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Munros%20282%20Summits.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Munros%20282%20Summits.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -49,32 +49,32 @@ If you want to know more about this topic, read the article Scotland's Mountain
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **blasé** = indifferente, senza entusiasmo
-* **bare rock** = roccia nuda
-* **pilgrimage** = pellegrinaggio
 * **woodland** = bosco
-* **undertaking** = impresa
-* **fit together** = incastrarsi, combaciare
-* **pigeonholing** = incastrarsi, incasellare (sprofondare nella neve)
-* **forestry** = selvicoltura, scienze forestali
-* **taking on** = intraprendere
-* **jagged** = frastagliate
-* **the length and breadth** = in lungo e in largo
-* **utterly** = decisamente
-* **overreach** = esagerare
-* **scrambling** = arrampicata
-* **haven’t got a clue** = non avere idea
-* **hurdle** = ostacolo, difficoltà
-* **indexed** = catalogare
 * **encourage** = incoraggiare
-* **aware** = essere consapevoli
-* **deer stalking** = appostamento al cervo
-* **taken on board** = tenere conto
+* **the length and breadth** = in lungo e in largo
+* **haven’t got a clue** = non avere idea
+* **jagged** = frastagliate
+* **slippery** = scivoloso
+* **pilgrimage** = pellegrinaggio
 * **features** = presentare
 * **keen** = appassionato, entusiasta
-* **compass** = bussola
-* **rugged** = aspre
-* **slippery** = scivoloso
-* **string lots of that together** = combinare
-* **sprinted up** = scattare, accelerare
+* **pigeonholing** = incastrarsi, incasellare (sprofondare nella neve)
 * **waymarked paths** = sentieri segnalati
+* **scrambling** = arrampicata
+* **aware** = essere consapevoli
+* **forestry** = selvicoltura, scienze forestali
+* **taking on** = intraprendere
+* **taken on board** = tenere conto
+* **bare rock** = roccia nuda
+* **undertaking** = impresa
+* **overreach** = esagerare
+* **rugged** = aspre
+* **fit together** = incastrarsi, combaciare
+* **deer stalking** = appostamento al cervo
+* **hurdle** = ostacolo, difficoltà
+* **sprinted up** = scattare, accelerare
+* **compass** = bussola
+* **indexed** = catalogare
+* **utterly** = decisamente
+* **string lots of that together** = combinare
+* **blasé** = indifferente, senza entusiasmo

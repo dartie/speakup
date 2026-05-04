@@ -8,7 +8,7 @@ Le conseguenze psiconeurologiche della spazzatura che inonda Internet hanno già
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/The%20Word%20of%20the%20Year%202024%20Edition%20A%20Year%20in%20Six%20Words%20%28And%20Some%20More%29.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/The%20Word%20of%20the%20Year%202024%20Edition%20A%20Year%20in%20Six%20Words%20%28And%20Some%20More%29.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -55,35 +55,35 @@ www.corp.oup.com/word-of-the-year
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **vax** = vaccino (abbrev. vaccine)
-* **endeavours** = tentare, sforzarsi
+* **catches the public imagination** = catturare l’immaginazione
+* **unchallenging** = poco stimolante
+* **alleged** = supposto
 * **Gen Alpha** = nati dal 2010 al 2025
-* **show off** = vantarsi
-* **sloppy** = sciatto, trasandato
-* **shyness** = timidezza
-* **sharply** = nitidamente
-* **understated** = discreto
+* **blend word** = termine combinato
 * **brought about** = causare
 * **profit-seeking** = alla ricerca del profitto
-* **confident** = sicuro di sé
-* **unchallenging** = poco stimolante
-* **concerns** = preoccupazioni
-* **alleged** = supposto
-* **fandoms** = gruppi di fan
-* **ill-mannered** = maleducato
-* **shortlist** = lista ristretta
-* **Tracking** = tracciare
-* **lore** = tradizione popolare
 * **at lightning speed** = alla velocità della luce
-* **range along** = muoversi lungo
-* **triggered** = provocare
-* **mindless** = stupidi
-* **blend word** = termine combinato
-* **catches the public imagination** = catturare l’immaginazione
-* **unruly** = disobbediente, indisciplinato
-* **e.g.** = per esempio (exempli gratia)
 * **coyly** = con ritrosia, in modo schivo
+* **ill-mannered** = maleducato
+* **lore** = tradizione popolare
+* **confident** = sicuro di sé
+* **show off** = vantarsi
+* **shyness** = timidezza
+* **sharply** = nitidamente
 * **contemptuously** = senza alcun rispetto
+* **triggered** = provocare
+* **e.g.** = per esempio (exempli gratia)
+* **range along** = muoversi lungo
+* **unruly** = disobbediente, indisciplinato
+* **picturing** = immaginare
+* **shortlist** = lista ristretta
+* **vax** = vaccino (abbrev. vaccine)
+* **fandoms** = gruppi di fan
 * **playful** = scherzoso, giocoso
 * **brain rot** = putrefazione, decomposizione
-* **picturing** = immaginare
+* **mindless** = stupidi
+* **concerns** = preoccupazioni
+* **Tracking** = tracciare
+* **endeavours** = tentare, sforzarsi
+* **understated** = discreto
+* **sloppy** = sciatto, trasandato

@@ -8,7 +8,7 @@ Più che un semplice campionato di tennis, è uno dei grandi eventi della stagio
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/Wimbledon%20More%20Than%20Just%20Tennis.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/Wimbledon%20More%20Than%20Just%20Tennis.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -46,38 +46,38 @@ www.wimbledon.com (1-14 July)
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **sweat** = sudore
-* **net** = rete
-* **nail-biting** = emozionante (lett. mangiarsi le unghie)
-* **steeped in history** = impregnato di storia
-* **impromptu** = improvvisato
-* **neckline** = scollatura
-* **the cuff of the sleeves** = il polsino delle maniche
-* **stealing the limelight** = rubare protagonismo
-* **held** = tenere
-* **charms** = fascini
-* **spirit** = superalcolico
-* **trim** = bordura
-* **retractable roof** = tetto retrattile
-* **unsightly** = antiestetico
-* **flood of tears** = fiume di lacrime
-* **scores** = un mucchio
-* **destitute** = bisognosi
-* **patronage** = appoggio, patrocinio
-* **crisps** = patatine fritte
-* **avid fan** = tifoso accanito
 * **Court** = campo
-* **to queue** = fare la fila
-* **cream** = colore crema
-* **off white** = bianco sporco
-* **fondly** = affettuosamente
-* **high-profile crowd** = pubblico di alto profilo
-* **undershorts** = biancheria intima
-* **Box** = palchetto
-* **fellow** = colleghi
-* **rife with** = pieno di
+* **steeped in history** = impregnato di storia
 * **issued** = rilasciare
-* **hand-picked** = raccolte a mano
-* **swiftly** = rapidamente
-* **Crouching** = accovacciarsi
+* **off white** = bianco sporco
+* **high-profile crowd** = pubblico di alto profilo
+* **the cuff of the sleeves** = il polsino delle maniche
+* **sweat** = sudore
+* **undershorts** = biancheria intima
 * **retrieve** = recuperare
+* **destitute** = bisognosi
+* **spirit** = superalcolico
+* **held** = tenere
+* **to queue** = fare la fila
+* **hand-picked** = raccolte a mano
+* **nail-biting** = emozionante (lett. mangiarsi le unghie)
+* **avid fan** = tifoso accanito
+* **charms** = fascini
+* **unsightly** = antiestetico
+* **patronage** = appoggio, patrocinio
+* **fondly** = affettuosamente
+* **cream** = colore crema
+* **impromptu** = improvvisato
+* **rife with** = pieno di
+* **trim** = bordura
+* **neckline** = scollatura
+* **Crouching** = accovacciarsi
+* **net** = rete
+* **swiftly** = rapidamente
+* **crisps** = patatine fritte
+* **Box** = palchetto
+* **retractable roof** = tetto retrattile
+* **stealing the limelight** = rubare protagonismo
+* **flood of tears** = fiume di lacrime
+* **fellow** = colleghi
+* **scores** = un mucchio

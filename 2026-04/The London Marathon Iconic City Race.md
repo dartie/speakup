@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/The%20London%20Marathon%20Iconic%20City%20Race.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/The%20London%20Marathon%20Iconic%20City%20Race.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -39,24 +39,24 @@ The course itself is one of the most [scenic](## "pittoreschi") in the world. I
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **link** = legame
-* **fundraising** = raccolta fondi
-* **raise awareness** = sensibilizzare
+* **big crowds** = grandi folle
 * **cheer on** = fare il tifo
-* **achievement** = risultato
-* **alongside** = insieme a
-* **aim to** = avere come obiettivo
-* **household objects** = oggetti domestici
-* **scenic** = pittoreschi
 * **bring people together** = riunire
+* **enter a public ballot** = partecipare a un sorteggio
+* **link** = legame
 * **fancy dress** = travestimenti
-* **costumes** = costumi
 * **slices of toast** = fette di pane tostato
 * **landmarks** = monumenti
-* **stretch** = tratto
-* **big crowds** = grandi folle
-* **enter a public ballot** = partecipare a un sorteggio
-* **visually-impaired** = con disabilità visiva
+* **alongside** = insieme a
+* **fundraising** = raccolta fondi
 * **On a lighter note** = parlando di cose più leggere
+* **scenic** = pittoreschi
+* **stretch** = tratto
+* **achievement** = risultato
+* **aim to** = avere come obiettivo
+* **raise awareness** = sensibilizzare
+* **costumes** = costumi
 * **flock to** = accorrere in massa
 * **at its best** = al suo meglio
+* **visually-impaired** = con disabilità visiva
+* **household objects** = oggetti domestici

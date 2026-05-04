@@ -8,7 +8,7 @@ L’uso dello xenon e delle tende ipossiche fa scattare l’allarme sulle pendic
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/Everest%20Climbs%20Using%20Tech%20Face%20Scrutiny.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/Everest%20Climbs%20Using%20Tech%20Face%20Scrutiny.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -51,40 +51,40 @@ Published in The Guardian on 28 May 2025. Reprinted with permission. 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **reliant** = dipendenti
-* **body** = ente
-* **approached** = contattare
-* **is up to** = dipendere da
 * **summit** = cima
-* **sicken** = ammalarsi, sentirsi male
-* **accounts for** = rappresentare
-* **lies** = risiedere
-* **not unlike** = proprio come
-* **cheating** = imbroglio
-* **due to** = a causa di
-* **skip** = saltare, evitare
-* **one of the deadliest on record** = uno dei più letali mai registrati
+* **red blood cells** = globuli rossi
+* **approached** = contattare
 * **puts so much less strain** = sforzare, gravare
-* **I’m of the view that** = ritenere che
-* **human waste** = escrementi umani
+* **accounts for** = rappresentare
 * **to cope** = far fronte
-* **performance-enhancing** = che migliorano le prestazioni
-* **surveyor** = topografo
-* **mountaineering** = alpinismo
-* **issues** = questioni, problemi
-* **warned** = avvertire
 * **burden** = onere, peso
-* **carbon footprint** = impronta di carbonio
-* **turned heads** = attirare l’attenzione
-* **core** = fondamentale
-* **championed** = sostenere, difendere
+* **surveyor** = topografo
+* **due to** = a causa di
+* **reliant** = dipendenti
 * **blamed** = dare la colpa
 * **adamant** = irremovibile
+* **hypoxic tents** = tende ipossiche
+* **I’m of the view that** = ritenere che
+* **sicken** = ammalarsi, sentirsi male
+* **lies** = risiedere
+* **scientific backing** = fondamento scientifico
+* **body** = ente
+* **carbon footprint** = impronta di carbonio
+* **cheating** = imbroglio
+* **turned heads** = attirare l’attenzione
+* **mountaineering** = alpinismo
+* **one of the deadliest on record** = uno dei più letali mai registrati
+* **championed** = sostenere, difendere
+* **skip** = saltare, evitare
+* **blights** = piaghe
 * **banned** = vietare, proibire
+* **performance-enhancing** = che migliorano le prestazioni
+* **warned** = avvertire
 * **leap** = passo, salto
 * **pushed back** = respingere
 * **allegations** = accuse
-* **hypoxic tents** = tende ipossiche
-* **blights** = piaghe
-* **red blood cells** = globuli rossi
-* **scientific backing** = fondamento scientifico
+* **not unlike** = proprio come
+* **is up to** = dipendere da
+* **human waste** = escrementi umani
+* **issues** = questioni, problemi
+* **core** = fondamentale

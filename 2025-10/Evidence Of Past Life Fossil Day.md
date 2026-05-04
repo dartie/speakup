@@ -8,7 +8,7 @@ Questo mese si celebra la paleontologia: i fossili sono testimoni della vita sul
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/Evidence%20Of%20Past%20Life%20Fossil%20Day.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/Evidence%20Of%20Past%20Life%20Fossil%20Day.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -36,21 +36,21 @@ As dead as a doornail.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **fearsome** = temibili
+* **yet** = ma, tuttavia
 * **coal** = carbone
+* **traces** = tracce
+* **layers** = strati
+* **seabed** = fondale marino
+* **imprints** = impronte, tracce
+* **cliffs** = scogliere
+* **iron** = ferro
+* **dug up** = dissotterrare
 * **tissue** = tessuto
 * **decays** = deteriorarsi
-* **layers** = strati
-* **yet** = ma, tuttavia
 * **shells** = conchiglie
 * **remnants** = resti, residui
-* **traces** = tracce
-* **imprints** = impronte, tracce
-* **hydrothermal vent system** = sistema di sorgenti idrotermali
-* **fearsome** = temibili
-* **iron** = ferro
-* **Belt** = cintura
-* **seabed** = fondale marino
-* **dug up** = dissotterrare
 * **buried** = sotterrare, seppellire
-* **cliffs** = scogliere
 * **tiny** = minuscola
+* **Belt** = cintura
+* **hydrothermal vent system** = sistema di sorgenti idrotermali

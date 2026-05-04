@@ -8,7 +8,7 @@ La celebrazione di “Railway 200” rende omaggio all'impatto trasformativo del
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/Whistle%20Off.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/Whistle%20Off.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -46,46 +46,46 @@ www.railway200.co.uk
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **shining a spotlight** = puntare i riflettori su
-* **whilst** = mentre
-* **wowing** = stupirsi
-* **eye-catching** = accattivante
-* **elsewhere** = altrove
-* **has pledged** = impegnarsi
 * **be knitting** = lavorare a maglia
-* **bystanders** = passanti
-* **steam-powered** = a vapore
-* **scenery** = paesaggio
-* **to convey** = trasmettere
-* **to power** = somministrare energia
-* **remiss** = negligente
-* **showcase** = esibire
-* **coders** = programmatori
-* **trains run on time** = circolare in modo puntuale
-* **alive and kicking** = vivo e vegeto
-* **rail freight** = portare merci
-* **undimmed** = intatta
-* **steamships** = barche a vapore
-* **cart on tracks** = carri su rotaie
-* **enterprise** = impresa
-* **array** = varietà
-* **jumper** = maglione
-* **is also aimed at** = avere come obiettivo
-* **as it were** = per così dire
+* **eye-catching** = accattivante
 * **digitally-driven** = guidato dalla tecnologia digitale
-* **milestones** = pietre miliari
-* **rose-tinted** = di colore rosa
-* **enabled** = rendere possibile
-* **akin to** = simile a
-* **keen** = entusiasta
-* **Hence** = quindi
+* **array** = varietà
+* **fares** = tariffe
+* **trains run on time** = circolare in modo puntuale
+* **whilst** = mentre
+* **as it were** = per così dire
+* **goods** = merci
+* **to power** = somministrare energia
+* **train sets** = modellini di treni
+* **shining a spotlight** = puntare i riflettori su
+* **wowing** = stupirsi
+* **motion** = far partire
 * **carbon-fuelled** = a carbone
 * **regarded** = considerare
-* **brave new world** = un mondo nuovo e migliore
-* **ought** = dovere
-* **coal** = carbone
-* **train sets** = modellini di treni
+* **rail freight** = portare merci
+* **keen** = entusiasta
 * **intake** = entrata
-* **fares** = tariffe
-* **motion** = far partire
-* **goods** = merci
+* **milestones** = pietre miliari
+* **enterprise** = impresa
+* **jumper** = maglione
+* **is also aimed at** = avere come obiettivo
+* **undimmed** = intatta
+* **steamships** = barche a vapore
+* **akin to** = simile a
+* **rose-tinted** = di colore rosa
+* **ought** = dovere
+* **to convey** = trasmettere
+* **has pledged** = impegnarsi
+* **showcase** = esibire
+* **enabled** = rendere possibile
+* **cart on tracks** = carri su rotaie
+* **coal** = carbone
+* **scenery** = paesaggio
+* **remiss** = negligente
+* **alive and kicking** = vivo e vegeto
+* **elsewhere** = altrove
+* **coders** = programmatori
+* **Hence** = quindi
+* **bystanders** = passanti
+* **steam-powered** = a vapore
+* **brave new world** = un mondo nuovo e migliore

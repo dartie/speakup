@@ -8,7 +8,7 @@ La comunità, che si è dissociata dalla Chiesa anglicana, pratica uno stile di 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/The%20Quakers%20A%20Society%20of%20Friends.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/The%20Quakers%20A%20Society%20of%20Friends.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,18 +33,18 @@ Famous Quakers or people who were raised as Quakers include Richard Nixon, who m
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **roots** = radici
-* **worsen** = peggiorare
-* **beliefs** = credenze, convinzioni
-* **endured** = perdurare
-* **reportedly** = a quanto si dice
-* **unless** = a meno che non
-* **beaten up** = picchiare, menare
-* **concern** = interesse, preoccupazione
-* **advocates** = sostenitori
 * **addressing** = affrontare
-* **moved to by** = spronato da
-* **traits** = caratteristiche
+* **beliefs** = credenze, convinzioni
+* **unless** = a meno che non
+* **endured** = perdurare
+* **concern** = interesse, preoccupazione
 * **spread** = diffondersi
+* **traits** = caratteristiche
+* **beaten up** = picchiare, menare
+* **worsen** = peggiorare
+* **roots** = radici
 * **inner light** = luce interiore
+* **moved to by** = spronato da
+* **reportedly** = a quanto si dice
+* **advocates** = sostenitori
 * **worship** = culto

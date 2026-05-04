@@ -8,7 +8,7 @@ La docente dell’Università di Exeter esplora, a partire da tredici processi s
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/Witchcraft%20Marion%20Gibson.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/Witchcraft%20Marion%20Gibson.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -47,54 +47,54 @@ The Salem Witch [Trials](## "processi") took place in Salem Village, Massachuset
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **seances** = sedute spiritiche
-* **accoutrements** = accessori
-* **to hear the cases** = giudicare i casi
-* **that feeds into** = incidere
-* **tales** = racconti
-* **accounts** = racconti
-* **trades people** = commercianti
-* **unearthed** = scavare
-* **colourful** = stravaganti
-* **my goodness** = santo cielo!
-* **cheerful** = allegro
-* **bubonic plague** = peste bubbonica
-* **harvests** = raccolti
-* **witchcraft** = stregoneria
-* **endured** = resistere
-* **consorting with** = associarsi con
-* **Trials** = processi
-* **demons could be raised** = evocare demoni
-* **wider society** = a società in generale
-* **puppets** = marionette
-* **outbursts** = crisi di nervi
-* **hanged** = impiccare
-* **courtroom** = tribunale
-* **cross word** = incrocio di parole
-* **werewolves** = lupi mannari
 * **worshipper** = adoratrici
+* **culprit** = colpevole
+* **consorting with** = associarsi con
 * **hacking into** = accedere
 * **to get along** = andare d’accordo
-* **if you did happen also to** = se capita che tu
-* **Act** = legge
-* **trickery** = inganno
-* **muslin gauze** = garze di mussola
-* **fortune-teller** = indovina
-* **curses** = maledizioni
-* **threat** = minaccia
+* **unearthed** = scavare
+* **accoutrements** = accessori
+* **on top of that** = oltre a ciò
+* **outbursts** = crisi di nervi
+* **tales** = racconti
 * **witch hunts** = cacce alle streghe
+* **Trials** = processi
 * **charm** = incantesimo
-* **brought closure** = dare sollievo
+* **flamboyant** = appariscente
+* **muslin gauze** = garze di mussola
+* **that feeds into** = incidere
 * **rye** = segale
+* **witchcraft** = stregoneria
+* **deposition** = deposizione
+* **demons could be raised** = evocare demoni
+* **werewolves** = lupi mannari
+* **wider society** = a società in generale
+* **brought closure** = dare sollievo
+* **harvests** = raccolti
+* **threat** = minaccia
+* **courtroom** = tribunale
+* **if you did happen also to** = se capita che tu
+* **curses** = maledizioni
+* **cross word** = incrocio di parole
+* **colourful** = stravaganti
+* **frowned upon** = essere mal visto
+* **trickery** = inganno
+* **bubonic plague** = peste bubbonica
+* **fortune-teller** = indovina
+* **wherever possible** = là dove è possibile
+* **accounts** = racconti
+* **my goodness** = santo cielo!
+* **to hear the cases** = giudicare i casi
+* **hanged** = impiccare
+* **wheat** = grano
+* **endured** = resistere
+* **trades people** = commercianti
+* **costumes** = vestiti
+* **Act** = legge
+* **puppets** = marionette
+* **seances** = sedute spiritiche
+* **departed** = i defunti
+* **cheerful** = allegro
 * **spells** = incantesimi
 * **upheaval** = sconvolgimento
-* **deposition** = deposizione
 * **dabbled** = avventurarsi
-* **flamboyant** = appariscente
-* **costumes** = vestiti
-* **departed** = i defunti
-* **wherever possible** = là dove è possibile
-* **frowned upon** = essere mal visto
-* **culprit** = colpevole
-* **on top of that** = oltre a ciò
-* **wheat** = grano

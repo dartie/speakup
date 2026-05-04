@@ -8,7 +8,7 @@ Non guardiamo all'intelligenza artificiale come a un avversario pronto a sostitu
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/Everyday%20Dialogues%20AI%20For%20Workplace%20Productivity.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/Everyday%20Dialogues%20AI%20For%20Workplace%20Productivity.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -48,13 +48,13 @@ To focus on means to give special attention to something.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **CEO** = amministratore delegato (Chief Executive Officer)
 * **increase** = aumentare
 * **What are your thoughts?** = cosa ne pensi?
 * **accurate** = accurati
+* **tools** = strumenti
 * **Not at all** = per niente
+* **replace** = sostituire
 * **amount** = quantità
 * **main** = principali
-* **CEO** = amministratore delegato (Chief Executive Officer)
-* **tools** = strumenti
-* **replace** = sostituire
 * **records** = verbali

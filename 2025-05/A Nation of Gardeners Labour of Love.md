@@ -8,7 +8,7 @@ Condizionati o forse ispirati dal clima imprevedibile, gli inglesi amano il giar
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/A%20Nation%20of%20Gardeners%20Labour%20of%20Love.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/A%20Nation%20of%20Gardeners%20Labour%20of%20Love.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,26 +38,26 @@ New technology provides a virtual gardening galaxy of websites, blogs, vlogs, an
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **lush** = rigoglioso, fiorito
 * **the far reaches** = i confini
 * **flamboyant** = stravagante
-* **well-off** = benestante
-* **boasting** = vantarsi di
-* **seed** = seme
-* **Gulf Stream** = corrente del Golfo
-* **Dig** = scavare
-* **crops** = coltivazioni
-* **collectible** = pezzo da collezione
-* **shortages** = carenze
-* **Scheme** = piano
-* **heritage** = patrimonio
-* **allotments** = orti
 * **patch** = appezzamento
+* **chairman** = presidente
+* **crops** = coltivazioni
+* **rulers** = governanti
+* **Scheme** = piano
+* **seed** = seme
+* **root causes** = origini
+* **Gulf Stream** = corrente del Golfo
+* **lush** = rigoglioso, fiorito
+* **lavish** = lussuosi
+* **boasting** = vantarsi di
+* **GDP** = PIL (gross domestic product)
+* **heritage** = patrimonio
 * **sown** = seminare
 * **scattered** = sparsi
-* **root causes** = origini
+* **well-off** = benestante
+* **Dig** = scavare
+* **shortages** = carenze
+* **allotments** = orti
+* **collectible** = pezzo da collezione
 * **mild** = mite, temperato
-* **rulers** = governanti
-* **lavish** = lussuosi
-* **GDP** = PIL (gross domestic product)
-* **chairman** = presidente

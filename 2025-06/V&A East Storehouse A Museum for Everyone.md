@@ -8,7 +8,7 @@ Il prestigioso Victoria & Albert Museum di Londra, punto di riferimento mondiale
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/V&A%20East%20Storehouse%20A%20Museum%20for%20Everyone.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/V&A%20East%20Storehouse%20A%20Museum%20for%20Everyone.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,28 +38,28 @@ The Victoria and Albert Museum (V&A) was founded in 1852 after the Great Exhibit
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **displayed.** = mostrare
-* **Alongside** = insieme a
-* **underrepresented** = sottorappresentate
-* **heated emotions** = emozioni accese
-* **former** = antica
-* **to house** = ospitare
-* **live-feed screens** = schermi con trasmissioni in diretta
-* **craftsmanship** = artigianato
-* **run throughout** = svolgersi durante
-* **fine arts,** = belle arti
 * **opening parties** = feste di inaugurazione
 * **fuelled** = alimentare
-* **showcasing** = esibire
+* **label** = etichetta
+* **to house** = ospitare
 * **world-first** = primato mondiale
 * **glass cases** = vetrine di vetro
-* **overlook** = punto panoramico
-* **caught up** = coinvolte
-* **label** = etichetta
-* **Storehouse** = magazzino, deposito
-* **purpose-built** = costruito appositamente
-* **outstanding** = straordinari
+* **displayed.** = mostrare
+* **run throughout** = svolgersi durante
+* **fine arts,** = belle arti
 * **lavish** = sfarzosi
-* **cutting staff** = ridurre il personale
+* **Storehouse** = magazzino, deposito
 * **basketball courts** = campi da basket
+* **Alongside** = insieme a
+* **caught up** = coinvolte
+* **live-feed screens** = schermi con trasmissioni in diretta
 * **up close** = da vicino
+* **craftsmanship** = artigianato
+* **underrepresented** = sottorappresentate
+* **outstanding** = straordinari
+* **cutting staff** = ridurre il personale
+* **heated emotions** = emozioni accese
+* **former** = antica
+* **purpose-built** = costruito appositamente
+* **showcasing** = esibire
+* **overlook** = punto panoramico

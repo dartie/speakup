@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Bad%20Bunny%20Puerto%20Rican%20Global%20Superstar.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Bad%20Bunny%20Puerto%20Rican%20Global%20Superstar.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -50,28 +50,28 @@ The announcement was met with considerable [backlash](## "reazione negativa"), w
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **raids** = retate
+* **heritage** = eredità
+* **Customs** = dogane, frontiere
 * **backlash** = reazione negativa
-* **spoke out** = esporsi
 * **Bunny** = coniglietto
-* **heir** = erede
+* **blends** = mescolare
+* **token** = simbolo
 * **mind-blowing** = sbalorditivo
-* **opening track** = brano di apertura dell’album
-* **countless** = innumerevoli
-* **statement** = dichiarazione
 * **‘Cause** = perché (abbreviazione di 'because')
 * **overthink** = pensare troppo
-* **Lifting people’s mood** = tirare su di morale
-* **blends** = mescolare
-* **heritage** = eredità
-* **purpose** = scopo
-* **pays homage** = rendere omaggio
-* **joyful** = allegri
 * **headline act** = artista principale
-* **Customs** = dogane, frontiere
-* **Enforcement** = applicazione (della legge)
 * **True to form** = fedele al suo stile, come sempre
-* **release date** = data di uscita
-* **unincorporated territory** = territorio non incorporato
-* **token** = simbolo
+* **purpose** = scopo
 * **rookie** = principiante
+* **Lifting people’s mood** = tirare su di morale
+* **joyful** = allegri
+* **Enforcement** = applicazione (della legge)
+* **countless** = innumerevoli
+* **statement** = dichiarazione
+* **unincorporated territory** = territorio non incorporato
+* **pays homage** = rendere omaggio
+* **opening track** = brano di apertura dell’album
+* **raids** = retate
+* **spoke out** = esporsi
+* **release date** = data di uscita
+* **heir** = erede

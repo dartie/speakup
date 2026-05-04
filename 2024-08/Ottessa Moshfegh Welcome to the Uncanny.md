@@ -8,7 +8,7 @@ L’autrice americana di origini croate e iraniane mostra un talento particolare
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/Ottessa%20Moshfegh%20Welcome%20to%20the%20Uncanny.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/Ottessa%20Moshfegh%20Welcome%20to%20the%20Uncanny.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -52,43 +52,43 @@ In writing, Moshfegh claims to have found her way of relating to the world and h
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **lucked out** = avere fortuna
-* **well-adjusted** = equilibrata
-* **shortlisted** = selezionare
-* **count** = accusa
-* **unreliable** = inaffidabile
-* **asshole** = stronzo
-* **jump roping** = saltare la corda
-* **upscale** = di alto livello
-* **taps into** = toccare
-* **novella** = romanzo breve
-* **steady diet** = dieta continua
-* **ennui** = tedio
 * **solace** = conforto
-* **hold** = stiva
-* **upbringing** = educazione
-* **homeland** = terra natia
-* **layer** = strato
-* **uncanny** = inspiegabile
-* **lockdown** = confinamento
-* **angst** = angoscia
-* **registers** = incorporare
-* **uptight** = rigida, severa
-* **stockpiles** = accumulare
-* **yet** = anche, ancora
-* **blacked-out** = incosciente
-* **basement** = seminterrato
-* **distasteful** = sgradevoli
-* **get through** = affrontare, percorrere
-* **common thread** = filo comune
-* **upset** = turbare
-* **drawn to** = attrarre
-* **path** = cammino
-* **filling in the cracks** = riempire le crepe
 * **dread** = timore
 * **drive** = impulso
-* **he stabbed** = pugnalare
+* **unreliable** = inaffidabile
+* **lockdown** = confinamento
+* **ennui** = tedio
+* **drawn to** = attrarre
+* **lucked out** = avere fortuna
+* **upscale** = di alto livello
+* **common thread** = filo comune
+* **homeland** = terra natia
+* **upset** = turbare
+* **registers** = incorporare
+* **get through** = affrontare, percorrere
+* **filling in the cracks** = riempire le crepe
+* **taps into** = toccare
+* **count** = accusa
 * **has a knack** = avere abilità
-* **turning you on** = eccitare
+* **shortlisted** = selezionare
 * **fiefdom** = feudo
+* **hold** = stiva
+* **yet** = anche, ancora
 * **acquitted** = assolvere
+* **asshole** = stronzo
+* **uncanny** = inspiegabile
+* **novella** = romanzo breve
+* **jump roping** = saltare la corda
+* **path** = cammino
+* **well-adjusted** = equilibrata
+* **upbringing** = educazione
+* **steady diet** = dieta continua
+* **basement** = seminterrato
+* **layer** = strato
+* **turning you on** = eccitare
+* **distasteful** = sgradevoli
+* **stockpiles** = accumulare
+* **blacked-out** = incosciente
+* **he stabbed** = pugnalare
+* **angst** = angoscia
+* **uptight** = rigida, severa

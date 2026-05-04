@@ -8,7 +8,7 @@ In questo racconto della vita di uno degli adolescenti più intrepidi della lett
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/Adventures%20of%20Huckleberry%20Finn%20by%20Mark%20Twain.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/Adventures%20of%20Huckleberry%20Finn%20by%20Mark%20Twain.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -45,20 +45,20 @@ Adventures of Huckleberry Finn enjoyed commercial and critical success, although
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **set off** = partire
-* **westward** = verso ovest
-* **Widow** = vedova
-* **heads to** = dirigersi
-* **runaway** = fuggitivo
-* **fraudsters** = truffatori
-* **reward** = ricompensa
+* **unflinching** = deciso
 * **coming-of-age story** = romanzo di formazione
 * **charm** = fascino
-* **greed** = avidità
-* **slang** = gergo
 * **fakes** = fingere
+* **heads to** = dirigersi
+* **greed** = avidità
 * **feuding** = essere in lotta per
-* **unflinching** = deciso
+* **fraudsters** = truffatori
+* **westward** = verso ovest
 * **weakness** = debolezza
-* **raft** = zattera
+* **Widow** = vedova
+* **runaway** = fuggitivo
+* **set off** = partire
+* **slang** = gergo
 * **banned** = vietare
+* **raft** = zattera
+* **reward** = ricompensa

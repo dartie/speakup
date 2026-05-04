@@ -8,7 +8,7 @@ Dopo essere stato eletto per il terzo mandato come sindaco, Sadiq Khan si è imp
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/The%20New%20London%20Good%20Growth.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/The%20New%20London%20Good%20Growth.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -44,32 +44,32 @@ The London Plan is ambitious and ahead of the UK’s legal requirements. Its int
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **along with** = insieme a
-* **council homes** = case popolari
-* **rampant** = incontrollato
-* **throughout** = durante, per tutto
-* **flooding** = inondazioni
-* **net zero** = zero emissioni
-* **tripping up** = confondere
-* **complaints** = lamentele
-* **drainage** = drenaggio
-* **facilities** = strutture
-* **motorists** = guidatore
 * **voted in** = votare
+* **council homes** = case popolari
 * **fare** = tariffa
-* **freeze** = congelamento
-* **praised** = lodare, elogiare
-* **affordable** = accessibile
-* **transport links** = collegamenti di trasporto
+* **outskirts** = periferia, sobborghi
+* **Docks** = moli
+* **throughout** = durante, per tutto
+* **drainage** = drenaggio
 * **waste disposal** = smaltimento dei rifiuti
-* **non-compliant** = non conforme
-* **to boost** = aumentare
-* **fostering** = promuovere
-* **Hopper** = saltare
-* **endeavours** = sforzi
 * **aims** = mirare
 * **leveller.** = livellatore
+* **Hopper** = saltare
 * **commitment** = impegno
+* **transport links** = collegamenti di trasporto
+* **to boost** = aumentare
+* **praised** = lodare, elogiare
+* **motorists** = guidatore
+* **along with** = insieme a
+* **rampant** = incontrollato
+* **complaints** = lamentele
+* **flooding** = inondazioni
+* **facilities** = strutture
+* **tripping up** = confondere
+* **endeavours** = sforzi
+* **fostering** = promuovere
 * **Rough sleeping** = dormire in strada
-* **Docks** = moli
-* **outskirts** = periferia, sobborghi
+* **affordable** = accessibile
+* **net zero** = zero emissioni
+* **freeze** = congelamento
+* **non-compliant** = non conforme

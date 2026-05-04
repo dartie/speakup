@@ -8,7 +8,7 @@ Un romanzo toccante, che parla di quanto sia difficile adattarsi a una società 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/One%20Flew%20Over%20The%20Cuckoo%E2%80%99s%20Nest%20by%20Ken%20Kesey.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/One%20Flew%20Over%20The%20Cuckoo%E2%80%99s%20Nest%20by%20Ken%20Kesey.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -50,40 +50,40 @@ On its 2003 list of the 100 greatest villains in the annals of motion pictures, 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **dairy farmer** = allevatore di bestiame
-* **sweeps** = spazzare
-* **grinding wheels** = mole abrasive
-* **fit in** = adattarsi
-* **piety** = religiosità
-* **gambling man** = giocatore d’azzardo
-* **bitter** = spietata
-* **widespread critical acclaim** = numerosi consensi dalla critica
-* **Witch** = strega
-* **wrestler** = lottatore
 * **fellowship** = borsa di studio
-* **hard labour** = lavori forzati
-* **urge** = voglia, impulso
-* **sneaks a sex worker into** = intrufolarsi, entrare di nascosto
-* **aide** = ausiliario
-* **acutes** = acuti
-* **sanctimonious** = moralista, bigotto
-* **former army nurse** = ex infermiera militare
-* **cogs** = ingranaggi
-* **inmates** = pazienti
-* **stammer** = balbuzie
-* **ward** = reparto
-* **deaf** = sordo
-* **run** = dirigere, gestire
-* **swaggers onto** = entrare in modo spavaldo
-* **Wicked** = malvagia
-* **escapes notice** = non farsi notare
-* **zest** = gusto, passione
-* **relentless** = implacabile
-* **menacing** = minacciosi
-* **avoiding** = evitare
-* **insights** = riflessioni, idee
-* **domineering** = autoritaria
-* **shameful** = vergognosi
 * **as a means of** = allo scopo di
-* **battle of wits** = duello d’intelligenza
+* **gambling man** = giocatore d’azzardo
+* **zest** = gusto, passione
+* **cogs** = ingranaggi
+* **sneaks a sex worker into** = intrufolarsi, entrare di nascosto
+* **widespread critical acclaim** = numerosi consensi dalla critica
+* **wrestler** = lottatore
+* **aide** = ausiliario
+* **insights** = riflessioni, idee
+* **Wicked** = malvagia
+* **deaf** = sordo
+* **shameful** = vergognosi
+* **hard labour** = lavori forzati
+* **grinding wheels** = mole abrasive
+* **bitter** = spietata
+* **Witch** = strega
+* **run** = dirigere, gestire
+* **sweeps** = spazzare
+* **acutes** = acuti
+* **former army nurse** = ex infermiera militare
+* **swaggers onto** = entrare in modo spavaldo
+* **inmates** = pazienti
+* **menacing** = minacciosi
+* **urge** = voglia, impulso
+* **relentless** = implacabile
+* **stammer** = balbuzie
 * **Wizard** = mago
+* **fit in** = adattarsi
+* **ward** = reparto
+* **domineering** = autoritaria
+* **avoiding** = evitare
+* **battle of wits** = duello d’intelligenza
+* **dairy farmer** = allevatore di bestiame
+* **escapes notice** = non farsi notare
+* **sanctimonious** = moralista, bigotto
+* **piety** = religiosità

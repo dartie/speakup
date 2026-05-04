@@ -8,7 +8,7 @@ A volte, la convivenza può essere difficile. Lo sanno bene Debbie e Julie, che 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/A%20Short%20Story%20A%20New%20Adventure.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/A%20Short%20Story%20A%20New%20Adventure.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -54,17 +54,17 @@ Soon, she and her twin, who was born a boy this time, would receive new names, a
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **balance each other out** = compensarsi a vicenda
-* **Whatever** = non importa, vabbè
-* **stay on the straight and narrow** = rimanere sulla retta via
 * **sighed** = sospirare
 * **dislodge** = staccarsi, liberarsi
+* **slid down the canal** = scivolare lungo il canale del parto
+* **I am my own person** = sono una persona indipendente
+* **Whatever** = non importa, vabbè
+* **shifted uncomfortably** = muoversi a disagio
+* **over and over** = ripetutamente
+* **stay on the straight and narrow** = rimanere sulla retta via
+* **achieve** = raggiungere
 * **greeted** = accogliere, dare il benvenuto
 * **move over** = spostarsi, fare spazio
 * **cramping my style** = tarpare le ali
-* **shifted uncomfortably** = muoversi a disagio
-* **over and over** = ripetutamente
+* **balance each other out** = compensarsi a vicenda
 * **vessel** = contenitore
-* **achieve** = raggiungere
-* **slid down the canal** = scivolare lungo il canale del parto
-* **I am my own person** = sono una persona indipendente

@@ -8,7 +8,7 @@ A cavallo tra cronaca e analisi socio-politica, questo americano di origine ebra
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/Nathan%20Thrall%20A%20Jerusalem%20Tragedy.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/Nathan%20Thrall%20A%20Jerusalem%20Tragedy.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -44,39 +44,39 @@ In Thrall’s opinion, the debate about possible solutions to the conflict will 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **disrepair** = rovina
-* **seemingly** = apparentemente
-* **commonplace** = normale, usuale
-* **were both up** = essere sveglio
-* **patchwork** = mosaico
-* **reluctant** = riluttante
-* **quarrels** = liti
-* **conveys** = trasmettere
-* **think tank** = gruppo di esperti
-* **so-called** = cosiddetta
 * **doomed** = destinato, condannato
-* **retaliation** = ritorsione, rappresaglia
-* **whereabouts** = posizione
-* **achievement** = conquista
-* **qualms** = scrupoli
+* **overwhelmingly** = in grande maggioranza
+* **walled** = murato
 * **winds up** = finire per
 * **bloodshed** = spargimento di sangue
-* **settlements** = insediamenti
-* **sidewalks** = marciapiedi
-* **stood by** = rimanere
-* **overwhelmingly** = in grande maggioranza
-* **fifty-plus** = più di cinquanta
-* **outlets** = mezzi di comunicazione
-* **triggered** = scatenare
 * **speak out** = parlare apertamente
-* **averted** = evitare
-* **walled** = murato
-* **manicured grounds** = giardini curati
-* **nonprofit** = senza scopo di lucro
-* **uprising** = rivolta
-* **to restore** = ristabilire
 * **maze** = labirinto
 * **it tackles** = affrontare
-* **West Bank** = Cisgiordania
+* **so-called** = cosiddetta
+* **quarrels** = liti
+* **settlements** = insediamenti
+* **manicured grounds** = giardini curati
+* **whereabouts** = posizione
+* **think tank** = gruppo di esperti
 * **reach** = portata
+* **reluctant** = riluttante
+* **qualms** = scrupoli
 * **endure** = sopportare
+* **to restore** = ristabilire
+* **seemingly** = apparentemente
+* **conveys** = trasmettere
+* **West Bank** = Cisgiordania
+* **fifty-plus** = più di cinquanta
+* **outlets** = mezzi di comunicazione
+* **uprising** = rivolta
+* **triggered** = scatenare
+* **disrepair** = rovina
+* **achievement** = conquista
+* **averted** = evitare
+* **stood by** = rimanere
+* **nonprofit** = senza scopo di lucro
+* **commonplace** = normale, usuale
+* **retaliation** = ritorsione, rappresaglia
+* **were both up** = essere sveglio
+* **patchwork** = mosaico
+* **sidewalks** = marciapiedi

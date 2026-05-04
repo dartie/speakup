@@ -8,7 +8,7 @@ Perché pagare la frutta e la verdura al supermercato quando è possibile ottene
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/Foraging%20Finding%20Food%20in%20the%20Wild.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/Foraging%20Finding%20Food%20in%20the%20Wild.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -28,7 +28,7 @@ The variety and quality of [wild](## "selvatico, selvaggio") [edible](## "commes
 
 ## SEASONAL STUFF
 We then asked Naha-Koretzky to share her favourite [edible](## "commestibili")s from each season.
-**Debbie Naha-Koretzky:** I have a few favourites from each season. Late winter, early spring, something that I look forward to finding are [sting](## "pizzico")ing nettles. A lot of people are surprised to know that nettles are [edible](## "commestibili"). But they’re not only [edible](## "commestibili"), but they’re very, very nutritious. It’s a very nutritious [green](## "vegetale dalla foglia verde"). You just have to know how to pick it safely and [handle](## "maneggiare") it safely, and as soon as you get nettles into hot water, [boiling](## "bollente") water, the [sting](## "pizzico") is gone, it’s deactivated. So you can make a really nice pot of nettle soup. I always carry my heavy [rubber gloves](## "guanti di gomma") with me, so I can forage the growing [tops](## "sommità") of [sting](## "pizzico")ing nettles. Another spring plant that I really like is [bitter](## "amari")cress, that’s in the [mustard](## "senape") family. It kind of tastes like [watercress](## "crescione").
+**Debbie Naha-Koretzky:** I have a few favourites from each season. Late winter, early spring, something that I look forward to finding are [[sting](## "pizzico")ing nettles](## "ortiche"). A lot of people are surprised to know that nettles are [edible](## "commestibili"). But they’re not only [edible](## "commestibili"), but they’re very, very nutritious. It’s a very nutritious [green](## "vegetale dalla foglia verde"). You just have to know how to pick it safely and [handle](## "maneggiare") it safely, and as soon as you get nettles into hot water, [boiling](## "bollente") water, the [sting](## "pizzico") is gone, it’s deactivated. So you can make a really nice pot of nettle soup. I always carry my heavy [rubber gloves](## "guanti di gomma") with me, so I can forage the growing [tops](## "sommità") of [[sting](## "pizzico")ing nettles](## "ortiche"). Another spring plant that I really like is [[bitter](## "amari")cress](## "billeri dei prati"), that’s in the [mustard](## "senape") family. It kind of tastes like [watercress](## "crescione").
 
 ## DELIGHT IN DANDELIONS
 Naha-Koretzky favourite [edible](## "commestibili") flower is the [humble](## "umile, modesto") dandelion. We asked her why.
@@ -60,54 +60,54 @@ www.[wild](## "selvatico, selvaggio")[edible](## "commestibili")snjpa.com 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **handle** = maneggiare
-* **boiling** = bollente
-* **batter** = pastella
-* **rule of thumb** = regola generale
-* **roast** = arrostire
-* **raw** = cruda
-* **bitter** = amari
-* **fritters** = frittelle
-* **edible** = commestibili
-* **fungi** = funghi
-* **backyard** = cortile
-* **sting** = pizzico
-* **detracts** = ridurre
-* **stinging nettles** = ortiche
-* **chop** = tagliare a pezzi
-* **tougher** = più difficili
-* **accomplished** = esperto
-* **foraging** = ricerca di cibo
-* **berries** = bacche
-* **I took it from there** = da lì ho seguito la mia strada
-* **car exhaust** = gas di scarico dell’auto
-* **bittercress** = billeri dei prati
 * **to advised** = consigliare
-* **undergraduate school** = studi universitari
-* **edges** = bordi, cigli
-* **ripe** = maturo
-* **dig up** = scavare
-* **taproot** = radice a fittone
-* **lookalikes** = simili
+* **counterparts** = omologo, equivalente
+* **fungi** = funghi
+* **tastier** = più gustosi
 * **runs** = gestire
-* **dandelions** = denti di leone
+* **edges** = bordi, cigli
+* **taproot** = radice a fittone
+* **wash that off** = andar via con l’acqua
+* **roast** = arrostire
+* **readily available** = facilmente disponibile
+* **wild** = selvatico, selvaggio
+* **lawn** = prato
+* **widespread** = diffuse
+* **farm runoff** = scarichi agricoli
+* **boiling** = bollente
+* **rubber gloves** = guanti di gomma
+* **lookalikes** = simili
+* **car exhaust** = gas di scarico dell’auto
+* **ripe** = maturo
+* **mustard** = senape
 * **watercress** = crescione
 * **humble** = umile, modesto
-* **wash that off** = andar via con l’acqua
-* **counterparts** = omologo, equivalente
-* **sources** = fonti
-* **readily available** = facilmente disponibile
-* **tastier** = più gustosi
-* **widespread** = diffuse
-* **waste** = rifiuti
-* **wild** = selvatico, selvaggio
-* **underripe** = acerbo
-* **tops** = sommità
-* **dipping** = immergere
-* **green** = vegetale dalla foglia verde
-* **rubber gloves** = guanti di gomma
-* **mustard** = senape
-* **harvesting** = raccogliere
-* **lawn** = prato
+* **accomplished** = esperto
+* **berries** = bacche
+* **backyard** = cortile
 * **parking lot** = parcheggio
-* **farm runoff** = scarichi agricoli
+* **stinging nettles** = ortiche
+* **tops** = sommità
+* **dig up** = scavare
+* **tougher** = più difficili
+* **handle** = maneggiare
+* **undergraduate school** = studi universitari
+* **dandelions** = denti di leone
+* **I took it from there** = da lì ho seguito la mia strada
+* **waste** = rifiuti
+* **raw** = cruda
+* **batter** = pastella
+* **foraging** = ricerca di cibo
+* **edible** = commestibili
+* **green** = vegetale dalla foglia verde
+* **sting** = pizzico
+* **bittercress** = billeri dei prati
+* **bitter** = amari
+* **dipping** = immergere
+* **detracts** = ridurre
+* **harvesting** = raccogliere
+* **underripe** = acerbo
+* **chop** = tagliare a pezzi
+* **fritters** = frittelle
+* **rule of thumb** = regola generale
+* **sources** = fonti

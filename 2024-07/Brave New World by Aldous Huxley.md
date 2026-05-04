@@ -1,4 +1,4 @@
-# Brave New World by Aldous Huxley   [B2]
+# "Brave New World" by Aldous Huxley   [B2]
 
 Un capolavoro della fantascienza distopica che immagina un mondo in cui il controllo sociale si esercita attraverso l’intrattenimento e la tecnologia. Un’opera profetica.
 
@@ -8,7 +8,7 @@ Un capolavoro della fantascienza distopica che immagina un mondo in cui il contr
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/Brave%20New%20World%20by%20Aldous%20Huxley.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/Brave%20New%20World%20by%20Aldous%20Huxley.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -45,16 +45,16 @@ Brave New World was written at a time when there was a great hope that technolog
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **Hatchery** = incubatrice
-* **are deprived** = privare di
 * **semi-moronic** = mezzi cretini
 * **brainwashing** = lavaggio del cervello
-* **throughout** = durante
-* **glass jars** = vasi di vetro
-* **carried out** = eseguire
 * **over and over** = ancora e ancora
-* **compliant** = condiscendenti
 * **pump** = pompare
 * **high** = botta, sballo
+* **glass jars** = vasi di vetro
+* **carried out** = eseguire
+* **compliant** = condiscendenti
+* **throughout** = durante
 * **loosely based** = liberamente basata
 * **to fix** = risolvere
+* **Hatchery** = incubatrice
+* **are deprived** = privare di

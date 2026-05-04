@@ -8,7 +8,7 @@ Lo storico Thomas Cheetham spiega le trasformazioni di Bletchley Park, dalle cur
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/The%20Codebreakers.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/The%20Codebreakers.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -37,29 +37,29 @@ Alan Turing played a vital role in the museum project.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **cottages** = casette, villette
-* **rolling green lawns** = prati verdi ondulati
-* **hub** = centro, fulcro
-* **huts** = capanna, baracca
-* **to tie small pieces of information together** = legare insieme
-* **wrongs** = ingiustizie, torti
-* **stockbroker** = intermediario finanziario
-* **graft** = innestare
-* **hodgepodge** = miscuglio
-* **restored** = ripristinare
-* **hands-on** = pratica
-* **briefed** = informare
 * **wider achievements** = risultati più importanti
-* **gruelling** = arduo, estenuante
-* **call to duty** = chiamata al dovere
-* **encompassed** = comprendere
-* **market garden** = orto
-* **hunt** = caccia
-* **cypher** = codice
-* **teddy bear** = orsacchiotto
+* **wrongs** = ingiustizie, torti
+* **cottages** = casette, villette
 * **ponds** = stagni, laghetti
+* **encompassed** = comprendere
+* **hub** = centro, fulcro
+* **hodgepodge** = miscuglio
+* **hands-on** = pratica
+* **cypher** = codice
+* **jigsaw** = puzzle
+* **rolling green lawns** = prati verdi ondulati
+* **market garden** = orto
+* **restored** = ripristinare
 * **hired** = assumere
 * **chop** = tagliare a pezzi
+* **briefed** = informare
+* **teddy bear** = orsacchiotto
+* **gruelling** = arduo, estenuante
+* **hunt** = caccia
+* **graft** = innestare
+* **huts** = capanna, baracca
+* **to tie small pieces of information together** = legare insieme
 * **knowledgeable** = esperto
-* **jigsaw** = puzzle
+* **call to duty** = chiamata al dovere
+* **stockbroker** = intermediario finanziario
 * **bubble** = bolla

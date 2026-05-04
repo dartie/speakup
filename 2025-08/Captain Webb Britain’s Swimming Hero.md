@@ -8,12 +8,12 @@ Centocinquant’anni fa, questo ufficiale della Marina Mercantile divenne il pri
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/Captain%20Webb%20Britain%E2%80%99s%20Swimming%20Hero.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/Captain%20Webb%20Britain%E2%80%99s%20Swimming%20Hero.mp3" type="audio/mpeg">
 </audio>
 </div>
 
 
-One hundred and fifty years ago this month, Captain Matthew Webb became a national hero and famous around the world when he made history as the first person to swim the thirty-four-kilometre-wide [English Channel](## "can[ale](## "birra") della Manica"), one of the most [treacherous](## "insidiosi, pericolosi") [stretches](## "tratti") of water on the planet. 
+One hundred and fifty years ago this month, Captain Matthew Webb became a national hero and famous around the world when he made history as the first person to swim the thirty-four-kilometre-wide [English Channel](## "canale della Manica"), one of the most [treacherous](## "insidiosi, pericolosi") [stretches](## "tratti") of water on the planet. 
 Born in Dawley, Shropshire, on 19 January 1848, Webb developed his swimming skills as a child playing in the River Severn. Aged twelve, he started working on ships, finishing up fifteen years later as captain. In 1872, Webb read an [account](## "racconto, resoconto") of an attempt to swim the Channel and became inspired to try. [Endurance](## "resistenza") swimming was becoming popular, but this [feat](## "impresa") was considered impossible. Webb began to prepare, swimming in the Thames and in the sea [off the Dover coast](## "lungo la costa"). 
 
 ## CROSSING THE CHANNEL
@@ -36,32 +36,32 @@ Since Captain Matthew Webb’s first successful swim in 1875, there have been ov
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **jellyfish** = medusa
-* **swimming costume** = costume da bagno
-* **breaststroke** = a rana
-* **front crawl** = stile libero
-* **English Channel** = canale della Manica
-* **treacherous** = insidiosi, pericolosi
+* **tides** = maree
 * **account** = racconto, resoconto
 * **porpoise** = focena
-* **silk** = seta
-* **rowing boat** = barca a remi
-* **ferryman** = traghettatore
-* **dogged** = tenace
-* **feat** = impresa
-* **Whirlpool** = vortice, mulinello
-* **dived** = tuffarsi
-* **pier** = molo
-* **fund** = fondo
 * **beef tea** = brodo di manzo
-* **off the Dover coast** = lungo la costa
-* **claret** = chiaretto, vino rosso
-* **Endurance** = resistenza
+* **stretches** = tratti
+* **dived** = tuffarsi
+* **silk** = seta
+* **Whirlpool** = vortice, mulinello
+* **treacherous** = insidiosi, pericolosi
 * **cod liver oil** = olio di fegato di merluzzo
 * **ale** = birra
-* **crew** = squadra
-* **tides** = maree
-* **stretches** = tratti
-* **snacked** = fare uno spuntino
-* **shore** = costa, sponda
+* **rowing boat** = barca a remi
+* **fund** = fondo
+* **English Channel** = canale della Manica
+* **claret** = chiaretto, vino rosso
 * **greeted** = salutare, accogliere
+* **dogged** = tenace
+* **Endurance** = resistenza
+* **jellyfish** = medusa
+* **shore** = costa, sponda
+* **off the Dover coast** = lungo la costa
+* **pier** = molo
+* **front crawl** = stile libero
+* **swimming costume** = costume da bagno
+* **ferryman** = traghettatore
+* **feat** = impresa
+* **breaststroke** = a rana
+* **snacked** = fare uno spuntino
+* **crew** = squadra

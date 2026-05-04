@@ -8,7 +8,7 @@ Oltre 700 anni fa, William Wallace divenne uno degli eroi più coraggiosi e amat
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/William%20Wallace%20Scotland%E2%80%99s%20National%20Hero.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/William%20Wallace%20Scotland%E2%80%99s%20National%20Hero.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -50,36 +50,36 @@ However, Mel Gibson’s epic (Oscars for Best Picture and Best Director) is now 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **knight** = cavaliere
+* **wrongs** = ingiustizie
+* **treachery** = tradimento
+* **unveiled** = svelare
+* **wandering** = errante, ambulante
+* **minstrel** = menestrello
+* **praised** = elogiare, lodare
 * **crushed** = reprimere
-* **outlaw** = fuorilegge
+* **humble** = umili
 * **betrayed** = tradire
+* **out of print** = fuori catalogo
+* **appointed** = nominare
+* **overlord** = padrone, signore supremo
+* **dragged** = trascinare
+* **countrymen** = compatrioti
+* **men of rank** = uomini di rango
+* **outnumbered** = superare in numero
+* **sheath** = fodero
+* **earls** = conti
+* **distrusting** = diffidare
+* **Old Scots** = scozzese antico
+* **landowner** = proprietario terreno
+* **sworn** = giurare
+* **stripped naked** = denudare
+* **blockbuster** = successo al botteghino
+* **figurehead** = figura di spicco
+* **claimed** = reclamare
+* **to keep in check** = tenere sotto controllo
+* **to pledge allegiance** = giurare fedeltà
+* **beheaded** = decapitare
 * **quartered** = squartare
 * **worth** = degna di
-* **countrymen** = compatrioti
-* **to keep in check** = tenere sotto controllo
-* **sworn** = giurare
-* **dragged** = trascinare
-* **Old Scots** = scozzese antico
-* **blockbuster** = successo al botteghino
-* **overlord** = padrone, signore supremo
-* **outnumbered** = superare in numero
-* **wrongs** = ingiustizie
-* **men of rank** = uomini di rango
-* **earls** = conti
-* **praised** = elogiare, lodare
-* **sheath** = fodero
-* **out of print** = fuori catalogo
-* **claimed** = reclamare
-* **to pledge allegiance** = giurare fedeltà
-* **treachery** = tradimento
-* **figurehead** = figura di spicco
-* **wandering** = errante, ambulante
-* **landowner** = proprietario terreno
-* **humble** = umili
-* **stripped naked** = denudare
-* **beheaded** = decapitare
-* **unveiled** = svelare
-* **appointed** = nominare
-* **distrusting** = diffidare
-* **knight** = cavaliere
-* **minstrel** = menestrello
+* **outlaw** = fuorilegge

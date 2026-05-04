@@ -8,7 +8,7 @@ Tra le quasi venti versioni cinematografiche del romanzo di Charlotte Brontë, q
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/Jane%20Eyre%20On%20the%20Big%20Screen.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/Jane%20Eyre%20On%20the%20Big%20Screen.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,21 +38,21 @@ When casting the film, Fukunaga was [aware](## "consapevole") of the importance 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **broad** = ampio
-* **Scorned** = disprezzare
-* **dreadful** = spaventoso
-* **estate** = proprietà immobiliare
-* **seemingly** = apparentemente
-* **boarding school** = collegio, convitto
-* **flair** = stile, eleganza
 * **aware** = consapevole
-* **pathos** = sentimento, emozione
+* **dreadful** = spaventoso
 * **enable** = abilitare, permettere
-* **haunts** = perseguitare
 * **governess** = governante, istitutrice
+* **estate** = proprietà immobiliare
 * **nefarious** = nefaste
+* **flair** = stile, eleganza
+* **gentry** = aristocrazia terriera
+* **pathos** = sentimento, emozione
 * **hardship** = avversità
 * **stands out** = distinguersi, spiccare
+* **Scorned** = disprezzare
+* **seemingly** = apparentemente
+* **boarding school** = collegio, convitto
+* **haunts** = perseguitare
 * **ahead of its time** = all’avanguardia per i suoi tempi
-* **gentry** = aristocrazia terriera
+* **broad** = ampio
 * **deliver** = realizzare

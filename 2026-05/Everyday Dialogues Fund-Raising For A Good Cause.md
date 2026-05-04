@@ -8,7 +8,7 @@ Un dialogo che mostra una breve conversazione con una ONG alla ricerca di sosteg
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/Everyday%20Dialogues%20Fund-Raising%20For%20A%20Good%20Cause.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/Everyday%20Dialogues%20Fund-Raising%20For%20A%20Good%20Cause.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -47,13 +47,13 @@ The phrase "Every bit of help counts", means that even small amounts of help are
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **meals** = pasti
+* **make a profit** = trarre profitto
+* **in need** = in difficoltà
+* **regarding** = riguardo a
+* **polite** = gentile
 * **request** = richiedere
 * **aiming to** = con l’obiettivo di
-* **make a profit** = trarre profitto
-* **regarding** = riguardo a
-* **collecting** = raccogliere
-* **polite** = gentile
 * **raises money** = raccogliere denaro
-* **in need** = in difficoltà
 * **standard** = tenore
+* **collecting** = raccogliere
+* **meals** = pasti

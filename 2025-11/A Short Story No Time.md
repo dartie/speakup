@@ -8,7 +8,7 @@ Entrare in coma per quindici anni o scontare la pena in prigione? Samson ha pres
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/A%20Short%20Story%20No%20Time.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/A%20Short%20Story%20No%20Time.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -46,20 +46,20 @@ As Samson protested, the room transformed again, this time into a [council house
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **acquitted** = assolvere
+* **throat** = gola
+* **holding his hand** = tenere la mano
+* **victim impact statement** = dichiarazione della vittima
+* **council house** = casa popolare
+* **charges** = accuse
+* **penny** = centesimo
+* **trial** = giudizio
+* **ripped off** = truffare
+* **reckon** = pensare, valutare
+* **regret** = pentirsi
+* **caught** = catturare
 * **unharmed** = illeso
 * **age** = invecchiare
-* **acquitted** = assolvere
-* **holding his hand** = tenere la mano
-* **trial** = giudizio
-* **inmates** = detenuti
-* **caught** = catturare
 * **sighed** = sospirare
-* **ripped off** = truffare
-* **victim impact statement** = dichiarazione della vittima
+* **inmates** = detenuti
 * **costly** = caro, costoso
-* **charges** = accuse
-* **regret** = pentirsi
-* **throat** = gola
-* **council house** = casa popolare
-* **penny** = centesimo
-* **reckon** = pensare, valutare

@@ -8,7 +8,7 @@ Se Bruce Lee fosse ancora vivo, compirebbe 85 anni questo novembre. Maestro di a
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Celebrating%2085%20Years%20Of%20Bruce%20Lee.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Celebrating%2085%20Years%20Of%20Bruce%20Lee.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -37,16 +37,16 @@ To beat someone to a pulp.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **complained** = lamentarsi
 * **painkiller** = antidolorifico
+* **sudden** = improvvisa
+* **sprung up** = sorgere
 * **heat stroke** = colpo di calore
+* **water intake** = assunzione, consumo
 * **Despite** = nonostante
 * **lasting** = duratura
 * **raised** = crescere
-* **swelling** = gonfiore, edema
-* **sudden** = improvvisa
-* **sprung up** = sorgere
-* **complained** = lamentarsi
-* **water intake** = assunzione, consumo
 * **rule** = dominio
 * **drama** = arte drammatica
 * **Hornet** = calabrone
+* **swelling** = gonfiore, edema

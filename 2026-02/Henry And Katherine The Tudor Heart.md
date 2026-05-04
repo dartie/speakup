@@ -8,7 +8,7 @@ Questo gioiello, che reca le iniziali di Enrico VIII e Caterina d’Aragona, ci 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Henry%20And%20Katherine%20The%20Tudor%20Heart.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Henry%20And%20Katherine%20The%20Tudor%20Heart.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -37,23 +37,23 @@ The British Museum now has the chance to buy the Heart so that it can stay in pu
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **raise** = raccogliere fondi
+* **goldsmiths** = orefici
+* **split** = dividere
 * **heart-shaped pendant** = ciondolo a forma di cuore
-* **became engaged** = fidanzarsi (con promessa di matrimonio)
-* **Act** = legge
-* **dazzling** = scintillante
-* **24-carat** = di 24 carati
-* **quest** = ricerca
+* **intertwined** = intrecciate
 * **heir** = erede
 * **lady-in-waiting** = dama di compagnia
-* **raise** = raccogliere fondi
-* **split** = dividere
-* **landowner** = proprietario terriero
-* **unearthed** = dissotterrare
-* **intertwined** = intrecciate
-* **commission** = commissionare
-* **goldsmiths** = orefici
 * **custom-made** = su misura, personalizzati
+* **Act** = legge
 * **reward** = ricompensa
-* **find** = ritrovamento, scoperta
+* **unearthed** = dissotterrare
+* **dazzling** = scintillante
+* **quest** = ricerca
 * **heir apparent** = erede legittimo
+* **became engaged** = fidanzarsi (con promessa di matrimonio)
 * **reign** = regno
+* **landowner** = proprietario terriero
+* **find** = ritrovamento, scoperta
+* **24-carat** = di 24 carati
+* **commission** = commissionare

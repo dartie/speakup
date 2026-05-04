@@ -8,7 +8,7 @@ Fondata nel 2001 e con versioni in più di 200 lingue, l’enciclopedia online c
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/Wikipedia%20The%20Knowledge%20Democracy.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/Wikipedia%20The%20Knowledge%20Democracy.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -57,42 +57,42 @@ Wikimedia has a network of affiliates around the world that organises activities
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **In the late 1990s** = alla fine degli anni ’90
-* **trust and safety** = sicurezza e fiducia
-* **sticks to** = mantenere
-* **stepped up** = aumentare
-* **funding** = finanziamento
-* **to chase headlines** = cacciare notizie da prima pagina
-* **safeguards** = protezioni
-* **former** = ex, precedente
 * **humble** = umile
-* **gatherings** = incontri
-* **laden** = pieno di
-* **go off tangent** = andare fuori tema, divagare
+* **core** = nucleo
+* **legally incorporated** = costituito legalmente
+* **removing** = eliminare
+* **fairly** = giustamente
 * **through** = risolvere
 * **mounts up** = accumularsi
 * **lifelong** = per tutta la vita
-* **reliant** = dipendente da
-* **legally incorporated** = costituito legalmente
-* **be tracked down** = rintracciare
+* **reliable** = affidabile
 * **aim** = obiettivo
+* **funding** = finanziamento
+* **In the late 1990s** = alla fine degli anni ’90
+* **reliant** = dipendente da
+* **safeguards** = protezioni
+* **sourced** = ottenere
+* **push** = spinta
+* **whims** = capricci
+* **trust and safety** = sicurezza e fiducia
+* **go off tangent** = andare fuori tema, divagare
+* **raise funds** = raccogliere fondi
+* **put in place** = implementare
+* **laden** = pieno di
+* **stepped up** = aumentare
 * **liable** = incline
 * **web browser** = navigatore
-* **profit-driven** = motivato dal profitto
-* **champions** = sostenitori, promotori
-* **raise funds** = raccogliere fondi
-* **root out** = scoprire
+* **gatherings** = incontri
 * **submit** = presentare
 * **banners** = annunci
-* **removing** = eliminare
-* **sourced** = ottenere
-* **tricky topic** = argomento delicato
-* **push** = spinta
-* **sibling** = fratelli
+* **former** = ex, precedente
+* **profit-driven** = motivato dal profitto
 * **board of trustees** = consiglio di amministrazione
-* **put in place** = implementare
-* **fairly** = giustamente
+* **be tracked down** = rintracciare
 * **endowment** = donazione
-* **whims** = capricci
-* **core** = nucleo
-* **reliable** = affidabile
+* **sibling** = fratelli
+* **champions** = sostenitori, promotori
+* **sticks to** = mantenere
+* **tricky topic** = argomento delicato
+* **root out** = scoprire
+* **to chase headlines** = cacciare notizie da prima pagina

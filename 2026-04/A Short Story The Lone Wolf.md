@@ -8,7 +8,7 @@ La storia di Wendy non è per nulla convenzionale: rimasta orfana da bambina, è
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/A%20Short%20Story%20The%20Lone%20Wolf.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/A%20Short%20Story%20The%20Lone%20Wolf.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -47,25 +47,25 @@ At that, she walked into the forest and towards the destiny that was set for her
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **confide in** = fidarsi di
-* **scent** = odore
-* **tent** = tenda
-* **belonged** = appartenere
-* **bunch of flowers** = mazzo di fiori
-* **tossing them aside** = mettere da parte
 * **hiked** = fare trekking
-* **trail** = sentiero
 * **wander off** = allontanarsi
+* **tossing them aside** = mettere da parte
 * **to a certain extent** = in un certo senso
-* **bar examination** = esame di abilitazione forense
-* **qualified lawyer** = avvocato abilitato
+* **social occasions** = eventi mondani
+* **tent** = tenda
+* **betray** = tradire
+* **intent on** = decisa a
+* **belonged** = appartenere
 * **riding on her father’s back** = a cavalcioni sulle spalle di suo padre
 * **stroke** = ictus
 * **pack** = branco
 * **den** = tana
-* **social occasions** = eventi mondani
+* **scent** = odore
 * **howling** = ululato
-* **deprived** = privato
-* **betray** = tradire
+* **bunch of flowers** = mazzo di fiori
 * **apologise** = scusarsi
-* **intent on** = decisa a
+* **trail** = sentiero
+* **bar examination** = esame di abilitazione forense
+* **qualified lawyer** = avvocato abilitato
+* **deprived** = privato
+* **confide in** = fidarsi di

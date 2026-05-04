@@ -8,7 +8,7 @@ Le bande dell'esercito britannico non suonano solo in occasione di eventi cerimo
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/British%20Army%20Military%20Music.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/British%20Army%20Military%20Music.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -27,18 +27,18 @@ As Simons explained, some, but not all, military musicians have been involved in
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **on top of that** = in aggiunta a ciò, inoltre
-* **hotspots** = aree di conflitto
-* **light respite** = breve sollievo
-* **pageantry** = sfarzo
-* **Warrant Officer** = maresciallo
+* **Throughout** = nel corso di
+* **boost** = stimolare
 * **smart** = elegante
-* **to raise money and awareness** = raccogliere fondi e sensibilizzare
+* **pageantry** = sfarzo
 * **duties** = compiti, incarichi
 * **overseas** = all’estero
-* **gigs** = esibizioni, eventi
-* **public duties** = funzioni pubbliche
-* **boost** = stimolare
 * **bearskin** = pelle d’orso
-* **Throughout** = nel corso di
+* **gigs** = esibizioni, eventi
+* **light respite** = breve sollievo
+* **on top of that** = in aggiunta a ciò, inoltre
+* **hotspots** = aree di conflitto
+* **Warrant Officer** = maresciallo
+* **public duties** = funzioni pubbliche
+* **to raise money and awareness** = raccogliere fondi e sensibilizzare
 * **fulsome** = senza limiti

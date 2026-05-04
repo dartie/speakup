@@ -8,7 +8,7 @@ Questa attrazione iconica, progettata per l’Esposizione Universale di Chicago 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20Ferris%20Wheel%20Round%20and%20Round.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20Ferris%20Wheel%20Round%20and%20Round.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -29,24 +29,24 @@ Amazingly, Americans did. Over the nineteen weeks following its launch, more tha
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **scrap** = rottami
-* **funfairs** = fiere
-* **make headlines** = fare notizia
-* **to come up with** = inventare, ideare
-* **fee** = tariffa
-* **sketches** = schizzi
 * **despite** = nonostante
-* **took off** = decollare
-* **popped up** = spuntare
-* **boardwalks** = passeggiate sul lungomare
-* **countless** = innumerevoli
-* **riverbanks** = sponde
-* **ingenuity** = ingegno
-* **challenged** = sfidare
-* **daring** = audace
 * **leisure** = tempo libero
+* **boardwalks** = passeggiate sul lungomare
+* **commission** = incarico
+* **daring** = audace
+* **scrap** = rottami
+* **took off** = decollare
+* **ingenuity** = ingegno
+* **make headlines** = fare notizia
+* **fee** = tariffa
+* **funfairs** = fiere
 * **relentlessly** = incessantemente
 * **late-19th century** = fine del XIX secolo
-* **commission** = incarico
+* **challenged** = sfidare
+* **sketches** = schizzi
+* **to come up with** = inventare, ideare
+* **popped up** = spuntare
+* **countless** = innumerevoli
+* **riverbanks** = sponde
 * **Ferris wheels** = ruote panoramiche
 * **cars** = cabine

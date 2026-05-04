@@ -8,7 +8,7 @@ Divertenti e irriverenti, ma anche critiche. Le sue foto uniscono la cultura pop
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/Personal%20Fictions%20Martin%20Parr.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/Personal%20Fictions%20Martin%20Parr.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -47,22 +47,22 @@ If you want to know more about this topic, read the article Martin Parr: The Ri
 
 # Glossary
 * **somehow** = in qualche modo
-* **moved** = emozionare
-* **exploit** = sfruttare
+* **think up** = ideare
+* **fading** = affievolirsi
+* **litter** = spazzatura
+* **quirky** = bizzarri, strambi
+* **driven** = spingere, stimolare
+* **keen** = appassionato
+* **way back** = molto tempo fa
+* **avoid** = evitare
+* **regarded** = considerare
+* **blended** = mescolare
 * **ailing** = in difficoltà
 * **to cut short** = tagliar corto, abbreviare
-* **regarded** = considerare
-* **litter** = spazzatura
-* **driven** = spingere, stimolare
-* **way back** = molto tempo fa
-* **keen** = appassionato
-* **avoid** = evitare
-* **fading** = affievolirsi
-* **shabby** = squallido, trasandato
-* **run-down** = fatiscente, malandato
-* **blended** = mescolare
-* **quirky** = bizzarri, strambi
-* **think up** = ideare
-* **blobs** = macchie, chiazze
 * **to argue my case** = discutere le tue ragioni, perorare la tua causa
 * **run** = gestire
+* **blobs** = macchie, chiazze
+* **exploit** = sfruttare
+* **shabby** = squallido, trasandato
+* **moved** = emozionare
+* **run-down** = fatiscente, malandato

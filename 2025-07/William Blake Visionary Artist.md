@@ -8,7 +8,7 @@ Un precursore del Romanticismo e un fervente sostenitore della libertà spiritua
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/William%20Blake%20Visionary%20Artist.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/William%20Blake%20Visionary%20Artist.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -50,26 +50,26 @@ Blake’s style of illustration was unique. He created a new etching technique, 
 
 # Glossary
 * **claimed** = affermare
-* **Anthem** = inno
-* **mills** = fabbriche
-* **harbinger** = precursore
-* **cage** = gabbia
-* **Flea** = pulce
+* **depraved fancy** = fantasia depravata
 * **crouched** = accovacciarsi
-* **Enlightenment** = Illuminismo
-* **insane** = pazzo
-* **free will** = libero arbitrio
-* **deceptive** = ingannevole
-* **robin redbreast** = pettirosso
-* **dawned** = sorgere, nascere
-* **encourages** = incoraggiare
+* **lines** = versi
+* **set to music** = mettere in musica
+* **mills** = fabbriche
 * **Bow** = arco
 * **engraver** = incisore
-* **depraved fancy** = fantasia depravata
-* **scrape a meagre living** = guadagnarsi a malapena da vivere
 * **dumbstruck** = senza parole
-* **lines** = versi
+* **free will** = libero arbitrio
+* **deceptive** = ingannevole
+* **harbinger** = precursore
+* **dawned** = sorgere, nascere
+* **Flea** = pulce
+* **insane** = pazzo
+* **scrape a meagre living** = guadagnarsi a malapena da vivere
+* **Enlightenment** = Illuminismo
+* **robin redbreast** = pettirosso
 * **in a rage** = in collera
-* **set to music** = mettere in musica
+* **encourages** = incoraggiare
+* **Anthem** = inno
 * **plates** = lastre, tavole
 * **hosier** = produttore di articoli di calzetteria
+* **cage** = gabbia

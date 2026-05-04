@@ -8,7 +8,7 @@ La capitale dell’Australia Occidentale è una delle città più isolate del mo
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/Perth,%20City%20Of%20Light.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/Perth,%20City%20Of%20Light.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -49,44 +49,44 @@ For more information:
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **buzzing** = vivace, vibrante
-* **sailed** = risalire
-* **driven from** = scacciare
-* **granted** = concedere
-* **outnumbered** = superare in numero
-* **isolation** = isolamento
-* **shallow** = poco profondi
-* **settlement** = insediamento
-* **plastered** = tappezzare, riempire
 * **overlooked** = ignorare
-* **developments** = sviluppi
-* **shipped** = spedire
-* **drawn** = attrarre
-* **bushland** = boscaglia, terra incolta
-* **borrowing** = prendere in prestito
-* **boardroom** = sala riunioni
-* **laid-back** = tranquilli
-* **apart** = a sé stante
-* **backwater** = luogo sperduto, isolato
-* **prospectors** = prospettori, cercatori d’oro
-* **unspoiled** = incontaminate
-* **easy-going** = alla mano, rilassata
-* **HMS** = His/Her Majesty’s Ship, imbarcazione della Royal Navy, la marina britannica
-* **worth** = valere la pena
-* **shift** = cambio
-* **boom and bust** = boom e crisi, espansione e contrazione
-* **-ish** = circa, più o meno
 * **runs** = gestire, amministrare
-* **shelter** = rifugio
-* **Town Hall** = municipio
-* **iron ore** = minerali ferrosi
-* **rare earths** = terre rare
-* **high-rise** = grattacieli
-* **supply** = riserva
-* **knocked down** = abbattere
-* **realms** = ambiti
 * **mild** = miti
 * **cosmopolitan hub** = centro cosmopolita
+* **settlement** = insediamento
 * **nicknamed** = soprannominare
+* **buzzing** = vivace, vibrante
+* **worth** = valere la pena
+* **supply** = riserva
+* **sailed** = risalire
+* **prospectors** = prospettori, cercatori d’oro
+* **drawn** = attrarre
+* **boardroom** = sala riunioni
+* **knocked down** = abbattere
+* **outnumbered** = superare in numero
+* **realms** = ambiti
+* **granted** = concedere
+* **shipped** = spedire
+* **Town Hall** = municipio
+* **unspoiled** = incontaminate
+* **easy-going** = alla mano, rilassata
+* **laid-back** = tranquilli
+* **high-rise** = grattacieli
+* **apart** = a sé stante
+* **backwater** = luogo sperduto, isolato
+* **HMS** = His/Her Majesty’s Ship, imbarcazione della Royal Navy, la marina britannica
+* **boom and bust** = boom e crisi, espansione e contrazione
+* **developments** = sviluppi
+* **-ish** = circa, più o meno
+* **shallow** = poco profondi
+* **driven from** = scacciare
+* **rare earths** = terre rare
+* **bushland** = boscaglia, terra incolta
 * **sandy beaches** = spiagge sabbiose
+* **shift** = cambio
+* **plastered** = tappezzare, riempire
+* **shelter** = rifugio
+* **iron ore** = minerali ferrosi
 * **charm** = fascino
+* **isolation** = isolamento
+* **borrowing** = prendere in prestito

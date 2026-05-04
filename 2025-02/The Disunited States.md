@@ -8,7 +8,7 @@ Margaret Atwood riflette sulla politica americana e sul futuro del Paese.
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/The%20Disunited%20States.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/The%20Disunited%20States.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -42,19 +42,19 @@ Like every book, though, there are beginnings and there are endings. And the end
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **full blown** = in piena regola
-* **term** = mandato
-* **usher in** = dare inizio a, aprire la strada
-* **cunning** = astuto, furbo
-* **brainwashed** = fare il lavaggio del cervello
-* **snobby** = snob
-* **stand for** = tollerare
+* **release** = rendere pubblico
 * **health records** = cartelle cliniche
+* **goes on the rampage** = scatenarsi
 * **four years is up** = finire
 * **running mate** = compagno di candidatura
-* **to restrain** = contenere
 * **flipped** = ribaltare
-* **release** = rendere pubblico
+* **snobby** = snob
+* **full blown** = in piena regola
+* **usher in** = dare inizio a, aprire la strada
+* **to restrain** = contenere
 * **gloomy note** = tono cupo
+* **brainwashed** = fare il lavaggio del cervello
+* **stand for** = tollerare
+* **term** = mandato
+* **cunning** = astuto, furbo
 * **in the past tense** = al passato
-* **goes on the rampage** = scatenarsi

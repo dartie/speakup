@@ -8,7 +8,7 @@ A metà agosto di ogni anno, la Terra attraversa la scia della cometa Swift-Tutt
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/Perseid%20Meteor%20Shower%20Shooting%20Stars.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/Perseid%20Meteor%20Shower%20Shooting%20Stars.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,22 +32,22 @@ This year promises to be quite spectacular, with up to a hundred meteors per hou
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **plain old meteor** = meteora ordinaria
-* **backdrop** = sfondo, scenario
-* **dazzling** = abbagliante
-* **shooting stars** = stelle cadenti
 * **rubble** = macerie
-* **Stargazing** = osservazione delle stelle
-* **lie on your back** = sdraiarsi sulla schiena
-* **meteor shower** = sciame meteorico
-* **debris** = detriti
-* **pre-dawn** = prima dell’alba
-* **trailing** = strascicare
-* **Avoid** = evitare
-* **if you are so inclined** = se sei propenso
-* **light up** = illuminare
-* **moon setting** = tramontare della luna
-* **sideways Y** = i greca di lato
-* **wish upon a star** = esprimere un desiderio
+* **plain old meteor** = meteora ordinaria
 * **streaks** = strisce
 * **eponymous** = eponimo
+* **Stargazing** = osservazione delle stelle
+* **if you are so inclined** = se sei propenso
+* **pre-dawn** = prima dell’alba
+* **lie on your back** = sdraiarsi sulla schiena
+* **wish upon a star** = esprimere un desiderio
+* **meteor shower** = sciame meteorico
+* **shooting stars** = stelle cadenti
+* **light up** = illuminare
+* **debris** = detriti
+* **trailing** = strascicare
+* **sideways Y** = i greca di lato
+* **backdrop** = sfondo, scenario
+* **Avoid** = evitare
+* **dazzling** = abbagliante
+* **moon setting** = tramontare della luna

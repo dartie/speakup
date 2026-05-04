@@ -8,7 +8,7 @@ Per decenni i musicisti britannici hanno dominato la scena mondiale, ma l’educ
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/Tomorrow%E2%80%99s%20Musicians%20Education%20in%20Tune.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/Tomorrow%E2%80%99s%20Musicians%20Education%20in%20Tune.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -46,37 +46,37 @@ Based in Camden, London, Tomorrow’s Warriors is a jazz music education and art
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **achievement** = risultato, successo
-* **steadily** = costantemente, regolarmente
-* **Hubs** = centri
-* **GCSE** = certificato di istruzione secondaria (General Certificate of Secondary Education)
 * **cutbacks** = tagli
-* **champion** = sostenere, promuovere
-* **devolved** = trasferire
-* **literacy** = leggere e scrivere
-* **aim** = obiettivo
-* **low-income** = a basso reddito
-* **tuition** = lezioni
-* **poll** = sondaggio
-* **wind up** = finire
-* **for its own sake** = in quanto tale
-* **backlash** = reazione negativa
-* **fulfilment** = realizzazione
-* **to engage** = coinvolgere
-* **troubled** = con problemi
-* **alumni** = ex-alunni
-* **underlying** = sottostante
-* **core** = centrale
-* **deemed** = considerare
-* **skyrocketed** = aumentare rapidamente
-* **the chances are** = è probabile che
-* **to borrow** = prendere in prestito
-* **assessed** = valutare
-* **squeezed out** = escludere
-* **numeracy** = aritmetica
-* **sprung up** = sorgere
-* **patterns** = modelli
-* **And yet** = eppure
 * **accountability** = responsabilità
-* **record labels** = case discografiche
+* **steadily** = costantemente, regolarmente
+* **literacy** = leggere e scrivere
+* **And yet** = eppure
+* **tuition** = lezioni
+* **sprung up** = sorgere
+* **the chances are** = è probabile che
+* **achievement** = risultato, successo
+* **backlash** = reazione negativa
+* **to engage** = coinvolgere
+* **wind up** = finire
+* **troubled** = con problemi
 * **choir** = coro
+* **assessed** = valutare
+* **record labels** = case discografiche
+* **Hubs** = centri
+* **numeracy** = aritmetica
+* **champion** = sostenere, promuovere
+* **alumni** = ex-alunni
+* **squeezed out** = escludere
+* **patterns** = modelli
+* **low-income** = a basso reddito
+* **skyrocketed** = aumentare rapidamente
+* **deemed** = considerare
+* **underlying** = sottostante
+* **for its own sake** = in quanto tale
+* **aim** = obiettivo
+* **poll** = sondaggio
+* **to borrow** = prendere in prestito
+* **devolved** = trasferire
+* **fulfilment** = realizzazione
+* **GCSE** = certificato di istruzione secondaria (General Certificate of Secondary Education)
+* **core** = centrale

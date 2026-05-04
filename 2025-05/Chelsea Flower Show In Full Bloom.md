@@ -8,7 +8,7 @@ La primavera londinese raggiunge il suo culmine in questa mostra orticola, che c
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/Chelsea%20Flower%20Show%20In%20Full%20Bloom.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/Chelsea%20Flower%20Show%20In%20Full%20Bloom.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -30,20 +30,20 @@ From gardening [tips](## "consigli") for small spaces to gardens designed with s
 
 # Glossary
 * **descend upon** = accorrere
-* **whatever size** = indipendentemente dalle dimensioni
-* **it’ll grow on you** = ti piacerà alla fine
-* **repurposed** = riutilizzare
-* **silver-gilt** = argento dorato
-* **of masking** = mascherare
-* **British-sourced produce** = prodotti agricoli di origine britannica
-* **Fine-dining** = alta cucina
-* **to brush up** = rinfrescare
-* **late** = defunta
-* **relocated** = ricollocare
-* **tips** = consigli
-* **budding** = alle prime armi
-* **green-fingered** = avere il pollice verde
 * **onwards** = da quel momento in poi
 * **staple** = evento fisso
-* **to showcase** = mostrare
+* **silver-gilt** = argento dorato
 * **wallflower-like** = simile alla brutta del ballo
+* **tips** = consigli
+* **whatever size** = indipendentemente dalle dimensioni
+* **it’ll grow on you** = ti piacerà alla fine
+* **green-fingered** = avere il pollice verde
+* **late** = defunta
+* **to brush up** = rinfrescare
+* **relocated** = ricollocare
+* **repurposed** = riutilizzare
+* **to showcase** = mostrare
+* **British-sourced produce** = prodotti agricoli di origine britannica
+* **of masking** = mascherare
+* **budding** = alle prime armi
+* **Fine-dining** = alta cucina

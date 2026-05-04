@@ -8,7 +8,7 @@ Un breve racconto sullo scorrere inesorabile del tempo. Per vivere più tranquil
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/A%20Short%20Story%20Time%20Out.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/A%20Short%20Story%20Time%20Out.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -47,22 +47,22 @@ The [brochure](## "opuscolo") was for a [retreat](## "ritiro") called Time Out.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **growth spurt** = crescita improvvisa, scatto di crescita
-* **figure** = cifra
-* **attachment** = attaccamento, legame
-* **pocket watch** = orologio da taschino
-* **life expectancy** = aspettativa di vita
-* **run out** = terminare
-* **tick off** = spuntare, detrarre
-* **voicing** = dare voce, esprimere
 * **retreat** = ritiro
-* **in grief** = dal dolore
-* **brochure** = opuscolo
-* **purposefully** = intenzionalmente
+* **attachment** = attaccamento, legame
 * **shrinking** = restringere
-* **relieved** = alleviare
-* **grown out of** = smettere, abbandonare qualcosa crescendo
+* **life expectancy** = aspettativa di vita
+* **figure** = cifra
+* **pocket watch** = orologio da taschino
 * **sanitation** = igiene
 * **distressed** = angustiata, tormentata
+* **run out** = terminare
+* **in grief** = dal dolore
+* **tick off** = spuntare, detrarre
+* **purposefully** = intenzionalmente
+* **growth spurt** = crescita improvvisa, scatto di crescita
 * **timeless** = senza tempo, atemporale
 * **reluctantly** = svogliatamente
+* **relieved** = alleviare
+* **grown out of** = smettere, abbandonare qualcosa crescendo
+* **voicing** = dare voce, esprimere
+* **brochure** = opuscolo

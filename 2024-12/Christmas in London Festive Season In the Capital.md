@@ -8,7 +8,7 @@ In occasione delle festività natalizie, Londra offre innumerevoli attività all
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Christmas%20in%20London%20Festive%20Season%20In%20the%20Capital.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Christmas%20in%20London%20Festive%20Season%20In%20the%20Capital.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,25 +32,25 @@ No trip to London at this time would be complete without a visit to the theatre 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **skating rinks** = piste di pattinaggio sul ghiaccio
-* **bursting with** = pieni di
-* **baubles** = palle natalizie
-* **overflowing** = traboccanti
-* **former** = precedente
-* **observation wheel** = ruota panoramica
-* **Mass** = messa
-* **Christmas Eve** = vigilia di Natale
-* **roast turkey** = tacchino arrosto
+* **stalls** = bancarelle
+* **chalets** = casette
+* **stocking fillers** = regali da mettere nelle calze natalizie
 * **to carol** = cantare canti natalizi
 * **mulled wine** = vin brulé
-* **chalets** = casette
-* **trimmings** = guarnizioni
-* **fun-packed** = piene di divertimento
-* **glittering** = brillanti
-* **crafts goods** = articoli di artigianato
 * **scheme** = piano
-* **bows** = fiocchi
-* **stocking fillers** = regali da mettere nelle calze natalizie
+* **baubles** = palle natalizie
 * **spinning mirror balls** = sfere specchiate rotanti
-* **stalls** = bancarelle
+* **crafts goods** = articoli di artigianato
+* **bows** = fiocchi
+* **overflowing** = traboccanti
+* **former** = precedente
 * **Grotto** = grotta
+* **Mass** = messa
+* **Christmas Eve** = vigilia di Natale
+* **fun-packed** = piene di divertimento
+* **skating rinks** = piste di pattinaggio sul ghiaccio
+* **glittering** = brillanti
+* **bursting with** = pieni di
+* **observation wheel** = ruota panoramica
+* **roast turkey** = tacchino arrosto
+* **trimmings** = guarnizioni

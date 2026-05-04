@@ -8,7 +8,7 @@ Dimenticati delle tradizioni natalizie! Quest’anno, celebra le Feste con un pa
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Festivus%20An%20Austere%20Christmas.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Festivus%20An%20Austere%20Christmas.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -30,18 +30,18 @@ At the dinner, everyone must participate in the [Airing](## "messa in onda, tras
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **uninspiring** = deludente
+* **joy** = gioia, felicità
+* **lavish meal** = lauto pasto
 * **Airing** = messa in onda, trasmissione
-* **turkey** = tacchino
-* **Strike** = sciopero
-* **Feats** = imprese
 * **right up your street** = fa al caso tuo, è nelle tue corde
 * **emptying** = svuotare
+* **Grievances** = lamentele, rancori
+* **Feats** = imprese
+* **meatloaf** = polpettone
+* **partake** = partecipare
+* **cat litter** = lettiera per gatti
 * **wrestled to the ground** = lottare fino a buttare a terra
 * **annoyed** = infastidire, irritare
-* **joy** = gioia, felicità
-* **Grievances** = lamentele, rancori
-* **meatloaf** = polpettone
-* **cat litter** = lettiera per gatti
-* **lavish meal** = lauto pasto
-* **uninspiring** = deludente
-* **partake** = partecipare
+* **Strike** = sciopero
+* **turkey** = tacchino

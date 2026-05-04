@@ -8,7 +8,7 @@ Con l’arrivo dell’autunno, le foreste decidue degli Stati Uniti offrono uno 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/Fall%20Foliage%20US%20Nature.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/Fall%20Foliage%20US%20Nature.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -26,19 +26,19 @@ Not all trees change colour, as some are [evergreen](## "sempreverdi"). These tr
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **leaf-peeping** = spiare le foglie
-* **put on a magnificent display** = mettere in mostra
-* **Deciduous** = decidui
-* **oak** = quercia
-* **deer** = cervi
-* **evergreen** = sempreverdi
 * **beech** = faggio
-* **raccoons** = procioni
-* **opossums** = didelfidi
 * **porcupines** = istrici
-* **fiery** = focose
-* **hues** = tonalità
 * **birch** = betulla
 * **bare** = spogli
+* **raccoons** = procioni
+* **opossums** = didelfidi
+* **put on a magnificent display** = mettere in mostra
+* **fiery** = focose
+* **hues** = tonalità
+* **oak** = quercia
 * **grasslands** = praterie
 * **stretch up** = estendersi
+* **evergreen** = sempreverdi
+* **Deciduous** = decidui
+* **deer** = cervi
+* **leaf-peeping** = spiare le foglie

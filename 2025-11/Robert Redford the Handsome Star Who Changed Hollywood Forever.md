@@ -8,7 +8,7 @@ Dopo il debutto in una Hollywood che preferiva il fascino rude, diventò una ste
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Robert%20Redford%20the%20Handsome%20Star%20Who%20Changed%20Hollywood%20Forever.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Robert%20Redford%20the%20Handsome%20Star%20Who%20Changed%20Hollywood%20Forever.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,39 +35,39 @@ Published in The Guardian on 16 September 2025. Reprinted with permission. 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **scholarship** = borsa di studio
-* **leanings** = inclinazioni
-* **flabbily** = senza convinzione
-* **climbing** = scalata
-* **starred in Barefoot in the Park opposite** = recitare accanto a
+* **enrolled** = iscriversi
+* **made it big** = avere successo
+* **off-beat** = anticonvenzionale
 * **backlit** = retroilluminato
-* **snugly** = perfettamente
-* **verbose** = prolisso
+* **hint** = insinuare
+* **indulge** = dedicarsi
+* **ill at ease** = a disagio
+* **scholarship** = borsa di studio
+* **scaled down** = ridurre
 * **lack of attendance** = assenza, mancata frequenza
 * **untrumpeted** = a cui non è stata fatta pubblicità
-* **outlaws** = fuorilegge
-* **string** = serie
-* **exposé** = denuncia
-* **crusty** = burbero
-* **fleshed out** = sviluppare, dare forma
-* **off-beat** = anticonvenzionale
-* **assignments** = incarichi, lavori
-* **scaled down** = ridurre
-* **a trifle** = un po’
-* **ill at ease** = a disagio
-* **wry wit** = ironia pungente
-* **hint** = insinuare
-* **blessed** = benedire
-* **made it big** = avere successo
-* **scam artists** = truffatori
-* **indulge** = dedicarsi
-* **faded denims** = jeans sbiaditi
 * **grizzled** = brizzolato
-* **castaway seaman** = marinaio naufrago
-* **big game hunter** = esperto di caccia grossa
-* **nuance** = sfumatura
 * **realisation** = presa di coscienza
-* **enrolled** = iscriversi
+* **outlaws** = fuorilegge
+* **scam artists** = truffatori
+* **glossy** = patinato, delle grandi produzioni
+* **snugly** = perfettamente
+* **castaway seaman** = marinaio naufrago
+* **climbing** = scalata
 * **Nonetheless** = ciononostante
 * **newcomer** = debuttante
-* **glossy** = patinato, delle grandi produzioni
+* **exposé** = denuncia
+* **assignments** = incarichi, lavori
+* **crusty** = burbero
+* **nuance** = sfumatura
+* **starred in Barefoot in the Park opposite** = recitare accanto a
+* **string** = serie
+* **leanings** = inclinazioni
+* **flabbily** = senza convinzione
+* **verbose** = prolisso
+* **wry wit** = ironia pungente
+* **big game hunter** = esperto di caccia grossa
+* **faded denims** = jeans sbiaditi
+* **a trifle** = un po’
+* **fleshed out** = sviluppare, dare forma
+* **blessed** = benedire

@@ -8,7 +8,7 @@ Anche le tradizioni più semplici e divertenti hanno un'origine storica affascin
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/April%20Fools%E2%80%99%20Day%20Just%20Joking.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/April%20Fools%E2%80%99%20Day%20Just%20Joking.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -25,37 +25,36 @@ Different countries developed unique traditions for April [Fools’](## "sciocch
 
 ## WHAT’S SO FUNNY?
 Not everyone loves April [Fools’](## "sciocchi, stupidi") Day, though. Pranks can feel annoying or even mean, especially if they embarrass someone or go too far. Besides, in the age of the internet, April [Fools’](## "sciocchi, stupidi") jokes sometimes add to the [flood](## "inondazione") of fake news, leaving people disorientated or [misinformed](## "disinformata"). April Fools' Day has, in fact, [swiftly](## "rapidamente") evolved in recent times, with the rise of social media and mass communication amplifying its [reach](## "portata"). What was once a tradition of personal [pranks](## "scherzi") has now expanded to large-scale jokes, often shared by [media outlets](## "mezzi di comunicazione") and online platforms, making it a global event where [pranks](## "scherzi") can go viral.
- 
 
 --------------
 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **pranks** = scherzi
-* **shouting** = gridare
-* **further** = più lontano
-* **flood** = inondazione
-* **glimpse** = barlume, assaggio
-* **vain** = vanitoso
-* **cock** = gallo
+* **gullible** = credulone, boccalone
 * **tail** = coda
-* **media outlets** = mezzi di comunicazione
-* **restored** = ristabilire
-* **meaningless** = insensato
+* **further** = più lontano
+* **mockery** = burle
+* **fox** = volpe
 * **spread** = diffondersi
+* **flood** = inondazione
 * **misinformed** = disinformata
 * **swiftly** = rapidamente
-* **linking** = collegare
-* **trait** = caratteristica
+* **media outlets** = mezzi di comunicazione
 * **Fools’** = sciocchi, stupidi
-* **joyful** = allegro
-* **mockery** = burle
-* **tricked** = ingannare
+* **shouting** = gridare
 * **to catch** = catturare
-* **gullible** = credulone, boccalone
 * **reach** = portata
-* **fox** = volpe
+* **pranks** = scherzi
+* **joyful** = allegro
+* **linking** = collegare
+* **vain** = vanitoso
 * **Flemish** = fiammingo
+* **meaningless** = insensato
 * **to be backdated** = retrodatare
 * **pin** = attaccare
+* **trait** = caratteristica
+* **restored** = ristabilire
+* **glimpse** = barlume, assaggio
+* **cock** = gallo
+* **tricked** = ingannare

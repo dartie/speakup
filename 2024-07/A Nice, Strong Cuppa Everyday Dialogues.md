@@ -8,7 +8,7 @@ Ecco il vocabolario necessario per preparare e servire un'ottima tazza di tè.
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/A%20Nice,%20Strong%20Cuppa%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/A%20Nice,%20Strong%20Cuppa%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -43,10 +43,10 @@ To steep means to leave the tea longer in the hot water [to flavour](## "insapor
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **I fancy** = avere voglia di
+* **to flavour** = insaporire
+* **greeting** = saluto
 * **shortened** = accorciare
 * **idiom** = frase idiomatica
 * **handing over** = dare a
 * **short for** = diminutivo di
-* **I fancy** = avere voglia di
-* **to flavour** = insaporire
-* **greeting** = saluto

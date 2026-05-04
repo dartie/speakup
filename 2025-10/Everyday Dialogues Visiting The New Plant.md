@@ -8,7 +8,7 @@ Impariamo alcune espressioni utili da utilizzare con i colleghi sul posto di lav
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/Everyday%20Dialogues%20Visiting%20The%20New%20Plant.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/Everyday%20Dialogues%20Visiting%20The%20New%20Plant.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -43,9 +43,9 @@ To break (for lunch) means to stop working for a period of time.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **facility** = struttura
-* **goods** = merce, prodotti
-* **Same here** = anch’io
 * **lands** = atterrare
 * **purpose** = scopo
 * **developed** = sviluppata, progettata
+* **facility** = struttura
+* **goods** = merce, prodotti
+* **Same here** = anch’io

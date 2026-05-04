@@ -8,7 +8,7 @@ Un dialogo pratico tra un fornitore e un cliente per imparare il vocabolario e l
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Placing%20an%20Order%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Placing%20an%20Order%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -46,12 +46,12 @@ When a payment has cleared, it means that the transaction has been processed and
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **file** = fascicolo
-* **willing** = disposto
-* **dispatch** = spedire
-* **ink** = inchiostro
-* **goods** = merce
-* **pre-arranged** = prestabiliti
 * **printer ribbons** = cartucce della stampante
 * **certainly do** = certamente sì
+* **file** = fascicolo
 * **supplier** = fornitore
+* **ink** = inchiostro
+* **goods** = merce
+* **dispatch** = spedire
+* **willing** = disposto
+* **pre-arranged** = prestabiliti

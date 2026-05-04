@@ -8,7 +8,7 @@ Nei quaranta giorni che precedono la Pasqua, l’usanza è quella di rinunciare 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/Lent%20What%20Are%20You%20Giving%20Up.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/Lent%20What%20Are%20You%20Giving%20Up.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,22 +35,22 @@ Today, [Lent](## "Quaresima") often survives less as a religious obligation than
 
 # Glossary
 * **Lent** = Quaresima
-* **Shrove Tuesday** = Martedì Grasso (to shrive: confessare)
-* **Early on** = all’inizio
-* **fasting** = digiuno
-* **reflect** = riflettere
-* **banned** = vietare
+* **carbs** = carboidrati
 * **sins** = peccati
-* **forbidden** = vietare
 * **CE** = d.C. (Common Era)
-* **sundown** = tramonto, calar del sole
-* **dairy** = latticini
+* **banned** = vietare
+* **roots** = radici
+* **lengthen** = allungare
+* **Shrove Tuesday** = Martedì Grasso (to shrive: confessare)
+* **forbidden** = vietare
+* **use up** = consumare, usare completamente
 * **aim** = obiettivo, scopo
 * **embraced** = adottare, accogliere
-* **carbs** = carboidrati
-* **lengthen** = allungare
-* **households** = famiglie, case
-* **use up** = consumare, usare completamente
-* **spread** = diffondersi, espandersi
 * **giving something up** = rinunciare a qualcosa, smettere
-* **roots** = radici
+* **Early on** = all’inizio
+* **fasting** = digiuno
+* **sundown** = tramonto, calar del sole
+* **dairy** = latticini
+* **reflect** = riflettere
+* **households** = famiglie, case
+* **spread** = diffondersi, espandersi

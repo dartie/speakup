@@ -8,7 +8,7 @@ Per distinguere la miriade di suoni emessi dagli animali, in inglese si ricorre 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/Animal%20Speak%20Beastly%20Language.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/Animal%20Speak%20Beastly%20Language.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -28,7 +28,7 @@ In the wild, owls ‘hoot’, and frogs or [toads](## "rospi")‘croak’ or ‘
 Species that [lack](## "mancare di") vocal chords can also communicate. Insects emit a [wide array](## "ampia varietà") of sounds called ‘stridulations’ and ‘[raspings](## "suoni striduli")’. Stridulation results from [rubbing](## "strofinare") together certain body parts: [grasshoppers](## "cavallette") and [crickets](## "grilli") produce a sound by [scraping](## "sfregare, raschiare") their legs with their wings. [Beetles](## "scarabei") make a rasping sound by [rubbing](## "strofinare") a body part against a hard surface. Bees produce a distinctive [buzzing](## "ronzare") sound through their fast wing movements. 
 
 ## EVOCATIVE 
-Snakes ‘hiss’ and ‘[rattle](## "far sbatacchiare")’ [to warn off](## "avvertire, mettere in guardia") an intruder; hissing happens when air passes through a snake’s [windpipes](## "trachea"); [[rattle](## "far sbatacchiare")snakes](## "serpenti a sonagli") warn their enemies by vibrating the segments at the end of their tails. Whales, notably [humpback whales](## "megattera"), communicate through their well-known ‘songs’, [eerie](## "inquietante") vocal sequences that can go on for hours, and are apparently produced by a special [voice box](## "laringe").  
+Snakes ‘hiss’ and ‘[rattle](## "far sbatacchiare")’ [to warn off](## "avvertire, mettere in guardia") an intruder; hissing happens when air passes through a snake’s [windpipes](## "trachea"); [rattle](## "far sbatacchiare")snakes warn their enemies by vibrating the segments at the end of their tails. Whales, notably [humpback whales](## "megattera"), communicate through their well-known ‘songs’, [eerie](## "inquietante") vocal sequences that can go on for hours, and are apparently produced by a special [voice box](## "laringe").  
 Each species of the animal kingdom has a remarkable communication system that reflects the complexity of its social structure. Each sound that an animal makes carries its own meaning, depending on its intention. A sound can express a wide variety of emotions, from excitement to [distress](## "angoscia")to [contentment](## "contentezza"), and be used in various ways: to signal danger, attract potential mates, assert dominance, or [claim](## "rivendicare") territory.
 **ANIMAL**
 **ITALIAN**
@@ -113,37 +113,37 @@ cantare
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **whistle** = fischiare
+* **howl** = ululare
+* **purr** = fare le fusa
+* **buzzing** = ronzare
+* **claim** = rivendicare
+* **toads** = rospi
+* **rubbing** = strofinare
+* **grasshoppers** = cavallette
+* **to warn off** = avvertire, mettere in guardia
+* **voice box** = laringe
 * **contentment** = contentezza
-* **rumble** = brontolare
+* **grunt** = grugnire
 * **scraping** = sfregare, raschiare
+* **windpipes** = trachea
+* **come up** = inventarsi
+* **rumble** = brontolare
+* **lack** = mancare di
+* **distress** = angoscia
+* **wide range** = ampia gamma
+* **tweet'** = cinguettare
+* **crickets** = grilli
+* **eerie** = inquietante
+* **joy** = gioia
+* **growl** = ringhiare
+* **wide array** = ampia varietà
 * **Beetles** = scarabei
 * **rattle** = far sbatacchiare
-* **voice box** = laringe
-* **howl** = ululare
-* **humpback whales** = megattera
-* **come up** = inventarsi
-* **wide array** = ampia varietà
-* **grasshoppers** = cavallette
 * **rattlesnakes** = serpenti a sonagli
-* **sharp** = acuti
-* **snort** = sbuffare
-* **lack** = mancare di
-* **crickets** = grilli
-* **whistle** = fischiare
-* **rubbing** = strofinare
-* **buzzing** = ronzare
-* **windpipes** = trachea
-* **wide range** = ampia gamma
-* **growl** = ringhiare
-* **purr** = fare le fusa
-* **weak** = debole
+* **humpback whales** = megattera
 * **trunk** = proboscide
-* **distress** = angoscia
-* **claim** = rivendicare
-* **tweet'** = cinguettare
-* **grunt** = grugnire
-* **toads** = rospi
+* **sharp** = acuti
+* **weak** = debole
+* **snort** = sbuffare
 * **raspings** = suoni striduli
-* **to warn off** = avvertire, mettere in guardia
-* **joy** = gioia
-* **eerie** = inquietante

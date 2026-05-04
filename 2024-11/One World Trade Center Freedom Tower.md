@@ -8,7 +8,7 @@ Una nuova torre è apparsa dieci anni fa sullo skyline di Manhattan, nello stess
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/One%20World%20Trade%20Center%20Freedom%20Tower.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/One%20World%20Trade%20Center%20Freedom%20Tower.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,22 +33,22 @@ The One World Observatory on the 100th, 101st and 102nd floors offers the highes
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **BASE jump** = fare base jumping (Building Antenna Span Earth)
-* **rubble** = macerie
-* **removed** = rimuovere
-* **topped** = sormontare
-* **tightrope** = corda
+* **mast** = asta
+* **safety rope** = corda di sicurezza
 * **Toymaker** = fabbricante di giocattoli
+* **death-defying** = che sfida la morte
+* **due to** = a causa di
+* **concerns** = preoccupazioni
+* **features** = caratteristiche
+* **hub** = centro
+* **spire** = guglia
+* **BASE jump** = fare base jumping (Building Antenna Span Earth)
+* **steel** = acciaio
+* **removed** = rimuovere
+* **Overlooking** = dare su, guardare su
 * **nicknamed** = soprannominato
 * **climbed up** = scalare
-* **due to** = a causa di
-* **features** = caratteristiche
-* **safety rope** = corda di sicurezza
+* **rubble** = macerie
+* **tightrope** = corda
 * **utterly** = completamente
-* **steel** = acciaio
-* **concerns** = preoccupazioni
-* **mast** = asta
-* **Overlooking** = dare su, guardare su
-* **spire** = guglia
-* **death-defying** = che sfida la morte
-* **hub** = centro
+* **topped** = sormontare

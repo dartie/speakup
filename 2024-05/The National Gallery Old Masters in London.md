@@ -8,7 +8,7 @@ La magnifica galleria d’arte di Londra celebra il suo bicentenario. È un’oc
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/The%20National%20Gallery%20Old%20Masters%20in%20London.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/The%20National%20Gallery%20Old%20Masters%20in%20London.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,19 +35,19 @@ www.nationalgallery.org.uk
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **Hay Wain** = carro da fieno
-* **dubbed** = denominare
-* **aim** = obbiettivo
-* **from all walks of life** = di tutti i ceti sociali
-* **premises** = sedi
-* **housemaid** = donna delle pulizie
 * **insurance broker** = broker assicurativo
+* **by appointment** = su appuntamento
+* **housemaid** = donna delle pulizie
+* **Hay Wain** = carro da fieno
+* **aim** = obbiettivo
+* **premises** = sedi
+* **assembled** = mettere insieme
+* **Dutch and Flemish** = olandesi e fiamminghe
+* **from all walks of life** = di tutti i ceti sociali
 * **asset** = bene
 * **trustees** = membri del consiglio di amministrazione
-* **Dutch and Flemish** = olandesi e fiamminghe
-* **venues** = strutture, sedi
-* **underwriter** = agente assicuratore
-* **assembled** = mettere insieme
-* **by appointment** = su appuntamento
-* **to secure** = assicurasi, salvaguardare
 * **showcase** = mostrare
+* **dubbed** = denominare
+* **underwriter** = agente assicuratore
+* **to secure** = assicurasi, salvaguardare
+* **venues** = strutture, sedi

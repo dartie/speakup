@@ -8,7 +8,7 @@ Una semplice gita in barca viene ostacolata dal maltempo, dal destino e dalla gu
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/To%20The%20Lighthouse%20by%20Virginia%20Woolf.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/To%20The%20Lighthouse%20by%20Virginia%20Woolf.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -53,21 +53,21 @@ Described by Woolf as a “psychological poem”, To the Lighthouse examines the
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **hardship** = difficoltà
+* **argue** = discutere
 * **childbirth** = parto
-* **steers** = manovrare il timone
-* **striking** = di forte impatto
-* **nearby** = vicino
-* **weather forecast** = previsioni meteo
-* **compromise** = compromesso
 * **empty** = vuota
+* **steers** = manovrare il timone
 * **praise** = elogio
 * **loss** = perdita
-* **approaches** = approcci
-* **learn** = apprendere
+* **plot** = trama
 * **stream-of-consciousness** = flusso di coscienza
 * **sail** = navigare
+* **approaches** = approcci
+* **compromise** = compromesso
+* **hardship** = difficoltà
 * **warns** = avvertire
+* **nearby** = vicino
+* **weather forecast** = previsioni meteo
+* **learn** = apprendere
 * **skilfully** = abilmente
-* **plot** = trama
-* **argue** = discutere
+* **striking** = di forte impatto

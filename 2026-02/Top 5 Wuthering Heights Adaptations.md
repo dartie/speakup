@@ -8,7 +8,7 @@ Il romanzo di Emily Brontë ha ispirato numerosi artisti: scopriamo alcune delle
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Top%205%20Wuthering%20Heights%20Adaptations.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Top%205%20Wuthering%20Heights%20Adaptations.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -41,16 +41,16 @@ If you want to know more about this topic, read the articles Emerald Fennell: T
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **moors** = brughiere
-* **played down** = minimizzare, ridimensionare
-* **setting** = ambientazione
 * **period costumes** = costumi d’epoca
 * **haunting** = evocativa
 * **address** = trattare
-* **dirt** = fango
+* **played down** = minimizzare, ridimensionare
 * **line** = battuta
-* **core** = principali
 * **easy on the eye** = gradevole alla vista, bello da vedere
 * **chorus** = ritornello
 * **plot** = trama
 * **right through to** = fino a
+* **dirt** = fango
+* **moors** = brughiere
+* **core** = principali
+* **setting** = ambientazione

@@ -8,7 +8,7 @@ Gatti giganti e ravanelli sproporzionati, acconciature orrende, secchiate di pol
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Weird%20Christmas%20Top%2010.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Weird%20Christmas%20Top%2010.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -52,41 +52,41 @@ For centuries, most people in Japan didn’t celebrate Christmas, or eat anythin
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **broomsticks** = manici delle scope
-* **punishes** = punire
-* **pooping** = defecare
-* **revolve around** = girare attorno a
-* **depriving** = privare
-* **chimney** = camino
-* **skull** = teschio
-* **ribbons** = nastri
-* **mild** = leggera
-* **witches** = streghe
-* **spider webs** = ragnatele
 * **taking people hostage** = prendere in ostaggio
-* **stockings** = calze
-* **rewarding** = premiare
-* **log** = tronco
-* **feed** = nutrire
-* **pumpkins** = zucche
-* **whether modern or** = sia... sia
+* **nefarious** = nefasti
 * **weird** = strane
 * **Christmas Eve** = Vigilia di Natale
-* **rotten** = marce
-* **pine cone** = pigna
-* **carving** = intagliare
-* **buckets** = secchi
-* **radishes** = ravanelli
-* **aka** = alias (acronimo di also known as)
-* **glitter** = brillantini
-* **brooms** = scope
 * **bishop** = vescovo
-* **Lads** = ragazzi
-* **blanket** = coperta
-* **nefarious** = nefasti
-* **reindeer** = renna
-* **beings** = esseri
-* **the uglier, the better** = più è brutto, meglio è
-* **coal** = carbone
-* **Yule** = Natale
 * **sheet** = lenzuolo
+* **glitter** = brillantini
+* **chimney** = camino
+* **log** = tronco
+* **pooping** = defecare
+* **feed** = nutrire
+* **broomsticks** = manici delle scope
+* **revolve around** = girare attorno a
+* **the uglier, the better** = più è brutto, meglio è
+* **brooms** = scope
+* **spider webs** = ragnatele
+* **rotten** = marce
+* **beings** = esseri
+* **rewarding** = premiare
+* **ribbons** = nastri
+* **pumpkins** = zucche
+* **stockings** = calze
+* **punishes** = punire
+* **Yule** = Natale
+* **mild** = leggera
+* **whether modern or** = sia... sia
+* **coal** = carbone
+* **skull** = teschio
+* **blanket** = coperta
+* **carving** = intagliare
+* **aka** = alias (acronimo di also known as)
+* **reindeer** = renna
+* **pine cone** = pigna
+* **radishes** = ravanelli
+* **buckets** = secchi
+* **witches** = streghe
+* **depriving** = privare
+* **Lads** = ragazzi

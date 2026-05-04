@@ -8,7 +8,7 @@ Il nostro approccio nei confronti dei problemi legati al cambiamento climatico �
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/The%20Language%20of%20Transition%20New%20and%20Sustainable%20Meanings.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/The%20Language%20of%20Transition%20New%20and%20Sustainable%20Meanings.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -41,37 +41,37 @@ This is why, the next time you hear a politician talking confidently about Afric
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **rate** = ritmo
+* **equity** = equità
+* **otherness** = alterità
+* **roofs** = tetti
+* **coat** = strato
+* **dirt** = sporco, sporcizia
 * **whitewashing** = insabbiamento
 * **undoing** = disfare
-* **beware!** = attenzione!
-* **roofs** = tetti
-* **equity** = equità
-* **dirt** = sporco, sporcizia
-* **equality** = uguaglianza
-* **leapfrogging** = saltare le tappe
-* **level playing field** = parità di condizioni
-* **shrinking** = ridurre
-* **repurpose** = riconvertire
-* **treaties** = trattati
-* **restored** = ripristinare, restaurare
-* **reaching out** = avvicinarsi
-* **bends down** = chinarsi
-* **fairer** = più giuste
-* **deplete** = esaurire
-* **whitewash** = imbiancare
-* **coat** = strato
-* **concealing** = occultare
-* **landfill sites** = discariche
-* **driven out** = espellere, allontanare
+* **aimed at** = avere come obiettivo
+* **abilities** = capacità
 * **are under way** = essere in corso
-* **flood** = ondata (lett. inondazione)
-* **avoid** = evitare
+* **well-being** = benessere
 * **seeks** = cercare di
 * **soil** = suolo, terra
+* **driven out** = espellere, allontanare
+* **leapfrogging** = saltare le tappe
 * **sensitive** = sensibile
-* **well-being** = benessere
+* **concealing** = occultare
+* **repurpose** = riconvertire
+* **beware!** = attenzione!
+* **reaching out** = avvicinarsi
+* **equality** = uguaglianza
+* **fairer** = più giuste
+* **deplete** = esaurire
+* **landfill sites** = discariche
+* **flood** = ondata (lett. inondazione)
+* **restored** = ripristinare, restaurare
+* **bends down** = chinarsi
+* **level playing field** = parità di condizioni
+* **rate** = ritmo
+* **whitewash** = imbiancare
 * **waste management** = gestione dei rifiuti
-* **aimed at** = avere come obiettivo
-* **otherness** = alterità
-* **abilities** = capacità
+* **shrinking** = ridurre
+* **avoid** = evitare
+* **treaties** = trattati

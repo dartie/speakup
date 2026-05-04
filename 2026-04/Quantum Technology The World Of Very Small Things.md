@@ -8,7 +8,7 @@ Per molti, la fisica quantistica è un mistero, qualcosa di difficile comprensio
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/Quantum%20Technology%20The%20World%20Of%20Very%20Small%20Things.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/Quantum%20Technology%20The%20World%20Of%20Very%20Small%20Things.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -55,22 +55,22 @@ If you want to know more about this topic, read the article Schrödinger’s Cat
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **smarter** = più intelligenti, più efficienti
+* **lump** = porzione
 * **trace** = traccia
-* **prone** = incline
-* **room-temperature** = a temperatura ambiente
-* **in the short term** = in tempi brevi
 * **outlining** = sottolineare
-* **behaviour** = comportamento
-* **building blocks** = componenti di base
-* **weather forecasting** = previsioni meteo
 * **beam splitters** = divisori di fascio
 * **it’s well worth** = valere la pena
-* **work in progress** = lavoro in corso
 * **waves** = onde
-* **MRI machines** = macchine per la risonanza magnetica (Magnetic Resonance Imaging)
-* **qubits** = bit quantistici
+* **prone** = incline
+* **work in progress** = lavoro in corso
+* **building blocks** = componenti di base
 * **splits** = dividersi
 * **shows its hand** = mostrare le proprie carte, rivelare le proprie intenzioni
+* **smarter** = più intelligenti, più efficienti
+* **weather forecasting** = previsioni meteo
+* **MRI machines** = macchine per la risonanza magnetica (Magnetic Resonance Imaging)
+* **qubits** = bit quantistici
+* **room-temperature** = a temperatura ambiente
+* **in the short term** = in tempi brevi
 * **addressed** = affrontare
-* **lump** = porzione
+* **behaviour** = comportamento

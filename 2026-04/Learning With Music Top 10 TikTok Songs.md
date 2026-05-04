@@ -8,7 +8,7 @@ Oggi, sono le reti sociali a decidere il successo di una canzone, non importa se
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/Learning%20With%20Music%20Top%2010%20TikTok%20Songs.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/Learning%20With%20Music%20Top%2010%20TikTok%20Songs.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -107,49 +107,49 @@ Fergal Kavanagh runs the website www.tuneintoenglish.com, the web’s largest f
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **outfits** = abbinamenti
-* **out of the blue** = all’improvviso, dal nulla
-* **keep you down** = reprimere, trattenere
-* **overlooked** = trascurare, ignorare
-* **copycat** = copie, imitatori
-* **molasses** = melassa
-* **release** = uscita
-* **to no avail** = inutilmente
-* **shot into** = balzare, schizzare in
-* **rotten** = marcia
-* **deceptively** = apparentemente
-* **Harness** = incanalare
-* **split** = dividere
 * **make a deal** = fare un patto
-* **swap** = scambiare
-* **quirky** = stravaganti
-* **spawned** = dare origine a
-* **harness** = imbracatura, cintura
-* **resonated with** = entrare in sintonia con
-* **biggest-selling** = più venduto
-* **snippets** = frammenti
-* **savvy** = astuti
-* **bakery** = panetteria
+* **overlooked** = trascurare, ignorare
+* **disbanded** = sciogliersi
 * **sped-up** = accelerata
-* **hopped on the beam** = unirsi al trend
-* **claimed** = affermare
-* **Danish** = danese
-* **slew** = gran quantità
+* **out of the blue** = all’improvviso, dal nulla
 * **deserved** = meritare
-* **mouthing** = muovere le labbra, fare finta di cantare
-* **shuffle dance** = danza shuffle
-* **Strumming** = strimpellare
+* **resonated with** = entrare in sintonia con
 * **lipsynching** = cantare in playback, sincronizzare le labbra
 * **delighted** = entusiasta
-* **bill and coo birds** = uccelli che strofinano il becco e tubano
-* **disbanded** = sciogliersi
-* **belated** = tardivo
+* **Harness** = incanalare
+* **molasses** = melassa
 * **prompted** = provocare
-* **swinging** = oscillare
-* **right to the core** = fino al midollo
-* **bluebirds** = uccellini
-* **resume** = riprendere
-* **Brat** = monella, viziata, sfacciata
-* **rushed** = precipitarsi
+* **split** = dividere
 * **swept through** = diffondersi
+* **slew** = gran quantità
+* **belated** = tardivo
+* **bakery** = panetteria
+* **harness** = imbracatura, cintura
+* **hopped on the beam** = unirsi al trend
+* **rotten** = marcia
+* **biggest-selling** = più venduto
 * **cute** = adorabili
+* **swinging** = oscillare
+* **Brat** = monella, viziata, sfacciata
+* **snippets** = frammenti
+* **resume** = riprendere
+* **right to the core** = fino al midollo
+* **shuffle dance** = danza shuffle
+* **Danish** = danese
+* **spawned** = dare origine a
+* **savvy** = astuti
+* **claimed** = affermare
+* **bill and coo birds** = uccelli che strofinano il becco e tubano
+* **outfits** = abbinamenti
+* **to no avail** = inutilmente
+* **swap** = scambiare
+* **release** = uscita
+* **shot into** = balzare, schizzare in
+* **mouthing** = muovere le labbra, fare finta di cantare
+* **rushed** = precipitarsi
+* **keep you down** = reprimere, trattenere
+* **Strumming** = strimpellare
+* **copycat** = copie, imitatori
+* **quirky** = stravaganti
+* **bluebirds** = uccellini
+* **deceptively** = apparentemente

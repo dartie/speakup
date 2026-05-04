@@ -8,7 +8,7 @@ Chi ha a che fare con la preparazione di campagne e l'organizzazione di meeting 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/Everyday%20Dialogues%20Campaign%20Planning.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/Everyday%20Dialogues%20Campaign%20Planning.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -24,7 +24,7 @@ James: Sure. And can you gather all the relevant presentations?
 Sarah: OK, will do. When we’ve mapped it all out, we can start brainstorming some ideas.
 James: Excellent. It’s so exciting. I can’t wait!
 
-## NOW  LET’S  REVIEW  THE  VOCABULARY!
+## NOW LET’S REVIEW THE VOCABULARY!
 To fix a date means to [arrange](## "stabilire") a time and place for a meeting.
 To get (everyone) together refers to [gathering](## "raccogliere, riunire") or assembling a group of people.
 PR is [short for](## "abbreviazione di") public relations, which [focuses](## "concentrare, focalizzare") on communications between an organisation and the public, to manage its image and reputation.
@@ -40,17 +40,17 @@ Brainstorming refers to a group discussion to produce ideas.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **arrange** = stabilire
-* **outputs** = risultati
-* **host** = ospitare
-* **schedule** = programmare
+* **bring together** = riunire
+* **launch** = lancio
+* **involved** = coinvolgere
 * **agenda** = ordine del giorno, programma
 * **timelines** = tempistiche
+* **arrange** = stabilire
 * **short for** = abbreviazione di
 * **focuses** = concentrare, focalizzare
 * **aims** = mirare a
-* **involved** = coinvolgere
+* **schedule** = programmare
 * **gathering** = raccogliere, riunire
 * **achieve** = raggiungere
-* **bring together** = riunire
-* **launch** = lancio
+* **outputs** = risultati
+* **host** = ospitare

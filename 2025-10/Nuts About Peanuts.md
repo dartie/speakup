@@ -8,7 +8,7 @@ Chi non ama i "Peanuts", la serie di fumetti con protagonisti Charlie Brown e Sn
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/Nuts%20About%20Peanuts.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/Nuts%20About%20Peanuts.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -62,54 +62,54 @@ www.schulzmuseum.org
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **blunt** = brusca
-* **outgoing** = estroversa
-* **four-panel strip** = strisce a quattro vignette
-* **thriving** = fiorente, prospero
-* **upholds** = mantenere, accogliere
-* **year round** = tutto l’anno
-* **poured** = rovesciare, versare
-* **Red-Haired** = dai capelli rossi
-* **straightforward** = diretta
-* **wise beyond his years** = più saggio della sua età
-* **joy** = felicità
-* **aim** = obiettivo
-* **club champion** = campione in tutto
-* **in joy** = per la gioia
-* **tore** = strappare
-* **and yet** = eppure
-* **figure it out** = capire
-* **depth** = profondità
-* **drawing board** = tavolo da disegno
-* **plush** = peluche
-* **opinionated** = ostinata
-* **social cues** = convenzioni sociali
-* **enduring** = duraturo
-* **well-meaning** = ben intenzionato
-* **selfish** = egoista
-* **display** = mostrare, esporre
-* **moves away** = allontanarsi
-* **endeavour** = sforzi, tentativi
-* **blanket** = coperta
-* **romantic advances** = avances romantiche
-* **sassy** = sfacciato
-* **indulge** = assecondare
-* **hosts** = ospitare
-* **hang around** = gironzolare, bighellonare
-* **oblivious** = ignara
-* **stand** = sopportare
-* **props** = oggetti di scena
-* **wishy-washy** = accondiscendente, privo di carattere
-* **thoughtful** = riflessivo
-* **mankind** = umanità
-* **gag-a-day** = battuta, scenetta del giorno
-* **whacked** = colpire
-* **frying pan** = padella
-* **setbacks** = contrattempi
-* **crush** = cotta
-* **Strong-willed** = determinata
 * **touchstone** = punto di riferimento
 * **punchline** = battuta
+* **display** = mostrare, esporre
+* **in joy** = per la gioia
+* **year round** = tutto l’anno
+* **crush** = cotta
+* **Strong-willed** = determinata
+* **blanket** = coperta
+* **upholds** = mantenere, accogliere
 * **over time** = col tempo
+* **Red-Haired** = dai capelli rossi
+* **opinionated** = ostinata
+* **stand** = sopportare
+* **wise beyond his years** = più saggio della sua età
+* **aim** = obiettivo
+* **and yet** = eppure
+* **thriving** = fiorente, prospero
+* **drawing board** = tavolo da disegno
+* **poured** = rovesciare, versare
+* **tore** = strappare
+* **moves away** = allontanarsi
+* **thoughtful** = riflessivo
 * **booth** = stand, postazione
+* **joy** = felicità
+* **figure it out** = capire
+* **frying pan** = padella
+* **props** = oggetti di scena
+* **wishy-washy** = accondiscendente, privo di carattere
+* **selfish** = egoista
+* **hosts** = ospitare
+* **setbacks** = contrattempi
+* **endeavour** = sforzi, tentativi
+* **straightforward** = diretta
+* **enduring** = duraturo
+* **depth** = profondità
+* **gag-a-day** = battuta, scenetta del giorno
+* **indulge** = assecondare
 * **tomboyish** = da maschiaccio
+* **outgoing** = estroversa
+* **oblivious** = ignara
+* **social cues** = convenzioni sociali
+* **four-panel strip** = strisce a quattro vignette
+* **sassy** = sfacciato
+* **plush** = peluche
+* **blunt** = brusca
+* **mankind** = umanità
+* **romantic advances** = avances romantiche
+* **whacked** = colpire
+* **well-meaning** = ben intenzionato
+* **club champion** = campione in tutto
+* **hang around** = gironzolare, bighellonare

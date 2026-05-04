@@ -8,7 +8,7 @@ Durante la Piccola era glaciale, tra il 1607 e il 1814, il Tamigi si ghiacciava 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/The%20Frost%20Fairs%20of%20London.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/The%20Frost%20Fairs%20of%20London.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,28 +32,28 @@ By the 1800s the winters were becoming less severe. The last ever London [Frost]
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **stuck** = bloccato
-* **harsh** = rigido
-* **ferried people across** = traghettare
-* **jugglers** = giocolieri
-* **puppet plays** = spettacoli di marionette
-* **moored** = ormeggiare
-* **piers** = moli
-* **thick** = spesso
-* **football pitches** = campi da calcio
-* **reportedly** = secondo quanto riferito
-* **further east** = più a est
-* **cellar** = cantina
-* **parading** = sfilare
-* **narrow** = stretto
-* **dam** = diga
+* **Blanket** = manto
 * **ox** = bue
-* **beam** = trave
-* **on record** = ufficialmente, pubblicamente
+* **parading** = sfilare
+* **stuck** = bloccato
+* **narrow** = stretto
 * **income** = reddito
 * **hastily** = frettolosamente
-* **Frost** = gelo
 * **shop keepers** = negozianti
-* **Blanket** = manto
 * **spit-roasted** = arrostito allo spiedo
+* **cellar** = cantina
 * **melt** = sciogliersi
+* **ferried people across** = traghettare
+* **puppet plays** = spettacoli di marionette
+* **reportedly** = secondo quanto riferito
+* **moored** = ormeggiare
+* **piers** = moli
+* **jugglers** = giocolieri
+* **further east** = più a est
+* **beam** = trave
+* **on record** = ufficialmente, pubblicamente
+* **dam** = diga
+* **harsh** = rigido
+* **thick** = spesso
+* **Frost** = gelo
+* **football pitches** = campi da calcio

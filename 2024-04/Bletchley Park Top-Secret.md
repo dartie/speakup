@@ -8,7 +8,7 @@ Questa tenuta dall’aspetto eclettico ospita il museo che racconta la storia de
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Bletchley%20Park%20Top-Secret.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Bletchley%20Park%20Top-Secret.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -29,18 +29,18 @@ What happened during wartime inside Bletchley Park remained classified until the
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **saw to it** = assicurare
+* **Axis** = asse
+* **trustworthy** = di fiducia
+* **gained momentum** = prendere slancio, prendere il via
+* **workload** = carico di lavoro
+* **endeavour** = impresa
+* **breakthroughs** = passi avanti, svolta
 * **bonfires** = falò
 * **requisitioned** = requisire
-* **workload** = carico di lavoro
-* **breakthroughs** = passi avanti, svolta
-* **heritage site** = luogo del patrimonio culturale
-* **to flesh out** = approfondire
 * **country estates** = residenza rurale
-* **trustworthy** = di fiducia
-* **endeavour** = impresa
-* **gained momentum** = prendere slancio, prendere il via
-* **huts** = capanne
-* **Trust** = fondazione
 * **wire-tapping** = intercettazioni telefoniche
-* **Axis** = asse
+* **huts** = capanne
+* **to flesh out** = approfondire
+* **Trust** = fondazione
+* **heritage site** = luogo del patrimonio culturale
+* **saw to it** = assicurare

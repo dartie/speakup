@@ -8,7 +8,7 @@ In questo celebre romanzo breve, Orwell lancia una dura critica al totalitarismo
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Animal%20Farm%20by%20George%20Orwell.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Animal%20Farm%20by%20George%20Orwell.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -56,26 +56,26 @@ Animal Farm [made Orwell a household name](## "rendere famoso") and an internat
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **mouthpiece** = portavoce
-* **hens** = galline
-* **out of print** = fuori catalogo
-* **praise** = elogio
-* **seizing** = impossessarsi, conquistare
+* **yard** = cortile
+* **argument** = discussione
+* **made Orwell a household name** = rendere famoso
+* **plight** = difficoltà
 * **boars** = verri, maschi del maiale
-* **flee** = fuggire
+* **plentiful** = abbondanti
+* **plots** = cospirazioni
+* **out of print** = fuori catalogo
+* **Iron Curtain** = cortina di ferro
 * **ludicrous** = ridicoli
+* **essays** = saggi
+* **Fairy Story** = fiaba
+* **seizing** = impossessarsi, conquistare
+* **windfall apples** = mele cadute dall’albero
+* **flee** = fuggire
+* **praise** = elogio
+* **flattery** = adulazione
+* **hens** = galline
+* **Squealer** = spione
+* **mouthpiece** = portavoce
+* **unassailable** = inattaccabile
 * **laying -five eggs** = deporre uova
 * **decree** = decreto
-* **yard** = cortile
-* **made Orwell a household name** = rendere famoso
-* **Iron Curtain** = cortina di ferro
-* **unassailable** = inattaccabile
-* **flattery** = adulazione
-* **plight** = difficoltà
-* **essays** = saggi
-* **windfall apples** = mele cadute dall’albero
-* **Squealer** = spione
-* **plots** = cospirazioni
-* **argument** = discussione
-* **Fairy Story** = fiaba
-* **plentiful** = abbondanti

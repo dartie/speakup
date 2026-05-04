@@ -8,7 +8,7 @@ Scopri i segreti del Mount Rushmore National Memorial, noto come santuario della
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/Mount%20Rushmore%20America%E2%80%99s%20Shrine%20of%20Democracy.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/Mount%20Rushmore%20America%E2%80%99s%20Shrine%20of%20Democracy.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -23,17 +23,17 @@ After nearly fourteen years of work, Gutzon Borglum died while [en route to](## 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **nestled** = annidato
-* **Shrine** = santuario
-* **due to** = dovuto a
-* **power tools** = utensili elettrici
-* **features** = presentare
-* **inception** = principio, inizio
-* **to carve** = scolpire
-* **setbacks** = contrattempi
 * **en route to** = dirigersi a
 * **secure** = ottenere
 * **funding** = finanziamenti
-* **constraints** = limiti
-* **outbreak** = scoppio
 * **took over** = prendere, assumere
+* **Shrine** = santuario
+* **features** = presentare
+* **to carve** = scolpire
+* **setbacks** = contrattempi
+* **due to** = dovuto a
+* **outbreak** = scoppio
+* **nestled** = annidato
+* **inception** = principio, inizio
+* **power tools** = utensili elettrici
+* **constraints** = limiti

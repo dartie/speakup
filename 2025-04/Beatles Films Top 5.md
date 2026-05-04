@@ -8,7 +8,7 @@ I Beatles non sono stati solo popstar, ma anche icone del cinema. Dalle commedie
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/Beatles%20Films%20Top%205.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/Beatles%20Films%20Top%205.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -42,28 +42,28 @@ Also appearing in the documentary is US writer and activist Betty Friedan. Her 1
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **make their way to** = incamminarsi verso
-* **coach-load** = pullman pieno
-* **Meanies** = meschini
-* **puns** = giochi di parole
-* **in-jokes** = battute private
-* **I am my own man** = io sono me stesso
-* **flood** = alluvione
-* **alike** = allo stesso modo, ugualmente
+* **struggling** = avere difficoltà
+* **Duck Soup** = La guerra lampo dei Fratelli Marx
 * **plot** = trama
-* **acclaim** = acclamazione
-* **self-deprecating** = autoironico
 * **cartoon** = cartone animato
 * **refusal** = rifiuto
-* **double entendres** = doppi sensi
-* **praises** = lodi
-* **mock-documentary** = falso documentario
-* **struggling** = avere difficoltà
-* **cult** = setta
-* **Duck Soup** = La guerra lampo dei Fratelli Marx
-* **Goon** = stupido
-* **stream-of-consciousness** = flusso di coscienza
-* **sparking** = scatenare
 * **claims** = affermare
+* **mock-documentary** = falso documentario
+* **make their way to** = incamminarsi verso
+* **stream-of-consciousness** = flusso di coscienza
+* **puns** = giochi di parole
+* **self-deprecating** = autoironico
+* **I am my own man** = io sono me stesso
+* **cult** = setta
+* **coach-load** = pullman pieno
+* **double entendres** = doppi sensi
+* **in-jokes** = battute private
+* **acclaim** = acclamazione
+* **praises** = lodi
 * **tight-lipped** = taciturno
+* **Goon** = stupido
+* **Meanies** = meschini
+* **sparking** = scatenare
 * **crewcut** = taglio militare
+* **flood** = alluvione
+* **alike** = allo stesso modo, ugualmente

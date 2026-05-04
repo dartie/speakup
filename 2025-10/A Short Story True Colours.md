@@ -8,7 +8,7 @@ Riuscire a capire il livello di bontà delle persone in base al colore che emana
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/A%20Short%20Story%20True%20Colours.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/A%20Short%20Story%20True%20Colours.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -47,20 +47,20 @@ She’d seen newborn babies before, when her [niece](## "nipote") had been born.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **stared** = osservare, guardare
-* **nurture** = educazione
 * **nurse** = infermiera
-* **faint** = lieve, fioca
-* **hatefulness** = cattiveria, odio
-* **blind spots** = punti ciechi
+* **blinking** = sbattere le palpebre
+* **contrary to popular belief** = contrariamente a quanto si crede
+* **in astonishment** = con stupore
+* **squeezing** = stringere
 * **PhD** = Doctor of Philosophy, dottorato
 * **struggling** = sforzarsi, fare fatica
-* **-ish** = circa, più o meno
-* **contrary to popular belief** = contrariamente a quanto si crede
-* **niece** = nipote
-* **in astonishment** = con stupore
+* **stared** = osservare, guardare
 * **inner self** = sé interiore
+* **hatefulness** = cattiveria, odio
 * **feeding** = alimentare
-* **blinking** = sbattere le palpebre
-* **squeezing** = stringere
+* **niece** = nipote
 * **gasped** = sussultare
+* **-ish** = circa, più o meno
+* **faint** = lieve, fioca
+* **nurture** = educazione
+* **blind spots** = punti ciechi

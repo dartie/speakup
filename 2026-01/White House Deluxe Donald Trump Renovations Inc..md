@@ -8,7 +8,7 @@ Casa Bianca o Casa Dorata? Le riforme apportate da Trump alla residenza storica 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/White%20House%20Deluxe%20Donald%20Trump%20Renovations%20Inc..mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/White%20House%20Deluxe%20Donald%20Trump%20Renovations%20Inc..mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,29 +33,29 @@ If you want to know more about this topic, read the articles The White House: T
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **striped parasols** = ombrelloni a righe
-* **ballroom** = sala da ballo
-* **despite** = nonostante
-* **issue** = problema
-* **term** = mandato
-* **rearranged** = riorganizzare
-* **makeover** = ristrutturazione, riforma
-* **draped** = drappeggiare
-* **drawn criticism** = sollevare critiche
-* **spokesperson** = portavoce
-* **gold trim** = rifiniture dorate
-* **gaudy** = pacchiano
-* **decals** = motivi ornamentali
 * **decked out** = adornare
-* **raising concerns** = suscitare preoccupazioni
+* **striped parasols** = ombrelloni a righe
+* **torn down** = demolire
+* **drawn criticism** = sollevare critiche
 * **cramped space** = spazio ristretto
-* **cannot fail to be noticed** = è impossibile non accorgersene
 * **gilded** = dorato
+* **gold-framed portraits** = ritratti con cornici dorate
+* **decals** = motivi ornamentali
+* **draped** = drappeggiare
+* **lawmakers** = legislatori
+* **ballroom** = sala da ballo
+* **spokesperson** = portavoce
+* **term** = mandato
+* **cannot fail to be noticed** = è impossibile non accorgersene
 * **mantlepiece** = mensola del camino
+* **gaudy** = pacchiano
+* **makeover** = ristrutturazione, riforma
 * **twenty-four-carat** = di 24 carati
+* **against a marble backdrop** = su uno sfondo di marmo
+* **rearranged** = riorganizzare
 * **paved over** = pavimentare
 * **lawn furniture** = mobili da giardino
-* **lawmakers** = legislatori
-* **torn down** = demolire
-* **gold-framed portraits** = ritratti con cornici dorate
-* **against a marble backdrop** = su uno sfondo di marmo
+* **despite** = nonostante
+* **raising concerns** = suscitare preoccupazioni
+* **issue** = problema
+* **gold trim** = rifiniture dorate

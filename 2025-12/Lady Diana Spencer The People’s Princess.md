@@ -1,6 +1,6 @@
 # Lady Diana Spencer: The People’s Princess   [B2]
 
-Nella sua breve vita, la principessa del Galles ha conquistato il mondo con la sua empatia e la sua visione innovativa della monarchia
+Nella sua breve vita, la principessa del Galles ha conquistato il mondo con la sua visione innovativa della monarchia. Il suo carattere empatico e il suo impegno solidale le hanno valso l’affetto del pubblico.
 
 ![](Lady%20Diana%20Spencer%20The%20People%E2%80%99s%20Princess.webp)
 
@@ -8,7 +8,7 @@ Nella sua breve vita, la principessa del Galles ha conquistato il mondo con la s
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Lady%20Diana%20Spencer%20The%20People%E2%80%99s%20Princess.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Lady%20Diana%20Spencer%20The%20People%E2%80%99s%20Princess.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,7 +40,7 @@ A few hours later, Britain awoke, shocked, to the tragic news. Flowers, [candles
 
 ## A MIXED LEGACY
 Diana, Princess of Wales (as she was titled during her marriage) left behind a mixed legacy. Her charismatic presence redefined the monarchy’s relationship with the public, making it seem more human and [relatable](## "con cui ci si può identificare") — she was considered by many to be “a [breath](## "ventata") of fresh air.” The public affection and fascination she provoked helped make the monarchy seem more relevant in a fast-changing world. She remains one of the most popular members of the royal family and continues to influence the younger generation of royals.
-On the other hand, she was accused by some critics of being self-indulgent, cynically manipulating the media for her own purposes, and damaging the monarchy by [re[moving](## "commovente, toccante")](## "eliminare") some of the mystique necessary to its survival with her unconventional [behaviour](## "comportamento").
+On the other hand, she was accused by some critics of being self-indulgent, cynically manipulating the media for her own purposes, and damaging the monarchy by re[moving](## "commovente, toccante") some of the mystique necessary to its survival with her unconventional [behaviour](## "comportamento").
 It is impossible to [deny](## "negare"), however, that her brave, highly surprising choice of charitable work did widen and modernise the areas in which the royal family were able to make valuable contributions. According to one important charity head, “Her [overall](## "generale") effect on charity is probably more significant than any other person’s in the 20th century.”
 Diana was a force for change even in death. Her tragic end revived the old culture of public sentiment, long absent from public life, making the public expression of grief acceptable once again. Britain’s famous ‘[stiff upper lip](## "atteggiamento imperturbabile")’, signifying stoicism, has never been the same again.
 
@@ -52,45 +52,45 @@ In her early royal years, Diana dressed in a conservative style, which rarely at
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **candles** = candele
-* **statement-making gowns** = abiti che lanciano un messaggio
-* **pitilessly** = senza pietà
-* **grew out of** = nascere da, derivare da
-* **relatable** = con cui ci si può identificare
-* **behaviour** = comportamento
-* **drifted apart** = allontanarsi
-* **twelve years her senior** = dodici anni più grande di lei
+* **removing** = eliminare
+* **nursery** = asilo nido
 * **due to** = a causa di
 * **former** = precedente, ex
 * **coffin** = bara
-* **greeted** = ricevere, salutare
-* **gave chase** = inseguire, dare la caccia
-* **lined the streets** = riempire le strade
 * **stiff upper lip** = atteggiamento imperturbabile
+* **statement-making gowns** = abiti che lanciano un messaggio
+* **opening the floodgates** = spalancare le porte, dare il via
+* **behaviour** = comportamento
+* **deny** = negare
+* **drifted apart** = allontanarsi
+* **constraints** = restrizioni, limitazioni
+* **endorse** = appoggiare
+* **charm** = fascino
 * **lurid** = scandalose
-* **nursery** = asilo nido
-* **elderly** = anziani
-* **AIDS** = sindrome da immunodeficienza acquisita
-* **landmines** = mine antiuomo
+* **candles** = candele
 * **startling** = sorprendente
+* **Broadening** = ampliare
+* **gave chase** = inseguire, dare la caccia
+* **breath** = ventata
+* **close ties** = stretti legami
+* **greeted** = ricevere, salutare
 * **relative** = parente
+* **overall** = generale
 * **outfits** = vestiti, look
-* **mourned** = piangere, portare il lutto
+* **heir** = erede
+* **grew out of** = nascere da, derivare da
+* **landmines** = mine antiuomo
+* **lined the streets** = riempire le strade
+* **underwent** = attraversare
+* **heels** = tacchi
+* **coining** = coniare
+* **pitilessly** = senza pietà
+* **hounded** = perseguitare, dare la caccia
+* **elderly** = anziani
 * **moving** = commovente, toccante
 * **hemlines** = orli (della gonna)
 * **power suits** = tailleur eleganti
-* **endorse** = appoggiare
-* **close ties** = stretti legami
-* **Broadening** = ampliare
-* **deny** = negare
-* **overall** = generale
-* **heels** = tacchi
-* **opening the floodgates** = spalancare le porte, dare il via
-* **hounded** = perseguitare, dare la caccia
-* **breath** = ventata
-* **removing** = eliminare
-* **underwent** = attraversare
-* **constraints** = restrizioni, limitazioni
-* **heir** = erede
-* **charm** = fascino
-* **coining** = coniare
+* **twelve years her senior** = dodici anni più grande di lei
+* **AIDS** = sindrome da immunodeficienza acquisita
+* **mourned** = piangere, portare il lutto
+* **relatable** = con cui ci si può identificare

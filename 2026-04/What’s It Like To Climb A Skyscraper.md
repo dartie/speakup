@@ -8,7 +8,7 @@ Alex Honnold ha battuto il record di scalata di grattacieli raggiungendo la cima
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/What%E2%80%99s%20It%20Like%20To%20Climb%20A%20Skyscraper.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/What%E2%80%99s%20It%20Like%20To%20Climb%20A%20Skyscraper.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,7 +35,7 @@ Goodwin, seventy, said that by the time he finished climbing the CN Tower, his r
 Robert, sixty-three, developed his own system for [rating](## "dare un punteggio") buildings based on how difficult they are to climb. A building’s [grips](## "appigli") mattered more than its height, he said.
 He gave the Brooklyn Bridge a difficulty [rating](## "dare un punteggio") of 2 out of 10 after climbing it in 1994. He gave the same [rating](## "dare un punteggio") to the Eiffel Tower, which he scaled with his [bare hands](## "a mani nude") in 1996. “It’s really like a [ladder](## "scala a pioli"),” he said of the Paris landmark.
 Alex Honnold climbing the Taipei 101 in Taipei, Taiwan for Skyscraper Live. The [climber](## "scalatore") was reportedly paid just $500,000 by Netflix to climb the building, which he did, without a [rope](## "corda"), in January 2026. It took Honnold an hour and 31 minutes to reach the top.
-He was also the last person to climb Taipei 101, in 2004, then the tallest building in the world. He completed the climb just days after having surgery on his left elbow, in heavy rain and with a [top [rope](## "corda")](## "corda dall’alto"), which he said authorities had required.
+He was also the last person to climb Taipei 101, in 2004, then the tallest building in the world. He completed the climb just days after having surgery on his left elbow, in heavy rain and with a top [rope](## "corda"), which he said authorities had required.
 Robert gave Taipei 101 a [rating](## "dare un punteggio") of 6.
 In contrast, the small gaps on the surface of the Sydney Opera House, which he climbed in 1997 and rated as a 7, allowed him to hold on only with his [fingertips](## "polpastrelli").
 In 1999, Robert scaled what he said was one of the most difficult buildings he had ever climbed, [rating](## "dare un punteggio") it a 9: the Sears Tower, now called the Willis Tower, in Chicago. He gave the Burj Khalifa in the United Arab Emirates, the world’s tallest building, the same grade after climbing it in 2011.
@@ -52,33 +52,33 @@ Published in The New York Times on 23 January 2026. Reprinted with permission.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **comes down to** = ridursi a
-* **puzzle** = rompicapo
 * **crimps** = tacche
-* **slopers** = prese svase
-* **pullup** = trazione
-* **onlookers** = curiosi
-* **rating** = dare un punteggio
-* **jamming** = incastrare
-* **top rope** = corda dall’alto
-* **humble** = modesto
-* **willing to** = disposto a
-* **grips** = appigli
-* **groove** = fessura
-* **Halfway through** = a metà di
-* **holds** = appigli, prese
-* **fingertips** = polpastrelli
-* **reckless** = imprudenti, temerari
-* **climber** = scalatore
-* **rock face** = parete rocciosa
-* **stories** = piani
-* **blisters** = vesciche
-* **ladder** = scala a pioli
 * **the danger keeps them going** = il pericolo li spinge ad andare avanti
-* **skyscraper** = grattacielo
 * **rope** = corda
-* **overcome** = superare
+* **willing to** = disposto a
+* **onlookers** = curiosi
+* **groove** = fessura
 * **jugs** = prese grandi, maniglie
+* **stories** = piani
 * **concrete gaps** = fessure nel cemento
+* **rock face** = parete rocciosa
+* **puzzle** = rompicapo
+* **blisters** = vesciche
+* **fingertips** = polpastrelli
+* **overcome** = superare
+* **comes down to** = ridursi a
+* **slopers** = prese svase
 * **tax** = mettere a dura prova
+* **top rope** = corda dall’alto
+* **jamming** = incastrare
+* **skyscraper** = grattacielo
+* **holds** = appigli, prese
+* **rating** = dare un punteggio
+* **grips** = appigli
+* **humble** = modesto
+* **reckless** = imprudenti, temerari
 * **bare hands** = a mani nude
+* **pullup** = trazione
+* **ladder** = scala a pioli
+* **Halfway through** = a metà di
+* **climber** = scalatore

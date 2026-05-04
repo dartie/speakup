@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/The%20Truth%20About%20Intermittent%20Fasting%20What%20Is%20It,%20How%20Does%20It%20Work%20%E2%80%93%20and%20Is%20It%20Right%20for%20You.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/The%20Truth%20About%20Intermittent%20Fasting%20What%20Is%20It,%20How%20Does%20It%20Work%20%E2%80%93%20and%20Is%20It%20Right%20for%20You.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -47,53 +47,53 @@ Look at it like this, says Nezis: “When your overall health is better, you liv
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **Granted** = è vero
-* **mice** = topi
-* **pepper** = punteggiare
-* **blood fat** = grassi nel sangue
-* **bile duct** = dotto biliare
-* **short-term fix** = rimedio a breve termine
-* **nourishment** = alimentazione
-* **down the road** = avanti, a distanza
-* **yeasts** = lieviti
-* **bile** = bile
-* **if it suits you** = se ti va bene
-* **wastage** = perdita
-* **rates** = tassi
-* **mimicking** = imitare
-* **craze** = moda del momento
-* **comes down to** = ridursi a
-* **skipping** = saltare
-* **lifespan** = durata della vita
-* **by-product** = effetto secondario
-* **fasting** = digiuno
-* **gut** = intestino
-* **sludge** = melma, poltiglia
-* **liver** = fegato
-* **drawn** = attirare
+* **gallbladder** = cistifellea
+* **soundly** = profondamente
+* **whereby** = per mezzo del quale
 * **ketones** = chetoni
+* **you stick with it** = essere costante
 * **hunter-gatherers** = cacciatori-raccoglitori
 * **swerve** = evitare
-* **boost** = aumentare, stimolare
-* **to kick in** = fare effetto
-* **you stick with it** = essere costante
-* **intake** = consumo
-* **singing its praises** = cantare le lodi
-* **spikes** = picchi
-* **gallbladder** = cistifellea
-* **whereby** = per mezzo del quale
+* **bile** = bile
+* **drawn** = attirare
 * **pointless** = inutile
-* **to enable** = consentire
-* **a hard yes** = un deciso sì
-* **all-important** = importantissimo
-* **is missing the point** = mancare il bersaglio
-* **to break down** = scomporre
+* **by-product** = effetto secondario
+* **bingeing** = abbuffarsi
+* **wastage** = perdita
+* **pepper** = punteggiare
 * **spokesperson** = portavoce
+* **all-important** = importantissimo
+* **skipping** = saltare
+* **lifespan** = durata della vita
+* **to kick in** = fare effetto
+* **rates** = tassi
+* **gut** = intestino
 * **mood** = umore, animo
 * **immune-compromised** = immunocompromesso
-* **bowels** = intestino
-* **soundly** = profondamente
+* **if it suits you** = se ti va bene
+* **is missing the point** = mancare il bersaglio
+* **sludge** = melma, poltiglia
+* **bile duct** = dotto biliare
+* **intake** = consumo
+* **to enable** = consentire
+* **mimicking** = imitare
+* **craze** = moda del momento
+* **mice** = topi
+* **comes down to** = ridursi a
+* **to break down** = scomporre
 * **hung up on** = fissarsi
 * **to go all-in** = partire in quarta
-* **bingeing** = abbuffarsi
 * **barely** = a malapena
+* **a hard yes** = un deciso sì
+* **boost** = aumentare, stimolare
+* **spikes** = picchi
+* **short-term fix** = rimedio a breve termine
+* **nourishment** = alimentazione
+* **Granted** = è vero
+* **singing its praises** = cantare le lodi
+* **yeasts** = lieviti
+* **blood fat** = grassi nel sangue
+* **liver** = fegato
+* **down the road** = avanti, a distanza
+* **fasting** = digiuno
+* **bowels** = intestino

@@ -8,7 +8,7 @@ Nel suo nuovo saggio, l’influente divulgatore israeliano esplora, attraverso u
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Yuval%20Noah%20Harari%20Nexus.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Yuval%20Noah%20Harari%20Nexus.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -64,45 +64,45 @@ Harari is very much involved in [current affairs](## "temidi attualità"). In 20
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **rig** = manipolare, truccare
-* **to arise** = sorgere
-* **scholars** = accademici
+* **harm** = danno
+* **caught up** = intrappolata
+* **whereas** = mentre
+* **enforcing** = fare rispettare
+* **budget** = bilancio
 * **tool** = strumento
 * **thoughtlessly** = sconsideratamente
-* **struggle** = lotta
-* **budget** = bilancio
-* **PhD** = dottorato di ricerca (Doctor of Philosophy)
-* **tailored** = personalizzare
-* **switched** = cambiare
-* **costly** = costoso
-* **whereas** = mentre
-* **punish** = punire
-* **arms race** = corsa agli armamenti
-* **truthful** = veritiero
-* **fairness** = equità
-* **to gather** = riunirsi
-* **freedom of speech** = libertà di espressione
-* **conundrums** = enigmi
 * **churn out** = produrre in massa
-* **junk** = spazzatura
-* **development** = sviluppo
-* **self-driving vehicles** = guida autonoma
-* **rise** = avvento
 * **banning** = vietare
-* **enforcing** = fare rispettare
-* **trust** = fiducia
-* **AI-driven** = guidati dall’intelligenza artificiale
-* **bothered** = preoccupare
-* **caught up** = intrappolata
-* **sinks** = affondare
-* **harmful** = dannoso
-* **unfolded** = realizzarsi pian piano, accadere
-* **current affairs** = temidi attualità
-* **flattering** = lusinghiera
 * **surveillance** = sorveglianza
-* **flood** = inondare
-* **bottom** = fondo
-* **The main issue** = la questione principale
+* **struggle** = lotta
+* **to arise** = sorgere
 * **argue** = discutere
-* **harm** = danno
+* **trust** = fiducia
+* **conundrums** = enigmi
+* **flood** = inondare
+* **freedom of speech** = libertà di espressione
+* **punish** = punire
+* **harmful** = dannoso
+* **scholars** = accademici
+* **bothered** = preoccupare
+* **PhD** = dottorato di ricerca (Doctor of Philosophy)
+* **current affairs** = temidi attualità
+* **development** = sviluppo
+* **flattering** = lusinghiera
+* **sinks** = affondare
+* **rig** = manipolare, truccare
+* **rise** = avvento
+* **AI-driven** = guidati dall’intelligenza artificiale
+* **self-driving vehicles** = guida autonoma
+* **fairness** = equità
+* **arms race** = corsa agli armamenti
 * **mammals** = mammiferi
+* **truthful** = veritiero
+* **costly** = costoso
+* **bottom** = fondo
+* **to gather** = riunirsi
+* **switched** = cambiare
+* **unfolded** = realizzarsi pian piano, accadere
+* **tailored** = personalizzare
+* **junk** = spazzatura
+* **The main issue** = la questione principale

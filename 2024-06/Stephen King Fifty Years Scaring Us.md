@@ -8,7 +8,7 @@ Con una straordinaria carriera, la sua impronta nell’immaginario popolare è p
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/Stephen%20King%20Fifty%20Years%20Scaring%20Us.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/Stephen%20King%20Fifty%20Years%20Scaring%20Us.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -49,39 +49,39 @@ www.bevvincent.com
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **coming-of-age** = di formazione
-* **gave him a hard time** = rendere la vita difficile
 * **compelling** = persuasivo
-* **to break free** = liberarsi
-* **I break out** = avere successo
-* **can keep your ego in check** = tenere sotto controllo
-* **blossomed** = fiorire
-* **make them out** = capire
 * **broad brushstrokes** = ampie pennellate
-* **to prevail** = prevalere
-* **to be branded** = etichettare
 * **blown up** = esplodere
-* **plotting** = pianificare
+* **make them out** = capire
+* **tale** = storia
+* **she ingrained** = inculcare
 * **outline** = abbozzo
+* **backdrop** = sfondo
+* **outlived** = sopravvivere
+* **blossomed** = fiorire
+* **blend** = miscela
+* **grounded** = con i piedi per terra
+* **to spin** = filare, tessere
+* **to be branded** = etichettare
+* **I break out** = avere successo
+* **thrives** = prosperare
+* **mean** = meschina
+* **Fright** = spavento
+* **inspiration can strike** = l’ispirazione può arrivare
+* **pigeon-holed** = classificare
+* **invested** = coinvolti
+* **nasty** = odioso
+* **gave him a hard time** = rendere la vita difficile
+* **to break free** = liberarsi
+* **full of himself** = essere pieni di sé
+* **set him straight** = mettere in riga, rigare dritto
+* **coming-of-age** = di formazione
+* **so humble** = umile
+* **plays a little bit fast and loose** = manipolare, distorcere
+* **to prevail** = prevalere
+* **back-to-back** = consecutivo
+* **plotting** = pianificare
+* **can keep your ego in check** = tenere sotto controllo
+* **overview** = panoramica
 * **natural born** = nato
 * **to hit the beats** = cogliere il ritmo
-* **back-to-back** = consecutivo
-* **so humble** = umile
-* **mean** = meschina
-* **tale** = storia
-* **grounded** = con i piedi per terra
-* **backdrop** = sfondo
-* **nasty** = odioso
-* **full of himself** = essere pieni di sé
-* **Fright** = spavento
-* **outlived** = sopravvivere
-* **plays a little bit fast and loose** = manipolare, distorcere
-* **blend** = miscela
-* **overview** = panoramica
-* **invested** = coinvolti
-* **she ingrained** = inculcare
-* **set him straight** = mettere in riga, rigare dritto
-* **inspiration can strike** = l’ispirazione può arrivare
-* **to spin** = filare, tessere
-* **pigeon-holed** = classificare
-* **thrives** = prosperare

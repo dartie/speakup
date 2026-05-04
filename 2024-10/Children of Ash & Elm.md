@@ -8,7 +8,7 @@ Neil Price, specialista di storia vichinga presso l'Università di Uppsala, mett
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/Children%20of%20Ash%20&%20Elm.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/Children%20of%20Ash%20&%20Elm.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -56,42 +56,42 @@ The majority of English locations with Viking names are in the region once known
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **driftwood** = legname trasportato dal mare
-* **to settle in numbers** = stabilirsi in numero consistente
-* **rather haphazardly** = in modo piuttosto casuale
-* **Danes** = danesi
-* **turning up** = presentarsi
-* **the wider world** = il mondo in generale
-* **to sum up** = riassumere
-* **embedded** = integrare
-* **farmstead** = proprietà agricola
-* **in their own right** = in forma indipendente
-* **hallmarks** = segni caratteristici
-* **annoyed** = essere seccato, infastidito
-* **embodiment** = incarnazione
-* **undermine** = minare, indebolire
-* **woodland clearing** = radura del bosco
-* **horned helmets** = elmo con corna
 * **spread out** = diffondersi
-* **contentious** = controversa
-* **Tying in** = in accordo a, in concordanza
-* **rune stones** = pietre runiche
-* **mittens** = guanti a manopola
-* **toddler** = bambino piccolo, lattante
-* **spring** = sorgente, fonte
-* **keen on** = tenere a
-* **portrayed** = rappresentare
+* **in their own right** = in forma indipendente
+* **warlike** = bellicoso, battagliero
+* **underpinned** = sostenere
+* **embedded** = integrare
 * **intent on** = determinato a
 * **raids** = assalti, incursioni
+* **the wider world** = il mondo in generale
 * **despair** = disperarsi
+* **roughly** = approssimativamente
+* **portrayed** = rappresentare
+* **embodiment** = incarnazione
+* **toddler** = bambino piccolo, lattante
+* **Elm** = olmo
+* **rather haphazardly** = in modo piuttosto casuale
+* **rune stones** = pietre runiche
+* **Tying in** = in accordo a, in concordanza
+* **woodland clearing** = radura del bosco
+* **to settle in numbers** = stabilirsi in numero consistente
 * **we’re stuck with it** = siamo bloccati con esso
+* **undermine** = minare, indebolire
+* **farmstead** = proprietà agricola
+* **back and forth** = avanti e indietro
+* **to sum up** = riassumere
+* **mittens** = guanti a manopola
+* **spring** = sorgente, fonte
+* **How dare you** = come vi permettete?
+* **Ash** = frassino
+* **hallmarks** = segni caratteristici
+* **annoyed** = essere seccato, infastidito
+* **horned helmets** = elmo con corna
+* **Danes** = danesi
+* **contentious** = controversa
+* **keen on** = tenere a
 * **headland** = promontorio
+* **turning up** = presentarsi
 * **thuggish** = violenti, criminali
 * **Norsemen** = norreni
-* **back and forth** = avanti e indietro
-* **underpinned** = sostenere
-* **warlike** = bellicoso, battagliero
-* **Ash** = frassino
-* **Elm** = olmo
-* **roughly** = approssimativamente
-* **How dare you** = come vi permettete?
+* **driftwood** = legname trasportato dal mare

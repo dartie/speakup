@@ -8,7 +8,7 @@ La National Portrait Gallery di Londra presenta una grande retrospettiva dei rit
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Francis%20Bacon%20Human%20Presence.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Francis%20Bacon%20Human%20Presence.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,23 +40,23 @@ Francis Bacon’s art studio was at 7 Reece Mews in South Kensington, London. Ba
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **settling** = stabilirsi
-* **nanny** = bambinaia
-* **Popes** = papi
 * **debris** = detriti
-* **smeared** = macchiare
+* **nanny** = bambinaia
 * **rage** = rabbia, collera
+* **Popes** = papi
+* **trail** = impronta
+* **trace** = traccia
+* **dressing up** = vestirsi
+* **settling** = stabilirsi
+* **snail** = lumaca
+* **securing** = ottenere
+* **claimed** = sostenere, affermare
+* **drifting around** = essere in giro alla deriva
 * **slime** = bava
 * **overdosing** = fare eccesso di alcol e droghe
 * **spread** = diffondersi
 * **disarray** = in disordine
-* **steel** = acciaio
-* **claimed** = sostenere, affermare
-* **dressing up** = vestirsi
-* **snail** = lumaca
-* **drifting around** = essere in giro alla deriva
-* **rather than** = piuttosto che
-* **trail** = impronta
-* **trace** = traccia
 * **canvases** = tele
-* **securing** = ottenere
+* **steel** = acciaio
+* **smeared** = macchiare
+* **rather than** = piuttosto che

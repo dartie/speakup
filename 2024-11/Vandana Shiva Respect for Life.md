@@ -8,7 +8,7 @@ Questa ambientalista e attivista indiana, dottore in fisica nucleare, è una del
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Vandana%20Shiva%20Respect%20for%20Life.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Vandana%20Shiva%20Respect%20for%20Life.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -62,43 +62,43 @@ The practice of [treehugging](## "abbracciare gli alberi") gained prominence in 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **hopeless** = senza speranza
-* **is granted** = concedere
-* **sovereign** = sovrano
-* **claims** = affermare
-* **grounding** = connessione con la terra
-* **awful** = terribili
 * **urge** = brama, urgenza
 * **deceptions** = inganni
-* **to wipe them out** = eliminare
-* **shift** = cambio
-* **sweep in** = intromettersi
-* **to seep in** = filtrare
-* **fungal control** = controllo dei funghi
-* **in the pretence** = con la pretesa di
-* **treehugging** = abbracciare gli alberi
-* **embracing** = abbracciare
-* **soil** = terra
-* **nourishment** = cibo, alimento
+* **yield** = raccolta
+* **awful** = terribili
+* **physicist** = fisica
+* **put together** = mettere insieme
+* **beware** = fare attenzione a
 * **God Move Over** = modalità Dio finita
 * **wheats** = grano
+* **sovereign** = sovrano
+* **Allies** = alleati
+* **claims** = affermare
+* **to seep in** = filtrare
 * **widespread** = diffusa
 * **foster** = promuovere
-* **physicist** = fisica
-* **PhD** = dottorato di ricerca (Philosophy Doctor)
-* **put together** = mettere insieme
-* **weeds** = erbacce
-* **Allies** = alleati
-* **neem tree** = nīm
-* **welfare** = benessere
-* **theft** = furto
-* **warns** = avvertire
-* **beware** = fare attenzione a
-* **yield** = raccolta
-* **fodder** = mangime
-* **trained** = formarsi, studiare
+* **soil** = terra
+* **nourishment** = cibo, alimento
+* **embracing** = abbracciare
 * **NGO** = ONG, organizzazione non governativa (non-governmental organization)
-* **push for** = spingere verso
-* **oak tree** = quercia
-* **high places** = alte sfere
+* **welfare** = benessere
+* **sweep in** = intromettersi
+* **weeds** = erbacce
+* **to wipe them out** = eliminare
 * **pest control** = disinfestazione
+* **fungal control** = controllo dei funghi
+* **PhD** = dottorato di ricerca (Philosophy Doctor)
+* **shift** = cambio
+* **trained** = formarsi, studiare
+* **warns** = avvertire
+* **push for** = spingere verso
+* **is granted** = concedere
+* **theft** = furto
+* **high places** = alte sfere
+* **grounding** = connessione con la terra
+* **hopeless** = senza speranza
+* **oak tree** = quercia
+* **fodder** = mangime
+* **in the pretence** = con la pretesa di
+* **treehugging** = abbracciare gli alberi
+* **neem tree** = nīm

@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Puerto%20Rico%20And%20Its%20Relationship%20With%20The%20United%20States.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Puerto%20Rico%20And%20Its%20Relationship%20With%20The%20United%20States.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -42,7 +42,7 @@ Puerto Rico’s political status within the United States is often [summed up](
 
 ## GLOBAL FINANCIAL CRISIS
 Puerto Rico’s economic destabilization [stemmed](## "derivare da") from federal policies that [eroded](## "erodere") revenue and limited growth. The [phase-out](## "eliminazione graduale") of tax incentives and the loss of its manufacturing base left the island dependent on [debt](## "debito"), while rising unemployment and declining investment weakened its economy. By the 2008 financial crisis, Puerto Rico was already fragile, leaving it [poorly equipped](## "poco attrezzato") to recover from disasters like the 2017 hurricanes.
-**Dr. Lorrin Thomas:** Puerto Rico’s great industrial boom that was supposed to have [lifted](## "sollevare") it into almost first-world status after World War Two had not really materialised in the way that its [boosters](## "sostenitori") had promised. So during this period of [downturn](## "recessione") in the mid-70s, the US Congress wanted to [bolster](## "rafforzare") the Puerto Rican economy by [enabling](## "consentire") businesses to profit without paying taxes on their [revenues](## "entrate"). The United States [Internal Revenue](## "agenzia delle entrate") Code, the tax code, was [amended](## "emendare"), and one part of that amendment involved exempting American companies who wanted to establish a business in Puerto Rico so they didn’t have to pay [income tax](## "imposta sul reddito") on their [revenues](## "entrate"). So that produced a new kind of slow economic boost. In the mid-80s, the [bankruptcy code](## "codice fallimentare") was [amended](## "emendare") and a [provision](## "clausola") was added that excluded Puerto Rico from having the protections of bankruptcy [rule](## "dominio")s. US ci[ties](## "vincoli"), if they’re experiencing some kind of economic crisis — I mean, Detroit is a [fairly](## "abbastanza") recent example in the United States —, they can [resort](## "ricorrere") to bankruptcy restructuring that will enable them basically to manage [debt](## "debito")s and make decisions that will enable these public services and infrastructure to continue to survive. But Puerto Rico was excluded from those [rule](## "dominio")s. In the mid-90s, Congress decided to phase out the tax credits that had been established in the 1970s. Over a couple of years, the couple of years that happened to precede immediately the financial crisis in 2008, the island’s economy lost hundreds of millions of dollars in revenue. And as this financial hit was being felt, and as [public utili[ties](## "vincoli")](## "servizi pubblici") started really struggling in the 2010s, they could not [resort](## "ricorrere") to bankruptcy restructuring or the kinds of protections that an entity, a city, in the United States could [rely on](## "fare affidamento su"). So this precipitated a really major crisis that was already happening before 2008. And then the global financial crisis hit the island exceptionally hard.
+**Dr. Lorrin Thomas:** Puerto Rico’s great industrial boom that was supposed to have [lifted](## "sollevare") it into almost first-world status after World War Two had not really materialised in the way that its [boosters](## "sostenitori") had promised. So during this period of [downturn](## "recessione") in the mid-70s, the US Congress wanted to [bolster](## "rafforzare") the Puerto Rican economy by [enabling](## "consentire") businesses to profit without paying taxes on their [revenues](## "entrate"). The United States [Internal Revenue](## "agenzia delle entrate") Code, the tax code, was [amended](## "emendare"), and one part of that amendment involved exempting American companies who wanted to establish a business in Puerto Rico so they didn’t have to pay [income tax](## "imposta sul reddito") on their [revenues](## "entrate"). So that produced a new kind of slow economic boost. In the mid-80s, the [bankruptcy code](## "codice fallimentare") was [amended](## "emendare") and a [provision](## "clausola") was added that excluded Puerto Rico from having the protections of bankruptcy [rule](## "dominio")s. US ci[ties](## "vincoli"), if they’re experiencing some kind of economic crisis — I mean, Detroit is a [fairly](## "abbastanza") recent example in the United States —, they can [resort](## "ricorrere") to bankruptcy restructuring that will enable them basically to manage [debt](## "debito")s and make decisions that will enable these public services and infrastructure to continue to survive. But Puerto Rico was excluded from those [rule](## "dominio")s. In the mid-90s, Congress decided to phase out the tax credits that had been established in the 1970s. Over a couple of years, the couple of years that happened to precede immediately the financial crisis in 2008, the island’s economy lost hundreds of millions of dollars in revenue. And as this financial hit was being felt, and as public utili[ties](## "vincoli") started really struggling in the 2010s, they could not [resort](## "ricorrere") to bankruptcy restructuring or the kinds of protections that an entity, a city, in the United States could [rely on](## "fare affidamento su"). So this precipitated a really major crisis that was already happening before 2008. And then the global financial crisis hit the island exceptionally hard.
 
 ## THE GRITO DE LARES FLAG
 The Grito de Lares flag is an important symbol of Puerto Rican pride and resistance that originated during an early revolt against Spanish [rule](## "dominio") in 1868. 
@@ -56,56 +56,56 @@ If you want to know more about this topic, read the article Puerto Rico: Disast
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **granting** = concedere
-* **Act** = legge
-* **downturn** = recessione
-* **bills** = progetti di legge
-* **stemmed** = derivare da
-* **enabling** = consentire
-* **provision** = clausola
-* **resort** = ricorrere
-* **trounce** = sconfiggere
-* **withstand** = resistere
-* **phase-out** = eliminazione graduale
-* **lifted** = sollevare
-* **public utilities** = servizi pubblici
-* **rely on** = fare affidamento su
-* **hardships** = difficoltà
-* **shaped** = plasmare
-* **revenues** = entrate
 * **boosters** = sostenitori
+* **bankruptcy code** = codice fallimentare
+* **fairly** = abbastanza
+* **rely on** = fare affidamento su
+* **middle path** = via di mezzo
+* **Yet** = tuttavia
+* **bills** = progetti di legge
+* **bolster** = rafforzare
+* **amended** = emendare
+* **resort** = ricorrere
+* **public utilities** = servizi pubblici
+* **claimed** = rivendicare
+* **statehood** = status di Stato
+* **income tax** = imposta sul reddito
+* **spilled** = versare
+* **stripes** = strisce
+* **lifted** = sollevare
 * **switch** = scambio
 * **branches** = rami, poteri
-* **Yet** = tuttavia
-* **debt** = debito
-* **bolster** = rafforzare
-* **stands for** = rappresentare
-* **bold** = sgargiante
-* **benefits** = benefici
-* **income tax** = imposta sul reddito
-* **claimed** = rivendicare
-* **sugarcane** = canna da zucchero
-* **rule** = dominio
-* **inched towards** = avvicinarsi gradualmente
-* **charter** = statuto
-* **Commonwealth of Puerto Rico** = Stato Libero Associato di Porto Rico
-* **secured** = ottenere
-* **middle path** = via di mezzo
-* **ties** = vincoli
 * **summed up** = riassumere
+* **drafted** = arruolare
+* **phase-out** = eliminazione graduale
+* **debt** = debito
+* **enabling** = consentire
+* **bold** = sgargiante
+* **rule** = dominio
+* **Commonwealth of Puerto Rico** = Stato Libero Associato di Porto Rico
+* **outright independence** = indipendenza totale
+* **revenues** = entrate
+* **downturn** = recessione
+* **pretty hefty** = piuttosto consistente
+* **stemmed** = derivare da
+* **provision** = clausola
+* **sugarcane** = canna da zucchero
+* **inched towards** = avvicinarsi gradualmente
+* **secured** = ottenere
+* **shaped** = plasmare
+* **trounce** = sconfiggere
 * **eroded** = erodere
+* **stands for** = rappresentare
+* **yearning** = desiderio
+* **hardships** = difficoltà
+* **self-rule** = autogoverno
+* **granting** = concedere
+* **core** = principale
+* **ongoing** = in corso
+* **benefits** = benefici
 * **poorly equipped** = poco attrezzato
 * **Internal Revenue** = agenzia delle entrate
-* **amended** = emendare
-* **statehood** = status di Stato
-* **drafted** = arruolare
-* **ongoing** = in corso
-* **pretty hefty** = piuttosto consistente
-* **bankruptcy code** = codice fallimentare
-* **spilled** = versare
-* **yearning** = desiderio
-* **stripes** = strisce
-* **self-rule** = autogoverno
-* **outright independence** = indipendenza totale
-* **core** = principale
-* **fairly** = abbastanza
+* **charter** = statuto
+* **Act** = legge
+* **ties** = vincoli
+* **withstand** = resistere

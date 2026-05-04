@@ -8,7 +8,7 @@ Sono passati già quarant’anni dall’uscita di "Ritorno al futuro", un film c
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/Back%20To%20The%20Future%2040%20Years%20Back%20And%20Forth%20In%20Time.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/Back%20To%20The%20Future%2040%20Years%20Back%20And%20Forth%20In%20Time.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,14 +32,14 @@ There’s even an official Back to the Future Day on 21 October, as McFly travel
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **beloved** = amato
-* **came up with** = pensare, venire in mente
-* **take it on** = portare avanti, accettare la sfida
-* **highest-grossing** = con il maggior incasso
 * **theme park rides** = attrazioni di parchi di divertimento
-* **quoting** = citare
-* **Released** = distribuire, rilasciare
 * **stars** = avere come protagonista
 * **inadvertently** = inavvertitamente
+* **take it on** = portare avanti, accettare la sfida
 * **schedule** = programma
 * **screenings** = proiezioni
+* **quoting** = citare
+* **beloved** = amato
+* **Released** = distribuire, rilasciare
+* **came up with** = pensare, venire in mente
+* **highest-grossing** = con il maggior incasso

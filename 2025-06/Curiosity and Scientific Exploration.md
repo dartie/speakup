@@ -8,7 +8,7 @@ Situato nel cuore di Londra, il Royal Observatory Greenwich offre una fusione di
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Curiosity%20and%20Scientific%20Exploration.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Curiosity%20and%20Scientific%20Exploration.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -29,18 +29,18 @@ To this day, the Royal Observatory remains a vibrant [hub](## "centro") for edu
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **background** = esperienza precedente
-* **sundials** = orologi solari
-* **core** = fondamentali
-* **gone full scale** = coprire l’intero arco
-* **jottings** = annotazioni
-* **bridges** = unire
-* **blend** = fusione
-* **lantern slides** = diapositive per lanterna magica
-* **engaging** = interessante
-* **ectures** = conferenze
-* **echo** = risuonare, riemergere
-* **unpack** = chiarire
-* **dust** = polvere
-* **up to** = fino a
 * **hub** = centro
+* **core** = fondamentali
+* **sundials** = orologi solari
+* **jottings** = annotazioni
+* **lantern slides** = diapositive per lanterna magica
+* **echo** = risuonare, riemergere
+* **ectures** = conferenze
+* **dust** = polvere
+* **gone full scale** = coprire l’intero arco
+* **blend** = fusione
+* **up to** = fino a
+* **engaging** = interessante
+* **unpack** = chiarire
+* **background** = esperienza precedente
+* **bridges** = unire

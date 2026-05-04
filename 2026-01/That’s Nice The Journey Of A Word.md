@@ -8,7 +8,7 @@ Dal latino all’inglese moderno, la parola 'nice' ne ha fatta di strada! Ed è 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/That%E2%80%99s%20Nice%20The%20Journey%20Of%20A%20Word.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/That%E2%80%99s%20Nice%20The%20Journey%20Of%20A%20Word.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -36,25 +36,25 @@ Finally, between the 18th and 19th centuries, ‘nice’ acquired a meaning very
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **kind** = gentile
-* **indeed** = davvero
-* **It does for everything** = va bene per tutto
 * **flattering** = lusinghiero
-* **foolish** = sciocco
+* **at all** = per niente, affatto
+* **root** = radice
 * **the late 1300s** = fine del XIV secolo
 * **looks** = aspetto
 * **compliment** = complimento
+* **It does for everything** = va bene per tutto
+* **commendation** = elogio
+* **kind** = gentile
+* **unaware** = inconsapevole
+* **foolish** = sciocco
+* **fussy** = esigente
+* **range** = gamma, varietà
+* **wanton** = dissoluto
+* **finely dressed** = elegante, ben vestito
+* **took on** = acquisire
 * **mocks** = burlarsi
 * **overuse** = abuso
-* **commendation** = elogio
-* **at all** = per niente, affatto
-* **senseless** = insensata
-* **finely dressed** = elegante, ben vestito
-* **fussy** = esigente
-* **wanton** = dissoluto
 * **comprised** = comprendere
-* **unaware** = inconsapevole
-* **root** = radice
+* **senseless** = insensata
 * **behaviour** = comportamento
-* **range** = gamma, varietà
-* **took on** = acquisire
+* **indeed** = davvero

@@ -8,7 +8,7 @@ Per evitare un'atmosfera tesa e sgradevole, durante il discorso del tuo capo è 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/Making%20Fun%20of%20the%20Boss%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/Making%20Fun%20of%20the%20Boss%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -42,15 +42,15 @@ When you do something on demand, you do it as soon as or [whenever](## "in ogni 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **encouragement** = per incoraggiamento
 * **bends down** = inchinarsi
 * **hairpiece** = parrucchino
-* **worthy** = meritevole
-* **are in pain** = sentire dolore
-* **whenever** = in ogni momento
-* **flattened** = appiattire
-* **to notice** = notare
-* **mocking** = beffardo
 * **bald spot** = pelata
 * **regard** = considerare
+* **whenever** = in ogni momento
+* **encouragement** = per incoraggiamento
+* **to notice** = notare
+* **mocking** = beffardo
+* **worthy** = meritevole
 * **carpet** = moquette
+* **are in pain** = sentire dolore
+* **flattened** = appiattire

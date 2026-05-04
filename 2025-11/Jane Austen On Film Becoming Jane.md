@@ -8,7 +8,7 @@ Il film, nel quale Anne Hathaway interpreta Jane Austen, ricrea una possibile st
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Jane%20Austen%20On%20Film%20Becoming%20Jane.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Jane%20Austen%20On%20Film%20Becoming%20Jane.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -34,14 +34,14 @@ In her letters, Jane described these encounters to Cassandra with her usual iron
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **renowned** = prestigiose, celebri
-* **heir** = erede
-* **yet** = ma
-* **duty** = dovere
-* **elopes** = fare una fuga d’amore
 * **dowry** = dote
 * **dared** = osare
 * **balls** = balli, feste danzanti
 * **watercolour sketch** = bozzetto ad acquarello
 * **nephew** = nipote (maschio)
 * **dull** = noioso
+* **duty** = dovere
+* **renowned** = prestigiose, celebri
+* **heir** = erede
+* **yet** = ma
+* **elopes** = fare una fuga d’amore

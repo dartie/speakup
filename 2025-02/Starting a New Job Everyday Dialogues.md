@@ -8,7 +8,7 @@ Nuovo lavoro, nuova sfida! Tutto quello che ti serve sapere per partire alla gra
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Starting%20a%20New%20Job%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Starting%20a%20New%20Job%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -44,21 +44,21 @@ A team lunch is a [midday meal](## "pasto di mezzogiorno") with colleagues, wher
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **take you through** = guidare
-* **policies** = politica
-* **goods** = prodotti
-* **tools** = strumenti
 * **arranged** = organizzare
-* **branded** = di marca
-* **logging in** = fare l’accesso
-* **midday meal** = pasto di mezzogiorno
-* **strengthen** = rafforzare
+* **settle into** = adattarsi
+* **mugs** = tazze
+* **compensation** = retribuzione
 * **manage** = farcela
 * **through** = ripassare, vedere
-* **training** = formazione
-* **mugs** = tazze
-* **attendance** = presenza
-* **resources** = risorse
 * **workstation** = postazione di lavoro
-* **settle into** = adattarsi
-* **compensation** = retribuzione
+* **branded** = di marca
+* **goods** = prodotti
+* **logging in** = fare l’accesso
+* **resources** = risorse
+* **tools** = strumenti
+* **take you through** = guidare
+* **policies** = politica
+* **attendance** = presenza
+* **strengthen** = rafforzare
+* **training** = formazione
+* **midday meal** = pasto di mezzogiorno

@@ -8,7 +8,7 @@ Il rinomato disegnatore Chris Ware riflette sull’isolamento sociale, sull’im
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/Drawing%20Is%20Thinking.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/Drawing%20Is%20Thinking.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -37,18 +37,18 @@ www.cccb.org
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **to come across** = imbattersi in
-* **bloody** = violento
-* **contributor** = collaboratore
-* **cracked up to be** = non essere granché
-* **corpses** = cadaveri
 * **comic strips** = vignette
-* **fellow** = collega
-* **of concern** = preoccupante
-* **making it up** = inventare
+* **Raw** = crudo
+* **corpses** = cadaveri
+* **cartoonist** = fumettista
+* **contributor** = collaboratore
 * **ongoing** = in corso
 * **engagement** = coinvolgimento
+* **cracked up to be** = non essere granché
+* **to come across** = imbattersi in
 * **to frame** = inquadrare
 * **you go along** = man mano che si va avanti
-* **cartoonist** = fumettista
-* **Raw** = crudo
+* **of concern** = preoccupante
+* **bloody** = violento
+* **making it up** = inventare
+* **fellow** = collega

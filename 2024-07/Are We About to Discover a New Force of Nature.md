@@ -8,7 +8,7 @@ Nuovi esperimenti di cosmologia e fisica quantistica indicano che potremmo esser
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/Are%20We%20About%20to%20Discover%20a%20New%20Force%20of%20Nature.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/Are%20We%20About%20to%20Discover%20a%20New%20Force%20of%20Nature.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,48 +35,48 @@ How the story of these anomalies will end is unclear. But the wealth of emerging
 
 # Glossary
 * **mind-boggling** = sbalorditivi
-* **staggering** = sconcertante
-* **make-up** = composizione
-* **on the brink of** = sul punto di
-* **to run the clock forward** = mandare avanti l’orologio
-* **93bn light years across** = estensione di 93 miliardi di anni luce
-* **with flying colours** = con successo
-* **CERN** = Organizzazione europea per la ricerca nucleare (sigla di Conseil Européen pour la Recherche Nucléaire)
 * **murky** = torbido
-* **cosmic microwave background** = radiazione cosmica di fondo
-* **breadcrumb trail** = sentiero di briciole di pane
-* **faded light** = luce attenuata
-* **as-yet-undiscovered** = non ancora scoperte
-* **together** = mantenere insieme
-* **vise** = morsa
-* **tranche** = serie
-* **biases** = imprecisioni, errori
 * **compelling** = convincente
-* **stretches** = allungarsi
-* **a host of** = mucchio di
-* **to get your head around** = capire
-* **two further** = altre due
-* **Notwithstanding** = nonostante, malgrado
-* **hitherto** = finora
-* **mess with** = interferire
-* **tantalising** = allettante
 * **rushing away** = correre via
-* **grappling with** = essere alle prese con
-* **Hints** = indizi
-* **breakthrough** = scoperta
-* **LHCb** = esperimento dell’acceleratore LHC (sigla di Large Hadron Collider beauty)
-* **unlock** = svelare
-* **is down to** = essere dovuto a
+* **hitherto** = finora
 * **probed** = sondare
-* **ludicrously huge** = ridicolmente enorme
+* **marshalling** = ordinare
 * **gives rise to** = causare, dare origine
 * **radioactive decay** = decadimento radioattivo
+* **on the brink of** = sul punto di
+* **faded light** = luce attenuata
+* **cosmic microwave background** = radiazione cosmica di fondo
+* **93bn light years across** = estensione di 93 miliardi di anni luce
+* **as-yet-undiscovered** = non ancora scoperte
+* **make-up** = composizione
+* **two further** = altre due
+* **CERN** = Organizzazione europea per la ricerca nucleare (sigla di Conseil Européen pour la Recherche Nucléaire)
+* **mess with** = interferire
+* **to run the clock forward** = mandare avanti l’orologio
+* **realm** = sfera, campo
+* **staggering** = sconcertante
+* **ludicrously huge** = ridicolmente enorme
+* **to get your head around** = capire
+* **Hints** = indizi
+* **Notwithstanding** = nonostante, malgrado
+* **poured** = versare
 * **abound** = abbondare
-* **hard-won** = conquistato con fatica
-* **marshalling** = ordinare
+* **particle colliders** = collisori di particelle
 * **riven** = strappare
 * **carried ever farther apar** = sempre più distante
-* **realm** = sfera, campo
-* **particle colliders** = collisori di particelle
+* **together** = mantenere insieme
+* **breakthrough** = scoperta
+* **LHCb** = esperimento dell’acceleratore LHC (sigla di Large Hadron Collider beauty)
+* **tantalising** = allettante
+* **stretches** = allungarsi
+* **a host of** = mucchio di
+* **breadcrumb trail** = sentiero di briciole di pane
+* **vise** = morsa
 * **one hell of a** = straordinario
-* **poured** = versare
+* **tranche** = serie
+* **with flying colours** = con successo
+* **is down to** = essere dovuto a
+* **hard-won** = conquistato con fatica
+* **grappling with** = essere alle prese con
+* **unlock** = svelare
+* **biases** = imprecisioni, errori

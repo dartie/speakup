@@ -8,7 +8,7 @@ Un progetto durato cinque lunghi anni ha ridato vita al castello di Norwich, fon
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Norwich%20Castle%20Royal%20Palace%20Reborn.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Norwich%20Castle%20Royal%20Palace%20Reborn.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -37,45 +37,45 @@ From the castle’s new entrance to its café, shop and galleries, Royal Palace 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **staircase** = scalinata
-* **a quick shufty down** = dare un’occhiata veloce
-* **insight** = sguardo
-* **tapestries** = arazzi
-* **rooftops** = terrazze
-* **undergoing** = attraversare, sperimentare
-* **funding** = finanziamento
-* **as you go along** = man mano che si procede
-* **porpoise** = focena
-* **king’s chamber** = camera reale
-* **VR headsets** = visori di realtà virtuale
-* **plain** = semplice, senza ornamenti
-* **remains** = resti
-* **dressing up** = travestirsi
-* **great hall** = sala grande
-* **twirls** = ghirigori
-* **arrow slits** = feritoie, saettiere
-* **fore building** = edificio anteriore
-* **weak** = debole
-* **rush** = lanciarsi contro
-* **deer** = cervo
-* **riverine** = fluviali
-* **Northmen** = vichinghi
-* **bonfire** = falò
-* **tip it out** = buttare, versare
-* **chapel** = cappella
-* **costumes** = vestiti, costumi
-* **silted** = diventare paludoso, insabbiarsi
-* **stormed** = assaltare
-* **pile through** = perforare con pilastri
-* **concrete** = cemento
-* **well** = pozzo
 * **buried** = seppellire
-* **mounds** = colline, rilievi
-* **rabbit** = coniglio
-* **furniture** = arredamento
-* **needlework** = ricamo
-* **front and centre** = mettere in primo piano
-* **keeps** = fortezze
-* **fairly** = abbastanza
+* **tip it out** = buttare, versare
+* **deer** = cervo
+* **costumes** = vestiti, costumi
 * **trade links** = legami commerciali
+* **silted** = diventare paludoso, insabbiarsi
+* **Northmen** = vichinghi
+* **fore building** = edificio anteriore
+* **pile through** = perforare con pilastri
+* **tapestries** = arazzi
+* **keeps** = fortezze
+* **rush** = lanciarsi contro
+* **well** = pozzo
+* **furniture** = arredamento
+* **fairly** = abbastanza
+* **arrow slits** = feritoie, saettiere
+* **mounds** = colline, rilievi
+* **porpoise** = focena
+* **chapel** = cappella
+* **VR headsets** = visori di realtà virtuale
+* **undergoing** = attraversare, sperimentare
+* **plain** = semplice, senza ornamenti
+* **concrete** = cemento
+* **staircase** = scalinata
+* **twirls** = ghirigori
+* **rabbit** = coniglio
+* **insight** = sguardo
+* **great hall** = sala grande
+* **needlework** = ricamo
+* **dressing up** = travestirsi
 * **feel the part** = calarsi nei panni di
+* **weak** = debole
+* **stormed** = assaltare
+* **as you go along** = man mano che si procede
+* **remains** = resti
+* **king’s chamber** = camera reale
+* **rooftops** = terrazze
+* **riverine** = fluviali
+* **bonfire** = falò
+* **funding** = finanziamento
+* **a quick shufty down** = dare un’occhiata veloce
+* **front and centre** = mettere in primo piano

@@ -8,7 +8,7 @@ I social media e altre forme di intrattenimento digitale possono causare ansia, 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Digital%20Addiction%20What%20Happens%20When%20We%20Cannot%20Disconnect.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Digital%20Addiction%20What%20Happens%20When%20We%20Cannot%20Disconnect.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -46,31 +46,31 @@ We then asked Dr. Jantz if he had any tips on controlling social media use.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **underestimate** = sottovalutare
-* **conditions** = patologie, disturbi
-* **facility** = struttura, istituto
-* **checks in** = registrarsi
-* **spurts** = impulsi
-* **checkpoints** = punti di controllo
-* **pings** = emettere un suono metallico
+* **fast** = digiunare
+* **detox** = disintossicarsi
+* **listed** = includere
 * **ultimately** = all fine
+* **I be willing** = essere disposto
+* **checkpoints** = punti di controllo
+* **Despite** = nonostante
+* **depths** = profondità
+* **pings** = emettere un suono metallico
+* **facility** = struttura, istituto
+* **sweaty** = sudato
+* **heart rate** = battito cardiaco
+* **spurts** = impulsi
+* **you lose track of time** = perdere la cognizione del tempo
 * **it’s no big deal** = non è niente di che
 * **so forth** = e così via
-* **listed** = includere
-* **headache** = mal di testa
-* **you lose track of time** = perdere la cognizione del tempo
-* **deny** = negare
-* **fast** = digiunare
 * **behavioural-based** = basato sul comportamento
-* **honour** = rispettare
-* **regret** = pentirsi
+* **conditions** = patologie, disturbi
+* **checks in** = registrarsi
 * **May I have back** = posso avere indietro…?
-* **heart rate** = battito cardiaco
+* **device** = dispositivo
+* **underestimate** = sottovalutare
+* **deny** = negare
 * **folks** = gente
 * **PTSD** = disturbo da stress post-traumatico (post-traumatic stress disorder)
-* **device** = dispositivo
-* **sweaty** = sudato
-* **depths** = profondità
-* **detox** = disintossicarsi
-* **I be willing** = essere disposto
-* **Despite** = nonostante
+* **headache** = mal di testa
+* **honour** = rispettare
+* **regret** = pentirsi

@@ -8,7 +8,7 @@ Chissà cosa si provava ad assistere a un’opera di Shakespeare diretta da lui 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/The%20Globe%20Shakespeare%E2%80%99s%20Theatre.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/The%20Globe%20Shakespeare%E2%80%99s%20Theatre.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -20,7 +20,7 @@ Today’s replica is, in fact, the third Globe theatre. The first Globe was buil
 
 ## A BUSINESS VENTURE
 Dr. Hanh Bui is the Teaching and [Research Fellow](## "ricercatrice") at Shakespeare’s Globe. She talks about the historical context of the original Globe Theatre, what it was like to see a play there in the early 1600s, and what it’s like for audiences today. Dr. Bui begins by telling us how important the first Globe Theatre was as a business venture for Shakespeare and his theatre company.
-**Dr. Hanh Bui (American accent):**Building their own theatre gave the company greater control over their performance space, over their financial operations, and this was a really huge advantage. So key members of the acting company, including Shakespeare, were [share[hold](## "contenere")ers](## "azionisti") in the theatre, which meant that instead of paying rent, they [split](## "dividere") the [profits](## "guadagni"), and this incentivised them to manage the theatre efficiently. And it was this type of venture that helped make Shakespeare a relatively rich man before the end of his career.
+**Dr. Hanh Bui (American accent):**Building their own theatre gave the company greater control over their performance space, over their financial operations, and this was a really huge advantage. So key members of the acting company, including Shakespeare, were share[hold](## "contenere")ers in the theatre, which meant that instead of paying rent, they [split](## "dividere") the [profits](## "guadagni"), and this incentivised them to manage the theatre efficiently. And it was this type of venture that helped make Shakespeare a relatively rich man before the end of his career.
 
 ## GREAT SUCCESS 
 The first Globe Theatre was extremely successful and many of Shakespeare’s best-known plays were performed there: Henry V, Julius Caesar, As You Like It, Hamlet, Measure for Measure, Othello, King Lear, Macbeth, and Antony and Cleopatra. In fact, the Globe Theatre did so well that in 1603 King James I became [patron](## "mecenate") of the theatre company, which then changed its name from The Lord Chamberlain’s Men to the King’s Men. Dr. Bui talks about how audiences experienced plays at the Globe Theatre in Shakespeare’s time.
@@ -48,47 +48,47 @@ The vision for Shakespeare’s Globe was to achieve the most authentic reconstru
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **bear-baiting** = tormento dell’orso
-* **trained** = indirizzare
-* **outer walls** = pareti esterne
-* **jutted out** = sporgere
-* **on-site** = sul posto
-* **pegs** = chiodi
-* **venues** = spazi
-* **roofless** = senza tetto
-* **patron** = mecenate
-* **yard** = cortile
-* **ethos** = etica
-* **stands** = erigersi
-* **features** = caratteristiche
-* **close by** = vicino
-* **Research Fellow** = ricercatrice
-* **hold** = contenere
-* **ropes** = corde
-* **sourced** = ottenere
-* **pulled down** = demolire
-* **brothels** = bordelli
-* **split** = dividere
-* **hesitate** = esitare
-* **thatched roof** = tetto di paglia
-* **thrust stage** = palcoscenico aperto
-* **stuck** = bloccati
-* **profits** = guadagni
-* **spotlight** = riflettore
-* **behaviour** = comportamento
 * **held up** = sostenere
 * **assembled** = montare
+* **on-site** = sul posto
+* **stuck** = bloccati
+* **Hut** = baracca
+* **Research Fellow** = ricercatrice
 * **shareholders** = azionisti
-* **Hence** = per questo
 * **crowded** = ammassarsi
-* **or whatnot** = o quello che è
+* **spotlight** = riflettore
+* **ropes** = corde
 * **oak** = quercia
 * **sprinklers** = irrigatori
+* **venues** = spazi
 * **gambling houses** = case da gioco
-* **balcony** = galleria
+* **yard** = cortile
+* **jutted out** = sporgere
+* **brothels** = bordelli
+* **close by** = vicino
+* **hold** = contenere
 * **lime plaster** = intonaco di calce
+* **sourced** = ottenere
+* **pulled down** = demolire
 * **timbers** = travi di legno
-* **timber-framed** = con struttura in legno
-* **Hut** = baracca
+* **patron** = mecenate
+* **trained** = indirizzare
+* **behaviour** = comportamento
+* **hesitate** = esitare
 * **beam** = trave
+* **features** = caratteristiche
+* **bear-baiting** = tormento dell’orso
+* **Hence** = per questo
+* **thrust stage** = palcoscenico aperto
+* **stands** = erigersi
+* **roofless** = senza tetto
+* **profits** = guadagni
+* **balcony** = galleria
+* **or whatnot** = o quello che è
 * **hand-carved** = scolpito a mano
+* **pegs** = chiodi
+* **ethos** = etica
+* **split** = dividere
+* **timber-framed** = con struttura in legno
+* **outer walls** = pareti esterne
+* **thatched roof** = tetto di paglia

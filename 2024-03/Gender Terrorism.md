@@ -8,7 +8,7 @@ L'attivista britannica Laura Bates analizza l'influenza dannosa della manosfera,
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/Gender%20Terrorism.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/Gender%20Terrorism.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -41,31 +41,31 @@ www.everydaysexism.com
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **conduits** = intermediari
-* **rigged** = truccata
-* **pervasive** = onnipresenti
-* **commodifying** = commercializzare, rendere merce
-* **pickup** = partner sessuale
-* **hopelessness** = mancanza di speranza
-* **drawing on** = attingere
+* **verbatim** = alla lettera
 * **from primary school age up** = dall’età della scuola elementare in su
 * **dress them up** = mascherare
-* **outlets** = sbocchi
-* **reach out** = chiedere
-* **verbatim** = alla lettera
-* **slot machines** = macchinette mangiasoldi
-* **paying out** = provvedere
-* **to smash** = distruggere
-* **overlap** = sovrapposizione
-* **gender pay gap** = divario salariale di genere
-* **deny** = negare
-* **exploitative** = sfruttatore
-* **outdated** = obsoleto
-* **age-old** = antica
-* **recast** = rielaborare, riadattare
-* **held accountable** = considerare responsabili
-* **submitted** = inviare
-* **targets** = avere come obiettivo
-* **Whilst** = mentre
 * **tackling** = affrontare
 * **quotes** = citazioni
+* **conduits** = intermediari
+* **submitted** = inviare
+* **deny** = negare
+* **exploitative** = sfruttatore
+* **Whilst** = mentre
+* **reach out** = chiedere
+* **paying out** = provvedere
+* **rigged** = truccata
+* **hopelessness** = mancanza di speranza
+* **recast** = rielaborare, riadattare
+* **pickup** = partner sessuale
+* **commodifying** = commercializzare, rendere merce
+* **slot machines** = macchinette mangiasoldi
+* **to smash** = distruggere
+* **overlap** = sovrapposizione
+* **pervasive** = onnipresenti
+* **gender pay gap** = divario salariale di genere
+* **held accountable** = considerare responsabili
+* **targets** = avere come obiettivo
+* **outdated** = obsoleto
+* **outlets** = sbocchi
+* **age-old** = antica
+* **drawing on** = attingere

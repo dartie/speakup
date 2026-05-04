@@ -8,7 +8,7 @@ Cento anni fa, George Mallory e Sandy Irvine tentarono di raggiungere la vetta d
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/Mystery%20on%20Mt.%20Everest%20Death%20at%20the%20Summit.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/Mystery%20on%20Mt.%20Everest%20Death%20at%20the%20Summit.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,20 +35,20 @@ Mallory’s snow [goggles](## "occhiali") were in his pocket — perhaps he was 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **climbers** = scalatori
+* **was missing** = mancare
 * **on their way down** = durante la discesa
+* **one last push** = un ultimo tentativo
 * **fit** = in forma, in salute
 * **Ridge** = cresta
-* **tiny black dots** = piccoli punti neri
 * **mist** = nebbiolina, foschia
-* **torn away** = strappare
 * **search party** = squadra di ricerca, squadra di soccorso
-* **was missing** = mancare
-* **sliding downwards** = scivolare verso il basso
-* **wound** = ferita
-* **summit** = cima, vetta
-* **one last push** = un ultimo tentativo
-* **spotted** = avvistare
 * **face down** = faccia in giù
-* **goggles** = occhiali
+* **wound** = ferita
+* **climbers** = scalatori
+* **tiny black dots** = piccoli punti neri
+* **torn away** = strappare
+* **sliding downwards** = scivolare verso il basso
 * **mountaineering** = scalata
+* **summit** = cima, vetta
+* **spotted** = avvistare
+* **goggles** = occhiali

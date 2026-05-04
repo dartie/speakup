@@ -8,7 +8,7 @@ L'acclamato scrittore Salman Rushdie riflette sulle sue origini, sull'esperienza
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Facts%20and%20Fables.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Facts%20and%20Fables.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -41,21 +41,21 @@ Rushdie’s life and early books were profoundly impacted by the partition of In
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **fairy princesses** = principesse delle fiabe
-* **stretched** = estendersi
-* **provisions** = misure, disposizioni
-* **is called into question** = mettere in discussione
-* **Moor** = moro
-* **disenfranchised** = privati dei diritti
-* **fables** = favole
-* **heritage** = eredità
-* **rooted** = radicato
-* **claims** = affermare, sostenere
-* **the self** = il proprio io
-* **rule** = dominio
-* **awarded** = assegnare
-* **arose** = sorgere
-* **championing** = sostenere, promuovere
 * **stranded** = bloccate, abbandonate
-* **upheaval** = scontri
+* **the self** = il proprio io
+* **arose** = sorgere
 * **Sigh** = sospiro
+* **disenfranchised** = privati dei diritti
+* **upheaval** = scontri
+* **fables** = favole
+* **rooted** = radicato
+* **championing** = sostenere, promuovere
+* **awarded** = assegnare
+* **fairy princesses** = principesse delle fiabe
+* **is called into question** = mettere in discussione
+* **provisions** = misure, disposizioni
+* **heritage** = eredità
+* **claims** = affermare, sostenere
+* **Moor** = moro
+* **stretched** = estendersi
+* **rule** = dominio

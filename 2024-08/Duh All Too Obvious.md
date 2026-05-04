@@ -8,7 +8,7 @@ Si tratta di un’espressione che calza a pennello quando commettiamo un errore 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/Duh%20All%20Too%20Obvious.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/Duh%20All%20Too%20Obvious.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,19 +32,19 @@ In the last few decades, the usage of ‘duh’ has in some cases been replaced 
 
 # Glossary
 * **self-evident** = evidente, ovvio
-* **slang** = gergo
-* **but rather** = ma piuttosto
-* **exceedingly apparent** = estremamente evidente
-* **to push it open** = spingere per aprire
-* **dumb** = stupido
-* **catchphrase** = motto
-* **self-deprecatory** = autoironica
-* **slightly** = leggermente
 * **mocking** = derisorio, beffardo
+* **dumb** = stupido
+* **dammit** = maledizione! (abb. damn it)
+* **but rather** = ma piuttosto
 * **annoyance** = fastidio
+* **slightly** = leggermente
+* **exceedingly apparent** = estremamente evidente
+* **features** = essere presente
 * **It can be meant** = può essere inteso
 * **mean** = meschino
-* **mild** = tenue
-* **dammit** = maledizione! (abb. damn it)
-* **features** = essere presente
 * **rude** = scortese
+* **self-deprecatory** = autoironica
+* **slang** = gergo
+* **to push it open** = spingere per aprire
+* **mild** = tenue
+* **catchphrase** = motto

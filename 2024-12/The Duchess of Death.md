@@ -8,7 +8,7 @@ Agatha Christie ha vissuto una vita segnata da successi straordinari e sfide per
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/The%20Duchess%20of%20Death.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/The%20Duchess%20of%20Death.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,29 +33,29 @@ Agatha Christie basically wrote about and for people like herself. She wrote abo
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **concussed** = commozione
-* **to dwell on** = soffermarsi su
-* **guesthouse** = pensione
-* **lure** = attrattivo
-* **devious** = subdola
-* **money-grabbing** = avida di denaro
-* **sorrow** = tristezza
-* **playwright** = drammaturga
-* **longest-running** = null
-* **to drive it out** = scacciare
-* **grief** = dolore
 * **housewife** = casalinga
-* **disabled** = disabili
-* **vicious** = crudele
-* **opening night** = con più rappresentazioni
-* **spinsters** = zitelle
-* **readability** = leggibilità
+* **cunning** = astuta
+* **money-grabbing** = avida di denaro
+* **snowed in** = bloccati dalla neve
 * **warns** = avvertire
 * **forms** = registri
-* **manhunt** = caccia all’uomo
-* **cunning** = astuta
+* **to dwell on** = soffermarsi su
+* **disabled** = disabili
+* **longest-running** = null
 * **whodunnit** = giallo
-* **snowed in** = bloccati dalla neve
+* **spinsters** = zitelle
+* **grief** = dolore
+* **manhunt** = caccia all’uomo
+* **concussed** = commozione
+* **sorrow** = tristezza
+* **vicious** = crudele
+* **playwright** = drammaturga
 * **plots** = trame
 * **cosy** = accogliente
 * **kicked in** = farsi sentire
+* **devious** = subdola
+* **opening night** = con più rappresentazioni
+* **guesthouse** = pensione
+* **readability** = leggibilità
+* **lure** = attrattivo
+* **to drive it out** = scacciare

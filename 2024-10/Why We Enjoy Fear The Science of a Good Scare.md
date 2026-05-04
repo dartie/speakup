@@ -8,12 +8,12 @@ Perché abbiamo trasformato la paura in una forma di intrattenimento? La scienza
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/Why%20We%20Enjoy%20Fear%20The%20Science%20of%20a%20Good%20Scare.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/Why%20We%20Enjoy%20Fear%20The%20Science%20of%20a%20Good%20Scare.mp3" type="audio/mpeg">
 </audio>
 </div>
 
 
-Palms [sweat](## "su[dare](## "osare")"), heartbeat quickens, muscles tense. Your skin [prickles](## "formicolare") and stomach [churns](## "agitarsi"). When fear subsides, we can be left with feelings of pleasure. Is this just the relief of having survived — or is it something more?
+Palms [sweat](## "sudare"), heartbeat quickens, muscles tense. Your skin [prickles](## "formicolare") and stomach [churns](## "agitarsi"). When fear subsides, we can be left with feelings of pleasure. Is this just the relief of having survived — or is it something more?
 
 ## FIGHT OR FLIGHT
 The amygdala, an [almond-shaped](## "a forma di mandorla") [bundle](## "fascio") of neurons deep in the centre of the brain, controls the fear response. In a fearful situation, the amygdala stimulates the hypothalamus, which activates two systems in the body – the sympathetic nervous system and the adrenal cortical system — causing a flash flood of hormones and [triggering](## "innescare") the [fight-or-flight](## "attacco o fuga") response.
@@ -22,7 +22,7 @@ Adrenaline [boosts](## "promuovere, aumentare") the body’s alertness. It spee
 When we are exposed to sensory stimuli or an environment that is potentially threatening, she says, two pathways are activated in the brain. The first is fast. Information is transferred to the sensory thalamus and then to the amygdala, allowing for immediate action on the threatening stimuli.
 The second is a slower, indirect route. Information is sent from the thalamus to the cortex, the [outermost layer](## "strato esterno") of the brain, associated with consciousness, reasoning and memory. This analyses the threat and allows us to determine whether we are in real danger.
 “We do not know exactly where the feeling of fear occurs in the brain,” says Lawrenson, “but it is likely to be from the coordinated activation of a fear network involving multiple brain regions.”
-If the threat is determined to be real, other areas of the brain will be activated to initiate a whole-body response to the danger. This includes the [periaqueductal grey](## "sostanza grigia periacqueduttale"), which coordinates the antinociceptive, autonomic and behavioural reactions to stress and injury, blocking the detection of pain by sensory neurons and [kickstarting](## "[dare](## "osare") il via a") the involuntary physiological processes and responding action.
+If the threat is determined to be real, other areas of the brain will be activated to initiate a whole-body response to the danger. This includes the [periaqueductal grey](## "sostanza grigia periacqueduttale"), which coordinates the antinociceptive, autonomic and behavioural reactions to stress and injury, blocking the detection of pain by sensory neurons and [kickstarting](## "dare il via a") the involuntary physiological processes and responding action.
 “The memory of [the danger] will be transferred and stored in the hippocampus,” adds Lawrenson’s co-researcher, Dr. Elena Paci, “so that we are able to remember and identify the threat at the next encounter.”
 
 ## COLLECTIVE FEARS
@@ -54,36 +54,36 @@ Published in The Guardian on 22 October 2022. Reprinted with permission. 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **realms** = campi, ambiti
-* **chainsaw-wielding** = dotati di motosega
-* **jump scare** = spavento da far saltare
-* **fight-or-flight** = attacco o fuga
-* **spike** = impennarsi
-* **to draft up** = abbozzare
-* **coping** = superare
-* **to getting a grip** = controllarsi, tranquillizzarsi
-* **by seeking out** = cercare
-* **rush** = impeto, fervore
-* **diverts** = deviare
-* **kickstarting** = dare il via a
-* **ingrained** = radicate
-* **brain-munching** = divoratori di cervelli
-* **sweet spot** = punto di equilibrio
-* **harmless** = innocuo, inoffensivo
-* **thrill** = emozione
-* **triggering** = innescare
-* **periaqueductal grey** = sostanza grigia periacqueduttale
-* **surged** = aumentare vertiginosamente
-* **worst-case scenarios** = scenari peggiori
-* **boosts** = promuovere, aumentare
-* **almond-shaped** = a forma di mandorla
-* **Blood vessels** = vasi sanguigni
-* **went into hyperdrive** = entrare in ipervelocità
-* **unease** = agitazione, ansia
-* **dare** = osare
-* **prickles** = formicolare
-* **outermost layer** = strato esterno
-* **bundle** = fascio
 * **churns** = agitarsi
+* **spike** = impennarsi
+* **outermost layer** = strato esterno
+* **realms** = campi, ambiti
+* **worst-case scenarios** = scenari peggiori
+* **rush** = impeto, fervore
+* **triggering** = innescare
+* **brain-munching** = divoratori di cervelli
+* **harmless** = innocuo, inoffensivo
+* **dare** = osare
+* **kickstarting** = dare il via a
+* **surged** = aumentare vertiginosamente
+* **thrill** = emozione
+* **almond-shaped** = a forma di mandorla
+* **bundle** = fascio
+* **boosts** = promuovere, aumentare
 * **tame** = mite, mansueto
 * **sweat** = sudare
+* **diverts** = deviare
+* **went into hyperdrive** = entrare in ipervelocità
+* **to draft up** = abbozzare
+* **to getting a grip** = controllarsi, tranquillizzarsi
+* **periaqueductal grey** = sostanza grigia periacqueduttale
+* **coping** = superare
+* **by seeking out** = cercare
+* **unease** = agitazione, ansia
+* **sweet spot** = punto di equilibrio
+* **fight-or-flight** = attacco o fuga
+* **ingrained** = radicate
+* **chainsaw-wielding** = dotati di motosega
+* **Blood vessels** = vasi sanguigni
+* **jump scare** = spavento da far saltare
+* **prickles** = formicolare

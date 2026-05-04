@@ -8,7 +8,7 @@ La regione dell’Anglia Orientale è famosa per i suoi pittoreschi paesaggi cos
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/Thorpeness%20Dream%20Village.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/Thorpeness%20Dream%20Village.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -30,28 +30,28 @@ Ogilvie died in 1932, but would be pleased to know that Thorpeness remains a gen
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **rowing boat** = barca a remi
-* **cream teas** = tè del pomeriggio
-* **timbered and brick** = in legno e mattoni
-* **playwright** = drammaturgo
-* **puddled** = fangoso, paludoso
-* **hamlet** = borgo, paesino
-* **bowling green** = campo da bocce
-* **Framed** = incorniciato
-* **sandy beaches** = spiagge di sabbia
-* **windmill** = mulino a vento
-* **shelter** = rifugio
-* **unspoiled** = incontaminata
-* **encroaching** = invadere
-* **silted up** = diventare fangoso
-* **shallow** = poco profondo
-* **plinth** = piedistallo
-* **fond of** = essere affezionato a
-* **inlet** = insenatura
-* **fairytale** = da favola
-* **wildlife-spotting** = avvistamento di fauna
-* **dream a village into existence** = trasformare un sogno in realtà, far avverare un sogno
 * **heathland** = lande
-* **barrister** = avvocato
+* **windmill** = mulino a vento
+* **playwright** = drammaturgo
 * **estate** = tenuta
 * **mock-Tudor** = finto stile Tudor
+* **bowling green** = campo da bocce
+* **wildlife-spotting** = avvistamento di fauna
+* **unspoiled** = incontaminata
+* **dream a village into existence** = trasformare un sogno in realtà, far avverare un sogno
+* **sandy beaches** = spiagge di sabbia
+* **timbered and brick** = in legno e mattoni
+* **barrister** = avvocato
+* **encroaching** = invadere
+* **shelter** = rifugio
+* **shallow** = poco profondo
+* **fairytale** = da favola
+* **hamlet** = borgo, paesino
+* **silted up** = diventare fangoso
+* **plinth** = piedistallo
+* **fond of** = essere affezionato a
+* **rowing boat** = barca a remi
+* **cream teas** = tè del pomeriggio
+* **Framed** = incorniciato
+* **puddled** = fangoso, paludoso
+* **inlet** = insenatura

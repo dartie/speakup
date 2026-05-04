@@ -8,7 +8,7 @@ Considerato da molti uno dei più grandi pensatori della nostra epoca, propone l
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/Jeremy%20Lent%20A%20Paradigm%20For%20A%20Better%20Future.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/Jeremy%20Lent%20A%20Paradigm%20For%20A%20Better%20Future.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -66,61 +66,61 @@ www.jeremylent.com 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **have Uncle Bob within us** = avere dentro di noi
-* **shuts down** = bloccarsi
-* **foundations** = fondamenta, basi
-* **advice** = consiglio
-* **truly** = veramente
-* **metal framing** = struttura metallica
-* **staircase** = scala
-* **enhance** = migliorare, potenziare
-* **hedonic treadmill** = tapis roulant edonico
-* **on our current path** = su questa strada
-* **terms** = definire, chiamare
-* **relative** = parente
-* **flour** = farina
-* **harmful** = dannosa
-* **oil spill** = sversamento di petrolio
-* **warning** = avvertire
-* **split** = divisione, frattura
-* **earthquake** = terremoto
-* **cogs** = ingranaggi
-* **downwards** = verso il basso
-* **flaws** = difetti
-* **life-affirming** = vitale
-* **Gross Domestic Product** = Prodotto Interno Lordo
-* **welfare** = benessere
-* **figuring out** = capire
-* **are all engaged in** = essere coinvolto in
-* **selfish** = egoisti
-* **turned out** = rivelarsi
-* **peers** = pari, colleghi
 * **political turmoil** = instabilità politica
-* **passed away** = morire
-* **acquaintance** = conoscente
-* **rat race** = competizione spietata
-* **steps** = scalini
-* **inmates** = detenuti
+* **shuts down** = bloccarsi
+* **are all engaged in** = essere coinvolto in
+* **misleading** = fuorviante
+* **downwards** = verso il basso
 * **GDP** = PIL (gross domestic product)
-* **underlying** = sottostanti
-* **grind** = macinare
-* **unfolding** = dispiegarsi
-* **make a difference** = fare la differenza
+* **oil spill** = sversamento di petrolio
+* **earthquake** = terremoto
+* **peers** = pari, colleghi
 * **powerless** = impotenti
 * **meaningful** = significativa
-* **comes along** = presentarsi, arrivare
-* **striving** = impegnarsi
-* **outcomes** = esiti
-* **Patterning** = modellare, seguire degli schemi
-* **tea party** = festicciola, riunione informale
+* **selfish** = egoisti
+* **unfolding** = dispiegarsi
+* **welfare** = benessere
+* **harmful** = dannosa
+* **relative** = parente
+* **have Uncle Bob within us** = avere dentro di noi
+* **cogs** = ingranaggi
 * **end up** = finire per
+* **flour** = farina
+* **passed away** = morire
+* **tea party** = festicciola, riunione informale
+* **hedonic treadmill** = tapis roulant edonico
+* **flaws** = difetti
+* **make a difference** = fare la differenza
+* **rat race** = competizione spietata
+* **comes along** = presentarsi, arrivare
+* **split** = divisione, frattura
 * **fences** = recinzioni
+* **will** = volontà
+* **staircase** = scala
+* **outcomes** = esiti
+* **harnesses** = incanalare
+* **steps** = scalini
+* **enhance** = migliorare, potenziare
+* **underlying** = sottostanti
+* **pursue** = perseguire
+* **life-affirming** = vitale
 * **degree** = laurea
 * **going into business** = dedicarsi al mondo degli affari
-* **harnesses** = incanalare
-* **pursue** = perseguire
-* **misleading** = fuorviante
+* **acquaintance** = conoscente
 * **fulfilment** = realizzazione personale
-* **will** = volontà
+* **Gross Domestic Product** = Prodotto Interno Lordo
 * **overwhelmed** = sopraffatto
+* **truly** = veramente
+* **turned out** = rivelarsi
+* **metal framing** = struttura metallica
+* **inmates** = detenuti
+* **striving** = impegnarsi
+* **terms** = definire, chiamare
+* **Patterning** = modellare, seguire degli schemi
+* **grind** = macinare
+* **foundations** = fondamenta, basi
+* **warning** = avvertire
 * **measurably** = in modo misurabile
+* **on our current path** = su questa strada
+* **figuring out** = capire
+* **advice** = consiglio

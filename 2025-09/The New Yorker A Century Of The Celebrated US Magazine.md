@@ -8,7 +8,7 @@ Cento anni fa a Manhattan nasceva una piccola rivista umoristica. Oggi, è un es
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20New%20Yorker%20A%20Century%20Of%20The%20Celebrated%20US%20Magazine.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20New%20Yorker%20A%20Century%20Of%20The%20Celebrated%20US%20Magazine.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -43,44 +43,44 @@ www.newyorker.com
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **to sue** = denunciare, fare causa
-* **issue** = numero (di una pubblicazione)
-* **prompted** = provocare
-* **punchline** = battuta
-* **noteworthy** = degni di nota
-* **headlines** = titoli
-* **sparked** = accendere, innescare
-* **stand trial** = essere processato
-* **passé** = passato di moda
-* **sharp** = acuta
-* **fact checking** = verifica dei fatti
-* **commitment** = impegno
-* **put in place** = istituire, introdurre
-* **sympathetically** = in modo compassionevole
-* **heinous** = crudeli, orribili
-* **prides itself** = essere orgogliosi
-* **accuracy** = precisione
-* **allegedly** = presumibilmente
-* **long-form** = di lungo formato
+* **cog** = ingranaggio
 * **groundbreaking** = rivoluzionario, innovativo
-* **single-panel cartoons** = una vignetta singola
+* **twisted** = distorcere
+* **sympathetically** = in modo compassionevole
+* **allegedly** = presumibilmente
+* **essays** = saggi
+* **punchline** = battuta
+* **fact checking** = verifica dei fatti
+* **put in place** = istituire, introdurre
+* **heinous** = crudeli, orribili
 * **thoughtful** = riflessivo
 * **outstanding** = eccezionali
-* **walks of life** = ceti sociali, estrazioni sociali
 * **cartoons** = vignette, fumetti
 * **milieu** = ambiente
-* **encouraged** = animare
-* **twisted** = distorcere
-* **libel** = diffamazione, calunnia
-* **essays** = saggi
-* **Indeed** = in effetti
-* **penned** = scrivere
+* **accuracy** = precisione
 * **deadpan** = beffardo, impassibile
-* **feature** = elemento, caratteristica
-* **highbrow** = intellettuali
-* **hint at** = suggerire, alludere
-* **cog** = ingranaggio
+* **encouraged** = animare
+* **passé** = passato di moda
 * **beacon** = simbolo, punto di riferimento
 * **scope** = ambito, portata
+* **headlines** = titoli
+* **issue** = numero (di una pubblicazione)
+* **noteworthy** = degni di nota
+* **sharp** = acuta
+* **walks of life** = ceti sociali, estrazioni sociali
+* **prompted** = provocare
+* **long-form** = di lungo formato
+* **single-panel cartoons** = una vignetta singola
+* **hint at** = suggerire, alludere
+* **stand trial** = essere processato
+* **commitment** = impegno
+* **feature** = elemento, caratteristica
+* **to sue** = denunciare, fare causa
+* **libel** = diffamazione, calunnia
 * **compelling** = convincente, interessante
+* **Indeed** = in effetti
+* **highbrow** = intellettuali
+* **sparked** = accendere, innescare
+* **prides itself** = essere orgogliosi
+* **penned** = scrivere
 * **captions** = didascalie, sottotitoli

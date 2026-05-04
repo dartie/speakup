@@ -8,7 +8,7 @@ Fondamentale per il suo ruolo nell’astronomia, nella navigazione e nel cronome
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Royal%20Observatory,%20Greenwich%20350th%20Anniversary.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Royal%20Observatory,%20Greenwich%20350th%20Anniversary.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -44,38 +44,38 @@ www.rmg.co.uk/royal-observatory
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **in sync** = sincronizzati
-* **be a couple of minutes behind** = essere in ritardo
-* **borough** = distretto
-* **trade routes** = rotte commerciali
-* **shift** = cambiamento
-* **miss** = perdersi
-* **running** = svolgere
-* **to work out** = calcolare
-* **milestones** = tappe fondamentali
-* **take it for granted** = dare per scontato
-* **wide array** = un’ampia gamma
-* **grounded** = incagliato
-* **it makes sense** = avere senso
-* **Oh, gosh** = oh, cielo
-* **Prime Meridian** = meridiano di Greenwich
-* **on the face of it** = a prima vista
-* **keep an eye out for** = stare attenti a
-* **had relied on** = fare affidamento su
-* **Getting your bearings** = orientarsi
 * **compasses** = bussole
 * **stand out** = distinguersi
-* **odd** = strano
-* **crisp** = fresco
-* **Onion Dome** = cupola a bulbo
-* **twelve-minute train ride** = viaggio in treno di dodici minuti
-* **a bit before** = essere in anticipo
-* **scoot past** = passare
-* **released** = emettere
-* **timekeeping** = misurazione del tempo
-* **enabled** = rendere possibile, permettere
 * **floorboards** = tavole
-* **pit** = fossa
-* **hubbub** = trambusto
+* **crisp** = fresco
 * **shipping industry** = industria del trasporto navale
+* **milestones** = tappe fondamentali
+* **had relied on** = fare affidamento su
+* **a bit before** = essere in anticipo
+* **Prime Meridian** = meridiano di Greenwich
+* **to work out** = calcolare
+* **scoot past** = passare
+* **pit** = fossa
+* **running** = svolgere
+* **Getting your bearings** = orientarsi
+* **timekeeping** = misurazione del tempo
+* **shift** = cambiamento
+* **be a couple of minutes behind** = essere in ritardo
+* **odd** = strano
+* **borough** = distretto
+* **trade routes** = rotte commerciali
+* **on the face of it** = a prima vista
+* **in sync** = sincronizzati
+* **Oh, gosh** = oh, cielo
+* **miss** = perdersi
+* **Onion Dome** = cupola a bulbo
+* **hubbub** = trambusto
 * **well worth** = valere la pena
+* **it makes sense** = avere senso
+* **grounded** = incagliato
+* **twelve-minute train ride** = viaggio in treno di dodici minuti
+* **released** = emettere
+* **take it for granted** = dare per scontato
+* **keep an eye out for** = stare attenti a
+* **enabled** = rendere possibile, permettere
+* **wide array** = un’ampia gamma

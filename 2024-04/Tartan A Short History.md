@@ -8,7 +8,7 @@ Questo modello di lana, estremamente caratteristico dei clan scozzesi, è divent
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Tartan%20A%20Short%20History.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Tartan%20A%20Short%20History.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,23 +32,23 @@ Today, the Tartan Monster is alive and well: Scottish souvenir shops sell all ki
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **-clad** = rivestito di
+* **pattern** = motivo
+* **timeless** = eterno, senza tempo
+* **to date back to** = risalire
+* **wool** = lana
+* **cloth** = stoffa, tela
+* **attire** = abiti, stile
+* **skyrocketed** = andare alle stelle
+* **displayed** = esibire
 * **Chieftain** = capotribù
 * **uprising** = insurrezione, rivolta
-* **skyrocketed** = andare alle stelle
-* **to date back to** = risalire
-* **cloth** = stoffa, tela
-* **was lifted** = abolire, sopprimere
-* **attire** = abiti, stile
-* **commodification** = mercificazione
-* **pattern** = motivo
-* **criss-crossed** = a linee incrociate
-* **timeless** = eterno, senza tempo
-* **badge** = segno, simbolo di
-* **wool** = lana
-* **banned** = banned
 * **good will** = buona volontà
-* **catwalk** = passerella
-* **displayed** = esibire
+* **-clad** = rivestito di
+* **badge** = segno, simbolo di
 * **beyond** = oltre, non solo
+* **commodification** = mercificazione
 * **chequered** = a quadri
+* **catwalk** = passerella
+* **criss-crossed** = a linee incrociate
+* **banned** = banned
+* **was lifted** = abolire, sopprimere

@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/South%20Dakota%20Wild%20and%20Free.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/South%20Dakota%20Wild%20and%20Free.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -48,35 +48,35 @@ www.sdvisit.com
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **pronghorn** = antilocapre americane
-* **quirky** = peculiari, particolari
-* **herd** = mandria
-* **edge** = bordo, margine
-* **Elk** = wapiti
-* **forested pines** = boschi di pini
-* **throughout** = in ogni parte di
-* **rock climbing** = arrampicata
-* **pops** = scoppi
-* **laid-back** = rilassati
-* **landlocked** = senza sbocchi sul mare
-* **corn and wheat** = mais e grano
-* **dammed up** = costruire una diga su
-* **flatlands** = pianure
-* **burial place** = luogo di sepoltura
-* **aspen trees** = pioppi tremuli
-* **pull over** = accostare (con la macchina)
-* **bighorn sheep** = pecore delle montagne rocciose
-* **birch** = betulle
-* **pop out** = emergere
-* **peeking out** = spuntare
-* **tips** = consigli
 * **plenty** = molto, parecchio
-* **grassland** = distese erbose, praterie
-* **deer** = cervi
-* **chirping** = cinguettare
-* **diner** = ristorante economico, piccolo ristorante
 * **surreal** = surreale
-* **boxwork** = riquadri
-* **roaming** = vagare
-* **unlike** = non essere proprio di
+* **bighorn sheep** = pecore delle montagne rocciose
+* **forested pines** = boschi di pini
+* **aspen trees** = pioppi tremuli
+* **laid-back** = rilassati
+* **quirky** = peculiari, particolari
 * **cattle** = bestiame
+* **roaming** = vagare
+* **Elk** = wapiti
+* **chirping** = cinguettare
+* **landlocked** = senza sbocchi sul mare
+* **burial place** = luogo di sepoltura
+* **pronghorn** = antilocapre americane
+* **pull over** = accostare (con la macchina)
+* **grassland** = distese erbose, praterie
+* **rock climbing** = arrampicata
+* **pop out** = emergere
+* **birch** = betulle
+* **edge** = bordo, margine
+* **pops** = scoppi
+* **peeking out** = spuntare
+* **deer** = cervi
+* **tips** = consigli
+* **corn and wheat** = mais e grano
+* **throughout** = in ogni parte di
+* **diner** = ristorante economico, piccolo ristorante
+* **flatlands** = pianure
+* **boxwork** = riquadri
+* **herd** = mandria
+* **dammed up** = costruire una diga su
+* **unlike** = non essere proprio di

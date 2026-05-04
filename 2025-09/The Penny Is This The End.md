@@ -8,7 +8,7 @@ I costi di produzione di un penny sono più alti del suo valore nominale. Vale l
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Penny%20Is%20This%20The%20End.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Penny%20Is%20This%20The%20End.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -39,23 +39,23 @@ The abolition of the US penny is a [big deal](## "cosa seria") and will probabl
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **pennies** = centesimi
-* **obverse** = dritto
 * **nation’s budget** = bilancio nazionale
 * **big deal** = cosa seria
-* **Mint** = zecca
-* **heads** = testa
-* **purchasing power** = potere d’acquisto
-* **a penny at a time** = uno alla volta
-* **left alone** = lasciare in pace
-* **rip the waste out** = strappare via
-* **copper-plated coin** = moneta placcata in rame
+* **discontinued** = interrompere, mettere fine
 * **turned** = compiere gli anni
-* **featured** = presentare
+* **Mint** = zecca
+* **Shield** = scudo
 * **tails** = croce
+* **wasteful** = inutile
+* **rip the waste out** = strappare via
+* **a penny at a time** = uno alla volta
+* **pennies** = centesimi
+* **copper-plated coin** = moneta placcata in rame
+* **stripes** = strisce
+* **left alone** = lasciare in pace
 * **nuisance** = fastidio, seccatura
 * **worth** = valere
-* **discontinued** = interrompere, mettere fine
-* **Shield** = scudo
-* **stripes** = strisce
-* **wasteful** = inutile
+* **featured** = presentare
+* **obverse** = dritto
+* **heads** = testa
+* **purchasing power** = potere d’acquisto

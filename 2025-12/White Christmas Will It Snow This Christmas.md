@@ -8,7 +8,7 @@ Il classico paesaggio innevato che associamo alle Feste è sempre più raro nel 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/White%20Christmas%20Will%20It%20Snow%20This%20Christmas.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/White%20Christmas%20Will%20It%20Snow%20This%20Christmas.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,17 +33,17 @@ Today, in the UK at least, the chances of experiencing a white Christmas are [in
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **drops** = calare drasticamente
-* **depicts** = raffigurare
+* **wet** = umido, piovoso
 * **tumbling snowflakes** = fiocchi di neve che cadono
-* **weather forecasts** = previsioni meteo
+* **frost** = brina, ghiaccio
+* **warnings** = allerte
+* **label** = etichetta, definizione
 * **increasingly slim** = sempre più ridotte
 * **rising** = in aumento
-* **wet** = umido, piovoso
+* **depicts** = raffigurare
 * **rooftops** = tetti
-* **frost** = brina, ghiaccio
 * **cosy** = accoglienti
 * **spread** = diffondersi
 * **unlikely** = poco probabile
-* **warnings** = allerte
-* **label** = etichetta, definizione
+* **weather forecasts** = previsioni meteo
+* **drops** = calare drasticamente

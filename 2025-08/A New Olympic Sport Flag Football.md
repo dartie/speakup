@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/A%20New%20Olympic%20Sport%20Flag%20Football.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/A%20New%20Olympic%20Sport%20Flag%20Football.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,13 +32,13 @@ According to the IFAF, [flag](## "bandiera") football is played by more than twe
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **unlike** = al contrario
-* **waist** = vita, cintura
-* **tail** = coda
-* **caught on** = prendere piede
-* **oversees** = supervisionare
 * **tackling** = placcare
-* **Concussion** = commozione cerebrale
-* **birthplace** = luogo di nascita
 * **trend** = tendenza
 * **flag** = bandiera
+* **waist** = vita, cintura
+* **Concussion** = commozione cerebrale
+* **unlike** = al contrario
+* **tail** = coda
+* **birthplace** = luogo di nascita
+* **caught on** = prendere piede
+* **oversees** = supervisionare

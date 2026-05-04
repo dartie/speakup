@@ -8,7 +8,7 @@ Oggi, il termine inglese ‘romance’ indica sia una relazione romantica che un
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Romance%20Story%20A%20Linguistic%20Journey.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Romance%20Story%20A%20Linguistic%20Journey.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,16 +40,16 @@ Interestingly, while the adjective ‘romantic’ has a [broadly](## "in genera
 
 # Glossary
 * **formerly** = precedentemente
+* **courtly love** = amor cortese
+* **chivalry** = cavalleria
+* **aforementioned** = sopra menzionate
+* **broadly** = in generale
+* **noun** = nome, sostantivo
+* **early medieval** = altomedievale, primi secoli del Medioevo
+* **ordinary people** = gente comune
 * **unlike** = a differenza di
 * **departed** = distanziarsi
 * **had taken root** = mettere radici, attecchire
 * **shift** = cambiamento
-* **knights** = cavalieri
-* **courtly love** = amor cortese
-* **chivalry** = cavalleria
-* **early medieval** = altomedievale, primi secoli del Medioevo
-* **ordinary people** = gente comune
 * **tales** = racconti, storie
-* **aforementioned** = sopra menzionate
-* **broadly** = in generale
-* **noun** = nome, sostantivo
+* **knights** = cavalieri

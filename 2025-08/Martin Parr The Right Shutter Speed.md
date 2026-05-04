@@ -8,7 +8,7 @@ Abbiamo parlato con Martin Parr dei suoi progetti passati e di quelli futuri, ma
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/Martin%20Parr%20The%20Right%20Shutter%20Speed.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/Martin%20Parr%20The%20Right%20Shutter%20Speed.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -46,19 +46,19 @@ So what is the photographer working on now? 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **subject matter** = argomento, tema
-* **switch** = cambio
-* **in the making** = in fase di sviluppo
-* **oil wash** = liquido oleoso
-* **bleak** = desolate, squallide
-* **insight** = sguardo, spaccato
-* **loading up** = salire
 * **bowler hat** = bombetta
-* **dull** = insulsa
-* **antics** = stranezze
 * **fold-outs** = inserti pieghevoli
-* **carved** = incise, scolpite
+* **oil wash** = liquido oleoso
+* **antics** = stranezze
+* **insight** = sguardo, spaccato
+* **snails** = lumache
+* **switch** = cambio
+* **took any notice** = rendersi conto
 * **aims** = aspirare
 * **heritage** = patrimonio
-* **snails** = lumache
-* **took any notice** = rendersi conto
+* **dull** = insulsa
+* **in the making** = in fase di sviluppo
+* **bleak** = desolate, squallide
+* **subject matter** = argomento, tema
+* **loading up** = salire
+* **carved** = incise, scolpite

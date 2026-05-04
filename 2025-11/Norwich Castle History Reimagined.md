@@ -8,7 +8,7 @@ Simbolo della conquista normanna, nel corso dei secoli il castello ha svolto il 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Norwich%20Castle%20History%20Reimagined.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Norwich%20Castle%20History%20Reimagined.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,25 +40,25 @@ If you want to know more about this topic, read the article Norwich Castle: Roy
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **basement** = sotterranei
-* **mound** = collina
-* **dates back to** = risalire a
-* **keep** = fortezza
-* **fall into disrepair** = cadere in rovina
-* **roof** = tetto
-* **re-faced** = restaurare
-* **running out** = esaurire
 * **UNESCO** = United Nations Educational, Scientific and Cultural Organization
+* **mound** = collina
+* **fall into disrepair** = cadere in rovina
 * **quarried** = estrarre
-* **craftsmanship** = maestria
 * **Gaol** = prigione
+* **running out** = esaurire
+* **dates back to** = risalire a
+* **roof** = tetto
 * **unfit for purpose** = non adatto
-* **battlements** = merlature, bastioni
-* **aimed** = avere l’obiettivo
+* **re-faced** = restaurare
 * **overlooking** = dominare, con vista su
 * **rulers** = governanti, dominatori
 * **make way** = fare spazio
 * **ditches** = fossati
-* **palisades** = palizzate
-* **shipped** = trasportare
 * **worn** = logorata
+* **aimed** = avere l’obiettivo
+* **battlements** = merlature, bastioni
+* **keep** = fortezza
+* **palisades** = palizzate
+* **craftsmanship** = maestria
+* **shipped** = trasportare
+* **basement** = sotterranei

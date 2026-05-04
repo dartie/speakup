@@ -8,7 +8,7 @@ Dal porto della Genova medievale a capo presente in qualsiasi armadio: il tutto 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/Jeans%20From%20Genoa%20To%20James%20Dean.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/Jeans%20From%20Genoa%20To%20James%20Dean.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -46,27 +46,27 @@ From there, it was a short step to becoming a symbol of counterculture and rebel
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **fabric** = tessuto, stoffa
-* **sailors** = marinai
 * **trade** = commercio
-* **copper** = rame
+* **dye** = tinta, colorante
+* **humble** = umile
+* **break down geographical barriers** = abbattere barriere
+* **sails** = vele
 * **strengthen** = rafforzare
+* **hue** = tonalità
+* **rough** = grezzi
+* **fabric** = tessuto, stoffa
+* **cotton** = cotone
+* **spread** = diffusione
+* **gold prospectors** = cercatori d’oro
+* **long-lasting** = resistente
+* **goods** = merci
+* **therefore** = quindi
+* **copper** = rame
 * **wear** = usura
 * **tailor** = sarto
-* **rough** = grezzi
-* **therefore** = quindi
+* **Latvian** = lettone
 * **filed** = depositare un brevetto
 * **dirt** = sporco
-* **dye** = tinta, colorante
-* **long-lasting** = resistente
-* **humble** = umile
-* **cotton** = cotone
-* **sails** = vele
-* **goods** = merci
-* **dates back to** = risalire a
-* **spread** = diffusione
+* **sailors** = marinai
 * **garment** = capo d’abbigliamento
-* **gold prospectors** = cercatori d’oro
-* **Latvian** = lettone
-* **hue** = tonalità
-* **break down geographical barriers** = abbattere barriere
+* **dates back to** = risalire a

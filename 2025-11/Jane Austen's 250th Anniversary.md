@@ -8,7 +8,7 @@ Il 16 dicembre 1775 nacque, nel sud dell’Inghilterra, una delle autrici più a
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Jane%20Austen%27s%20250th%20Anniversary.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Jane%20Austen%27s%20250th%20Anniversary.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -51,30 +51,30 @@ www.janeaustens.house
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **bold** = audace, intraprendente
-* **busy-bodying** = impicciona
-* **siblings** = fratelli e sorelle
-* **strolling** = passeggiare
-* **witty** = argute
-* **pursuing** = dedicarsi a
-* **spinster** = zitella
-* **tying the knot** = sposarsi
-* **hubbub** = trambusto
+* **household management** = gestione della casa
 * **relied** = dipendere
+* **witty** = argute
 * **lasts** = durare
 * **plot lines** = trame
+* **pursuing** = dedicarsi a
+* **tying the knot** = sposarsi
+* **nieces** = nipoti (femmine)
 * **draft** = bozza
+* **endures** = resistere
+* **busy-bodying** = impicciona
+* **shy away** = tirarsi indietro
+* **spinster** = zitella
 * **driven** = determinata, decisa
 * **nephews** = nipoti (maschi)
+* **siblings** = fratelli e sorelle
+* **tight-knit** = molto unita
+* **bold** = audace, intraprendente
 * **albeit** = anche se, sebbene
 * **encouraged** = incoraggiare
-* **nieces** = nipoti (femmine)
-* **endures** = resistere
-* **shy away** = tirarsi indietro
+* **household** = casa, nucleo familiare
 * **advice** = consiglio
 * **vicar** = pastore
-* **confident** = sicuro di sé
-* **household management** = gestione della casa
+* **hubbub** = trambusto
+* **strolling** = passeggiare
 * **portray** = rappresentare
-* **household** = casa, nucleo familiare
-* **tight-knit** = molto unita
+* **confident** = sicuro di sé

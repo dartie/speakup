@@ -8,7 +8,7 @@ Il politico britannico di origine pakistana, rieletto per la terza volta, è il 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/Sadiq%20Khan%20The%20Mayor%20of%20London.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/Sadiq%20Khan%20The%20Mayor%20of%20London.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -30,18 +30,18 @@ In his victory speech, Khan [praised](## "elogiare") his team for leading a cam
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **term** = mandato
-* **seamstress** = sarta
-* **worse off** = peggio di prima
-* **swimmable Thames** = Tamigi balneabile
-* **boroughs** = quartieri
-* **right-wing** = di destra
-* **fleet** = flotta
-* **scheme** = programma
 * **current** = attuale
 * **was targeted** = prendere di mira
-* **condoning** = approvare
-* **fearmongering** = allarmismo
 * **council home** = case popolari
+* **scheme** = programma
+* **right-wing** = di destra
+* **condoning** = approvare
+* **fleet** = flotta
+* **term** = mandato
+* **worse off** = peggio di prima
 * **mayorship** = condizione di sindaco
 * **praised** = elogiare
+* **fearmongering** = allarmismo
+* **seamstress** = sarta
+* **swimmable Thames** = Tamigi balneabile
+* **boroughs** = quartieri

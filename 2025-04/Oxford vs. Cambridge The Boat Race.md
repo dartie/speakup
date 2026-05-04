@@ -8,7 +8,7 @@ Oxford e Cambridge sono da secoli simbolo di eccellenza accademica, ma la loro r
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/Oxford%20vs.%20Cambridge%20The%20Boat%20Race.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/Oxford%20vs.%20Cambridge%20The%20Boat%20Race.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -19,7 +19,7 @@ When you think of the University of Oxford and the University of Cambridge, pres
 Cambridge University was established in 1209, and Oxford University between 1249 and 1264. As such, they are the oldest universities in Britain. All of Oxford’s thirty-six colleges and Cambridge’s thirty-one have their own boat clubs where students can learn [to row](## "remare") and compete against other students at the same university. Rowers [strive](## "sforzarsi") to be [awarded](## "assegnare") a ‘full blue’, which means they are selected to represent their university in the annual Oxford-Cambridge Boat Race. The Boat Race is an opportunity for the universities to compete against each other and [showcase](## "mostrare") the best of their talent. Members of both [crews](## "equipaggi") are traditionally known as ‘blues’ and each boat as a ‘Blue Boat’, with Cambridge in light blue and Oxford in dark blue, making it easy for the [hundred million-plus](## "più di cento milioni") viewers worldwide to tell which crew is which. 
 
 ## GENDER ISSUES
-The [varsity](## "squadra universitaria") boat race takes place on the River Thames in London. There have been four official courses since it was first held in 1829: Henley-on-Thames, Westminster to Putney, River Great Ouse and the Championship Course. Originally only open to male competitors, from 1856 on, the event took place annually, with the only exceptions made during the two World Wars and the Covid-19 pandemic. The first race for women took place in 1927, but it was only from 1964 on that the Women’s Boat Race was held annually. 
+The [varsity](## "[squad](## "squadra")ra universitaria") boat race takes place on the River Thames in London. There have been four official courses since it was first held in 1829: Henley-on-Thames, Westminster to Putney, River Great Ouse and the Championship Course. Originally only open to male competitors, from 1856 on, the event took place annually, with the only exceptions made during the two World Wars and the Covid-19 pandemic. The first race for women took place in 1927, but it was only from 1964 on that the Women’s Boat Race was held annually. 
 
 ## THE BOAT RACE 2025
 The Boat Race takes place on 13 April this year on the Championship Course, a 6.8-kilometre [stretch](## "tratto") of the Thames in south-west  London, between the [bo[rough](## "agitata")s](## "distretti") of Putney and Mortlake. To find out more, Speak Up contacted twenty-four-year-old student Sian Dennett. Originally from Yeovil, Somerset, in south-west England, she began rowing for Balliol College, Oxford, where she completed her [undergraduate degree](## "laurea") in Maths and Statistics. Now studying for a DPhil (Doctor of Philosophy) in Healthcare Data Science at Oxford’s Keble College, she is participating again in university-level rowing and training with the women’s boat race [squad](## "squadra"). As Sian explains, many rowers start out just for fun.
@@ -47,44 +47,44 @@ As all participants in the race are also in the process of completing their stud
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **crews** = equipaggi
-* **strive** = sforzarsi
-* **varsity** = squadra universitaria
-* **high achievers** = persone di successo
-* **mates** = compagni
-* **to push myself** = spingere te stesso
-* **Regardless of outcome** = indipendentemente dal risultato
+* **squad** = squadra
+* **carnage** = massacro
+* **split** = dividere
+* **Fixture Series** = serie di appuntamenti
+* **rough** = agitata
+* **driven** = motivati
 * **to row** = remare
 * **showcase** = mostrare
-* **hundred million-plus** = più di cento milioni
-* **get the most out of** = trarre il massimo da
-* **narrow** = stretto
-* **v.** = contro
-* **sank** = affondare
-* **down in history** = entrare nella storia
-* **tidal** = con le maree
-* **boroughs** = distretti
-* **commitments** = impegni
-* **shaping up** = svilupparsi, progredire
+* **stretch** = tratto
 * **matched** = accoppiati
-* **Fixture Series** = serie di appuntamenti
-* **head-to-head** = faccia a faccia
-* **rough** = agitata
 * **something has to give** = bisogna rinunciare a qualcosa
-* **hallmark** = marchio distintivo
+* **mates** = compagni
+* **get the most out of** = trarre il massimo da
 * **undergraduate degree** = laurea
 * **from the outset** = fin dall’inizio
-* **carnage** = massacro
-* **to fit around** = adattarsi a
-* **driven** = motivati
-* **awarded** = assegnare
-* **squad** = squadra
-* **to give it a go** = provare
-* **run-up** = preparazione
-* **thirty-minute drive** = viaggio di trenta minuti in auto
-* **dress rehearsal** = prova generale
-* **stretch** = tratto
+* **narrow** = stretto
 * **mock boat race** = regata simulata
-* **split** = dividere
+* **shaping up** = svilupparsi, progredire
 * **choppy** = mossa
 * **to be on your A-game** = dare il massimo di te
+* **v.** = contro
+* **tidal** = con le maree
+* **to push myself** = spingere te stesso
+* **to give it a go** = provare
+* **hundred million-plus** = più di cento milioni
+* **varsity** = squadra universitaria
+* **thirty-minute drive** = viaggio di trenta minuti in auto
+* **commitments** = impegni
+* **head-to-head** = faccia a faccia
+* **hallmark** = marchio distintivo
+* **crews** = equipaggi
+* **awarded** = assegnare
+* **dress rehearsal** = prova generale
+* **sank** = affondare
+* **down in history** = entrare nella storia
+* **high achievers** = persone di successo
+* **strive** = sforzarsi
+* **boroughs** = distretti
+* **run-up** = preparazione
+* **to fit around** = adattarsi a
+* **Regardless of outcome** = indipendentemente dal risultato

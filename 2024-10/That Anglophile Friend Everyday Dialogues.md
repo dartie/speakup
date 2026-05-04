@@ -8,7 +8,7 @@ Il dialogo tra due amici, in slang britannico, racconta le dinamiche quotidiane 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/That%20Anglophile%20Friend%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/That%20Anglophile%20Friend%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -58,12 +58,12 @@ A tosser is a [silly](## "stupida, sciocca") person.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **smacked** = schiaffeggiare
-* **gob** = becco
 * **form of address** = modo di rivolgersi
-* **silly** = stupida, sciocca
-* **annoyance** = fastidio
-* **term of endearment** = vezzeggiativo
 * **delighted** = contentissimo, felice
+* **term of endearment** = vezzeggiativo
+* **annoyance** = fastidio
+* **gob** = becco
 * **to hurry** = affrettarsi
+* **silly** = stupida, sciocca
 * **what’s new** = cosa c’è di nuovo?
+* **smacked** = schiaffeggiare

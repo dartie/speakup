@@ -8,7 +8,7 @@ Una vita più semplice, ma felice. Stabilendosi in quella capanna sul lago, Thor
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/Walden%20by%20Henry%20David%20Thoreau.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/Walden%20by%20Henry%20David%20Thoreau.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -53,18 +53,18 @@ Thoreau’s writings against [slavery](## "schiavitù") and injustice inspired G
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **one-roomed** = con una sola stanza
-* **slavery** = schiavitù
-* **regarded** = considerare
-* **lack** = mancanza
-* **attained** = raggiungere, ottenere
+* **Pond** = stagno, laghetto
 * **avoid** = evitare
-* **dug up** = dissotterrare
-* **threat** = minaccia
+* **slavery** = schiavitù
 * **brain rot** = marciume mentale
 * **condition** = malattia
-* **early summer** = a inizio estate
-* **Pond** = stagno, laghetto
-* **lay** = essere situato
+* **one-roomed** = con una sola stanza
 * **masterpiece** = capolavoro
+* **threat** = minaccia
+* **attained** = raggiungere, ottenere
 * **prided himself** = sentirsi orgoglioso
+* **early summer** = a inizio estate
+* **lack** = mancanza
+* **lay** = essere situato
+* **dug up** = dissotterrare
+* **regarded** = considerare

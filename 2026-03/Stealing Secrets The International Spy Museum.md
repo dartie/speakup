@@ -8,7 +8,7 @@ Hai sempre sognato di fare l’agente segreto? In questo museo, situato a Washin
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/Stealing%20Secrets%20The%20International%20Spy%20Museum.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/Stealing%20Secrets%20The%20International%20Spy%20Museum.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -57,46 +57,46 @@ www.spymuseum.org
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **inaccurate** = inesatto
-* **in disguise** = travestiti, mascherati
-* **token** = simbolo, ricordo
-* **printing plate** = lastra di stampa
-* **flooding** = inondare
-* **code-cracking** = crittoanalisi
-* **public display** = esposizione pubblica
-* **bear little resemblance** = hanno poco a che vedere
-* **gives kind of breadth** = dare respiro, conferire ampiezza
-* **take down** = distruggere
-* **board members** = membri del consiglio di amministrazione
-* **doubles as** = fungere anche da
-* **sharp** = affilato
-* **walk away** = andare via
-* **body searches** = perquisizioni corporali
-* **atop** = sopra, in cima
-* **printmaking** = stampa, incisione
-* **metalwork** = lavorazione dei metalli
+* **walk in the shoes of** = mettersi nei panni di
 * **consolidating** = consolidare
 * **Vault** = caveau, camera blindata
-* **toddlers** = bambini piccoli
-* **conceal** = nascondere, occultare
-* **to say the least** = a dir poco
-* **seekers** = cercatori
-* **currency** = valuta, moneta
-* **notes** = banconote
-* **peek** = sbirciare, dare un’occhiata
-* **covert manner** = modo segreto
-* **cipher** = cifratura
-* **walk in the shoes of** = mettersi nei panni di
-* **purse** = borsa
+* **walk away** = andare via
 * **ingenuity** = ingegno
-* **nerdy** = da secchioni
+* **conceal** = nascondere, occultare
+* **in disguise** = travestiti, mascherati
+* **printmaking** = stampa, incisione
+* **flooding** = inondare
+* **peek** = sbirciare, dare un’occhiata
+* **metalwork** = lavorazione dei metalli
+* **notes** = banconote
+* **take down** = distruggere
+* **portrayals** = rappresentazioni
+* **body searches** = perquisizioni corporali
 * **actionable intelligence** = informazioni utili, operative
 * **peppered** = cospargere
-* **altogether** = in generale
-* **portrayals** = rappresentazioni
-* **devices** = dispositivi
+* **doubles as** = fungere anche da
+* **sharp** = affilato
+* **bear little resemblance** = hanno poco a che vedere
+* **to say the least** = a dir poco
+* **nerdy** = da secchioni
+* **purse** = borsa
+* **toddlers** = bambini piccoli
+* **inaccurate** = inesatto
 * **briefcase** = valigetta
-* **fairly silly** = piuttosto sciocco
+* **atop** = sopra, in cima
+* **printing plate** = lastra di stampa
+* **public display** = esposizione pubblica
+* **devices** = dispositivi
+* **board members** = membri del consiglio di amministrazione
+* **currency** = valuta, moneta
+* **covert manner** = modo segreto
 * **try their hand at** = cimentarsi
-* **making sense** = dare un senso
+* **code-cracking** = crittoanalisi
 * **raw** = grezzi, non elaborati
+* **fairly silly** = piuttosto sciocco
+* **token** = simbolo, ricordo
+* **gives kind of breadth** = dare respiro, conferire ampiezza
+* **cipher** = cifratura
+* **altogether** = in generale
+* **seekers** = cercatori
+* **making sense** = dare un senso

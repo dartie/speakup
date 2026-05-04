@@ -8,7 +8,7 @@ Sono in molti a sentirsi svuotati emotivamente e mentalmente dalla superficialit
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/Dating%20App%20Fatigue.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/Dating%20App%20Fatigue.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -30,29 +30,29 @@ Additionally, there is the very real issue of too much apparent choice. As Deluc
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **give off** = emettere
-* **to get back** = rispondere
-* **fall through** = fallire
-* **come across** = incontrare
 * **cheating** = ingannare, essere infedele
-* **sorting through** = selezionare
-* **outdated** = obsoleto
 * **hookup** = sesso occasionale
+* **undivided attention** = attenzione esclusiva
+* **stand** = sopportare
 * **swipe** = scorrere (con il dito)
-* **wired** = programmati, predisposti
+* **to get back** = rispondere
+* **get the heck out of here** = andarsene da qui
 * **survey** = sondaggio
 * **harassment** = molestia
-* **get the heck out of here** = andarsene da qui
-* **soared** = aumentare drasticamente
+* **fall through** = fallire
+* **sorting through** = selezionare
+* **outdated** = obsoleto
 * **glanced** = dare un’occhiata
-* **non-verbal cues** = segnali non verbal
-* **drained** = esausto
-* **scams** = truffe
-* **stand** = sopportare
+* **wired** = programmati, predisposti
+* **means** = medio
+* **come across** = incontrare
 * **flat** = piatto, senza emozioni
 * **God bless them** = che Dio li benedica
+* **non-verbal cues** = segnali non verbal
+* **give off** = emettere
 * **carry themselves** = comportarsi
 * **crowd.** = folla
+* **drained** = esausto
+* **scams** = truffe
+* **soared** = aumentare drasticamente
 * **to sift through** = setacciare
-* **means** = medio
-* **undivided attention** = attenzione esclusiva

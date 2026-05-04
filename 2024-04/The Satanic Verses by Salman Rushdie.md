@@ -8,7 +8,7 @@ Lo scrittore britannico di origine indiana intreccia elementi di mitologia, reli
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/The%20Satanic%20Verses%20by%20Salman%20Rushdie.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/The%20Satanic%20Verses%20by%20Salman%20Rushdie.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -45,25 +45,25 @@ On its publication, The Satanic Verses was [shortlisted](## "selezionare") for t
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **advice** = consiglio
-* **broods** = rimuginare
-* **leak** = trapelare, filtrare
-* **waking life** = trapelare, filtrare
-* **issued** = emettere
-* **debris** = detriti
-* **Washed up** = portare a riva
-* **joins up** = unire, connettere
-* **pursues** = andare dietro a, inseguire
-* **intertwines** = intrecciare
-* **timespan** = periodo di tempo
-* **mountain climber** = alpinista
-* **comeback** = ritorno
-* **falsehoods** = falsità, menzogna
-* **takes a terrible revenge** = vendicarsi
-* **shortlisted** = selezionare
+* **means** = mezzo
 * **woefully** = miseramente, tristemente
+* **intertwines** = intrecciare
+* **Washed up** = portare a riva
+* **broods** = rimuginare
 * **Nevertheless** = ciò nonostante
 * **English Channel** = canale della Manica
-* **raises questions** = sollevare domande
+* **leak** = trapelare, filtrare
+* **waking life** = trapelare, filtrare
+* **shortlisted** = selezionare
+* **issued** = emettere
 * **summoned back** = convocare
-* **means** = mezzo
+* **pursues** = andare dietro a, inseguire
+* **mountain climber** = alpinista
+* **raises questions** = sollevare domande
+* **falsehoods** = falsità, menzogna
+* **takes a terrible revenge** = vendicarsi
+* **timespan** = periodo di tempo
+* **debris** = detriti
+* **joins up** = unire, connettere
+* **advice** = consiglio
+* **comeback** = ritorno

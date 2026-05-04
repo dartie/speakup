@@ -8,7 +8,7 @@ In questo romanzo, il protagonista è un antieroe immerso in una crisi esistenzi
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Herzog%20by%20Saul%20Bellow.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Herzog%20by%20Saul%20Bellow.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -72,13 +72,13 @@ Herzog is a story of ideas, the meeting of intellectual power with emotional cou
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **to come to terms with** = fare i conti con
-* **turmoil** = agitazione
-* **ponders** = riflettere
-* **avoid** = evitare
-* **awarded** = assegnare, conferire
 * **topped** = raggiungere il primo posto
 * **in the grip of** = in preda a
+* **turmoil** = agitazione
+* **avoid** = evitare
 * **purposeful** = determinato
-* **though uncertain** = sebbene incerto
 * **sealed** = confermare
+* **awarded** = assegnare, conferire
+* **to come to terms with** = fare i conti con
+* **ponders** = riflettere
+* **though uncertain** = sebbene incerto

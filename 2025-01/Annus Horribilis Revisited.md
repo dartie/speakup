@@ -8,7 +8,7 @@ La famiglia reale britannica si trova ad affrontare delle sfide, tuttavia si sta
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/Annus%20Horribilis%20Revisited.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/Annus%20Horribilis%20Revisited.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -23,19 +23,19 @@ In addition to the illnesses of the King and the Princess of Wales, there is the
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **relentless** = implacabile
+* **strained** = tesa
+* **relatable** = comprensibile
+* **heartwarming** = che scalda il cuore
+* **beleaguered** = assilare
+* **to highlight** = sottolineare
+* **tide** = marea
+* **turning** = cambiare
+* **late** = defunta
 * **enlarged** = rigonfiata
 * **duties** = doveri
-* **allowed out** = permettere di uscire
-* **prompted** = provocare
-* **late** = defunta
-* **divide** = divisione
-* **tide** = marea
-* **relatable** = comprensibile
-* **to highlight** = sottolineare
-* **daughter-in-law** = nuora
-* **beleaguered** = assilare
 * **cage** = gabbia
-* **strained** = tesa
-* **turning** = cambiare
-* **heartwarming** = che scalda il cuore
+* **divide** = divisione
+* **prompted** = provocare
+* **daughter-in-law** = nuora
+* **relentless** = implacabile
+* **allowed out** = permettere di uscire

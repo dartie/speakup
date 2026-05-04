@@ -8,7 +8,7 @@ Di recente sono diventate popolari le app che valutano la qualità e la sicurezz
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/Dr.%20App%20What%E2%80%99s%20Good%20for%20You.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/Dr.%20App%20What%E2%80%99s%20Good%20for%20You.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,26 +35,26 @@ Industry experts [warn](## "avvertire") that the information on these apps can o
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **warn** = avvertire
+* **it comes in** = essere presente
+* **mislead** = ingannare
+* **rate** = valutare
+* **proved** = dimostrare
+* **for better or worse** = in meglio o in peggio
+* **claim** = affermare
+* **hit** = successo
+* **sources** = fonti
+* **harmful** = dannosi
 * **advice** = consiglio
 * **reviews** = recensioni
 * **rating** = valutazione
-* **in-app purchases** = acquisti nella app
-* **chemical** = prodotti chimici
-* **harmful** = dannosi
-* **brands** = marchi
-* **harmless** = innocua
-* **mislead** = ingannare
-* **claim** = affermare
-* **safer** = più sicuro
-* **among** = tra
-* **for better or worse** = in meglio o in peggio
-* **rate** = valutare
 * **landed** = arrivare
 * **pride themselves** = vantarsi
-* **sources** = fonti
+* **brands** = marchi
+* **chemical** = prodotti chimici
+* **harmless** = innocua
 * **refusing** = rifiuatre
-* **warn** = avvertire
-* **it comes in** = essere presente
 * **out of 100** = da zero a cento
-* **proved** = dimostrare
-* **hit** = successo
+* **safer** = più sicuro
+* **among** = tra
+* **in-app purchases** = acquisti nella app

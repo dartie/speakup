@@ -8,7 +8,7 @@ Dopo oltre vent’anni dalla pubblicazione, in un mondo dove il marchio personal
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/No%20Logo%20by%20Naomi%20Klein.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/No%20Logo%20by%20Naomi%20Klein.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -52,27 +52,27 @@ In 2011, Time magazine named No Logo one of the Top 100 non-fiction books publis
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **grass-roots opposition movements** = movimenti di opposizione popolare
-* **grim** = cupo, triste
 * **lack** = mancanza
 * **compensation** = compenso
-* **zeitgeist** = spirito del periodo, clima culturale
-* **golf courses** = campi da golf
-* **tennis courts** = campi da tennis
-* **copyright** = registrare i diritti d’autore
-* **World Trade Organization** = Organizzazione Mondiale del Commercio
-* **Varsity** = università, ateneo
-* **Taking Aim** = prendere la mira
-* **garments** = indumenti
-* **price tag** = cartellino, etichetta
 * **culture jamming** = sabotaggio culturale
-* **advocate** = promuovere, sostenere
 * **wakeup calls** = segnali che fanno aprire gli occhi
-* **Brand** = marchio, marca
-* **willing and able** = disposto e in grado
+* **Varsity** = università, ateneo
 * **merge** = fondersi
-* **free-trade zones** = zone di libero scambio
 * **against a backdrop** = sullo sfondo, in uno scenario
-* **shareholders** = azionisti
-* **sprang up** = sorgere
+* **advocate** = promuovere, sostenere
+* **copyright** = registrare i diritti d’autore
 * **stroke** = ictus
+* **World Trade Organization** = Organizzazione Mondiale del Commercio
+* **tennis courts** = campi da tennis
+* **price tag** = cartellino, etichetta
+* **grim** = cupo, triste
+* **shareholders** = azionisti
+* **Taking Aim** = prendere la mira
+* **grass-roots opposition movements** = movimenti di opposizione popolare
+* **free-trade zones** = zone di libero scambio
+* **sprang up** = sorgere
+* **willing and able** = disposto e in grado
+* **zeitgeist** = spirito del periodo, clima culturale
+* **Brand** = marchio, marca
+* **garments** = indumenti
+* **golf courses** = campi da golf

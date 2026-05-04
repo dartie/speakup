@@ -8,7 +8,7 @@ Sei fan di Jane Austen? Ecco la meta del tuo prossimo viaggio in Inghilterra: Ch
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Chawton%20Cottage%20Jane%20Austen%27s%20House%20Museum.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Chawton%20Cottage%20Jane%20Austen%27s%20House%20Museum.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -31,28 +31,28 @@ If you want to know more about this topic, read the article Jane Austen's 250th
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **estate** = tenuta, proprietà
+* **lock of her hair** = ciocca di capelli
 * **cherished** = adorare
-* **sheet** = foglio
 * **cross necklaces** = crocifissi
 * **gifted** = regalare
-* **sewn** = cucire
 * **stitches** = punti
-* **coaching inn** = locanda per diligenze
-* **lock of her hair** = ciocca di capelli
-* **fond of** = essere appassionato di, essere amante di
-* **hundred-odd** = cento e passa
 * **drawing room** = salotto, soggiorno
 * **flower beds** = aiuole
 * **farmhouse** = cascina, fattoria
-* **approachable** = accessibile, alla mano
-* **come round** = fare visita
+* **coaching inn** = locanda per diligenze
+* **horse-drawn carriage** = carrozze trainate da cavalli
+* **Cottage** = casa di campagna
+* **orchard** = frutteto
+* **fond of** = essere appassionato di, essere amante di
 * **manor house** = casa padronale
 * **outdoors** = attività all’aperto
-* **wit** = arguzia
-* **estate** = tenuta, proprietà
-* **Cottage** = casa di campagna
-* **plot line** = trama
+* **sheet** = foglio
 * **trace** = risalire
-* **orchard** = frutteto
-* **horse-drawn carriage** = carrozze trainate da cavalli
+* **sewn** = cucire
+* **come round** = fare visita
+* **wit** = arguzia
+* **approachable** = accessibile, alla mano
+* **hundred-odd** = cento e passa
 * **furnishings** = arredamento
+* **plot line** = trama

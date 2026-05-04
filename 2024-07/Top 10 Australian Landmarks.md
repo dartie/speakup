@@ -8,7 +8,7 @@ L'Australia offre un'ampia scelta di destinazioni imperdibili dal fascino e dall
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/Top%2010%20Australian%20Landmarks.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/Top%2010%20Australian%20Landmarks.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -30,43 +30,43 @@ Located just a ninety-minute drive from Sydney, the Blue Mountains offer endless
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **Jesus birds** = jacane
-* **venues** = locali
-* **cliffs** = scogliere
-* **Stairway** = scalinata
-* **has garnered** = ottenere
-* **bites** = morsi
-* **rugged** = vigorose
-* **bustles with** = brulicare di
-* **shoreline** = battigia
-* **world’s most liveable city** = la città al mondo dove si vive meglio
-* **awe-inspiring** = impressionanti
-* **thriving** = florida
-* **hiking trails** = sentieri escursionistici
-* **glimpse** = dare un’occhiata
-* **beliefs** = credenze
 * **brimming with** = essere colmo di
 * **scenic** = spettacolare
-* **bluefin tuna** = tonno rosso
-* **Coathanger** = appendiabiti
-* **allure** = fascino
+* **awe-inspiring** = impressionanti
 * **crafted** = fare a mano
-* **staging ground** = base operativa
-* **treading** = camminare
-* **Quay** = molo
-* **limestone pillars** = pilastri calcarei
-* **Strait** = stretto
-* **towering** = imponenti
-* **Bight** = baia
-* **must-see** = da vedere, da non perdere
 * **showcases** = mostrare
 * **sandstone** = di arenaria
-* **boasts** = vantare
-* **barren** = sterile, arido
+* **beliefs** = credenze
 * **breathtaking** = mozzafiato
-* **teeming** = essere pieni di
-* **steps** = gradini
+* **cliffs** = scogliere
+* **Stairway** = scalinata
+* **Jesus birds** = jacane
+* **treading** = camminare
+* **bustles with** = brulicare di
+* **thriving** = florida
+* **glimpse** = dare un’occhiata
+* **barren** = sterile, arido
+* **Quay** = molo
+* **venues** = locali
+* **shoreline** = battigia
+* **staging ground** = base operativa
+* **Bight** = baia
+* **limestone pillars** = pilastri calcarei
 * **lush** = rigogliose
 * **the dawn of time** = all’alba del tempo
-* **sparsely** = scarsamente
+* **allure** = fascino
 * **rocky capes** = promontori rocciosi
+* **rugged** = vigorose
+* **world’s most liveable city** = la città al mondo dove si vive meglio
+* **bluefin tuna** = tonno rosso
+* **hiking trails** = sentieri escursionistici
+* **boasts** = vantare
+* **towering** = imponenti
+* **has garnered** = ottenere
+* **bites** = morsi
+* **sparsely** = scarsamente
+* **steps** = gradini
+* **Strait** = stretto
+* **must-see** = da vedere, da non perdere
+* **teeming** = essere pieni di
+* **Coathanger** = appendiabiti

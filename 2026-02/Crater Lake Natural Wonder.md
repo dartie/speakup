@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Crater%20Lake%20Natural%20Wonder.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Crater%20Lake%20Natural%20Wonder.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -37,21 +37,21 @@ Also [rising](## "elevarsi") above the surface of Crater Lake are two islands: 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **grand** = magnifico
+* **gazes** = fissare
 * **tearful astonishment** = stupore commosso
-* **emptied** = svuotare
-* **seepage** = infiltrazione
 * **summit** = vetta
 * **Debris** = detriti, macerie
-* **streams** = ruscelli
-* **stump** = ceppo, tronco
-* **Wizard** = mago
-* **edge** = riva
-* **gazes** = fissare
 * **flowing** = fluire
-* **underworld** = inferi
+* **stump** = ceppo, tronco
+* **emptied** = svuotare
+* **seepage** = infiltrazione
 * **hence** = da cui
 * **newt** = tritone
+* **edge** = riva
+* **grand** = magnifico
+* **streams** = ruscelli
 * **quote** = citazione
-* **rising** = elevarsi
+* **underworld** = inferi
 * **eerie** = inquietante
+* **rising** = elevarsi
+* **Wizard** = mago

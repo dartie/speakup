@@ -8,7 +8,7 @@ Sotto le strade di Londra, è nato un nuovo tipo di agricoltura. Coltivazioni so
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Growing%20Underground%20Food%20For%20The%20Future.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Growing%20Underground%20Food%20For%20The%20Future.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -36,38 +36,38 @@ If you want to know more about this topic, read the article Growing Underground
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **greenhouse gas** = gas serra
-* **peashoots** = germogli di pisello
-* **red cabbage** = cavolo rosso
-* **wavelengths** = lunghezze d’onda
-* **crops** = colture
-* **matting** = stuoia, rete
-* **carpet** = moquette
-* **rows** = file
-* **air-raid shelters** = rifugi antiaerei
-* **sunflower shoots** = germogli di girasole
-* **shipped** = spedire, trasportare
-* **grown** = coltivare
-* **eerie** = inquietante, spettrale
-* **house** = ospitare
-* **baby leaf** = insalate baby leaf (raccolte precocemente)
-* **radish** = ravanello
-* **soil** = terra
-* **watercress** = crescione
-* **pest- and pesticide-free** = privo di parassiti e pesticidi
 * **beneath** = sotto
 * **retailers** = rivenditori
-* **Produce** = prodotti agricoli, ortaggi
 * **hair nets** = retine per capelli
 * **starch** = amido
+* **harvests** = raccolti
 * **maze** = labirinto
 * **run** = dirigere
-* **coriander** = coriandolo
+* **crops** = colture
+* **shipped** = spedire, trasportare
 * **rocket** = rucola
-* **year-round** = tutto l’anno
-* **food miles** = distanza percorsa dagli alimenti
-* **lift** = ascensore
+* **red cabbage** = cavolo rosso
+* **greenhouse gas** = gas serra
 * **trays** = vassoi
-* **racks** = scaffali
+* **matting** = stuoia, rete
+* **carpet** = moquette
+* **radish** = ravanello
+* **lift** = ascensore
+* **food miles** = distanza percorsa dagli alimenti
+* **peashoots** = germogli di pisello
+* **sunflower shoots** = germogli di girasole
+* **year-round** = tutto l’anno
+* **baby leaf** = insalate baby leaf (raccolte precocemente)
+* **eerie** = inquietante, spettrale
+* **soil** = terra
+* **pest- and pesticide-free** = privo di parassiti e pesticidi
+* **wavelengths** = lunghezze d’onda
 * **power** = elettricità
-* **harvests** = raccolti
+* **grown** = coltivare
+* **rows** = file
+* **house** = ospitare
+* **racks** = scaffali
+* **air-raid shelters** = rifugi antiaerei
+* **Produce** = prodotti agricoli, ortaggi
+* **watercress** = crescione
+* **coriander** = coriandolo

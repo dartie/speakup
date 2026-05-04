@@ -8,7 +8,7 @@ Nessuno sembra accorgersi che Kim, che vive per le strade di Lahore, ha origini 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/Kim%20by%20Rudyard%20Kipling.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/Kim%20by%20Rudyard%20Kipling.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -53,29 +53,29 @@ After World War One, Kipling’s extraordinary popularity started to diminish as
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **soundscape** = paesaggio sonoro
-* **slip** = scivolare
-* **curled up** = rannicchiato
-* **persuasions** = convinzioni
-* **interred** = seppellire
-* **bullied** = bullizzare
-* **set against** = contrapporsi, avere come sfondo
-* **enlightenment** = illuminazione
-* **plot** = trama
 * **unselfconsciously** = spontaneamente
-* **ashes** = ceneri
-* **lifelong** = di tutta la vita
-* **coming-of-age novel** = romanzo di formazione
-* **turn of the century** = fine del secolo
-* **Trunk** = tronco, proboscide
-* **sleep through** = dormire nonostante
 * **jingoistic** = nazionalista, sciovinista
-* **vernacular** = lingua vernacolare, dialetto
-* **boarding school** = collegio, scuola privata
-* **sketches** = bozze
-* **quest novel** = romanzo d’avventura, di ricerca
-* **wonder** = stupore
-* **vicious** = brutale
 * **nursemaid** = bambinaia
+* **sketches** = bozze
+* **set against** = contrapporsi, avere come sfondo
+* **curled up** = rannicchiato
+* **sleep through** = dormire nonostante
+* **persuasions** = convinzioni
+* **ashes** = ceneri
+* **vernacular** = lingua vernacolare, dialetto
+* **quest novel** = romanzo d’avventura, di ricerca
+* **coming-of-age novel** = romanzo di formazione
+* **soundscape** = paesaggio sonoro
+* **enlightenment** = illuminazione
+* **Trunk** = tronco, proboscide
+* **wonder** = stupore
+* **slip** = scivolare
+* **boarding school** = collegio, scuola privata
+* **bullied** = bullizzare
+* **lifelong** = di tutta la vita
 * **street urchin** = ragazzo di strada
+* **vicious** = brutale
+* **interred** = seppellire
 * **peppered** = disseminare
+* **turn of the century** = fine del secolo
+* **plot** = trama

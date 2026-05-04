@@ -8,7 +8,7 @@ I social network stanno trasformando la nostra percezione della realtà? La stor
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/An%20Influencer%E2%80%99s%20Dilemma%20A%20Short%20Story.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/An%20Influencer%E2%80%99s%20Dilemma%20A%20Short%20Story.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -44,18 +44,18 @@ She clicked on the video and saw, to her horror, that it was of Wendy and Alison
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **advertisers** = inserzionisti
-* **cringed** = sentire imbarazzo, farsi piccola
-* **browser** = navigatore
-* **un-paused** = riprodurre
-* **to this effect** = in questo senso
-* **vlog** = video blog
 * **accurate** = accurato, preciso
-* **the catch** = fregatura
-* **was warping** = deformare
-* **proven wrong** = smentire
 * **wannabe** = aspirante
-* **10,000+** = più di diecimila
+* **browser** = navigatore
+* **cringed** = sentire imbarazzo, farsi piccola
+* **un-paused** = riprodurre
 * **caveat** = avvertenza
+* **to this effect** = in questo senso
+* **was warping** = deformare
+* **vlog** = video blog
+* **the catch** = fregatura
+* **advertisers** = inserzionisti
+* **10,000+** = più di diecimila
 * **Ever** = mai
+* **proven wrong** = smentire
 * **What was the point** = che senso aveva? qual era il punto?

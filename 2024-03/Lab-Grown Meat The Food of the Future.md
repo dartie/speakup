@@ -8,7 +8,7 @@ Questa azienda californiana è stata una delle prime a commercializzare carne ot
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/Lab-Grown%20Meat%20The%20Food%20of%20the%20Future.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/Lab-Grown%20Meat%20The%20Food%20of%20the%20Future.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -54,40 +54,40 @@ While it may not [replace](## "sostituire") the traditional meat industry entire
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **a bit odd** = un poco strana
-* **to give it up** = rinunciare
-* **nationwide** = nazionale
-* **tissue** = tessuto
 * **share of the pie** = la fetta di torta
-* **to switch over** = passare
+* **tissue** = tessuto
 * **profit** = trarre vantaggio
-* **to win you over** = convincere, conquistare
-* **cells** = cellule
-* **slaughter** = macellare
-* **candid** = sincero
-* **will** = volontà
-* **taste buds** = papille gustative
-* **compelling** = persuasive
-* **to be right up your alley** = essere di proprio gradimento
-* **replace** = sostituire
-* **Advocates** = sostenitori, difensori
-* **beef** = carne bovina
-* **lamb** = agnello
-* **exposure** = pubblicità, esposizione
-* **reluctant** = riluttante
-* **As yet** = fino ad ora
-* **to great lengths** = fare grandi sforzi
-* **folks** = persone
-* **breed** = allevare
-* **feed** = alimentare
-* **seafood** = pesce, frutti di mare
-* **fat** = grasso
 * **steel tanks** = cisterne di acciaio
 * **duck** = anatra
-* **In time** = con il tempo
+* **pumped up** = pompare
+* **slaughter** = macellare
+* **beef** = carne bovina
+* **As yet** = fino ad ora
+* **taste buds** = papille gustative
+* **to be right up your alley** = essere di proprio gradimento
+* **seafood** = pesce, frutti di mare
 * **off-putting** = sgradevole
+* **exposure** = pubblicità, esposizione
+* **reluctant** = riluttante
+* **to give it up** = rinunciare
+* **folks** = persone
+* **to switch over** = passare
+* **cells** = cellule
+* **breed** = allevare
+* **feed** = alimentare
+* **Advocates** = sostenitori, difensori
+* **In time** = con il tempo
+* **fat** = grasso
+* **a bit odd** = un poco strana
+* **overwhelmingly** = in grande maggioranza
+* **A fair estimate** = una stima attendibile
+* **candid** = sincero
+* **replace** = sostituire
+* **will** = volontà
 * **shaming** = costringere, mettere in imbarazzo
 * **facility** = struttura
-* **pumped up** = pompare
-* **A fair estimate** = una stima attendibile
-* **overwhelmingly** = in grande maggioranza
+* **nationwide** = nazionale
+* **compelling** = persuasive
+* **to win you over** = convincere, conquistare
+* **lamb** = agnello
+* **to great lengths** = fare grandi sforzi

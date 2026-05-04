@@ -8,7 +8,7 @@ Un robot maggiordomo che fa le pulizie e piega il bucato: non è un film di fant
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/Invasion%20of%20the%20Home%20Humanoid%20Robots.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/Invasion%20of%20the%20Home%20Humanoid%20Robots.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -55,44 +55,44 @@ Published in The New York Times on 4 April 2025. Reprinted with permission.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **trim waist** = girovita snello
+* **dropped** = cadere
+* **gingerly** = cautamente
+* **lift** = sollevare
+* **bend** = piegarsi
+* **daily chores** = faccende quotidiane
 * **pumping into** = investire
-* **shake the feeling** = scrollarsi di dosso la sensazione
 * **wiping counters** = pulire il ripiano della cucina
+* **shake the feeling** = scrollarsi di dosso la sensazione
+* **in costume** = travestita
+* **stainless-steel** = acciaio inox
+* **poised** = pronti
 * **twist** = girare, ruotare
+* **reach** = allungarsi, estendersi
 * **dexterity** = destrezza, manualità
+* **basement** = seminterrato
+* **depicts** = raffigurare
+* **poured** = versare
+* **squatting** = accovacciarsi
+* **trim waist** = girovita snello
+* **firm grip** = presa salda
+* **butlers** = maggiordomi
+* **entranced** = estasiato, incantato
+* **pinpointing** = individuare
+* **showed off** = sfoggiare
+* **warehouse** = magazzino
+* **hung on the wall** = essere appeso al muro
+* **seamlessly** = perfettamente
+* **emptying dishwashers** = svuotare la lavastoviglie
+* **sorting** = sistemare, ordinare
+* **would-be investor** = potenziale investitore
+* **stumbled** = inciampare
 * **folding laundry** = piegare il bucato
 * **rebooted** = riavviare
-* **culled** = selezionati, scelti
-* **basement** = seminterrato
-* **showed off** = sfoggiare
-* **stumbled** = inciampare
-* **dropped** = cadere
-* **butlers** = maggiordomi
-* **stepped into Neo’s path** = sbarrare la strada
-* **seamlessly** = perfettamente
-* **gingerly** = cautamente
 * **term papers** = tesi
-* **bumpy road** = percorso difficile, strada accidentata
-* **would-be investor** = potenziale investitore
-* **entranced** = estasiato, incantato
+* **culled** = selezionati, scelti
 * **clung tight** = aggrapparsi saldamente
-* **firm grip** = presa salda
-* **poured** = versare
-* **reach** = allungarsi, estendersi
-* **hung on the wall** = essere appeso al muro
-* **stainless-steel** = acciaio inox
-* **daily chores** = faccende quotidiane
-* **warehouse** = magazzino
-* **sorting** = sistemare, ordinare
-* **depicts** = raffigurare
-* **squatting** = accovacciarsi
 * **frenzy** = frenesia
-* **bend** = piegarsi
-* **pinpointing** = individuare
-* **poised** = pronti
-* **emptying dishwashers** = svuotare la lavastoviglie
 * **mimicking** = imitare
-* **in costume** = travestita
-* **lift** = sollevare
 * **patterns** = schemi, modelli
+* **bumpy road** = percorso difficile, strada accidentata
+* **stepped into Neo’s path** = sbarrare la strada

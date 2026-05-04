@@ -8,7 +8,7 @@ Alla macchinetta del caffè o con il passeggero che ci è seduto accanto in aere
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Small%20Talk%20is%20Great.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Small%20Talk%20is%20Great.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -34,33 +34,33 @@ Published in The Guardian on 21 November 2025. Reprinted with permission. 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **delightful** = delizioso
-* **go forth** = andare avanti, procedere
-* **complain** = lamentarsi
-* **small talk** = chiacchiere, parlare del più e del meno
-* **chore** = seccatura, incombenza
-* **engaged** = impegnato
+* **middle school** = scuola media
 * **career pivots** = cambi di carriera
 * **shivering** = rabbrividire
-* **holder** = sostenitore
-* **get through the day** = arrivare a fine giornata
 * **rapport** = intesa, sintonia
+* **complain** = lamentarsi
+* **thoughtfully** = sapientemente, in modo riflessivo
+* **shallow** = superficiale
+* **mucky** = sudicie
+* **get through the day** = arrivare a fine giornata
 * **dip your toe** = tastare il terreno
 * **sunning yourself** = prendere il sole
-* **mucky** = sudicie
-* **thoughtfully** = sapientemente, in modo riflessivo
+* **small talk** = chiacchiere, parlare del più e del meno
+* **banned** = vietare
 * **dismissed** = ignorare, respingere
 * **plumb** = scandagliare
-* **kiddie pool** = piscina per bambini
-* **banned** = vietare
-* **idle** = inutile
-* **off-putting** = sgradevole
-* **chit-chat** = chiacchierata
-* **have glazed over** = offuscare
-* **shallow** = superficiale
 * **sipping** = sorseggiare
-* **middle school** = scuola media
+* **chit-chat** = chiacchierata
 * **niceties** = convenevoli, carinerie
-* **gab** = chiacchierare
+* **off-putting** = sgradevole
+* **kiddie pool** = piscina per bambini
+* **delightful** = delizioso
+* **idle** = inutile
+* **holder** = sostenitore
 * **pencil lead** = mina della matita
+* **have glazed over** = offuscare
 * **back-and-forth** = botta e risposta
+* **go forth** = andare avanti, procedere
+* **chore** = seccatura, incombenza
+* **engaged** = impegnato
+* **gab** = chiacchierare

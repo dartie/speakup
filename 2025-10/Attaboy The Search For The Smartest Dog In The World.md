@@ -8,7 +8,7 @@ Fedeli e sempre pronti a imparare, la capacità dei cani di adattarsi alle nostr
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/Attaboy%20The%20Search%20For%20The%20Smartest%20Dog%20In%20The%20World.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/Attaboy%20The%20Search%20For%20The%20Smartest%20Dog%20In%20The%20World.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -63,34 +63,34 @@ Dogs have also played an important role in Hollywood, often starring in films an
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **hunters** = cacciatori
-* **further** = ulteriormente
-* **whatever** = qualsiasi cosa
-* **unlike** = a differenza di
 * **triggers** = provocare
-* **starfish** = stella marina
-* **back and forth** = avanti e indietro
-* **BARK** = abbaiare
-* **bond** = creare un legame
-* **I’m aware** = essere consapevole
-* **seahorse** = cavalluccio marino
-* **diseases** = malattie
-* **dog breed** = razza di cane
-* **eyebrow** = sopracciglio
 * **nurturing response** = reazione protettiva, premurosa
-* **biased** = orientati verso, inclini
-* **cross** = incrocio
-* **overdoing** = esagerare
-* **puppy dog eyes** = occhi da cucciolo
-* **otherwise** = altrimenti
-* **struggle** = avere difficoltà
-* **da da da** = bla bla bla
-* **behavioural psychologist** = psicologo comportamentale
-* **[dog] shelter** = canile
-* **cute** = carino
+* **Hardly** = quasi nessuno
 * **cues** = segnali
+* **overdoing** = esagerare
+* **diseases** = malattie
+* **further** = ulteriormente
+* **BARK** = abbaiare
+* **stuffed animals** = animali di peluche
+* **unlike** = a differenza di
+* **cute** = carino
+* **biased** = orientati verso, inclini
+* **pug** = carlino
 * **shepherd** = pastore
 * **retrieve** = riportare
-* **stuffed animals** = animali di peluche
-* **pug** = carlino
-* **Hardly** = quasi nessuno
+* **puppy dog eyes** = occhi da cucciolo
+* **cross** = incrocio
+* **bond** = creare un legame
+* **I’m aware** = essere consapevole
+* **da da da** = bla bla bla
+* **otherwise** = altrimenti
+* **[dog] shelter** = canile
+* **seahorse** = cavalluccio marino
+* **starfish** = stella marina
+* **behavioural psychologist** = psicologo comportamentale
+* **whatever** = qualsiasi cosa
+* **hunters** = cacciatori
+* **dog breed** = razza di cane
+* **back and forth** = avanti e indietro
+* **eyebrow** = sopracciglio
+* **struggle** = avere difficoltà

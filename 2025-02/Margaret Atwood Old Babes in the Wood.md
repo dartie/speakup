@@ -8,7 +8,7 @@ In occasione della traduzione del suo nuovo libro, l’autrice ha parlato con la
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Margaret%20Atwood%20Old%20Babes%20in%20the%20Wood.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Margaret%20Atwood%20Old%20Babes%20in%20the%20Wood.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -39,25 +39,25 @@ So what happened?
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **to trick** = ingannare
+* **came upon** = imbattersi in
+* **forbidden** = proibire
+* **under the thumb** = sotto il controllo
+* **The Handmaid’s Tale** = Il racconto dell’ancella
+* **dry wit** = ironia tagliente
+* **envisaged** = immaginare
+* **drew on** = attingere a
+* **edge** = tono
+* **beliefs** = convinzioni
+* **balloons** = mongolfiera
+* **demolishes** = distruggere, demolire
 * **Black Death** = peste nera
-* **typewriters** = macchine da scrivere
 * **kept rigorously in check** = tenere sotto controllo
 * **surveillance.** = sorveglianza
-* **under the thumb** = sotto il controllo
 * **renowned.** = rinomati
-* **The Handmaid’s Tale** = Il racconto dell’ancella
-* **drew on** = attingere a
+* **to trick** = ingannare
+* **typewriters** = macchine da scrivere
 * **the afterlife** = l’aldilà
-* **ever-greater improvement** = miglioramento costante
-* **envisaged** = immaginare
-* **forbidden** = proibire
 * **of its own** = a sé stante
-* **demolishes** = distruggere, demolire
-* **balloons** = mongolfiera
+* **ever-greater improvement** = miglioramento costante
 * **sewage** = fognature
 * **tapers off** = diminuire
-* **dry wit** = ironia tagliente
-* **edge** = tono
-* **came upon** = imbattersi in
-* **beliefs** = convinzioni

@@ -8,7 +8,7 @@ Al suo esordio nel 1888, la penna Parker ha rivoluzionato il modo di scrivere a 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/The%20Parker%20Pen%20Smooth%20Flow%20of%20Ink.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/The%20Parker%20Pen%20Smooth%20Flow%20of%20Ink.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,23 +32,23 @@ While vintage Parker pens are highly collectible, the firm still launches new, i
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **fountain pen’s** = penna stilografica
-* **smudging** = sbavare
-* **pioneered** = dare inizio, fare da pioniere
-* **fail-proof** = a prova di errore, infallibile
-* **quick drying ink** = inchiostro a rapida asciugatura
-* **streamline** = snelli, affusolati
-* **typed** = digitare
-* **flow of ink** = flusso d’inchiostro
-* **unreliable** = inaffidabile
-* **to drain** = drenare
-* **the jointless** = senza giunture
-* **steady** = continuo
 * **devices** = dispositivi
-* **stationery** = cancelleria
-* **spare time** = tempo libero
-* **leakages** = perdite
-* **Marketed** = commercializzare
+* **fountain pen’s** = penna stilografica
+* **flow of ink** = flusso d’inchiostro
+* **smudging** = sbavare
+* **quick drying ink** = inchiostro a rapida asciugatura
+* **steady** = continuo
 * **engages** = coinvolgere
-* **earnest** = serio
+* **typed** = digitare
+* **leakages** = perdite
 * **feed system** = sistema di alimentazione
+* **to drain** = drenare
+* **fail-proof** = a prova di errore, infallibile
+* **spare time** = tempo libero
+* **unreliable** = inaffidabile
+* **Marketed** = commercializzare
+* **earnest** = serio
+* **stationery** = cancelleria
+* **pioneered** = dare inizio, fare da pioniere
+* **the jointless** = senza giunture
+* **streamline** = snelli, affusolati

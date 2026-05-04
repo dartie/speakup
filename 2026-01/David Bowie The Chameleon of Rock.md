@@ -8,7 +8,7 @@ Cantante, cantautore e attore, è stato una delle figure più importanti nella s
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/David%20Bowie%20The%20Chameleon%20of%20Rock.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/David%20Bowie%20The%20Chameleon%20of%20Rock.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -51,26 +51,26 @@ David Bowie died on 10 January 2016 after a [liver](## "fegato") cancer diagnos
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **despair** = disperazione
-* **take the plunge** = buttarsi, fare il grande passo
-* **jumpsuit** = tuta intera
-* **persona** = personaggio
-* **Lodger** = inquilino
-* **liver** = fegato
-* **charts** = classifiche
-* **transfixed** = rapita
-* **Thin** = magro, sottile
-* **act** = atto, messinscena
-* **grief** = dolore
-* **fellow** = colleghi
-* **astonished** = stupire, sorprendere
-* **Stardust** = polvere di stelle
 * **Oddity** = stranezza
-* **kick a chronic cocaine addiction** = superare una dipendenza
-* **alike** = allo stesso modo
-* **spearhead** = guida, uomo di punta
 * **marooned** = abbandonato, bloccato
+* **alike** = allo stesso modo
+* **Stardust** = polvere di stelle
 * **Hunky Dory** = tutto a posto
 * **released** = pubblicare
+* **jumpsuit** = tuta intera
+* **transfixed** = rapita
+* **persona** = personaggio
+* **Thin** = magro, sottile
+* **take the plunge** = buttarsi, fare il grande passo
+* **astonished** = stupire, sorprendere
 * **PUNY** = insignificante, debole
+* **despair** = disperazione
+* **act** = atto, messinscena
+* **kick a chronic cocaine addiction** = superare una dipendenza
+* **liver** = fegato
+* **charts** = classifiche
+* **grief** = dolore
 * **despondency** = scoraggiamento
+* **spearhead** = guida, uomo di punta
+* **Lodger** = inquilino
+* **fellow** = colleghi

@@ -8,7 +8,7 @@ Che cosa succede se, per la prima volta nella sua vita, una donna si lascia alle
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/Enjoy%20Your%20Time%20A%20Short%20Story.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/Enjoy%20Your%20Time%20A%20Short%20Story.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -36,17 +36,17 @@ But that was about to change. She was going to divorce Seamus. She was going to 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **glanced** = dare un’occhiata
 * **his wife of fourteen years** = sua moglie da quattordici anni
-* **nodded** = fare un cenno di assenso
-* **sighed** = sospirare
-* **mended** = rammendare
-* **all the rage** = alla moda
-* **live happily ever after** = vivere per sempre felice
-* **tailor** = sarto
-* **she raised** = alzare
 * **cheated** = imbrogliare
+* **sighed** = sospirare
+* **live happily ever after** = vivere per sempre felice
+* **duties** = compiti
+* **allowed** = permettere
+* **she raised** = alzare
+* **nodded** = fare un cenno di assenso
 * **reflected on** = riflettere su
 * **expenses** = spese
-* **duties** = compiti
-* **glanced** = dare un’occhiata
-* **allowed** = permettere
+* **tailor** = sarto
+* **mended** = rammendare
+* **all the rage** = alla moda

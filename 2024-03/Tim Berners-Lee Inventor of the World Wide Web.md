@@ -1,6 +1,6 @@
 # Tim Berners-Lee: Inventor of the World Wide Web   [B2]
 
-Inventore del World Wide Web e del linguaggio HTML, questo ingegnere inglese ha dato il via alla rivoluzione digitale che ha cambiato la nostra vita. Invece di cercare la propria gloria e il massimo profitto, conduce numerose iniziative umanitarie.
+Nato l'8 giugno 1955, quest'ingegnere inglese ha inventato il World Wide Web e il linguaggio HTML, scatenando quella rivoluzione digitale che avrebbe cambiato le nostre vite.
 
 ![](Tim%20Berners-Lee%20Inventor%20of%20the%20World%20Wide%20Web.jpg)
 
@@ -8,7 +8,7 @@ Inventore del World Wide Web e del linguaggio HTML, questo ingegnere inglese ha 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/Tim%20Berners-Lee%20Inventor%20of%20the%20World%20Wide%20Web.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/Tim%20Berners-Lee%20Inventor%20of%20the%20World%20Wide%20Web.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,19 +32,19 @@ Berners-Lee, however, is highly critical of the way in which the web has develop
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **shaped** = segnare, modellare
-* **broad** = ampia
+* **Affordable** = che ci si può permettere
 * **ability** = capacità
+* **Aware** = consapevole
+* **loosed** = liberare
+* **broad** = ampia
+* **re-found** = fondare di nuovo
+* **non-proprietary** = senza brevetto
+* **ranked** = classificare
+* **Mesh** = rete
 * **web browser** = navigatore (to browse: dare un’occhiata in giro)
 * **first-ever** = primo in assoluto
 * **groundbreaking** = rivoluzionario
 * **gifting** = regalare
-* **loosed** = liberare
-* **ranked** = classificare
-* **Aware** = consapevole
-* **praise** = lode, elogio
+* **shaped** = segnare, modellare
 * **panel** = gruppo, comitato
-* **Affordable** = che ci si può permettere
-* **re-found** = fondare di nuovo
-* **Mesh** = rete
-* **non-proprietary** = senza brevetto
+* **praise** = lode, elogio

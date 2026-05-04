@@ -8,7 +8,7 @@ In Inghilterra e nel Galles si trovano alcuni dei castelli più imponenti al mon
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/Castles%20Of%20England%20And%20Wales%20Theatres%20Of%20History.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/Castles%20Of%20England%20And%20Wales%20Theatres%20Of%20History.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -69,39 +69,39 @@ If you want to know more about this topic, read the article Top 10 Castles of En
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **upturned pudding bowl** = scodella per budino capovolta
-* **vanished** = scomparire
 * **constable** = custode del castello
-* **blame** = incolpare, ritenere responsabile
-* **inland** = verso l’interno
-* **layout** = disposizione
-* **motte-and-bailey** = motta castrale
-* **foresee** = prevedere
-* **heritage** = patrimonio
-* **mound** = tumulo
 * **running** = amministrare
-* **rewarding** = soddisfacenti
-* **chance** = caso
-* **statement** = dichiarazione
 * **dungeons** = segrete, sotterranei
-* **on top of that** = inoltre, per di più
 * **ruling** = governante
-* **ringwork** = mura concentriche
-* **chantry** = cappella commemorativa
-* **battlements** = merlature
-* **borders** = confini
 * **keep** = mastio (torre)
+* **chantry** = cappella commemorativa
+* **emptiness** = vuoto
+* **on top of that** = inoltre, per di più
+* **borders** = confini
+* **statement** = dichiarazione
+* **moats** = fossati
+* **rewarding** = soddisfacenti
+* **heritage** = patrimonio
+* **relied heavily upon** = basarsi su, dipendere da
+* **blame** = incolpare, ritenere responsabile
+* **steward** = siniscalco, amministratore
+* **AD** = d.C. (anno domini)
+* **inland** = verso l’interno
+* **figure-eight** = a forma di otto
+* **drawbridges** = ponti levatoi
+* **blacksmiths** = fabbri
+* **foresee** = prevedere
+* **turned out** = risultare
+* **battlements** = merlature
+* **layout** = disposizione
+* **mound** = tumulo
+* **family feuds** = dispute, faide familiari
+* **ringwork** = mura concentriche
+* **upturned pudding bowl** = scodella per budino capovolta
 * **summit** = cima
 * **plenty of** = un sacco di
-* **drawbridges** = ponti levatoi
-* **emptiness** = vuoto
-* **blacksmiths** = fabbri
-* **figure-eight** = a forma di otto
 * **ornate carvings** = intagli ornamentali
-* **steward** = siniscalco, amministratore
-* **turned out** = risultare
+* **motte-and-bailey** = motta castrale
 * **strongholds** = fortezze
-* **relied heavily upon** = basarsi su, dipendere da
-* **moats** = fossati
-* **family feuds** = dispute, faide familiari
-* **AD** = d.C. (anno domini)
+* **vanished** = scomparire
+* **chance** = caso

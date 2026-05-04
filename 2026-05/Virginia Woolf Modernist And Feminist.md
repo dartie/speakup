@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/Virginia%20Woolf%20Modernist%20And%20Feminist.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/Virginia%20Woolf%20Modernist%20And%20Feminist.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -71,36 +71,36 @@ But Woolf also goes beyond just literature to consider the missing role of women
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **legacy** = eredità
-* **shifting** = mutevoli
-* **hints** = indizi
-* **due to** = a causa di
-* **journals** = periodici, riviste
+* **The Voyage Out** = "La crociera"
 * **emptiness** = vuoto
-* **quirk** = peculiarità, vezzo
-* **mute** = muta
-* **stream-of-consciousness** = flusso di coscienza
-* **grief** = dolore
-* **plot** = trama
-* **realise** = sviluppare pienamente
-* **gathering** = gruppo
-* **To the Lighthouse** = "Gita al faro"
-* **inner** = interiore
-* **outer** = esteriore
-* **cemented** = consolidare
 * **haunting** = inquietanti
 * **collapsing six characters into** = fondere in
-* **lack** = mancanza
+* **outer** = esteriore
+* **quirk** = peculiarità, vezzo
+* **stream-of-consciousness** = flusso di coscienza
+* **journals** = periodici, riviste
+* **shifting** = mutevoli
+* **semi-colons** = punti e virgola
+* **legacy** = eredità
+* **without meaning to** = senza volerlo
+* **ground-breaker** = innovatrice, pioniera
+* **To the Lighthouse** = "Gita al faro"
+* **gender-bending** = che sfida le convenzioni di genere
 * **literary device** = espediente letterario
+* **realise** = sviluppare pienamente
+* **vanished** = scomparire
+* **breakthrough** = innovativo
+* **plot** = trama
+* **lack** = mancanza
+* **ability** = capacità
+* **mute** = muta
+* **gathering** = gruppo
 * **printing press** = tipografia
 * **publishing house** = casa editrice
-* **The Voyage Out** = "La crociera"
-* **breakthrough** = innovativo
-* **gender-bending** = che sfida le convenzioni di genere
-* **ability** = capacità
-* **drowned herself** = farsi annegare
-* **vanished** = scomparire
-* **without meaning to** = senza volerlo
 * **BEEN OUT AND ABOUT** = stare in giro, circolare
-* **ground-breaker** = innovatrice, pioniera
-* **semi-colons** = punti e virgola
+* **drowned herself** = farsi annegare
+* **inner** = interiore
+* **due to** = a causa di
+* **grief** = dolore
+* **cemented** = consolidare
+* **hints** = indizi

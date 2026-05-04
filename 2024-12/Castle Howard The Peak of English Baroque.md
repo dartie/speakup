@@ -8,7 +8,7 @@ Edificata nell’arco di cento anni, Castle Howard è una delle dimore signorili
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Castle%20Howard%20The%20Peak%20of%20English%20Baroque.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Castle%20Howard%20The%20Peak%20of%20English%20Baroque.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -53,35 +53,35 @@ During the festive season, the stately home is seen at its most spectacular. Han
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **to take on** = farsi carico di
-* **follies** = pazzie
-* **fever pitch** = massima intensità, frenesia
-* **estate** = tenuta
-* **charming** = incantevole
-* **furniture** = mobili
-* **lit** = illuminare, accendere
-* **fairy lights** = fili di luci
-* **late-13th century** = fine del XIII secolo
-* **statuary** = collezione di statue
-* **lawn** = prato
-* **shrubs** = arbusti
-* **granted** = concedere
-* **backdrop** = sfondo
-* **boasts** = vantarsi
-* **stately homes** = dimore signorili
-* **living the high life** = fare la bella vita
-* **cottages** = villette
-* **domed top** = soffitto a cupola
-* **fenced** = recintare
+* **Earl** = conte
 * **fairy-like** = fiabesco
+* **put out** = spegnere
+* **boasts** = vantarsi
+* **cottages** = villette
+* **shrubs** = arbusti
+* **fever pitch** = massima intensità, frenesia
+* **granted** = concedere
+* **baubles** = decorazioni di Natale
+* **scattered** = sparpagliare
+* **lawn** = prato
+* **quarter** = parte
+* **lit** = illuminare, accendere
+* **furniture** = mobili
+* **stately homes** = dimore signorili
+* **flamboyant** = appariscente, vistoso
+* **follies** = pazzie
+* **fenced** = recintare
 * **rope bridge** = ponte di corda
 * **broke out** = scoppiare
-* **heritage** = patrimonio
-* **quarter** = parte
-* **baubles** = decorazioni di Natale
-* **Earl** = conte
-* **flamboyant** = appariscente, vistoso
-* **scattered** = sparpagliare
-* **elf** = elfo
-* **put out** = spegnere
+* **backdrop** = sfondo
 * **scaffolding** = impalcatura
+* **heritage** = patrimonio
+* **late-13th century** = fine del XIII secolo
+* **to take on** = farsi carico di
+* **charming** = incantevole
+* **elf** = elfo
+* **fairy lights** = fili di luci
+* **living the high life** = fare la bella vita
+* **statuary** = collezione di statue
+* **domed top** = soffitto a cupola
+* **estate** = tenuta

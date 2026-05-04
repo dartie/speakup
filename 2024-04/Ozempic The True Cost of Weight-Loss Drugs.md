@@ -8,7 +8,7 @@ Concepito come trattamento per il diabete, il farmaco è diventato popolare come
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Ozempic%20The%20True%20Cost%20of%20Weight-Loss%20Drugs.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Ozempic%20The%20True%20Cost%20of%20Weight-Loss%20Drugs.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,23 +40,23 @@ The demand for Ozempic has also resulted in dangerous [counterfeits](## "contraf
 # Glossary
 * **overweight** = sovrappeso
 * **countless** = innumerevoli
-* **hunge** = fame
-* **fullness** = sazietà
-* **shortages** = carenza
-* **banned** = vietare
-* **prescription medications** = farmaci con prescrizione medica
-* **boost** = incremento, aumento
-* **mimics** = imitare
-* **cheeks** = guance
-* **increased forty-fold** = aumentato di quaranta volte
-* **widespread** = generalizzato
 * **suppressant** = inibitore
-* **butt** = culo
-* **hollow** = scavate, svuotate
+* **widespread** = generalizzato
+* **shortages** = carenza
 * **seized** = confiscare
+* **boost** = incremento, aumento
+* **butt** = culo
+* **cheeks** = guance
+* **banned** = vietare
+* **stockpile** = accumulare
+* **saggy** = cadente
 * **advice** = consiglio
 * **drugs** = farmaci
-* **saggy** = cadente
-* **stockpile** = accumulare
+* **hunge** = fame
+* **fullness** = sazietà
+* **hollow** = scavate, svuotate
 * **counterfeits** = contraffazioni
 * **to exercise caution** = essere prudenti
+* **prescription medications** = farmaci con prescrizione medica
+* **mimics** = imitare
+* **increased forty-fold** = aumentato di quaranta volte

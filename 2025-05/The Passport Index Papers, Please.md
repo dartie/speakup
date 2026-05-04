@@ -8,7 +8,7 @@ L'indice Henley Passport è una classifica globale dei paesi in base alla capaci
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/The%20Passport%20Index%20Papers,%20Please.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/The%20Passport%20Index%20Papers,%20Please.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -37,25 +37,25 @@ The Israeli passport has risen from 24th place to 19th place this year, while th
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **burgundy-coloured** = di colore borgogna
-* **holds** = possedere
-* **policy-makers** = legislatori
-* **The broader** = più ampie
-* **long-held** = mantenuta a lungo
-* **dropped** = scendere
-* **granting** = concedere
 * **draw on** = fare uso di
-* **framework** = quadro
-* **consultancy** = consulenza
-* **handy** = utile
-* **tariffs** = dazi
 * **score** = punteggio
 * **constrains** = restrizioni
-* **on a par with** = alla pari con
-* **tied** = in parità
-* **factoring in** = tenere in considerazione
-* **misleading** = ingannevoli
-* **widening gap** = ampliare la distanza
-* **despite** = nonostante
-* **has waned** = diminuire
 * **jointly** = congiuntamente
+* **dropped** = scendere
+* **framework** = quadro
+* **on a par with** = alla pari con
+* **despite** = nonostante
+* **burgundy-coloured** = di colore borgogna
+* **holds** = possedere
+* **consultancy** = consulenza
+* **misleading** = ingannevoli
+* **policy-makers** = legislatori
+* **has waned** = diminuire
+* **tied** = in parità
+* **granting** = concedere
+* **factoring in** = tenere in considerazione
+* **handy** = utile
+* **The broader** = più ampie
+* **tariffs** = dazi
+* **long-held** = mantenuta a lungo
+* **widening gap** = ampliare la distanza

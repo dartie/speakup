@@ -8,7 +8,7 @@ Il più noto romanzo del maestro russo scritto in inglese fu vietato nel Regno U
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Lolita%20by%20Vladimir%20Nabokov.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Lolita%20by%20Vladimir%20Nabokov.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -49,21 +49,21 @@ Humbert destroys Lolita’s childhood to [fuel](## "alimentare") his fantasy. W
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **tricks** = ingannare
-* **commands** = ordinare
-* **fuel** = alimentare
-* **banned** = vietare
 * **self-pitying** = autocommiserativo
-* **lodging** = alloggiare
-* **reminder** = promemoria
-* **notoriety** = cattiva fama
-* **crafted** = creare
-* **guise** = sembianza
 * **predatory** = predatore
 * **creepy** = raccapricciante
 * **self-delusion** = l’illudersi
-* **nymphets** = ninfette
-* **infatuated** = infatuato, infervorato
-* **plea** = supplica
+* **tricks** = ingannare
+* **reminder** = promemoria
 * **ends up** = finire
+* **nymphets** = ninfette
+* **plea** = supplica
+* **fuel** = alimentare
 * **struggled** = avere difficoltà
+* **notoriety** = cattiva fama
+* **crafted** = creare
+* **guise** = sembianza
+* **infatuated** = infatuato, infervorato
+* **commands** = ordinare
+* **lodging** = alloggiare
+* **banned** = vietare

@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/Bridgerton%20The%20Regency%20Romance%20Returns.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/Bridgerton%20The%20Regency%20Romance%20Returns.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,19 +33,19 @@ Season three is the story of Colin and Penelope, the third Bridgerton son and th
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **rejoice** = gioire
 * **delivered it in spades** = ottenere alla grande
-* **costumes** = costumi
-* **balls** = balli
-* **gossip** = spettegolare
-* **trials and tribulations** = difficoltà
-* **staggering** = sbalorditivo
-* **gentry** = aristocrazia
-* **relief** = sollievo
-* **flooded** = inondare, sommergere
-* **Dowager Viscountess** = viscontessa vedova
 * **flirt** = flirtare
 * **scheme** = complottare
+* **relief** = sollievo
+* **staggering** = sbalorditivo
+* **Dowager Viscountess** = viscontessa vedova
+* **balls** = balli
 * **woven into** = intrecciare
 * **period dramas** = drammi d’epoca
+* **costumes** = costumi
+* **gentry** = aristocrazia
+* **trials and tribulations** = difficoltà
+* **gossip** = spettegolare
 * **budding** = germogliante, nascente
+* **flooded** = inondare, sommergere
+* **rejoice** = gioire

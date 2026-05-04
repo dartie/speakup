@@ -8,7 +8,7 @@ Secondo un recente studio condotto a Yellowstone, il reinserimento dei bisonti a
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/In%20Yellowstone,%20Migratory%20Bison%20Reawaken%20a%20Landscape.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/In%20Yellowstone,%20Migratory%20Bison%20Reawaken%20a%20Landscape.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -18,7 +18,7 @@ Likewise, studying the role that migratory bison played in those ecosystems has 
 But a new study conducted in Yellowstone National Park, where the last migratory herd still roams, offers a [glimpse](## "sguardo") into the crucial role that these animals once played in restoring their ecosystem and perhaps still could. “If we value a system, we need to allow them to operate as close to naturally as possible,” said Bill Hamilton, an ecologist at Washington and Lee University and an author of the study. “And this was a great case in point of how that can work.”
 Of the roughly 400,000 [extant](## "esistenti") bison, more than five thousand live in Yellowstone’s 3,500 square miles [906,495 hectares]; there are two [herds](## "mandrie") in the park, one of which is migratory. (Most of the other bison outside the park are held in privately- owned [herds](## "mandrie").) The migratory bison of Yellowstone travel more than one thousand miles in a year, [grazing](## "pascolare") different habitats along a fifty-mile migratory route in the northern ecosystem.
 A 19th-century image shows a Native American on horseback hunting a bison, on which they historically rely for food, shelter, clothing, and spiritual practices. 
-The study, published recently in the journal Science, examined how bison changed the [soil](## "suolo, terreno") and vegetation along their migratory route. [Outwardly](## "dall’esterno") the effect can look like [over[grazing](## "pascolare")](## "sovrapascolo"). But the researchers found that bison essentially allow plants to keep growing: by [grazing](## "pascolare") and moving on, the animals increase the density of microbes and nitrogen, an essential chemical for plant growth, in the [soil](## "suolo, terreno"), improving the nutrition for herbivores by up to 150 per cent in some areas.
+The study, published recently in the journal Science, examined how bison changed the [soil](## "suolo, terreno") and vegetation along their migratory route. [Outwardly](## "dall’esterno") the effect can look like over[grazing](## "pascolare"). But the researchers found that bison essentially allow plants to keep growing: by [grazing](## "pascolare") and moving on, the animals increase the density of microbes and nitrogen, an essential chemical for plant growth, in the [soil](## "suolo, terreno"), improving the nutrition for herbivores by up to 150 per cent in some areas.
 Troy Heinert, a member of the Rosebud Sioux tribe and chief of the branch of bison management for the Bureau of Indian Affairs, said that such research validated what Indigenous peoples have known for generations. “Buffalo helped shape this continent,” Heinert said. “And the more buffalo that are out there, the ecosystems are improved for all other animals as well.”
 Current Affairs
 
@@ -45,23 +45,23 @@ Published in The New York Times on 3 September 2025. Reprinted with permission.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **Basin** = bacino
-* **glimpse** = sguardo
-* **restored** = reintrodurre
-* **fences** = recinzioni
-* **tease this apart** = scomporre, analizzare nel dettaglio
-* **finer, grain scale** = scala ad alta definizione
-* **gauged** = calcolare
 * **overgrazing** = sovrapascolo
-* **grazing** = pascolare
-* **herds** = mandrie
+* **tease this apart** = scomporre, analizzare nel dettaglio
+* **Basin** = bacino
 * **soil** = suolo, terreno
-* **Outwardly** = dall’esterno
-* **lies** = risiedere in
-* **stunning** = impressionante
+* **restored** = reintrodurre
+* **grow steadily** = crescere in modo costante
+* **fences** = recinzioni
 * **findings** = risultati
-* **roamed** = girovagare
+* **concurred** = concordare, essere d’accordo
 * **extant** = esistenti
 * **valley bottoms** = fondivalle
-* **grow steadily** = crescere in modo costante
-* **concurred** = concordare, essere d’accordo
+* **lies** = risiedere in
+* **finer, grain scale** = scala ad alta definizione
+* **grazing** = pascolare
+* **herds** = mandrie
+* **gauged** = calcolare
+* **glimpse** = sguardo
+* **stunning** = impressionante
+* **roamed** = girovagare
+* **Outwardly** = dall’esterno

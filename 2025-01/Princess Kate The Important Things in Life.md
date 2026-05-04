@@ -8,7 +8,7 @@ La principessa del Galles ha contribuito a ripristinare l’immagine della famig
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/Princess%20Kate%20The%20Important%20Things%20in%20Life.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/Princess%20Kate%20The%20Important%20Things%20in%20Life.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,31 +32,31 @@ A week after the video’s release, Catherine officially went back to work. A qu
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **to hand** = consegnare
-* **voice-over** = voce fuori campo
-* **carefully-scripted** = scritto con cura
-* **shrouded** = ricoprire
-* **to churn** = produrre in massa
-* **undergoing** = sottoporsi
-* **for the sake of** = per il bene di
-* **released** = publicar
-* **comes across as** = sembrare, dare l’impressione di
-* **while** = nel frattempo
-* **willing** = disposta
-* **speaking out** = parlare
-* **strolling** = passeggiare
-* **largely** = per lo più
-* **rumour mill** = fonte di chiacchiere
-* **fellow** = compagni
-* **withdrew** = ritirarsi
-* **marshmallows** = toffolette, cotone dolce
-* **admitted to hospital** = ricoverare in ospedale
-* **departure** = cambiamento
-* **delay** = ritardo
-* **rife** = abbondanti
-* **handling** = gestione
 * **hugging** = abbracciare
 * **flies off** = volare via da
-* **news outlets** = mezzi di comunicazione
+* **comes across as** = sembrare, dare l’impressione di
+* **voice-over** = voce fuori campo
+* **rife** = abbondanti
+* **departure** = cambiamento
+* **fellow** = compagni
+* **released** = publicar
 * **kill notices** = avviso di rimozione
+* **willing** = disposta
 * **fields** = campi di grano
+* **marshmallows** = toffolette, cotone dolce
+* **rumour mill** = fonte di chiacchiere
+* **speaking out** = parlare
+* **withdrew** = ritirarsi
+* **carefully-scripted** = scritto con cura
+* **shrouded** = ricoprire
+* **handling** = gestione
+* **admitted to hospital** = ricoverare in ospedale
+* **to churn** = produrre in massa
+* **undergoing** = sottoporsi
+* **delay** = ritardo
+* **news outlets** = mezzi di comunicazione
+* **to hand** = consegnare
+* **for the sake of** = per il bene di
+* **largely** = per lo più
+* **while** = nel frattempo
+* **strolling** = passeggiare

@@ -8,7 +8,7 @@ Nonostante sia entrata a far parte della famiglia reale, Meghan Markle è sempre
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/Life%20After%20Royalty%20The%20Duchess%20of%20Sussex.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/Life%20After%20Royalty%20The%20Duchess%20of%20Sussex.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -16,7 +16,7 @@ Nonostante sia entrata a far parte della famiglia reale, Meghan Markle è sempre
 After Meghan Markle married Prince Harry in 2018, she experienced an inevitable culture clash. The British Royal Family is known for its reserved nature and traditional values. Meghan, however, is a [former](## "ex, precedente") actress from Los Angeles, California, a place associated with liberal values and a [laid-back](## "rilassata") attitude. 
 
 ## CALIFORNIAN EXILE
-The apparent contrast between Meghan and the Royal Family and even British culture in general, provoked attacks from the UK media, which she once described as ��almost unsurvivable.” In 2020, those attacks drove Meghan and Harry to abandon their royal [duties](## "doveri") and move thousands of miles away, to Montecito, California. 
+The apparent contrast between Meghan and the Royal Family and even British culture in general, provoked attacks from the UK media, which she once described as “almost unsurvivable.” In 2020, those attacks drove Meghan and Harry to abandon their royal [duties](## "doveri") and move thousands of miles away, to Montecito, California. 
 Now the couple and their two children, Archie and Lilibet, have [settled into](## "ambientarsi") their lives on the sunny Californian coast. And Meghan is bringing Hollywood glamour and fame to her royal position, by establishing herself as a Netflix star, lifestyle guru, and social media influencer.
 
 ## A LIFESTYLE BRAND
@@ -41,25 +41,25 @@ The US does not have a royal family; they have many. And they are used by differ
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **bask in** = godere di
-* **done extremely well** = avere successo
-* **laid-back** = rilassata
-* **duties** = doveri
-* **As Ever** = come sempre
-* **praised** = lodare
-* **mission statement** = dichiarazione di obiettivi fondamentali
-* **do good** = fare il bene
-* **Inc.** = società per azioni  (abbr. incorporated)
-* **released** = lanciare
-* **fall** = autunno
-* **limelight** = centro dell’attenzione
-* **cope** = affrontare
 * **stale** = stantio
-* **settled into** = ambientarsi
-* **reportedly** = a quanto si dice
-* **however unique** = nonostante quanto unica
-* **cloak** = mantello
-* **Show up** = presentarsi
+* **mission statement** = dichiarazione di obiettivi fondamentali
 * **former** = ex, precedente
-* **gaze** = sguardo
+* **laid-back** = rilassata
+* **settled into** = ambientarsi
+* **fall** = autunno
+* **As Ever** = come sempre
+* **however unique** = nonostante quanto unica
 * **rule** = governare
+* **limelight** = centro dell’attenzione
+* **cloak** = mantello
+* **do good** = fare il bene
+* **duties** = doveri
+* **cope** = affrontare
+* **Show up** = presentarsi
+* **done extremely well** = avere successo
+* **Inc.** = società per azioni  (abbr. incorporated)
+* **reportedly** = a quanto si dice
+* **released** = lanciare
+* **gaze** = sguardo
+* **praised** = lodare
+* **bask in** = godere di

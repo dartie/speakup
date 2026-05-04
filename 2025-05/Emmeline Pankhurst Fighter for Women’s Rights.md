@@ -8,7 +8,7 @@ Brillante oratrice, ha svolto un ruolo fondamentale nella lotta per il suffragio
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/Emmeline%20Pankhurst%20Fighter%20for%20Women%E2%80%99s%20Rights.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/Emmeline%20Pankhurst%20Fighter%20for%20Women%E2%80%99s%20Rights.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -42,35 +42,35 @@ Pankhurst’s family life was full of tragedies and [bitter](## "amaro") conflic
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **ties** = legami
+* **Deeds** = azioni
+* **right-wing** = di destra
+* **demonstrations** = manifestazioni
+* **deserved** = meritare
+* **fell out** = litigare
+* **one-way ticket** = biglietto di sola andata
 * **motto** = motto
-* **pillar boxes** = cassette postali
-* **carriage** = carrozza
+* **truce** = tregua
+* **no longer** = non più
+* **ties** = legami
 * **to bring about** = dar luogo a
+* **Grief-stricken** = afflitta dal dolore
+* **hardship** = difficoltà
+* **arson** = incendio doloso
+* **pillar boxes** = cassette postali
+* **delivered** = pronunciare
+* **commissioned** = commissionare
+* **tirelessly** = instancabilmente
+* **hunger strikes** = scioperi della fame
 * **pipes** = tubi
-* **arouse** = suscitare
+* **Act** = legge
+* **elder daughter** = figlia maggiore
+* **rubber** = gomma
+* **harsh** = dure
 * **cupboard** = armadio
 * **mocked** = deridere
-* **arson** = incendio doloso
-* **hunger strikes** = scioperi della fame
-* **rubber** = gomma
-* **deserved** = meritare
-* **commissioned** = commissionare
-* **Deeds** = azioni
-* **one-way ticket** = biglietto di sola andata
-* **truce** = tregua
 * **bitter** = amaro
-* **hardship** = difficoltà
-* **right-wing** = di destra
-* **force-feed** = alimentare con la forza
-* **Act** = legge
-* **harsh** = dure
-* **delivered** = pronunciare
-* **tirelessly** = instancabilmente
+* **arouse** = suscitare
 * **means** = mezzi
-* **elder daughter** = figlia maggiore
 * **astonished** = stupiti
-* **demonstrations** = manifestazioni
-* **no longer** = non più
-* **Grief-stricken** = afflitta dal dolore
-* **fell out** = litigare
+* **force-feed** = alimentare con la forza
+* **carriage** = carrozza

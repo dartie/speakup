@@ -8,12 +8,12 @@ Una mostra alla National Portrait Gallery di Londra ripercorre l’evoluzione di
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/Anatomy%20of%20Painting%20Jenny%20Saville.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/Anatomy%20of%20Painting%20Jenny%20Saville.mp3" type="audio/mpeg">
 </audio>
 </div>
 
 
-British artist Jenny Saville paints bodies too big, too [flab](## "ciccetta")by, too [flawed](## "imperfetto, con difetti"), too [scarred](## "con cicatrici") or simply [out of sync](## "fuori dagli schemi, non conforme") with real-world perceptions of what beauty is. While her subjects are usually women, men and other identities are implicated as Saville challenges gender and genre norms. This summer a major retrospective of her work is held at the National Portrait Gallery in London. 
+British artist Jenny Saville paints bodies too big, too [[flab](## "ciccetta")by](## "flaccido, molle"), too [flawed](## "imperfetto, con difetti"), too [scarred](## "con cicatrici") or simply [out of sync](## "fuori dagli schemi, non conforme") with real-world perceptions of what beauty is. While her subjects are usually women, men and other identities are implicated as Saville challenges gender and genre norms. This summer a major retrospective of her work is held at the National Portrait Gallery in London. 
 
 ## YOUNG BRITISH ARTIST
 Born in 1970 in Cambridge, England, Saville attended the Glasgow School of Art from 1988 to 1992, spending a [term](## "semestre") at the University of Cincinnati in the US. Her studies focused her interest on corporeal imperfections, with all of its societal implications and taboos. Saville [rose to fame](## "raggiungere la fama") as a member of the Young British Artists (YBAs), the [loose](## "approssimativo, non strutturato") group of painters and sculptors who came to prominence in the late 1980s and early 1990s, and who were [championed](## "sostenere, promuovere") and financially supported by the art collector Charles Saatchi.
@@ -47,33 +47,33 @@ www.npg.org.uk
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **flab** = ciccetta
 * **slabs of meat** = pezzi di carne
-* **to get stuck** = bloccarsi
-* **depictions** = ritratti
-* **Hyphen** = trattino
-* **bias** = parzialità
-* **scarred** = con cicatrici
-* **out of sync** = fuori dagli schemi, non conforme
-* **cosmetic surgeon** = chirurgo estetico
-* **peer** = pari
-* **failing** = fallimento
-* **Propped** = puntellare
-* **to counter** = contrastare
-* **broadly** = generalmente
-* **triggering** = provocare
-* **inside out** = capovolgere
-* **flabby** = flaccido, molle
-* **term** = semestre
-* **loose** = approssimativo, non strutturato
-* **to push at the boundaries** = forzare i limiti
-* **ever more** = sempre più
-* **mounts** = aumentare
-* **rose to fame** = raggiungere la fama
-* **championed** = sostenere, promuovere
-* **fruitless** = infruttifero
-* **fleshy** = carnoso, corpulento
-* **sought** = cercare
 * **charcoal** = carboncino
-* **flawed** = imperfetto, con difetti
+* **flabby** = flaccido, molle
+* **scarred** = con cicatrici
+* **ever more** = sempre più
+* **flab** = ciccetta
+* **Propped** = puntellare
+* **inside out** = capovolgere
+* **championed** = sostenere, promuovere
+* **depictions** = ritratti
+* **fleshy** = carnoso, corpulento
+* **peer** = pari
+* **sought** = cercare
+* **cosmetic surgeon** = chirurgo estetico
+* **bias** = parzialità
+* **rose to fame** = raggiungere la fama
+* **loose** = approssimativo, non strutturato
+* **Hyphen** = trattino
+* **broadly** = generalmente
+* **to get stuck** = bloccarsi
+* **failing** = fallimento
+* **term** = semestre
+* **fruitless** = infruttifero
 * **spanning** = abbracciare, coprire
+* **triggering** = provocare
+* **to push at the boundaries** = forzare i limiti
+* **flawed** = imperfetto, con difetti
+* **mounts** = aumentare
+* **out of sync** = fuori dagli schemi, non conforme
+* **to counter** = contrastare

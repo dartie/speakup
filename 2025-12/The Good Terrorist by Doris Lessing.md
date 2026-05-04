@@ -8,7 +8,7 @@ Nel pieno del fermento politico della Londra degli anni ‘80, una giovane impeg
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/The%20Good%20Terrorist%20by%20Doris%20Lessing.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/The%20Good%20Terrorist%20by%20Doris%20Lessing.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -16,7 +16,7 @@ Nel pieno del fermento politico della Londra degli anni ‘80, una giovane impeg
 Winner of the 2007 Nobel Prize in Literature, British novelist Doris Lessing explores themes such as feminism, politics, psychology and societal structures in her work. In her satirical novel The Good Terrorist, political idealism [propels](## "spingere") a protagonist into committing a violent act. The novel was published in 1985 at a time when the IRA was bombing [targets](## "obiettivi") across the UK, including Northern Ireland.
 
 ## SQUATTERS
-The novel centres on a group of radicals in London. Alice, the book’s protagonist, is in her mid-thirties, well-educated, practical, [caring](## "premurosa") and naïve. Determined to oppose what they believe to be a “fascist” establishment in the government of Margaret Thatcher, Alice and her partner, Jasper, join a communist group [squatting](## "occupare (illegalmente)") a London [council](## "comune") house. The [council](## "comune") has deliberately made the house uninhabitable, but Alice is still shocked by what she sees:
+The novel centres on a group of radicals in London. Alice, the book’s protagonist, is in her mid-thirties, well-educated, practical, [caring](## "premurosa") and naïve. Determined to oppose what they believe to be a “fascist” establishment in the government of Margaret Thatcher, Alice and her partner, Jasper, join a communist group [squatting](## "occupare (illegalmente)") a London [[council](## "comune") house](## "casa popolare"). The [council](## "comune") has deliberately made the house uninhabitable, but Alice is still shocked by what she sees:
 “Light fell on desolation. Worse, danger: she was looking at electric cables ripped out of the wall and dangling, raw-ended. The cooker was pulled out and lying on the floor. The broken windows had admitted rain water which lay in puddles everywhere. There was a dead bird on the floor. It stank. Alice began to cry. It was from pure rage.”
 “Davanti a lei c’era uno spettacolo di totale squallore. Anzi, di pericolo: i fili elettrici erano stati strappati dalla parete e lasciati penzolare, scoperti. La cucina giaceva a terra, rovesciata; la pioggia era entrata dai vetri rotti, formando pozze dappertutto. Sul pavimento c’era un uccello morto che mandava un terribile fetore. Alice si mise a piangere. Era un pianto di rabbia.”
 
@@ -43,28 +43,28 @@ The Good Terrorist is angry, [witty](## "arguta") and [ever-relevant](## "sempr
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **subsumes** = assorbire
-* **broach** = affrontare
-* **caring** = premurosa
-* **council** = comune
-* **failing** = non riuscire a
-* **ends up** = finire
-* **fluttering** = agitarsi
 * **propels** = spingere
-* **squatting** = occupare (illegalmente)
-* **upbringing** = educazione
+* **caring** = premurosa
+* **council house** = casa popolare
+* **council** = comune
 * **buckets** = secchi
+* **the lives they lead** = le vite che conducono
+* **subsumes** = assorbire
+* **forge** = instaurare
 * **household budget** = bilancio domestico
 * **scrounge** = scroccare
+* **wilful** = ostinata
 * **plotting** = complottare
 * **head for** = dirigersi verso
+* **fluttering** = agitarsi
+* **ever-relevant** = sempre attuale
+* **squatting** = occupare (illegalmente)
+* **failing** = non riuscire a
+* **groupthink** = pensiero di gruppo
+* **witty** = arguta
 * **targets** = obiettivi
+* **upbringing** = educazione
 * **tidy** = ordinata
 * **contemptuous** = sprezzante
-* **wilful** = ostinata
-* **forge** = instaurare
-* **witty** = arguta
-* **ever-relevant** = sempre attuale
-* **council house** = casa popolare
-* **the lives they lead** = le vite che conducono
-* **groupthink** = pensiero di gruppo
+* **ends up** = finire
+* **broach** = affrontare

@@ -8,7 +8,7 @@ Il romanzo racconta la storia di Becky Sharp, ambiziosa e astuta, e di Amelia Se
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/Vanity%20Fair%20by%20William%20Makepeace%20Thackeray.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/Vanity%20Fair%20by%20William%20Makepeace%20Thackeray.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -45,21 +45,21 @@ Vanity Fair was the first work published by Thackeray under his own name. He use
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **intertwines** = intrecciare
-* **throughout** = durante tutto il tempo
-* **maze** = labirinto
-* **chance meeting** = incontro casuale
-* **gullible** = credulone, ingenuo
-* **weak** = debole
-* **against the backdrop** = con il telone di fondo
-* **lecherous** = lascivo
 * **Before long** = poco dopo
-* **Awkward** = goffo
+* **chance meeting** = incontro casuale
 * **sense of duty** = senso del dovere
-* **flaws** = difetti
+* **weak** = debole
+* **maze** = labirinto
 * **hailed** = acclamare
 * **instalments** = fascicoli
+* **governess** = istitutrice
+* **flaws** = difetti
+* **against the backdrop** = con il telone di fondo
+* **intertwines** = intrecciare
 * **strong-willed** = tenace
 * **upset** = turbata
-* **governess** = istitutrice
+* **lecherous** = lascivo
 * **income** = reddito
+* **Awkward** = goffo
+* **gullible** = credulone, ingenuo
+* **throughout** = durante tutto il tempo

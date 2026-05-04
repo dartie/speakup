@@ -8,7 +8,7 @@ Diamo un'occhiata al vocabolario per la pianificazione finanziaria in inglese.
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/Financial%20Advice%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/Financial%20Advice%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -49,12 +49,12 @@ A ‘**risk profile**’ is an assessment of a person’s willingness to take ri
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **investments** = investimenti
-* **the sooner** = quanto prima
-* **interest rate** = tasso di interesse
+* **I managed** = gestire
 * **income** = guadagno
-* **The usual stuff** = le solite cose
+* **utility bills** = bollette di luce e gas
+* **investments** = investimenti
 * **owe** = dovere
 * **not yet** = non ancora
-* **I managed** = gestire
-* **utility bills** = bollette di luce e gas
+* **The usual stuff** = le solite cose
+* **the sooner** = quanto prima
+* **interest rate** = tasso di interesse

@@ -8,7 +8,7 @@ Il loro matrimonio fu segnato da scandali e critiche, testimonianza di un passat
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/Charles%20&%20Camilla%20A%20Royal%20Love%20Story.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/Charles%20&%20Camilla%20A%20Royal%20Love%20Story.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -52,41 +52,41 @@ Finally, Professor Hazell talked about the significance of monarchy in modern-da
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **It is fair to say** = si può dire
-* **Over the span** = nel corso di
 * **in mourning** = essere in lutto
-* **pushback** = contestazione
-* **passes away** = morire
-* **to forge** = creare
-* **got on with the job** = mettersi al lavoro
-* **guests** = invitati
-* **reliable** = affidabile
 * **warm to her** = affezionarsi
-* **pretty quiet affair** = evento abbastanza discreto
-* **shrinking** = diminuire
-* **caught up** = coinvolti
-* **deep-seated** = radicato
-* **champions** = sostenitori
-* **won round** = convincere
-* **seeking the limelight** = cercare l’attenzione
-* **polls** = sondaggi
-* **upon the death** = dopo la morte
-* **devoid** = privo
-* **fireworks** = fuochi d’artificio
-* **hallmark** = segno distintivo
+* **passes away** = morire
 * **confident** = sicuro
-* **steady** = stabile
-* **faded** = svanire
+* **seeking the limelight** = cercare l’attenzione
+* **to make the headlines** = finire in prima pagina
 * **understated** = modesta
 * **Guildhall** = municipio
-* **deemed** = considerare
-* **overwhelmingly** = in grande maggioranza
-* **intertwined** = intrecciata
+* **Over the span** = nel corso di
+* **shrinking** = diminuire
+* **be entirely up to** = dipendere da
+* **won round** = convincere
+* **steady** = stabile
+* **gap** = intervallo
+* **hallmark** = segno distintivo
 * **Tellingly** = significativamente
+* **Town Hall** = sala comunale
+* **pretty quiet affair** = evento abbastanza discreto
+* **deemed** = considerare
+* **faded** = svanire
+* **intertwined** = intrecciata
+* **reliable** = affidabile
+* **fireworks** = fuochi d’artificio
+* **deep-seated** = radicato
+* **guests** = invitati
+* **upon the death** = dopo la morte
 * **trace** = rintracciare
 * **fuss** = clamore
-* **Town Hall** = sala comunale
-* **be entirely up to** = dipendere da
-* **to make the headlines** = finire in prima pagina
+* **It is fair to say** = si può dire
+* **champions** = sostenitori
+* **caught up** = coinvolti
+* **to forge** = creare
+* **got on with the job** = mettersi al lavoro
+* **pushback** = contestazione
+* **polls** = sondaggi
 * **tied the knot** = sposarsi, legarsi
-* **gap** = intervallo
+* **overwhelmingly** = in grande maggioranza
+* **devoid** = privo

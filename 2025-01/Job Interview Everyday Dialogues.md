@@ -8,23 +8,23 @@ Vuoi saperne di più su come affrontare il mondo del lavoro in inglese? Ecco un 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/Job%20Interview%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/Job%20Interview%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 
 
 Karla: Thanks for coming in today, Kevin.  So, you’re interested in the admin  assistant post
-Bob:Yes, that’s right. Thank you for  inviting me.
+Kevin:Yes, that’s right. Thank you for  inviting me.
 Karla: Well, your CV looked interesting. Your experience [certainly](## "certamente") fits the bill.
-Bob:That’s good to hear!
+Kevin: That’s good to hear!
 Karla: We’d like to know a bit about why you are applying for this position.
-Bob:The job is exactly the kind of work I love  doing and I’ve always wanted to work for this company.
+Kevin:The job is exactly the kind of work I love  doing and I’ve always wanted to work for this company.
 Karla: Really? Why is that?
-Bob:  I’ve read great things about how you treat your staff, the opportunities for personal development and [most of all](## "più di tutto, soprattutto") , your reputation for  sustainability.
+Kevin:  I’ve read great things about how you treat your staff, the opportunities for personal development and [most of all](## "più di tutto, soprattutto") , your reputation for  sustainability.
 Karla: Yes, we try hard to be a responsible company. Do you have any questions for us?
-Bob:I’m thinking of doing a Master’s and would like to know if there is any flexibility in [working hours](## "orario di lavoro").
+Kevin :I’m thinking of doing a Master’s and would like to know if there is any flexibility in [working hours](## "orario di lavoro").
 Karla: Sure. It’s not a customer-facing position and as long as you [get the job done](## "finire il lavoro"),  [within](## "all’interno di") reasonable hours,  we could [certainly](## "certamente")  accommodate you there.
-Bob: That’s excellent news!
+Kevin: That’s excellent news!
 Karla: Great. Let me speak to my colleagues and we’ll get back to you [within](## "all’interno di") a few days. Thanks for your time.
 
 ## NOW LET’S REVIEW THE VOCABULARY!
@@ -50,20 +50,20 @@ To get back to someone means you will contact them soon with an answer.
 
 # Glossary
 * **working hours** = orario di lavoro
+* **within** = all’interno di
+* **self-improvement** = automiglioramento
+* **customers** = clienti
+* **most of all** = più di tutto, soprattutto
 * **suitable** = adatto, idoneo, adeguato
+* **purpose** = scopo
+* **behaviours** = comportamenti
+* **deals** = trattare
+* **salespeople** = venditori
 * **shortened** = ridurre
 * **short for** = diminutivo
-* **purpose** = scopo
-* **deals** = trattare
-* **broad topic** = tema ampio
-* **customers** = clienti
+* **relates to** = mettere in relazione
 * **helpdesk** = servizio assistenza clienti
 * **certainly** = certamente
-* **most of all** = più di tutto, soprattutto
 * **get the job done** = finire il lavoro
-* **self-improvement** = automiglioramento
+* **broad topic** = tema ampio
 * **wishes** = desideri
-* **within** = all’interno di
-* **relates to** = mettere in relazione
-* **behaviours** = comportamenti
-* **salespeople** = venditori

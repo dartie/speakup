@@ -8,7 +8,7 @@ Nella Gran Bretagna del XVIII secolo, quando la vita delle donne era quasi inter
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/Mary%20Wollstonecraft%20Britain%E2%80%99s%20First%20Feminist.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/Mary%20Wollstonecraft%20Britain%E2%80%99s%20First%20Feminist.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -63,28 +63,28 @@ In her final, unfinished book, The Wrongs of Woman; or Maria, a sequel to The Ri
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **banners** = striscioni
-* **groundbreaking** = rivoluzionario
-* **made a powerful case** = sostenere una causa, presentare argomentazioni
-* **trailblazing** = pionieristica
-* **advocate** = sostenitrice
-* **gap** = vuoto
-* **ROAMING ROUND** = girare in tondo
-* **overnight** = da un giorno all’altro
-* **SCEPTRE** = scettro
+* **earn her living** = guadagnarsi da vivere
 * **denying** = negare
-* **statesman** = uomo di stato, politico
-* **Raising** = crescere
 * **run** = gestire, dirigere, amministrare
-* **Poorly schooled** = poco istruita
-* **governess** = istitutrice
-* **GILT CAGE** = gabbia dorata
-* **improvement** = miglioramento
-* **unflinching** = risoluta, intrepida
-* **genus** = genere, specie
 * **lived out** = mettere in pratica
 * **Enlightenment** = Illuminismo
-* **laying the foundation** = gettare le basi
+* **advocate** = sostenitrice
 * **barred** = impedire, vietare
+* **SCEPTRE** = scettro
+* **genus** = genere, specie
+* **overnight** = da un giorno all’altro
+* **unflinching** = risoluta, intrepida
+* **Raising** = crescere
+* **Poorly schooled** = poco istruita
+* **banners** = striscioni
+* **groundbreaking** = rivoluzionario
+* **laying the foundation** = gettare le basi
+* **gap** = vuoto
+* **governess** = istitutrice
+* **ROAMING ROUND** = girare in tondo
+* **GILT CAGE** = gabbia dorata
+* **improvement** = miglioramento
+* **statesman** = uomo di stato, politico
+* **made a powerful case** = sostenere una causa, presentare argomentazioni
+* **trailblazing** = pionieristica
 * **disinherited** = diseredare
-* **earn her living** = guadagnarsi da vivere

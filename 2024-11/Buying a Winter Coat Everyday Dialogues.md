@@ -8,7 +8,7 @@ Sei di fronte a una decisione difficile: scegliere tra due cappotti, uno pratico
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Buying%20a%20Winter%20Coat%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Buying%20a%20Winter%20Coat%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -50,14 +50,14 @@ Till is the British word for ‘cash register’.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **wind-and waterproof** = antivento e impermeabile
+* **garment** = indumento, capo
+* **puffed up** = gonfio
+* **long-lasting** = duraturo
 * **gentle** = leggera
 * **rainfall** = precipitazione
 * **hiking** = escursionismo
-* **tied** = legare
-* **garment** = indumento, capo
-* **long-lasting** = duraturo
-* **puffed up** = gonfio
 * **trend** = tendenza
-* **wind-and waterproof** = antivento e impermeabile
 * **i.e.** = cioè, ovvero, ossia (id est)
 * **layer** = strato
+* **tied** = legare

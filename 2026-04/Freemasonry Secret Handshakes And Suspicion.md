@@ -8,7 +8,7 @@ Con la sua aura di mistero, i suoi simboli e i suoi rituali, la massoneria conti
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/Freemasonry%20Secret%20Handshakes%20And%20Suspicion.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/Freemasonry%20Secret%20Handshakes%20And%20Suspicion.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -44,51 +44,51 @@ If you want to know more about this topic, read the article [Freemasonry](## "m
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **spooked** = spaventare, mettere ansia
-* **rough stone** = pietra grezza
 * **bind** = legare, unire
-* **high-minded** = nobili
-* **handshakes** = strette di mano
-* **Craft** = arte, mestiere
-* **in the aftermath of** = periodo successivo a
-* **lizard people** = rettiliani
-* **Elders** = savi
 * **den** = tana, covo
-* **Enlightenment** = Illuminismo
-* **oddness** = stranezza
-* **fellowship** = fratellanza
-* **Freemasonry** = massoneria
-* **ruling elites** = élite al potere
-* **get annoyed** = irritarsi
-* **branch** = branca
-* **pinched** = rubacchiare
-* **tons** = un sacco
-* **boost** = impulso
 * **secure** = assicurarsi
-* **you name it** = e chi più ne ha più ne metta
-* **loathed** = detestare
+* **ruling elites** = élite al potere
+* **Craft** = arte, mestiere
+* **fake** = falso
+* **creepy** = inquietante
+* **spooked** = spaventare, mettere ansia
+* **Enlightenment** = Illuminismo
+* **get annoyed** = irritarsi
+* **Gosh** = caspita
 * **strains** = varianti
 * **thrive** = prosperare
-* **comradeship** = cameratismo
-* **by any means** = per niente
-* **it’s well worth** = valere la pena
-* **halls** = sale, saloni
-* **charcoal burners** = carbonai
-* **misers** = avari, tirchi
-* **lodges** = logge
-* **aging** = invecchiata, obsoleta
-* **branch out** = diramarsi
-* **core** = centro, nucleo
-* **gloomy** = cupi, tetri
-* **heretics** = eretici
-* **up to no good** = tramare qualcosa di losco
-* **abhorred** = detestare
-* **fake** = falso
 * **and so on and so forth** = e così via
-* **creepy** = inquietante
-* **Gosh** = caspita
-* **devil-worshippers** = adoratori del diavolo
 * **oaths** = giuramenti
+* **oddness** = stranezza
+* **charcoal burners** = carbonai
+* **Elders** = savi
+* **fellowship** = fratellanza
+* **halls** = sale, saloni
 * **at the root** = alla base
+* **loathed** = detestare
+* **comradeship** = cameratismo
+* **Freemasonry** = massoneria
+* **gloomy** = cupi, tetri
+* **branch** = branca
+* **lizard people** = rettiliani
+* **boost** = impulso
+* **aging** = invecchiata, obsoleta
+* **it’s well worth** = valere la pena
+* **devil-worshippers** = adoratori del diavolo
 * **is bound to** = essere destinato a
+* **heretics** = eretici
+* **pinched** = rubacchiare
+* **abhorred** = detestare
+* **high-minded** = nobili
+* **up to no good** = tramare qualcosa di losco
+* **tons** = un sacco
+* **in the aftermath of** = periodo successivo a
+* **you name it** = e chi più ne ha più ne metta
+* **lodges** = logge
+* **by any means** = per niente
+* **branch out** = diramarsi
+* **handshakes** = strette di mano
 * **Church of Jesus Christ of the Latter-day Saints** = Chiesa di Gesù Cristo dei Santi degli Ultimi Giorni
+* **misers** = avari, tirchi
+* **core** = centro, nucleo
+* **rough stone** = pietra grezza

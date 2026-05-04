@@ -8,7 +8,7 @@ Ideati per garantire la protezione dei piloti militari, gli occhiali da sole Ray
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/The%20Ray-Ban%20Sunglasses%20Stylish%20Eyewear.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/The%20Ray-Ban%20Sunglasses%20Stylish%20Eyewear.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,28 +35,28 @@ In 1999, Bausch & Lomb sold Ray-Ban to Italy’s Luxottica Group, which launched
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **driftwood** = legname
-* **walrus ivory** = avorio di tricheco
-* **glare** = luccichio
-* **two years on** = due anni dopo
 * **goggles** = occhiali protettivi
-* **shades** = occhiali da sole
-* **slits** = fessure
-* **frames** = montature
-* **Wayfarer** = viandante
-* **wraparound** = avvolgente
-* **conceal** = nascondere
-* **Bans** = proibire, vietare
-* **gemstone** = gemma, pietra preziosa
-* **smoky quartz** = quarzo affumicato
+* **driftwood** = legname
 * **trusted supplier** = fornitore di fiducia
-* **dazzle** = bagliore
-* **drew on** = ispirarsi
-* **cool cat** = figo
-* **snow blindness** = cecità dovuta alla neve
-* **teardrops** = lacrime
-* **harmful** = dannosi
 * **endorsement** = sponsorizzazione
-* **rivets** = rivetti
 * **high-flyer** = persona in gamba
+* **Bans** = proibire, vietare
+* **snow blindness** = cecità dovuta alla neve
+* **slits** = fessure
+* **gemstone** = gemma, pietra preziosa
+* **glare** = luccichio
+* **frames** = montature
+* **teardrops** = lacrime
+* **rivets** = rivetti
+* **shades** = occhiali da sole
+* **walrus ivory** = avorio di tricheco
+* **dazzle** = bagliore
 * **misting up** = appannarsi
+* **Wayfarer** = viandante
+* **drew on** = ispirarsi
+* **two years on** = due anni dopo
+* **conceal** = nascondere
+* **smoky quartz** = quarzo affumicato
+* **harmful** = dannosi
+* **wraparound** = avvolgente
+* **cool cat** = figo

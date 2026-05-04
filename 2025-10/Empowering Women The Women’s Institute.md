@@ -8,7 +8,7 @@ Fondata nel 1915 con lo scopo di gestire le provviste di cibo durante la Prima g
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/Empowering%20Women%20The%20Women%E2%80%99s%20Institute.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/Empowering%20Women%20The%20Women%E2%80%99s%20Institute.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -36,18 +36,18 @@ www.thewi.org.uk
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **anthem** = inno
-* **flower arranging** = composizioni floreali
-* **aimed** = mirare, avere lo scopo di
-* **litter-free** = pulita, senza rifiuti
-* **midwifery** = ostetricia
-* **shortages** = mancanza, scarsità
+* **enabling** = dare i mezzi per permettere a qualcuno di fare qualcosa
 * **campaigned** = lottare, fare campagne
 * **pickling** = mettere sottaceto, in conserva
-* **enabling** = dare i mezzi per permettere a qualcuno di fare qualcosa
-* **jam** = marmellata, confettura
-* **boost morale** = sollevare il morale
-* **secure** = assicurare, ottenere
-* **supplies** = provviste, rifornimenti
 * **late** = defunta, scomparsa
+* **litter-free** = pulita, senza rifiuti
 * **issues** = temi
+* **secure** = assicurare, ottenere
+* **jam** = marmellata, confettura
+* **aimed** = mirare, avere lo scopo di
+* **boost morale** = sollevare il morale
+* **anthem** = inno
+* **shortages** = mancanza, scarsità
+* **supplies** = provviste, rifornimenti
+* **flower arranging** = composizioni floreali
+* **midwifery** = ostetricia

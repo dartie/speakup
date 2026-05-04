@@ -8,7 +8,7 @@ Realizzatore di alcuni dei documentari naturalistici più iconici della storia d
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/Sir%20David%20Attenborough%20Champion%20of%20the%20Earth.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/Sir%20David%20Attenborough%20Champion%20of%20the%20Earth.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -39,15 +39,15 @@ More than forty animal and plant species have now been named after the naturalis
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **moving** = commovente
-* **warning** = segnalare
-* **trainee** = apprendista
-* **Quest** = ricerca
-* **stepped in** = intervenire, farsi avanti
-* **greenlighted** = dare il via libera
-* **groundbreaking** = rivoluzionaria
-* **broadcaster** = presentatore
-* **insights** = punti di vista
-* **bleak** = cupo, tetro
 * **satyr** = satiro
 * **beetle** = scarabeo
+* **Quest** = ricerca
+* **stepped in** = intervenire, farsi avanti
+* **moving** = commovente
+* **bleak** = cupo, tetro
+* **broadcaster** = presentatore
+* **warning** = segnalare
+* **trainee** = apprendista
+* **greenlighted** = dare il via libera
+* **groundbreaking** = rivoluzionaria
+* **insights** = punti di vista

@@ -8,7 +8,7 @@ Quando fu pubblicato, il romanzo di Emily Brontë scandalizzò pubblico e critic
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Emily%20Bront%C3%AB%E2%80%99s%20Wuthering%20Heights.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Emily%20Bront%C3%AB%E2%80%99s%20Wuthering%20Heights.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -41,24 +41,24 @@ If you want to know more about this topic, read the articles Emerald Fennell: T
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **moorland** = brughiera
-* **siblings** = sorelle e fratelli
+* **costumes** = costumi
 * **gets engaged** = fidanzarsi
 * **unleashes** = scatenare
-* **rude** = maleducato, sgarbato
-* **blatantly** = sfacciatamente
-* **praised** = lodare
-* **disgusted** = disgustare
-* **childbirth** = parto
-* **haunted** = tormentato, perseguitato
 * **spans** = abbracciare
 * **housekeeper** = governante
-* **footage** = filmato, riprese
 * **appalled** = inorriditi
-* **sickened** = nauseare
-* **earthy** = rustica, semplice
-* **costumes** = costumi
+* **disgusted** = disgustare
+* **haunted** = tormentato, perseguitato
 * **shelter** = rifugio
+* **blatantly** = sfacciatamente
+* **period drama** = dramma in costume
+* **moorland** = brughiera
+* **rude** = maleducato, sgarbato
 * **shifts** = cambiare
 * **framed** = rappresentare
-* **period drama** = dramma in costume
+* **footage** = filmato, riprese
+* **praised** = lodare
+* **sickened** = nauseare
+* **siblings** = sorelle e fratelli
+* **childbirth** = parto
+* **earthy** = rustica, semplice

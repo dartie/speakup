@@ -8,7 +8,7 @@ Una tragedia ha colpito la comunità di Lacey Park la notte di Halloween, quando
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Mother%20Knows%20Best%20A%20Short%20Story.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Mother%20Knows%20Best%20A%20Short%20Story.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -63,24 +63,24 @@ Mother doesn’t always know best.  
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **sighed** = sospirare
-* **whenever** = in ogni momento
-* **gasped** = sussultare
-* **bully** = prepotente, bullo
-* **search warrant** = mandato di perquisizione
-* **Regardless** = indipendentemente
-* **control freak** = maniaca del controllo
-* **messing about** = trafficare
-* **stabbed to death** = pugnalare a morte
 * **had sneaked out** = uscire di nascosto
+* **Regardless** = indipendentemente
+* **argument** = discussione
+* **gasped** = sussultare
+* **messing about** = trafficare
+* **bully** = prepotente, bullo
+* **buried** = seppellire
+* **duh** = ma davvero?, ma non mi dire
+* **whenever** = in ogni momento
+* **bloodstained** = macchiato di sangue
 * **to dispose** = disfarsene
 * **thumb a lift** = fare auto stop
+* **sighed** = sospirare
+* **control freak** = maniaca del controllo
 * **slamming the door** = sbattere la porta
+* **search warrant** = mandato di perquisizione
 * **bonfire** = falò
-* **buried** = seppellire
-* **argument** = discussione
-* **deserve** = prepotente
-* **bloodstained** = macchiato di sangue
 * **feigned** = fingere
 * **costume** = maschera
-* **duh** = ma davvero?, ma non mi dire
+* **stabbed to death** = pugnalare a morte
+* **deserve** = prepotente

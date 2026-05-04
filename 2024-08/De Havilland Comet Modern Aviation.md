@@ -8,7 +8,7 @@ Il primo aereo commerciale a reazione del mondo, che ha segnato l’industria ae
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/De%20Havilland%20Comet%20Modern%20Aviation.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/De%20Havilland%20Comet%20Modern%20Aviation.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -31,28 +31,28 @@ The Comet’s engineers returned to the [drawing board](## "tavolo di progettazi
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **Nicknamed** = soprannominare
-* **jet-propelled** = a reazione
-* **to tear** = strappare
-* **undercarriages** = telaio
-* **foothold** = posizione
-* **airstrip** = pista d’atterraggio
-* **flaws** = difetti
-* **skin** = rivestimento
-* **to fix** = risolvere
-* **stretched** = stirare
-* **drawing board** = tavolo di progettazione
-* **filled the gap** = colmare il vuoto
-* **enduring** = duratura
-* **took off** = decollare
-* **maiden flight** = primo volo
-* **its days were numbered** = aveva i giorni contat
 * **due to** = a causa di
-* **features** = caratteristiche
-* **cruising height** = altezza di crociera
-* **a smoother ride** = un volo più tranquillo
-* **was grounded** = lasciare a terra
+* **flaws** = difetti
 * **jet airliner** = aereo di linea con motore a reazione
 * **drawing up** = disegnare
 * **tried-and-tested** = collaudato
+* **a smoother ride** = un volo più tranquillo
+* **its days were numbered** = aveva i giorni contat
+* **filled the gap** = colmare il vuoto
+* **Nicknamed** = soprannominare
+* **cruising height** = altezza di crociera
+* **to fix** = risolvere
+* **undercarriages** = telaio
+* **features** = caratteristiche
+* **airstrip** = pista d’atterraggio
+* **maiden flight** = primo volo
+* **jet-propelled** = a reazione
+* **stretched** = stirare
+* **to tear** = strappare
+* **was grounded** = lasciare a terra
+* **took off** = decollare
 * **pinnacle** = apice
+* **skin** = rivestimento
+* **drawing board** = tavolo di progettazione
+* **foothold** = posizione
+* **enduring** = duratura

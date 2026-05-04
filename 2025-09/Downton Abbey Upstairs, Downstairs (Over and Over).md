@@ -8,7 +8,7 @@ La serie presenta uno spaccato piuttosto veritiero della divisione in classi soc
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/Downton%20Abbey%20Upstairs,%20Downstairs%20%28Over%20and%20Over%29.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/Downton%20Abbey%20Upstairs,%20Downstairs%20%28Over%20and%20Over%29.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -28,16 +28,16 @@ If you want to know more about this topic, read the article Downton Abbey: The 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **rooted** = radicata
+* **a far cry** = ben lontana
 * **underscoring** = sottolineare
 * **duty** = obbligo, dovere
 * **uphold** = mantenere
-* **poll** = sondaggio
-* **driver** = autista
-* **a far cry** = ben lontana
-* **landed gentry** = nobiltà terriera
 * **accurate** = accurata, precisa
-* **income** = reddito
+* **poll** = sondaggio
 * **struggle** = lottare
+* **driver** = autista
+* **rooted** = radicata
+* **landed gentry** = nobiltà terriera
+* **income** = reddito
 * **despite** = nonostante
 * **rotten** = corrotto, marcio

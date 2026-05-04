@@ -8,7 +8,7 @@ Nei suoi fumetti e romanzi grafici, l’innovativo artista esplora temi come l�
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/Chris%20Ware%20Reinventing%20Comics.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/Chris%20Ware%20Reinventing%20Comics.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -46,32 +46,32 @@ Chris Ware: The [core](## "principale") thing that is important to art is a sen
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **aim** = obiettivo
-* **mood** = umore
-* **core** = principale
-* **for lack of** = in assenza di
-* **to blame** = incolpare
-* **resonant** = rilevante
-* **bitter-sweet** = agrodolce
-* **humble** = umile
-* **one-on-one** = faccia  a faccia
 * **cartoonist** = fumettista
-* **poster children** = simboli
-* **on display** = esposto
-* **seeped in** = infiltrarsi
-* **means** = mezzo
-* **unearned** = immeritato
-* **eroding** = erodere, deteriorarsi
-* **printmaking** = incisione
-* **arose** = sorgere
-* **ashamed** = imbarazzato
-* **principals** = dirigenti scolastici
-* **intricacies** = complessità
-* **childish** = infantile
-* **broken apart** = distruggere
-* **branded itself** = presentarsi come
-* **embarrassed** = mortificato
-* **lap** = grembo
-* **customs** = dogana
 * **layouts** = impaginazioni
+* **lap** = grembo
+* **aim** = obiettivo
+* **broken apart** = distruggere
+* **eroding** = erodere, deteriorarsi
+* **resonant** = rilevante
+* **embarrassed** = mortificato
+* **unearned** = immeritato
+* **for lack of** = in assenza di
+* **bitter-sweet** = agrodolce
+* **intricacies** = complessità
+* **arose** = sorgere
+* **means** = mezzo
+* **printmaking** = incisione
+* **seeped in** = infiltrarsi
 * **you can go past** = superare
+* **to blame** = incolpare
+* **customs** = dogana
+* **core** = principale
+* **ashamed** = imbarazzato
+* **branded itself** = presentarsi come
+* **on display** = esposto
+* **poster children** = simboli
+* **one-on-one** = faccia  a faccia
+* **childish** = infantile
+* **humble** = umile
+* **mood** = umore
+* **principals** = dirigenti scolastici

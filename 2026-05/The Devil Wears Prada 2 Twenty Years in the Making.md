@@ -8,7 +8,7 @@ Dopo ben due decenni d’attesa, il sequel di uno dei film più iconici degli an
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/The%20Devil%20Wears%20Prada%202%20Twenty%20Years%20in%20the%20Making.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/The%20Devil%20Wears%20Prada%202%20Twenty%20Years%20in%20the%20Making.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,20 +40,20 @@ If you want to know more about this topic, read the article The Devil Wears Pra
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **grace** = onorare
+* **quotable** = ricco di frasi memorabili ('to quote' = citare)
+* **memory jog** = aiutino per la memoria
+* **fuelled** = alimentare
 * **resounding** = clamoroso
 * **grossing** = incassare
 * **revolves around** = ruotare attorno a
-* **shake up** = sconvolgere
-* **grace** = onorare
-* **quotable** = ricco di frasi memorabili ('to quote' = citare)
-* **In a nutshell** = in sintesi
 * **editor-in-chief** = caporedattrice
-* **set to be released** = annunciato in uscita
 * **Runway** = passerella
+* **shake up** = sconvolgere
+* **resonate with** = trovare riscontro in
+* **set to be released** = annunciato in uscita
+* **In a nutshell** = in sintesi
 * **advertising revenue** = ricavi pubblicitari
 * **print publications** = pubblicazioni cartacee
 * **relies heavily on** = dipendere in gran misura da
-* **resonate with** = trovare riscontro in
-* **memory jog** = aiutino per la memoria
-* **fuelled** = alimentare
 * **raise eyebrows** = alzare le sopracciglia, destare stupore

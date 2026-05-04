@@ -8,7 +8,7 @@ I suoi iconici scatti, esposti alla National Portrait Gallery di Londra, hanno c
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Fashionable%20World%20Cecil%20Beaton.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Fashionable%20World%20Cecil%20Beaton.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -41,46 +41,46 @@ Cecil Beaton could be [charming](## "affascinante"), [flamboyant](## "stravagant
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **curated** = curare
+* **nanny** = tata
+* **socialite** = personaggio dell’alta società
+* **scented handkerchief** = fazzoletto profumato
+* **cut them out and pin them up** = ritagliarli e appenderli
+* **Malice in Wonderland** = Malizia nel Paese delle Meraviglie
+* **social climber** = arrampicatore sociale
+* **timber merchant** = commerciante di legname
 * **Mesmerised** = ipnotizzare, affascinare
+* **raised eyebrows** = suscitare sospetti
+* **charming** = affascinante
+* **fencer** = schermidore
+* **craved** = desiderare
+* **costumes** = vestiti
+* **got his foot in the door** = farsi strada
+* **pocketing** = intascare, rubare
+* **landscapes backdrops** = sfondi paesaggistici
+* **mingle** = mescolarsi, socializzare
+* **the likes of** = del calibro di
+* **flamboyant** = stravagante, eccentrico
+* **fired** = licenziare
 * **blamed** = incolpare
+* **attuned** = in sintonia
 * **intertwined** = intrecciarsi
+* **insight** = visione, comprensione
+* **crippled** = paralizzare
+* **played a pivotal role** = svolgere un ruolo fondamentale
+* **frames** = cornici
+* **misfit** = emarginato
+* **hardships** = difficoltà
+* **keepsakes** = ricordi, souvenir
 * **boosted** = promuovere, impulsare
+* **bold** = audace
+* **stripped-back** = minimalista, essenziale
+* **cutting** = pungente, sarcastico
+* **guilt** = colpa
+* **risqué** = osé, audace
+* **Blitz** = bombardamento tedesco durante la Seconda guerra mondiale
+* **outbursts** = scoppi, scatti d’ira
+* **curated** = curare
+* **due to** = a causa di
+* **sombre** = cupe
 * **heralded** = annunciare
 * **witty** = arguto
-* **misfit** = emarginato
-* **outbursts** = scoppi, scatti d’ira
-* **guilt** = colpa
-* **fired** = licenziare
-* **socialite** = personaggio dell’alta società
-* **cut them out and pin them up** = ritagliarli e appenderli
-* **played a pivotal role** = svolgere un ruolo fondamentale
-* **craved** = desiderare
-* **got his foot in the door** = farsi strada
-* **due to** = a causa di
-* **frames** = cornici
-* **bold** = audace
-* **mingle** = mescolarsi, socializzare
-* **insight** = visione, comprensione
-* **timber merchant** = commerciante di legname
-* **keepsakes** = ricordi, souvenir
-* **landscapes backdrops** = sfondi paesaggistici
-* **the likes of** = del calibro di
-* **fencer** = schermidore
-* **pocketing** = intascare, rubare
-* **social climber** = arrampicatore sociale
-* **scented handkerchief** = fazzoletto profumato
-* **sombre** = cupe
-* **Blitz** = bombardamento tedesco durante la Seconda guerra mondiale
-* **cutting** = pungente, sarcastico
-* **Malice in Wonderland** = Malizia nel Paese delle Meraviglie
-* **flamboyant** = stravagante, eccentrico
-* **raised eyebrows** = suscitare sospetti
-* **attuned** = in sintonia
-* **risqué** = osé, audace
-* **stripped-back** = minimalista, essenziale
-* **charming** = affascinante
-* **crippled** = paralizzare
-* **hardships** = difficoltà
-* **nanny** = tata
-* **costumes** = vestiti

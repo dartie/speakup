@@ -8,7 +8,7 @@ Un’importante retrospettiva rivendica la carriera di questa artista multidisci
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/Yoko%20Ono%20The%20Music%20of%20the%20Mind.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/Yoko%20Ono%20The%20Music%20of%20the%20Mind.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -39,34 +39,34 @@ www.imaginepeace.com
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **one wish at a time** = uno alla volta
-* **ran an ad** = precedentemente venerate
-* **soon-to-be** = futuro
+* **step on** = calpestare
+* **committed** = impegnata, dedicata
+* **dropped** = lasciare cadere, sganciare
+* **tongue-in-cheek** = ironica
 * **In keeping with** = in accordo con
-* **seemingly** = apparentemente
-* **broke up** = separare
-* **scarce** = scarso
-* **staunch** = solida
+* **pivotal** = cruciali
+* **placard** = cartello
 * **show** = mostra
-* **rough** = brusca
 * **Regardless** = indipendentemente
+* **unfailingly** = infallibilmente
+* **former power station** = antica centrale elettrica
+* **whisper** = sussurro
+* **broke up** = separare
 * **once-revered** = precedentemente venerate
-* **goings-on** = vicende
+* **seemingly** = apparentemente
+* **spans** = abbracciare
 * **vast array** = vasta gamma
 * **draws** = attrarre
-* **committed** = impegnata, dedicata
-* **former power station** = antica centrale elettrica
-* **spans** = abbracciare
-* **attended** = andare a, frequentare
-* **pivotal** = cruciali
-* **tongue-in-cheek** = ironica
-* **canvases** = tele, pitture
-* **dropped** = lasciare cadere, sganciare
-* **lined up** = allineata
-* **step on** = calpestare
-* **embedded** = immersa
-* **enacted** = rappresentare
-* **placard** = cartello
 * **(f)art** = scoreggia
-* **unfailingly** = infallibilmente
-* **whisper** = sussurro
+* **one wish at a time** = uno alla volta
+* **staunch** = solida
+* **ran an ad** = precedentemente venerate
+* **lined up** = allineata
+* **enacted** = rappresentare
+* **rough** = brusca
+* **canvases** = tele, pitture
+* **embedded** = immersa
+* **attended** = andare a, frequentare
+* **scarce** = scarso
+* **goings-on** = vicende
+* **soon-to-be** = futuro

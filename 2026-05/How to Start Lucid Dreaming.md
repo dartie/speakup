@@ -8,7 +8,7 @@ Possiamo controllare ciò che accade nei nostri sogni? Per gli esperti la rispos
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/How%20to%20Start%20Lucid%20Dreaming.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/How%20to%20Start%20Lucid%20Dreaming.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -47,34 +47,34 @@ Published in The Guardian on 20 October 2025. Reprinted with permission.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **sinking** = sprofondare
 * **have much say** = avere voce in capitolo
-* **otherwise known as** = anche noto come
-* **traits** = caratteristiche, tratti
-* **tipped off** = avvisare
-* **relied largely on** = dipendere in gran parte da
-* **waking memory** = memoria cosciente
-* **reliably** = in modo affidabile
-* **clue you in** = suggerire, aiutare a capire
 * **become aware** = rendersi conto
-* **slumber** = sonno, dormiveglia
-* **preposterous** = assurde
-* **churn up** = produrre in serie
-* **chasing** = inseguire
-* **rehearse** = esercitarsi
-* **sniffing** = annusare, tirare su col naso
-* **credit score** = affidabilità creditizia
+* **tipped off** = avvisare
 * **braces** = apparecchio per i denti
 * **twitching their eyes** = muovere gli occhi
-* **raccoon** = procione
-* **feats** = prodezze
-* **make out** = baciarsi appassionatamente
+* **reliably** = in modo affidabile
+* **clue you in** = suggerire, aiutare a capire
 * **struggle** = faticare
 * **boil down to** = ridursi a
-* **recall** = capacità di ricordare
-* **engage in** = impegnarsi, cimentarsi
-* **crush** = cotta
-* **light switch** = interruttore della luce
-* **unconstrained** = libero, senza restrizioni
+* **churn up** = produrre in serie
+* **chasing** = inseguire
+* **make out** = baciarsi appassionatamente
+* **otherwise known as** = anche noto come
+* **feats** = prodezze
+* **traits** = caratteristiche, tratti
 * **way more** = molto di più
 * **feasible** = fattibile
+* **unconstrained** = libero, senza restrizioni
+* **light switch** = interruttore della luce
+* **sniffing** = annusare, tirare su col naso
+* **relied largely on** = dipendere in gran parte da
+* **sinking** = sprofondare
+* **raccoon** = procione
+* **rehearse** = esercitarsi
+* **waking memory** = memoria cosciente
+* **engage in** = impegnarsi, cimentarsi
+* **crush** = cotta
+* **recall** = capacità di ricordare
+* **credit score** = affidabilità creditizia
+* **slumber** = sonno, dormiveglia
+* **preposterous** = assurde

@@ -1,4 +1,4 @@
-# Howards End by E. M. Forster   [B2]
+# "Howards End" by E. M. Forster   [B2]
 
 Il rapporto tra tre famiglie di estrazione e valori sociali molto diversi riflette i cambiamenti della società britannica all’inizio del XX secolo. Un dramma dallo stile delicato, costellato di riflessioni esistenziali.
 
@@ -8,7 +8,7 @@ Il rapporto tra tre famiglie di estrazione e valori sociali molto diversi riflet
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/Howards%20End%20by%20E.%20M.%20Forster.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/Howards%20End%20by%20E.%20M.%20Forster.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -52,19 +52,19 @@ Howards End explores the need for human connection and the [fateful](## "fatidic
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **country estate** = tenuta in campagna
+* **fails** = fallire
 * **seeks advice** = chiedere consiglio
 * **forgiveness** = perdono
 * **burgeoning** = nascenti
+* **bequeaths** = lasciare in eredità
+* **fateful** = fatidico
 * **at odds** = in disaccordo
-* **fails** = fallire
-* **ruling classes** = classi dirigenti
+* **to yield** = cedere
+* **country estate** = tenuta in campagna
 * **insurance clerk** = impiegato di un’assicurazione
 * **aware** = consapevole
-* **tricks** = ingannare
-* **to yield** = cedere
 * **warns** = avvertire
 * **wracked by guilt** = tormentata dalla colpa
 * **brings shame** = disonorare
-* **fateful** = fatidico
-* **bequeaths** = lasciare in eredità
+* **ruling classes** = classi dirigenti
+* **tricks** = ingannare

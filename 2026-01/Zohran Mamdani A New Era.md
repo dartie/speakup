@@ -8,7 +8,7 @@ Analizziamo i passaggi più significativi del discorso di ringraziamento di Zohr
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/Zohran%20Mamdani%20A%20New%20Era.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/Zohran%20Mamdani%20A%20New%20Era.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -42,40 +42,40 @@ If you want to know more about this topic, read the article Zohran Mamdani: The
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **dared** = osare
-* **against all odds** = contro ogni previsione
-* **grasped** = afferrare
-* **fleeing** = fuggire
-* **rebuke** = rimprovero
-* **bodega** = negozio di alimentari (termine tipico di New York)
-* **craves** = desiderare
-* **unions** = sindacati
-* **most damning of all** = la cosa peggiore
-* **pointed** = pungente
-* **vowed** = giurare
-* **hailed** = acclamare, elogiare
-* **shift** = cambiamento, svolta
-* **eve** = vigilia
-* **tenants** = inquilini
-* **at the forefront** = in prima linea
-* **bruised** = malridotte, contuse
-* **calloused** = callosi
-* **rule** = dominio
-* **stand alongside** = stare accanto a
-* **nod** = riferimento
-* **shaken the foundations** = scuotere le fondamenta
 * **knuckles** = nocche
 * **toppled** = spodestare
-* **usher in** = inaugurare
-* **line cooks** = aiuto cuochi
-* **Tryst** = incontro
-* **tackle** = contrastare
-* **step out** = uscire
-* **tax breaks** = agevolazioni fiscali
-* **scarred** = con cicatrici
-* **gave rise to** = dare origine a
-* **ironclad** = inattaccabili
-* **utterance** = voce, parola
+* **bodega** = negozio di alimentari (termine tipico di New York)
+* **calloused** = callosi
+* **rebuke** = rimprovero
 * **bold** = audace
+* **fleeing** = fuggire
+* **tax breaks** = agevolazioni fiscali
+* **grasped** = afferrare
+* **vowed** = giurare
+* **gave rise to** = dare origine a
+* **most damning of all** = la cosa peggiore
+* **shaken the foundations** = scuotere le fondamenta
+* **shift** = cambiamento, svolta
 * **keep the city running** = mantenere in funzione
+* **dared** = osare
+* **stand alongside** = stare accanto a
+* **unions** = sindacati
 * **handlebars** = manubri
+* **scarred** = con cicatrici
+* **line cooks** = aiuto cuochi
+* **nod** = riferimento
+* **bruised** = malridotte, contuse
+* **usher in** = inaugurare
+* **Tryst** = incontro
+* **eve** = vigilia
+* **step out** = uscire
+* **utterance** = voce, parola
+* **tackle** = contrastare
+* **craves** = desiderare
+* **at the forefront** = in prima linea
+* **hailed** = acclamare, elogiare
+* **against all odds** = contro ogni previsione
+* **rule** = dominio
+* **tenants** = inquilini
+* **pointed** = pungente
+* **ironclad** = inattaccabili

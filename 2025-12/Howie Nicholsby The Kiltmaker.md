@@ -8,7 +8,7 @@ Questo stilista scozzese combina una storia familiare affascinante con uno sguar
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Howie%20Nicholsby%20The%20Kiltmaker.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Howie%20Nicholsby%20The%20Kiltmaker.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -52,62 +52,62 @@ www.21stcenturykilts.com
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **catwalk** = passerella
-* **plumber** = idraulico
-* **breeze** = brezza
-* **influx** = afflusso
-* **hand-sewing** = cucitura a mano
-* **presser** = stiratore
-* **pack parachutes** = preparare paracadute
-* **fair share** = parte equa
-* **risings** = rivolte
-* **detachable** = staccabili, smontabili
 * **meltdown** = crollo emotivo
-* **outfit** = completo
-* **chilled out** = rilassato
-* **craft** = mestiere
-* **uprising** = insurrezione
-* **foundation** = base
-* **Tailor** = sarto
-* **denim** = jeans
-* **supersede** = sostituire
-* **unbifurcated** = non biforcati
-* **appointment** = appuntamento
-* **novelty** = originale, stravagante
 * **fabric** = stoffa
+* **accountability** = responsabilità
+* **embodies** = incarnare
+* **crotch** = cavallo (dei pantaloni)
+* **dares** = osare
+* **claim** = rivendicazione
+* **hand-sewing** = cucitura a mano
+* **detachable** = staccabili, smontabili
+* **woollen fabric** = tessuto di lana
+* **craft** = mestiere
+* **presser** = stiratore
+* **sweaty** = che fa sudare
+* **uprising** = insurrezione
+* **in-between** = nel mezzo
+* **foundation** = base
+* **hard-earned** = guadagnati con fatica
 * **knee-length skirts** = gonne al ginocchio
-* **garments** = capi d’abbigliamento
-* **by trade** = di mestiere, di professione
-* **lifted** = revocare
 * **cutter** = tagliatore
-* **bow tie** = papillon
-* **bias** = pregiudizio
-* **proper** = vero e proprio
 * **banned** = vietare
 * **crush** = schiacciare
-* **in-between** = nel mezzo
-* **been aware** = essere consapevole
-* **high-end** = di lusso
-* **once a fortnight** = una volta ogni quindici giorni
-* **falling out** = litigare
-* **hook** = gancio, elemento di richiamo
+* **lifted** = revocare
+* **bow tie** = papillon
+* **proper** = vero e proprio
+* **by trade** = di mestiere, di professione
+* **bias** = pregiudizio
+* **denim** = jeans
 * **to go out or in a fashion** = passare di moda o tornare di moda
-* **woollen fabric** = tessuto di lana
-* **embodies** = incarnare
-* **great-grandfather** = bisnonno
-* **claim** = rivendicazione
-* **sweaty** = che fa sudare
-* **joiner** = falegname
+* **high-end** = di lusso
 * **my point being** = il punto è, ciò che voglio dire è
-* **patterns** = schemi, disegni
-* **hand-stitched** = cucito a mano
-* **wardrobes** = armadi
-* **accountability** = responsabilità
-* **hurtful** = doloroso
-* **thus** = quindi
+* **fair share** = parte equa
+* **risings** = rivolte
 * **core** = principale
-* **dares** = osare
-* **crotch** = cavallo (dei pantaloni)
-* **[haute] couture** = alta moda
+* **plumber** = idraulico
+* **influx** = afflusso
 * **realm** = ambito
-* **hard-earned** = guadagnati con fatica
+* **Tailor** = sarto
+* **wardrobes** = armadi
+* **joiner** = falegname
+* **breeze** = brezza
+* **unbifurcated** = non biforcati
+* **chilled out** = rilassato
+* **pack parachutes** = preparare paracadute
+* **falling out** = litigare
+* **been aware** = essere consapevole
+* **catwalk** = passerella
+* **appointment** = appuntamento
+* **hurtful** = doloroso
+* **garments** = capi d’abbigliamento
+* **hook** = gancio, elemento di richiamo
+* **patterns** = schemi, disegni
+* **great-grandfather** = bisnonno
+* **outfit** = completo
+* **hand-stitched** = cucito a mano
+* **supersede** = sostituire
+* **once a fortnight** = una volta ogni quindici giorni
+* **novelty** = originale, stravagante
+* **thus** = quindi
+* **[haute] couture** = alta moda

@@ -8,7 +8,7 @@ Dai canti più classici ai successi pop: il Natale porta con sé un repertorio d
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Top%205%20Christmas%20Songs.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Top%205%20Christmas%20Songs.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -23,7 +23,7 @@ It has become common practice for successful singers to record Christmas songs o
 
 ## BAND AID
 Understanding the commercial power of the Christmas single, in 1984, Irish singer and activist Bob Geldof gathered together the biggest stars in music to record Do They Know It’s Christmas?, with [proceeds](## "profitti, ricavi") benefitting [famine aid](## "aiuti contro la carestia") in Ethiopia. It is still the UK’s biggest-selling Christmas song. Other perennial favourites include Mariah Carey’s All I Want for Christmas and Last Christmas by Wham!, although a recent UK [poll](## "sondaggio") listed the duet [Fairytale](## "fiaba") of New York by Irish band The Pogues and featuring English singer Kirsty MacColl as the best festive song ever. Lyrically rich and wildly imaginative, this [foul-mouthed](## "sboccata, volgare") Irish ballad describes an immigrant couple’s disillusionment with the [hardships](## "difficoltà") of a life lived far from home. For many listeners it reflected the [harsh](## "dure") realities of Christmastime.
-Possibly the festive season’s most persistent [earworm](## "tormentone"), this song was originally a [[sleigh](## "slitta")ing song](## "canto natalizio"), with the rhythm [mimicking](## "imitare") a trotting horse’s bells — a necessary adornment, as [hooves](## "zoccoli") were inaudible in the snow. It became associated with Christmas decades after it was first performed, and is particularly good if you want to improve English rhythm and intonation, as well as pronunciation: note that ‘[sleigh](## "slitta")’ rhymes with ‘way’. Contrary to common belief, ‘[Jingle](## "tintinnare")’ is an imperative verb here, rather than an adjective!
+Possibly the festive season’s most persistent [earworm](## "tormentone"), this song was originally a [sleigh](## "slitta")ing song, with the rhythm [mimicking](## "imitare") a trotting horse’s bells — a necessary adornment, as [hooves](## "zoccoli") were inaudible in the snow. It became associated with Christmas decades after it was first performed, and is particularly good if you want to improve English rhythm and intonation, as well as pronunciation: note that ‘[sleigh](## "slitta")’ rhymes with ‘way’. Contrary to common belief, ‘[Jingle](## "tintinnare")’ is an imperative verb here, rather than an adjective!
 [Jingle](## "tintinnare") bells, jingle bells
 [Jingle](## "tintinnare") all the way
 Oh what fun it is to ride in a
@@ -58,40 +58,40 @@ Fergal Kavanagh runs the website www.tuneintoenglish.com, the web’s largest f
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **clogged up** = intasare, saturare
-* **truce** = tregua
-* **warning** = avvertimento
-* **sleighing song** = canto natalizio
-* **ceasefire** = cessate il fuoco
-* **advocates** = attivisti
-* **upbeat** = allegra, vivace
-* **spurns** = disdegnare, respingere
-* **famine aid** = aiuti contro la carestia
-* **sleigh** = slitta
-* **bed-in** = protesta a letto
 * **at the height of** = nel pieno di
-* **treetops** = cime degli alberi
-* **glisten** = brillare, luccicare
-* **foul-mouthed** = sboccata, volgare
-* **mimicking** = imitare
-* **hooves** = zoccoli
-* **paean** = inno
-* **chart topper** = in vetta alla classifica
-* **avoid** = evitare
+* **warning** = avvertimento
+* **advent** = avvento
+* **upbeat** = allegra, vivace
 * **harsh** = dure
+* **sleighing song** = canto natalizio
+* **glisten** = brillare, luccicare
+* **spurns** = disdegnare, respingere
+* **mimicking** = imitare
+* **advocates** = attivisti
+* **hardships** = difficoltà
 * **airwaves** = frequenze radio
+* **poll** = sondaggio
+* **Fairytale** = fiaba
+* **Jingle** = tintinnare
+* **paean** = inno
+* **chorus** = ritornello
+* **breakup** = rottura amorosa
+* **truce** = tregua
+* **earworm** = tormentone
+* **chart topper** = in vetta alla classifica
+* **crooner** = cantante melodico
 * **extolling** = esaltare, celebrare
 * **carols** = canti natalizi
-* **hardships** = difficoltà
-* **chorus** = ritornello
-* **proceeds** = profitti, ricavi
-* **poll** = sondaggio
-* **breakup** = rottura amorosa
-* **release** = lancio, uscita
+* **ceasefire** = cessate il fuoco
+* **famine aid** = aiuti contro la carestia
+* **treetops** = cime degli alberi
 * **threat** = minaccia
-* **Fairytale** = fiaba
-* **earworm** = tormentone
-* **Jingle** = tintinnare
-* **advent** = avvento
-* **crooner** = cantante melodico
+* **proceeds** = profitti, ricavi
+* **bed-in** = protesta a letto
+* **avoid** = evitare
 * **figures** = cifre
+* **release** = lancio, uscita
+* **foul-mouthed** = sboccata, volgare
+* **clogged up** = intasare, saturare
+* **hooves** = zoccoli
+* **sleigh** = slitta

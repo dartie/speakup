@@ -8,7 +8,7 @@ Le peculiarità linguistiche e alcune caratteristiche culturali devono essere te
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/How%20to%20Survive%20a%20Trip%20to%20the%20US%20The%20Definitive%20Guide%20for%20First-time%20Visitors%20to%20the%20United%20States.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/How%20to%20Survive%20a%20Trip%20to%20the%20US%20The%20Definitive%20Guide%20for%20First-time%20Visitors%20to%20the%20United%20States.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,46 +33,46 @@ There is so much more to discover in the US, of course, but these survival [tip]
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **on second thoughts** = ripensandoci
+* **mugs** = tazze
+* **soil** = suolo
+* **leisure time** = tempo libero
+* **relentlessly awful** = implacabilmente terribile
+* **sidewalks** = marciapiedi
 * **just in case** = per ogni eventualità
 * **begging** = implorare
-* **tip** = mancia
 * **on a budget** = con disponibilità economica ridotta
-* **smart attire** = abbigliamento elegante
-* **jumped straight out of bed** = saltare direttamente giù dal letto
-* **rudeness** = maleducazione
-* **countless** = innumerevoli
-* **handguns** = pistole
-* **medical insurance** = assicurazione medica
-* **setting foot** = mettere piede
-* **lack** = mancanza
-* **caught fire** = prendere fuoco
-* **mindset** = mentalità
-* **what you do for a living** = che cosa fai per guadagnarti da vivere
-* **achievers** = persona di successo
-* **leisure time** = tempo libero
+* **savouring** = assaporare
 * **understatement** = eufemismo, attenuazione
 * **Yay!** = evviva!
-* **bill** = conto
-* **soil** = suolo
-* **sipping** = sorseggiare
-* **mugs** = tazze
-* **sidewalks** = marciapiedi
-* **ingrained in** = inculcare in
-* **inconsiderate** = sconsiderata
-* **relentlessly awful** = implacabilmente terribile
-* **cousins** = cugini
-* **savouring** = assaporare
-* **mouth-watering** = che fa venire l’acquolina in bocca
-* **raised** = crescere
+* **tip** = mancia
 * **income** = reddito
-* **empty** = svuotare
-* **casually** = in modo informale
-* **easy-going** = alla mano, rilassati
-* **bear in mind** = tieni presente
-* **paperwork** = documentazione
-* **you name it** = tutto ciò che vuoi
-* **stuffing** = ingozzarsi di
+* **handguns** = pistole
 * **to stand out** = farsi notare
+* **smart attire** = abbigliamento elegante
+* **bear in mind** = tieni presente
+* **on second thoughts** = ripensandoci
+* **casually** = in modo informale
 * **a good old** = i soliti di sempre
+* **rudeness** = maleducazione
+* **sipping** = sorseggiare
+* **lack** = mancanza
+* **paperwork** = documentazione
+* **bill** = conto
+* **empty** = svuotare
+* **mindset** = mentalità
+* **inconsiderate** = sconsiderata
+* **medical insurance** = assicurazione medica
+* **countless** = innumerevoli
+* **mouth-watering** = che fa venire l’acquolina in bocca
+* **stuffing** = ingozzarsi di
+* **ingrained in** = inculcare in
+* **caught fire** = prendere fuoco
+* **what you do for a living** = che cosa fai per guadagnarti da vivere
+* **raised** = crescere
+* **easy-going** = alla mano, rilassati
+* **cousins** = cugini
+* **achievers** = persona di successo
 * **weather forecast** = previsioni meteorologiche
+* **you name it** = tutto ciò che vuoi
+* **setting foot** = mettere piede
+* **jumped straight out of bed** = saltare direttamente giù dal letto

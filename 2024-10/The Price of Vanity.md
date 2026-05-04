@@ -8,7 +8,7 @@ In un regno in cui bellezza e potere regnano sovrani, l'incessante ricerca della
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/The%20Price%20of%20Vanity.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/The%20Price%20of%20Vanity.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -55,24 +55,24 @@ In time, the sculpture went on display in public and people came from all over t
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **lips** = labbra
-* **chiseling** = lavorare con lo scalpello
-* **deep bow** = profondo inchino
 * **It pains** = causare dolore
+* **We beg** = implorare
 * **plaster** = gesso
 * **stood still** = rimanere immobile
-* **starve to death** = morire di fame
-* **restored** = ristabilire
-* **features** = lineamenti
-* **to cast** = fare un calco
-* **hardened** = indurirsi
-* **in disgust** = disgustata
 * **betray** = tradire
 * **tear** = strapparsi
-* **We beg** = implorare
-* **relay** = riferire
-* **displayed** = esporre
-* **held her breath** = trattenere il respiro
+* **restored** = ristabilire
 * **retorted** = rispondere a tono
+* **hardened** = indurirsi
+* **lips** = labbra
+* **starve to death** = morire di fame
+* **to cast** = fare un calco
+* **displayed** = esporre
+* **in disgust** = disgustata
 * **reckoned** = pensare
+* **chiseling** = lavorare con lo scalpello
+* **deep bow** = profondo inchino
+* **relay** = riferire
+* **held her breath** = trattenere il respiro
 * **touched** = commossa
+* **features** = lineamenti

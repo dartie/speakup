@@ -8,7 +8,7 @@ Percorrere la Gran Bretagna da nord a sud (o viceversa) è possibile. Ecco un su
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/John%20o%E2%80%99Groats%20to%20Land%E2%80%99s%20End%20Britain%20End%20to%20End.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/John%20o%E2%80%99Groats%20to%20Land%E2%80%99s%20End%20Britain%20End%20to%20End.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,31 +38,31 @@ The Scottish village of John o' Groats is named after a [Dutchman](## "olandese"
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **harbour** = porto
 * **tip** = estremità, punta
 * **facing towards** = orientato verso, di fronte a
+* **seals** = foche
 * **cliffs** = scogliere
 * **look over** = affacciarsi su
-* **off-road** = fuori strada
-* **trail** = sentiero, percorso
-* **cottages** = casette di campagna
-* **coves** = calette, insenature
-* **seals** = foche
-* **dramatic** = spettacolari
-* **Further south** = più a sud
-* **gentler** = più dolci, meno ripide
-* **Dutchman** = olandese
-* **mainland** = terraferma
-* **puffins** = pulcinelle di mare
-* **milder** = più mite, più temperato
 * **English Channel** = Canale della Manica
-* **as the crow flies** = in linea d’aria
-* **range** = varietà, gamma
-* **misty** = nebbiose
-* **hikers** = escursionisti
+* **trail** = sentiero, percorso
 * **meadows** = prati
+* **puffins** = pulcinelle di mare
+* **range** = varietà, gamma
+* **cottages** = casette di campagna
+* **mainland** = terraferma
 * **stunning** = mozzafiato
+* **milder** = più mite, più temperato
+* **dramatic** = spettacolari
+* **off-road** = fuori strada
+* **misty** = nebbiose
+* **gentler** = più dolci, meno ripide
+* **hikers** = escursionisti
+* **moorlands** = brughiere
+* **as the crow flies** = in linea d’aria
+* **Further south** = più a sud
 * **rolling hills** = dolci colline
 * **stretch** = tratto
-* **moorlands** = brughiere
+* **coves** = calette, insenature
+* **Dutchman** = olandese
 * **eight-sided house** = casa ottagonale
-* **harbour** = porto

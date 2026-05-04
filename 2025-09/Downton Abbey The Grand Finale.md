@@ -8,7 +8,7 @@ Le intriganti avventure del conte di Grantham e della sua famiglia ci hanno tenu
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/Downton%20Abbey%20The%20Grand%20Finale.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/Downton%20Abbey%20The%20Grand%20Finale.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,7 +33,7 @@ The Grand Finale takes us to the 1930s. The film will feature the return of fami
 Downton Abbey has brought to life some of the most memorable fictional characters: the aristocratic Crawleys and the many and varied staff who serve the family. As the world [eagerly](## "con impazienza") [anticipates](## "aspettare") the final film in the franchise, here is a reminder of where we left the most popular characters at the end of Downton Abbey: A New Era. A warning for those who didn’t see the 2022 film: major spoilers ahead!
 Violet Crawley, the matriarch of the family, dies at the end of Downton Abbey: A New Era. In the penultimate film, she [inherits](## "ereditare") a villa in the South of France. She reveals that she had a summer romance [wit](## "ingegno, acume")h the Marquis de Montmirail on the French Riviera, prior to her marriage to Lord Grantham. She passes away at home, surrounded by her family, leaving the villa to her [great-granddaughter](## "pronipote") Sybil ‘Sybie’ Branson. Immortalised by the [late](## "defunta"), great [Dame](## "Dama dell’Impero Britannico") Maggie Smith, her [acerbic](## "pungente") [wit](## "ingegno, acume") and [strong-willed](## "tenace") personality made her one of the most beloved characters.
 Robert and Cora Crawley, played by Hugh Bonneville and Elizabeth McGovern, have returned from their trip to France. Following speculation about his [parentage](## "parentela") [due to](## "dovuta a") Violet’s Riviera romance, Robert is [relieved](## "sollevato") to confirm that he is the legitimate son of the previous Lord Grantham. With his daughters [settled](## "stabilirsi"), he is taking a step back from the day-to-day [running](## "gestione") of the [estate](## "tenuta"). Cora is helping at the local hospital. She has a [health scare](## "spavento per la salute"), initially fearing she has cancer, but it turns out to be pernicious anaemia, a treatable condition. 
-Lady Mary, played [wit](## "ingegno, acume")h aplomb by Michelle Dockery, has been [host](## "serie, miriade")ing a [film crew](## "troupe cinematografica") while her father and others travel to France. She allowed Downton Abbey to be used as a filming location, intending to use the money for essential repairs. She even becomes involved in the production, [dubbing](## "doppiare") the actress’ voice. Her husband, Henry Talbot, is absent, pursuing his passion for car racing; it is clear there are tensions in the marriage. Mary resists temptation, despite her attraction to the film director. By the end, she takes charge of managing the [estate](## "tenuta") and her family’s legacy.
+Lady Mary, played [wit](## "ingegno, acume")h aplomb by Michelle Dockery, has been [[host](## "serie, miriade")ing](## "accogliere") a [film crew](## "troupe cinematografica") while her father and others travel to France. She allowed Downton Abbey to be used as a filming location, intending to use the money for essential repairs. She even becomes involved in the production, [dubbing](## "doppiare") the actress’ voice. Her husband, Henry Talbot, is absent, pursuing his passion for car racing; it is clear there are tensions in the marriage. Mary resists temptation, despite her attraction to the film director. By the end, she takes charge of managing the [estate](## "tenuta") and her family’s legacy.
 Tom Branson (Allen Leech) is now married to Lucy Smith (Tuppence Middleton), the [maid](## "domestica") — and secret, illegitimate daughter — of Baroness Bagshaw. Tom was formerly the chauffeur and a radical socialist. He has a daughter, Sybie, from his first marriage to Sybil Crawley, who died in childbirth. Despite initial controversy, both Tom and Lucy have now been accepted into the Downton Abbey circle. They have a baby and are happily [settled](## "stabilirsi") at the Brampton [estate](## "tenuta"), which Lucy inherited from her mother.
 Former [footman](## "domestico") Thomas Barrow has become the [butler](## "maggiordomo") of Downton Abbey. He is gay, at a time when homosexuality was [forbidden](## "proibire"). During the series, Thomas flourishes into his true self, accepting his sexuality. A complicated man, he is kind and loyal, even though he starts out rude and manipulative. His personality change [rings true](## "sembrare vero"), thanks to a stellar performance by actor Rob James-Collier. In the last Downton film, he meets film star Guy Dexter, who offers him a job in Hollywood. He accepts, encouraged by Lady Mary and Mrs. Carson, leaving Downton Abbey [wit](## "ingegno, acume")hout a [butler](## "maggiordomo").
 Mr. Carson, a well-loved character played by Jim Carter, was Downton Abbey’s [butler](## "maggiordomo") for many years. He has retired and is now married to head [housekeeper](## "governante") Elsie Hughes (Phyllis Logan). Carson struggles to [keep up](## "stare al passo") [wit](## "ingegno, acume")h the times, but his temperament is [kept in check](## "tenere sotto controllo") by his wife. Below stairs, she is the moral [compass](## "bussola") of the [household](## "casa, famiglia"). When Violet dies and Thomas decides to leave, Lady Mary asks Mr. Carson to [step in](## "subentrare") as [interim](## "provvisorio") [butler](## "maggiordomo") and to [train](## "formare, istruire") [footman](## "domestico") Andy Parker as his replacement.
@@ -43,55 +43,55 @@ Mr. Carson, a well-loved character played by Jim Carter, was Downton Abbey’s [
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **interim** = provvisorio
-* **housekeeper** = governante
-* **Moreover** = inoltre
-* **running** = gestione
 * **hosting** = accogliere
-* **forbidden** = proibire
-* **kept in check** = tenere sotto controllo
-* **dubbing** = doppiare
-* **step in** = subentrare
-* **grossed** = incassare
-* **instalment** = capitolo, episodio
-* **estate** = tenuta
-* **furnishings** = mobili
-* **anticipates** = aspettare
-* **inherits** = ereditare
-* **engrossed** = catturare
-* **sparked** = accendere, innescare
-* **Long live** = viva
-* **great-granddaughter** = pronipote
-* **parentage** = parentela
-* **relieved** = sollevato
-* **eagerly** = con impazienza
-* **Earl** = conte
-* **host** = serie, miriade
-* **wit** = ingegno, acume
-* **strong-willed** = tenace
-* **due to** = dovuta a
-* **compass** = bussola
-* **household** = casa, famiglia
-* **period drama** = dramma in costume
-* **coup d’état** = colpo di Stato
-* **cloche hats** = cloche, cappelli a campana
-* **settled** = stabilirsi
-* **maid** = domestica
-* **keep up** = stare al passo
-* **footman** = domestico
-* **rings true** = sembrare vero
-* **release** = uscita
-* **plot** = trama
-* **poignantly** = dolorosamente
-* **late** = defunta
-* **Dame** = Dama dell’Impero Britannico
 * **film crew** = troupe cinematografica
-* **health scare** = spavento per la salute
+* **keep up** = stare al passo
+* **step in** = subentrare
+* **interim** = provvisorio
 * **box office** = botteghino
-* **flu** = influenza
-* **Beer Hall Putsch** = Putsch (colpo di Stato) della birreria
+* **housekeeper** = governante
+* **late** = defunta
+* **wit** = ingegno, acume
+* **parentage** = parentela
+* **due to** = dovuta a
+* **inherits** = ereditare
+* **great-granddaughter** = pronipote
+* **eagerly** = con impazienza
+* **plot** = trama
+* **estate** = tenuta
+* **Moreover** = inoltre
+* **furnishings** = mobili
+* **Long live** = viva
+* **release** = uscita
+* **host** = serie, miriade
 * **to engage with** = interagire con
 * **crumbling** = fatiscente
-* **acerbic** = pungente
-* **butler** = maggiordomo
+* **Dame** = Dama dell’Impero Britannico
+* **strong-willed** = tenace
+* **maid** = domestica
 * **train** = formare, istruire
+* **period drama** = dramma in costume
+* **acerbic** = pungente
+* **running** = gestione
+* **health scare** = spavento per la salute
+* **footman** = domestico
+* **kept in check** = tenere sotto controllo
+* **household** = casa, famiglia
+* **instalment** = capitolo, episodio
+* **butler** = maggiordomo
+* **anticipates** = aspettare
+* **settled** = stabilirsi
+* **dubbing** = doppiare
+* **grossed** = incassare
+* **engrossed** = catturare
+* **sparked** = accendere, innescare
+* **relieved** = sollevato
+* **forbidden** = proibire
+* **compass** = bussola
+* **Earl** = conte
+* **flu** = influenza
+* **poignantly** = dolorosamente
+* **rings true** = sembrare vero
+* **Beer Hall Putsch** = Putsch (colpo di Stato) della birreria
+* **coup d’état** = colpo di Stato
+* **cloche hats** = cloche, cappelli a campana

@@ -8,7 +8,7 @@ Una sostenitrice dei valori tradizionali maltratta i giovani con il suo bastone,
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/Short%20Story%20Young%20People%20These%20Days.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/Short%20Story%20Young%20People%20These%20Days.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -58,31 +58,31 @@ Nellie is too humiliated to respond, and even more humiliated as the [Gardaí](#
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **troublemaker** = piantagrane
-* **merits** = meritare
-* **barred** = bandire
-* **contender** = concorrente
-* **humble** = umile
-* **complaints** = lamentele
-* **checkout** = cassa
-* **flash mob** = mobilitazione improvvisa
-* **up to no good** = non avere buone intenzioni
-* **Is that so?** = davvero?
-* **aisle** = corridoio
-* **Assault and battery** = aggressione aggravata
-* **harassment** = molestia sessuale
-* **I’m sick of the lot of you** = sono stufa di voi
-* **mass** = messa
-* **is blaring** = risuonare
-* **Gardaí** = corpo di polizia irlandese
-* **bewildered** = sorpreso
-* **theft** = furto
 * **cane** = bastone
+* **flash mob** = mobilitazione improvvisa
+* **committed not only to** = impegnarsi a
+* **is blaring** = risuonare
+* **contender** = concorrente
+* **Is that so?** = davvero?
+* **humble** = umile
+* **theft** = furto
 * **to reprimand** = rimproverare
-* **appreciate** = apprezzare
-* **riot** = rivolta
-* **I know what you’re up to** = so che cosa stai tramando
+* **I’m sick of the lot of you** = sono stufa di voi
+* **up to no good** = non avere buone intenzioni
+* **barred** = bandire
 * **are to blame** = essere i colpevoli
 * **waves** = agitare
+* **riot** = rivolta
+* **mass** = messa
+* **complaints** = lamentele
+* **Assault and battery** = aggressione aggravata
+* **harassment** = molestia sessuale
+* **bewildered** = sorpreso
+* **aisle** = corridoio
+* **checkout** = cassa
+* **appreciate** = apprezzare
+* **troublemaker** = piantagrane
 * **loitering** = gironzolare
-* **committed not only to** = impegnarsi a
+* **Gardaí** = corpo di polizia irlandese
+* **merits** = meritare
+* **I know what you’re up to** = so che cosa stai tramando

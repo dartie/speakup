@@ -8,7 +8,7 @@ Ricevere il dono dell'eloquenza in cambio di un bacio: è possibile, al Blarney 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/Blarney%20Castle%20Kissing%20The%20Stone.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/Blarney%20Castle%20Kissing%20The%20Stone.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -17,7 +17,7 @@ Some people come to Blarney Castle to research their family history, hoping to f
 **Paul O’Sullivan (Irish accent):** The great thing with Irish stories and myths, there’s always variations to the story. So I suppose, I tell you the story and then you tell it to the next person, there’s a [slight](## "piccolo") change, and then it goes from there. So the Blarney Stone is seen as an altar stone that was given as a [gift](## "regalo") to the lord of the castle, and he built it into the outer [battlements](## "merlature") at the top. So the only access originally was on the outside. Nowadays, we kiss it on the inside. So the way you kissed it is very different. There’s a lovely story with that, in that the lord at the time he had a [slight](## "piccolo") [speech impediment](## "disturbo del linguaggio") and he was walking near a body of water. Now, some stories say a lake, some say a river; we have both on the estate, so it’s plausible it could be either, and he saw a woman [drowning](## "annegare") in the water. He pulled her to [shore](## "costa") and she was the [witch](## "strega") that lived in the Rock Close, which is our oldest garden. And as a thank-you, the [witch](## "strega") said, “If you kiss the famous stone, [it’ll get rid of](## "sbarazzarsi di") your [speech impediment](## "disturbo del linguaggio").” So that’s where the [gift](## "regalo") of eloquence or the [gift](## "regalo") of [gab](## "eloquenza") comes from. Or as we say nowadays, “If you kiss it, you can [talk yourself out](## "tirarsene fuori parlando") of any situation.”
 
 ## HANGING AROUND
-In order to kiss the stone, visitors have to hang [upside down](## "a testa in giù") with the help of a Blarney Castle assistant. In the excitement, items like hats and glasses have, on occasion, [slipped](## "scivolare") and fallen. Even with metal grab [rail](## "corrimano")s to hold on to, it looks a little dangerous, especially if you have a fear of heights. Fortunately, as O’Sullivan explains, it’s all perfectly safe:
+In order to kiss the stone, visitors have to hang [upside down](## "a testa in giù") with the help of a Blarney Castle assistant. In the excitement, items like hats and glasses have, on occasion, [slipped](## "scivolare") and fallen. Even with [metal grab [rail](## "corrimano")s](## "ringhiera di metallo") to hold on to, it looks a little dangerous, especially if you have a fear of heights. Fortunately, as O’Sullivan explains, it’s all perfectly safe:
 **Paul O’Sullivan:** The hanging [upside down](## "a testa in giù") kind of [stems](## "derivare") from the original way, the old way of doing it. So, as I said earlier, the access was on the outside. So to get there, you had to be held by your [ankles](## "caviglie") [upside down](## "a testa in giù") over the outside of the battlement’s wall. Now, as you can imagine, our [health and safety officer](## "responsabile della salute e della sicurezza sul posto di lavoro") or our [insurance company](## "compagnia assicurativa") would not be happy with that idea. So what they did is they cut a section of the wall on the inside, and the way you do it now is a lot safer. So you [lie down on your back](## "sdraiarsi sulla schiena") now, you’re held by a member of staff, you hold on to two bars behind you, and then you slide down at a [slight](## "piccolo") angle to kiss the stone.
 
 ## KISSING
@@ -34,7 +34,7 @@ Today, Blarney Castle is a [roofless](## "senza tetto") ruin, a relic from anot
 
 ## THE MURDER HOLE
 One of the [features](## "caratteristiche") visitors are most curious about is the [ominously](## "minacciosamente")-named [Murder Hole](## "buca assassina"). It is O’Sullivan’s favourite part of the castle and he explains how it was used to deter [unwelcome](## "indesiderati") visitors.
-**Paul O’Sullivan:** A very simple feature. So basically, if the castle was under attack, they entered into the first little chamber within the castle door, there was a square hole cut into the ceiling and basically soldiers would have [drop](## "precipizio")ped rocks, hot oil, anything they could down on top of people. So I kind of make the joke to people that that would have been the warm welcome to Blarney at the time.
+**Paul O’Sullivan:** A very simple feature. So basically, if the castle was under attack, they entered into the first little chamber within the castle door, there was a square hole cut into the ceiling and basically soldiers would have [[drop](## "precipizio")ped](## "rovesciare") rocks, hot oil, anything they could down on top of people. So I kind of make the joke to people that that would have been the warm welcome to Blarney at the time.
 
 ## TAKE AWAY
 Visitors to Blarney Castle come from all over the world, and everyone has their own unique experience. But what do O’Sullivan and his team hope that their guests will [take away](## "portare via") with them from their visit?
@@ -45,44 +45,44 @@ Visitors to Blarney Castle come from all over the world, and everyone has their 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **shore** = costa
-* **ankles** = caviglie
-* **taken aback** = sorprendere
-* **rail** = corrimano
-* **speech impediment** = disturbo del linguaggio
-* **witch** = strega
-* **talk yourself out** = tirarsene fuori parlando
-* **insurance company** = compagnia assicurativa
+* **metal grab rails** = ringhiera di metallo
+* **stems** = derivare
 * **to partake in** = partecipare a
-* **ruled** = regnare, dominare
-* **fairly** = piuttosto, abbastanza
 * **roofless** = senza tetto
-* **bare** = spoglie
+* **impressions** = interpretazioni
+* **health and safety officer** = responsabile della salute e della sicurezza sul posto di lavoro
+* **shy** = timidi
+* **features** = caratteristiche
+* **slipped** = scivolare
+* **at a slight angle** = con una leggera inclinazione
+* **battlements** = merlature
+* **steep** = ripida
+* **narrow** = stretta
+* **drop** = precipizio
+* **drowning** = annegare
+* **fairly** = piuttosto, abbastanza
 * **dungeons** = sotterranei
 * **unwelcome** = indesiderati
-* **dropped** = rovesciare
-* **to grant** = concedere
-* **narrow** = stretta
-* **drowning** = annegare
-* **metal grab rails** = ringhiera di metallo
-* **at a slight angle** = con una leggera inclinazione
-* **impressions** = interpretazioni
+* **rail** = corrimano
+* **ankles** = caviglie
+* **take away** = portare via
+* **taken aback** = sorprendere
+* **ruled** = regnare, dominare
 * **gift** = regalo
 * **climb** = scalare
-* **it’ll get rid of** = sbarazzarsi di
-* **features** = caratteristiche
-* **ominously** = minacciosamente
-* **take away** = portare via
-* **battlements** = merlature
-* **drop** = precipizio
 * **slight** = piccolo
+* **speech impediment** = disturbo del linguaggio
+* **shore** = costa
+* **witch** = strega
+* **it’ll get rid of** = sbarazzarsi di
 * **gab** = eloquenza
-* **stems** = derivare
-* **health and safety officer** = responsabile della salute e della sicurezza sul posto di lavoro
-* **shrouded** = avvolgere
+* **talk yourself out** = tirarsene fuori parlando
+* **insurance company** = compagnia assicurativa
 * **lie down on your back** = sdraiarsi sulla schiena
-* **shy** = timidi
-* **steep** = ripida
-* **upside down** = a testa in giù
-* **slipped** = scivolare
+* **bare** = spoglie
 * **Murder Hole** = buca assassina
+* **ominously** = minacciosamente
+* **dropped** = rovesciare
+* **to grant** = concedere
+* **shrouded** = avvolgere
+* **upside down** = a testa in giù

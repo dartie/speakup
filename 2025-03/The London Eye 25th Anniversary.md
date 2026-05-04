@@ -8,7 +8,7 @@ Inizialmente concepita come una struttura temporanea, è diventata un elemento e
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20London%20Eye%2025th%20Anniversary.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20London%20Eye%2025th%20Anniversary.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -30,27 +30,27 @@ Now a [fixture](## "punto fermo") on the skyline, the London Eye has become part
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **go-ahead** = via libera
-* **due to** = a causa di
-* **staggering** = impressionante
-* **revenue** = guadagno
-* **borough** = quartiere
-* **fabric** = struttura
-* **dawn of the new millennium** = all’inizio del XX secolo
 * **landmark** = attrazione
+* **Ferris wheel** = ruota panoramica
+* **bank** = sponda
+* **Riding** = salire su
+* **borough** = quartiere
+* **jumping on and off** = salire e scendere
 * **late** = defunto
+* **eye-catching** = appariscente
+* **opposite** = di fronte a
+* **staggering** = impressionante
+* **breathtaking** = mozzafiato
+* **fixture** = punto fermo
+* **Every New Year’s Eve** = notte di Capodanno
+* **dawn of the new millennium** = all’inizio del XX secolo
+* **due to** = a causa di
+* **revenue** = guadagno
+* **egg-shaped** = a forma di uovo
+* **leisurely** = senza fretta
+* **go-ahead** = via libera
 * **cantilevered** = a sbalzo
 * **technical glitch** = problema tecnico
-* **bank** = sponda
-* **opposite** = di fronte a
-* **leisurely** = senza fretta
-* **fixture** = punto fermo
-* **Riding** = salire su
-* **egg-shaped** = a forma di uovo
 * **pods** = navicelle
-* **breathtaking** = mozzafiato
-* **jumping on and off** = salire e scendere
-* **Every New Year’s Eve** = notte di Capodanno
+* **fabric** = struttura
 * **fireworks display** = spettacolo pirotecnico
-* **eye-catching** = appariscente
-* **Ferris wheel** = ruota panoramica

@@ -8,7 +8,7 @@ Ogni anno, migliaia di appassionati di alpinismo scalano le Munro, le montagne p
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/Scotland%27s%20Mountains%20The%20Munros.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/Scotland%27s%20Mountains%20The%20Munros.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -39,17 +39,17 @@ www.themunrosociety.com
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **slopes** = pendici, pendii
-* **wet** = bagnati
+* **set out to** = decidere, avere intenzione di
+* **treks** = escursioni
 * **lasting** = durare
+* **bagging** = l’atto di scalare le cime delle Munro
+* **height gain** = dislivello
+* **slopes** = pendici, pendii
+* **estate** = tenuta
+* **survey** = rilevare, mappare
+* **wet** = bagnati
+* **rucksack** = zaino
+* **summits** = cime
 * **mountain ranges** = catene montuose
 * **endurance** = resistenza
-* **summits** = cime
 * **climber** = scalatore
-* **height gain** = dislivello
-* **estate** = tenuta
-* **set out to** = decidere, avere intenzione di
-* **survey** = rilevare, mappare
-* **treks** = escursioni
-* **rucksack** = zaino
-* **bagging** = l’atto di scalare le cime delle Munro

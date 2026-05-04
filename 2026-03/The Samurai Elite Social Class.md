@@ -8,7 +8,7 @@ Temibili guerrieri, ma anche funzionari e artisti: un’esibizione del British M
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/The%20Samurai%20Elite%20Social%20Class.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/The%20Samurai%20Elite%20Social%20Class.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,20 +40,20 @@ www.britishmuseum.org
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **firefighting coat** = cappotto antincendio
-* **iris leaves** = foglie di iris
-* **wearer** = portatore, indossatore
-* **striking** = sorprendente
-* **a testament to** = testimonianza di
-* **dispels** = sfatare
-* **standard** = ornamento
-* **ushered in** = segnare l’inizio
-* **indebted** = indebitati
 * **fearless** = coraggioso, impavido
+* **dispels** = sfatare
 * **onwards** = in avanti, in poi
 * **suit of armour** = armatura
+* **standard** = ornamento
+* **iris leaves** = foglie di iris
 * **fearsome** = temibile
-* **scarce** = scarsi
+* **ushered in** = segnare l’inizio
 * **springs to mind** = venire in mente
+* **scarce** = scarsi
+* **striking** = sorprendente
+* **firefighting coat** = cappotto antincendio
 * **commissioned** = incaricare
+* **a testament to** = testimonianza di
+* **wearer** = portatore, indossatore
+* **indebted** = indebitati
 * **woodblock prints** = stampe su tavole di legno

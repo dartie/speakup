@@ -8,7 +8,7 @@ Questo accendino dalla fiamma resistente a tutte le stagioni offre una garanzia 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/The%20Zippo%20Lighter%20Eternal%20Flame.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/The%20Zippo%20Lighter%20Eternal%20Flame.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -19,7 +19,7 @@ A small metal box with a [hinged lid](## "coperchio a cerniera"), the Zippo lig
 Early models of cigarette lighters were [unreliable](## "inaffidabili") and difficult to use, even with two hands. George G. Blaisdell was working for the family machinery company in Bradford, Pennsylvania in 1932, when he observed a friend struggle to light a cigarette. Blaisdell applied his engineering skills to design a new lighter, which could be operated with one hand. He named the lighter Zippo, from ‘zipper’ (zip fastener), a name he felt represented the modern era.
 
 ## WIND-PROOF
-Initially made of [brass](## "ottone"), the Zippo lighter consisted of a [[flint](## "pietra") wheel](## "pietra di selce") and a small [flint](## "pietra") to create a [spark](## "scintilla"). Refillable lighter fluid [dampened](## "inumidire") a [wick](## "stoppino") that was ignited and produced a flame. Blaisdell improved the [chimney](## "camino")(the neck of the lighter) by [drilling](## "forare") small holes in it, and designed its lid so that it could be used as a [wind shield](## "paravento"). He founded the Zippo Manufacturing Company during the Great Depression, and the first Zippos appeared in 1933. They cost $1.95 each and came with a lifetime guarantee. The slogan the company used was: “It works or we [fix](## "riparare") it free.”
+Initially made of [brass](## "ottone"), the Zippo lighter consisted of a [flint](## "pietra") wheel and a small [flint](## "pietra") to create a [spark](## "scintilla"). Refillable lighter fluid [dampened](## "inumidire") a [wick](## "stoppino") that was ignited and produced a flame. Blaisdell improved the [chimney](## "camino")(the neck of the lighter) by [drilling](## "forare") small holes in it, and designed its lid so that it could be used as a [wind shield](## "paravento"). He founded the Zippo Manufacturing Company during the Great Depression, and the first Zippos appeared in 1933. They cost $1.95 each and came with a lifetime guarantee. The slogan the company used was: “It works or we [fix](## "riparare") it free.”
 
 ## WARTIME
 In 1941, the US entered World War Two and Zippo focused its [supply](## "provviste") on the US military. It [switched](## "cambiare") the lighter [casing](## "involucro esterno") to a black [crackle steel](## "acciaio sbiadito, screpolato")[finish](## "finitura"), and millions of Zippos were carried across the world into battle. Later, when US forces fought in the Vietnam War, they personalised their lighters with engraved slogans and [stuck-on](## "incollate") icons. Many of these are now collectors’ items.
@@ -32,26 +32,26 @@ Blaisdell died in 1978, but the family-owned Zippo factory continues production 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **wind shield** = paravento
-* **crackle steel** = acciaio sbiadito, screpolato
-* **flick** = dare un colpetto
-* **revered** = adorare
-* **flint wheel** = pietra di selce
-* **flint** = pietra
-* **wick** = stoppino
-* **chimney** = camino
-* **fix** = riparare
-* **switched** = cambiare
 * **hinged lid** = coperchio a cerniera
 * **fallen out of fashion and favour** = passare di moda e perdere popolarità
+* **revered** = adorare
 * **unreliable** = inaffidabili
+* **flint wheel** = pietra di selce
 * **spark** = scintilla
-* **finish** = finitura
-* **cold to the touch** = freddo al tatto
 * **drilling** = forare
-* **supply** = provviste
-* **casing** = involucro esterno
-* **steadily** = costantemente
+* **fix** = riparare
+* **cold to the touch** = freddo al tatto
 * **brass** = ottone
 * **dampened** = inumidire
+* **wick** = stoppino
+* **switched** = cambiare
+* **casing** = involucro esterno
+* **crackle steel** = acciaio sbiadito, screpolato
 * **stuck-on** = incollate
+* **flick** = dare un colpetto
+* **flint** = pietra
+* **chimney** = camino
+* **wind shield** = paravento
+* **supply** = provviste
+* **finish** = finitura
+* **steadily** = costantemente

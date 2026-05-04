@@ -8,7 +8,7 @@ Sessant’anni fa, i Beatles visitarono l’America per la prima volta. In sole 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/The%20Beatles%20in%20America%20A%20Cultural%20Invasion.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/The%20Beatles%20in%20America%20A%20Cultural%20Invasion.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -37,23 +37,23 @@ The Beatles’ first visit to the US changed the country forever in so many ways
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **catchy** = orecchiabili
-* **lyrics** = testi
-* **suits** = completi
-* **joy** = gioia
-* **acts** = artisti
-* **lift it out** = tirare fuori da
+* **tuned in** = sintonizzarsi, collegarsi
 * **wit** = arguzia, ingegno
-* **blew open the doors** = spalancare la porta
-* **shook the Establishment to its core** = scuotere le fondamenta
+* **suits** = completi
+* **freedom deliverers** = portatori di libertà
+* **acts** = artisti
+* **stardom** = celebrità, fama
+* **tunes** = canzoni
+* **cheeky** = sfacciata
+* **joy** = gioia
 * **overcame** = superare
 * **touched down** = arrivare
-* **tuned in** = sintonizzarsi, collegarsi
-* **stardom** = celebrità, fama
-* **cheeky** = sfacciata
-* **laid claim** = affermare
-* **tunes** = canzoni
+* **catchy** = orecchiabili
 * **mohair** = fibra tessile
-* **shaggy** = arruffate
-* **freedom deliverers** = portatori di libertà
+* **shook the Establishment to its core** = scuotere le fondamenta
+* **laid claim** = affermare
 * **grieving** = essere in lutto, soffrire
+* **lift it out** = tirare fuori da
+* **lyrics** = testi
+* **shaggy** = arruffate
+* **blew open the doors** = spalancare la porta

@@ -8,7 +8,7 @@ Una storia che mostra come le relazioni possano soffrire quando la comunicazione
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/A%20Short%20Story%20Mystery%20Man.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/A%20Short%20Story%20Mystery%20Man.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -49,15 +49,15 @@ They had lost each other through [complacency](## "compiacenza") but now they ha
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **took a deep breath** = fare un respiro profondo
-* **complacency** = compiacenza
-* **holding hands** = tenersi per mano
-* **dry-cleaner’s** = lavanderia
-* **nodded** = annuire
-* **held her breath** = trattenere il respiro
 * **soulmate** = anima gemella
 * **dimly lit** = poco illuminato
+* **complacency** = compiacenza
 * **typed** = digitare
-* **suit** = completo
-* **mortgage** = mutuo
+* **held her breath** = trattenere il respiro
 * **guilt** = colpa
+* **took a deep breath** = fare un respiro profondo
+* **holding hands** = tenersi per mano
+* **suit** = completo
+* **dry-cleaner’s** = lavanderia
+* **nodded** = annuire
+* **mortgage** = mutuo

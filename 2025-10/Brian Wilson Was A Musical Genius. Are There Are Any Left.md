@@ -8,7 +8,7 @@ Possiamo affermare che oggi c’è ancora del genio in campo musicale? O veneria
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/Brian%20Wilson%20Was%20A%20Musical%20Genius.%20Are%20There%20Are%20Any%20Left.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/Brian%20Wilson%20Was%20A%20Musical%20Genius.%20Are%20There%20Are%20Any%20Left.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -46,64 +46,64 @@ Published in The Guardian on 14 June 2025. Reprinted with permission. 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **leaps of progress** = salti in avanti, progressi
-* **splinter** = frantumarsi
-* **counterparts** = equivalenti
-* **loveliness** = amorevolezza
-* **helming** = dirigere
-* **overlaps** = sovrapporre
-* **at the forefront** = all’avanguardia
-* **PR** = relazioni pubbliche (public relations)
-* **trailblazing** = pionieristico
-* **On top of that** = inoltre
-* **If Swift’s gargantuan success is anything to go by** = se serve da esempio
-* **joint statement** = dichiarazione congiunta
-* **vaunted standing** = prestigiosa reputazione
-* **masterminded** = orchestrare
-* **demise** = scomparsa
-* **slowed pace** = ritmo più lento
-* **groundbreaking** = rivoluzionarie
-* **single-handedly** = solamente
-* **anointed** = consacrare
-* **fringes** = margini
-* **selling out** = vendersi
-* **catchy** = orecchiabili
+* **rehash** = riproporre
+* **branding** = marca
+* **claim to genius status** = l’affermarsi come genio
+* **fellow greats** = colleghi illustri
 * **mourns** = piangere
-* **reveres** = venerare
+* **accrued** = accumulare
+* **vaunted standing** = prestigiosa reputazione
+* **staunchly** = fermamente
+* **the former** = il primo
+* **groundbreaking** = rivoluzionarie
+* **splinter** = frantumarsi
+* **output** = produzione
+* **in the spotlight** = sotto i riflettori
+* **disgust** = disgusto, ribrezzo
+* **rosters** = elenchi
+* **PR** = relazioni pubbliche (public relations)
+* **masterminded** = orchestrare
 * **onslaught** = ondata
 * **stuffed** = imbottita, piena
-* **minted** = coniare
-* **opus** = capolavoro
-* **goldrush** = corsa all’oro
-* **staunchly** = fermamente
-* **the latter** = questi ultimi
-* **vessel** = veicolo, mezzo
-* **conflating** = mescolare, unire
-* **as-yet-unheard** = non ancora ascoltata
-* **and made it is** = e viene fatta, e viene prodotta
-* **piecing it together** = mettere insieme, assemblare
 * **quest** = ricerca
-* **caught on** = prendere piede
-* **in the spotlight** = sotto i riflettori
-* **rehash** = riproporre
-* **rosters** = elenchi
-* **claim to genius status** = l’affermarsi come genio
-* **command** = dominare
-* **folk fare** = quota folk
-* **jarring** = stridente
+* **honed** = affinare
+* **minted** = coniare
 * **woven into** = intrecciare
-* **fellow greats** = colleghi illustri
-* **the former** = il primo
-* **output** = produzione
+* **opus** = capolavoro
+* **reveres** = venerare
 * **zeitgeist** = spirito del tempo, clima culturale (tedesco)
 * **leisurely** = piacevole
-* **thin on the ground** = scarso, raro
-* **branding** = marca
-* **By all accounts** = a tutti gli effetti
+* **trailblazing** = pionieristico
+* **as-yet-unheard** = non ancora ascoltata
+* **fringes** = margini
+* **helming** = dirigere
+* **folk fare** = quota folk
+* **leaps of progress** = salti in avanti, progressi
+* **and made it is** = e viene fatta, e viene prodotta
+* **demise** = scomparsa
+* **goldrush** = corsa all’oro
+* **selling out** = vendersi
 * **wildfire** = a macchia d’olio
-* **accrued** = accumulare
-* **palatable** = gradevoli, accettabili
+* **thin on the ground** = scarso, raro
+* **piecing it together** = mettere insieme, assemblare
+* **single-handedly** = solamente
+* **conflating** = mescolare, unire
+* **loveliness** = amorevolezza
+* **slowed pace** = ritmo più lento
+* **counterparts** = equivalenti
+* **the latter** = questi ultimi
+* **at the forefront** = all’avanguardia
+* **jarring** = stridente
+* **By all accounts** = a tutti gli effetti
+* **caught on** = prendere piede
+* **On top of that** = inoltre
+* **overlaps** = sovrapporre
 * **wrest** = strappare, sottrarre
-* **honed** = affinare
+* **catchy** = orecchiabili
+* **anointed** = consacrare
 * **acts** = artisti
-* **disgust** = disgusto, ribrezzo
+* **command** = dominare
+* **vessel** = veicolo, mezzo
+* **joint statement** = dichiarazione congiunta
+* **palatable** = gradevoli, accettabili
+* **If Swift’s gargantuan success is anything to go by** = se serve da esempio

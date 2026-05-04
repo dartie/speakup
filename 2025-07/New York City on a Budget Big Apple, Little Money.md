@@ -8,7 +8,7 @@ Scopriamo New York attraverso un itinerario alternativo di esperienze a basso co
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/New%20York%20City%20on%20a%20Budget%20Big%20Apple,%20Little%20Money.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/New%20York%20City%20on%20a%20Budget%20Big%20Apple,%20Little%20Money.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -17,7 +17,7 @@ New York City is one of the most expensive cities in the world, but there are st
 
 ## DAY ONE
 On your first day in New York we recommend visiting High Line Park, which is open from 7am to 10pm in the warm weather months. Now, this is not your average serene green [scene](## "decorato"). The park is built on an old two-kilometre-long elevated [freight line](## "linea ferroviaria per merci") which s[topped](## "guarnire, condire") being used in 1980. Walking along the park you can see a variety of native and international plant life, as well as a [funky](## "alla moda") mix of public art, like the 5.8-meter-tall [pigeon](## "piccione, colombo") sculpture currently on the High Line. There is a lot to see and do at the High Line, such as stargazing8 with telescopes on Tuesday nights at [dusk](## "crepuscolo") as well as all kinds of exercise classes, like tai chi and zumba, as well as free tours of this cool park.
-Next, we’re off to Grand Central Terminal. This Beaux-Arts building is magnificent to look at from the outside and from the inside. Indoors, marvel at the bronze [chandeliers](## "lampadari") and the celestial ceiling painted with constellations. Downstairs, in front of the Oyster Bar restaurant, there’s a [[whisper](## "sussurrare")ing gallery](## "galleria dei sussurri") where if you stand in one corner and [whisper](## "sussurrare") the person on the opposite side can hear what you’re saying! This [odd feature](## "strana caratteristica") is an accidental effect caused by the unusual perfect geometry of the arches of the gallery.
+Next, we’re off to Grand Central Terminal. This Beaux-Arts building is magnificent to look at from the outside and from the inside. Indoors, marvel at the bronze [chandeliers](## "lampadari") and the celestial ceiling painted with constellations. Downstairs, in front of the Oyster Bar restaurant, there’s a [whisper](## "sussurrare")ing gallery where if you stand in one corner and [whisper](## "sussurrare") the person on the opposite side can hear what you’re saying! This [odd feature](## "strana caratteristica") is an accidental effect caused by the unusual perfect geometry of the arches of the gallery.
 In the warmer weather, many of the streets in all five [boroughs](## "distretti") are closed for the Summer Streets festival. Grand Central takes part by closing the elevated [roadway](## "calzada") outside the terminal and allowing people to walk around the building for an [up-close](## "da vicino") look. There’s also a [food court](## "area ristorazione") downstairs with reasonably priced selections like pierogis at Veselka, an [outpost](## "punto") of a popular East Village Ukrainian restaurant.
 From Grand Central, take the train numbered 4, 5 or 6 to the Brooklyn Bridge and walk over this famous [landmark](## "punto di riferimento"). You can do this during the day, but it also offers [stunning](## "mozzafiato, impressionante") views at night. Even though it’s free to cross now, there was  a [toll](## "pedaggio") for [pedestrians](## "pedoni") when the bridge first opened in 1883 and it was the longest suspension bridge in the world. From the bridge you get a great view of the skyline and can take some amazing photos. On the other side of the bridge, walk over to the Brooklyn Heights [Promenade](## "passeggiata") for an even better view of Manhattan. This walkway is [raised](## "elevata") and it faces Manhattan. It’s the perfect place for a stroll, day or night.
 
@@ -43,46 +43,46 @@ At dinnertime, head over to Koreatown, 32nd Street between 5th Avenue and Madiso
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **chandeliers** = lampadari
-* **stunning** = mozzafiato, impressionante
-* **Promenade** = passeggiata
-* **openings** = inaugurazioni
-* **scene** = decorato
-* **outpost** = punto
-* **toll** = pedaggio
-* **baby bottles** = biberon
-* **yummy** = delizioso
-* **Wander** = vagare
-* **odd feature** = strana caratteristica
 * **dusk** = crepuscolo
+* **chandeliers** = lampadari
+* **landmark** = punto di riferimento
+* **spicy coating** = rivestimento piccante
+* **strolled through** = passeggiare per
+* **outpost** = punto
+* **Promenade** = passeggiata
+* **odd feature** = strana caratteristica
+* **up-close** = da vicino
+* **showcases** = rassegna, esposizione
 * **whisper** = sussurrare
 * **boroughs** = distretti
-* **landmark** = punto di riferimento
-* **showcases** = rassegna, esposizione
-* **Pier** = molo
-* **freight line** = linea ferroviaria per merci
-* **raised** = elevata
-* **sun block** = crema solare
-* **pricey** = caro, costoso
-* **spicy coating** = rivestimento piccante
-* **topped** = guarnire, condire
-* **pigeon** = piccione, colombo
-* **lockers** = armadietti
 * **roadway** = calzada
-* **commuters** = pendolari
-* **hammocks** = amache
-* **life vests** = giubbotto di salvataggio
-* **Hence** = per questo motivo
-* **breaking the bank** = prosciugare il conto
-* **budget** = economico
-* **funky** = alla moda
+* **Be advised** = tieni in mente
+* **lockers** = armadietti
+* **Pier** = molo
+* **pigeon** = piccione, colombo
 * **whispering gallery** = galleria dei sussurri
 * **food court** = area ristorazione
+* **baby bottles** = biberon
+* **hammocks** = amache
+* **budget** = economico
 * **pedestrians** = pedoni
 * **grab a beer** = prendere una birra
-* **Be advised** = tieni in mente
-* **strolled through** = passeggiare per
+* **yummy** = delizioso
+* **sun block** = crema solare
 * **ponds** = stagni
-* **treats** = delizie
+* **openings** = inaugurazioni
+* **pricey** = caro, costoso
+* **breaking the bank** = prosciugare il conto
+* **scene** = decorato
+* **toll** = pedaggio
+* **raised** = elevata
+* **commuters** = pendolari
+* **Hence** = per questo motivo
+* **Wander** = vagare
 * **plain** = semplice
-* **up-close** = da vicino
+* **freight line** = linea ferroviaria per merci
+* **funky** = alla moda
+* **stunning** = mozzafiato, impressionante
+* **life vests** = giubbotto di salvataggio
+* **treats** = delizie
+* **topped** = guarnire, condire

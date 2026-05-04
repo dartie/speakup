@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/The%20Sea-Wolf%20by%20Jack%20London.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/The%20Sea-Wolf%20by%20Jack%20London.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -61,25 +61,25 @@ Can Van Weyden and Brewster escape? The author keeps us [guessing](## "indovinar
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **threatens** = minacciare
-* **toughens up** = indurirsi
-* **thrilling** = emozionante
-* **drown** = annegare
-* **cabin boy** = mozzo
-* **seals** = foche
-* **to counter** = contrastare
-* **sinks** = affondare
-* **put safely to shore** = portare a terra
+* **guessing** = indovinare
+* **wills** = volontà
 * **contempt** = disprezzo
-* **commodities** = merci
-* **ominously** = sinistramente
 * **crew** = equipaggio
-* **mutiny** = ammutinamento
 * **subdue** = reprimere
 * **weakens** = indebolirsi
-* **goes gradually blind** = diventare cieco
-* **guessing** = indovinare
-* **drive for survival** = istinto di sopravvivenza
-* **wills** = volontà
+* **seals** = foche
+* **threatens** = minacciare
 * **mate** = ufficiale di bordo
 * **stricken** = colpito, afflitto
+* **thrilling** = emozionante
+* **sinks** = affondare
+* **ominously** = sinistramente
+* **cabin boy** = mozzo
+* **commodities** = merci
+* **toughens up** = indurirsi
+* **goes gradually blind** = diventare cieco
+* **to counter** = contrastare
+* **drive for survival** = istinto di sopravvivenza
+* **drown** = annegare
+* **put safely to shore** = portare a terra
+* **mutiny** = ammutinamento

@@ -8,7 +8,7 @@ In oltre cinquant’anni di carriera, il re della metamorfosi ci ha regalato pez
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/Learning%20With%20Music%20Top%2010%20David%20Bowie%20Songs.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/Learning%20With%20Music%20Top%2010%20David%20Bowie%20Songs.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -63,47 +63,47 @@ Fergal Kavanagh runs the website www.tuneintoenglish.com, the web’s largest f
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **Moon landings** = sbarchi sulla Luna
-* **chords** = accordi
-* **yelling** = urlare
-* **wide range** = ampia gamma
-* **Stung** = pungere, ferire
-* **prescient** = lungimirante
-* **superstardom** = super celebrità
-* **Jamming** = suonare improvvisando
-* **trials and tribulations** = sfide e difficoltà
-* **hollow** = vuote
-* **swansong** = canto del cigno
-* **Ashes to Ashes** = polvere alla polvere
-* **follow-up** = seguito
-* **depiction** = rappresentazione
-* **rejoined** = riunirsi
-* **farewell** = addio
-* **Lotta** = contrazione di 'lot(s) of', un sacco di
-* **magpie** = gazza
-* **dead end streets** = vicoli ciechi, strade senza uscita
-* **I’d got it made** = farcela, avere successo
-* **mousy hair** = capelli castano spento
-* **personas** = personaggi
 * **ill-fated** = sfortunato
-* **lift off** = decollare
 * **submitted** = presentare
-* **broadcasting** = trasmettere
-* **strife** = conflitto, lite
-* **foray** = incursione
-* **haunting** = inquietante
-* **Wizard** = mago
-* **propelled** = spingere
-* **spanned** = abbracciare, coprire
-* **leaned back** = appoggiarsi all’indietro
-* **take things over** = prendere il controllo
-* **brooding** = cupi, malinconici
-* **bleak** = cupi, tristi
+* **mousy hair** = capelli castano spento
+* **swansong** = canto del cigno
 * **raised from the dead** = resuscitare
-* **issues** = emettere, impartire
+* **propelled** = spingere
+* **Moon landings** = sbarchi sulla Luna
+* **Stung** = pungere, ferire
+* **chords** = accordi
+* **Wizard** = mago
+* **Ashes to Ashes** = polvere alla polvere
 * **release** = uscita
-* **God-awful** = orribile
+* **dead end streets** = vicoli ciechi, strade senza uscita
+* **depiction** = rappresentazione
+* **yelling** = urlare
+* **hollow** = vuote
+* **brooding** = cupi, malinconici
+* **strife** = conflitto, lite
+* **prescient** = lungimirante
 * **chorus** = ritornello
 * **eponymous** = omonimo
+* **bleak** = cupi, tristi
+* **rejoined** = riunirsi
+* **haunting** = inquietante
+* **issues** = emettere, impartire
+* **I’d got it made** = farcela, avere successo
+* **God-awful** = orribile
+* **superstardom** = super celebrità
+* **farewell** = addio
+* **magpie** = gazza
+* **spanned** = abbracciare, coprire
+* **broadcasting** = trasmettere
+* **Lotta** = contrazione di 'lot(s) of', un sacco di
+* **Jamming** = suonare improvvisando
+* **take things over** = prendere il controllo
 * **swallow** = ingoiare
+* **personas** = personaggi
+* **lift off** = decollare
+* **follow-up** = seguito
+* **trials and tribulations** = sfide e difficoltà
+* **foray** = incursione
+* **wide range** = ampia gamma
+* **leaned back** = appoggiarsi all’indietro
 * **scars** = cicatrici

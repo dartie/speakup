@@ -8,7 +8,7 @@ Gli impianti neurali come quelli che Elon Musk intende commercializzare attraver
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/Should%20We%20All%20Be%20Putting%20Chips%20in%20Our%20Brains.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/Should%20We%20All%20Be%20Putting%20Chips%20in%20Our%20Brains.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,38 +33,38 @@ Maybe it’s a failure of imagination on my part, but while I am truly excited a
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **tempered** = moderare
-* **raises the ethical stakes** = alzare la posta in gioco
-* **motor neurone disease** = malattia del motoneurone
-* **to overcome** = superare
 * **murkier** = più torbida
-* **eavesdrop** = origliare, ascoltare di nascosto
-* **outsized** = di misura abbondante
+* **bias** = propensione
+* **on the verge of** = sul punto di
+* **probes** = sonde
+* **endow** = dotare
+* **scaling up** = aumentare
+* **undergo** = sottoporsi a
+* **doom-scroll** = scorrere compulsivamente le pagine di un sito
+* **motor neurone disease** = malattia del motoneurone
+* **disassembly** = smontaggio
+* **raises the ethical stakes** = alzare la posta in gioco
+* **mind-melding** = fusione mentale
+* **core technology** = tecnologia di base
 * **eulogising** = elogiare, lodare
 * **prowess** = abilità
-* **disassembly** = smontaggio
 * **the latter** = quest’ultimo
-* **doom-scroll** = scorrere compulsivamente le pagine di un sito
-* **fairly straightforward** = piuttosto semplici
 * **overclass** = classe superiore
-* **zeal** = zelo, fervore
-* **bias** = propensione
+* **wires** = cavi
+* **to merge seamlessly** = fondersi perfettamente
+* **eavesdrop** = origliare, ascoltare di nascosto
+* **feasibility** = fattibilità
+* **to overcome** = superare
+* **carried out** = eseguire
+* **outsized** = di misura abbondante
+* **enhancement** = miglioramento
+* **newcomer** = nuovo arrivato
+* **fairly straightforward** = piuttosto semplici
+* **treacherous** = pericoloso
+* **has some catching up to do** = deve aggiornarsi
+* **tempered** = moderare
 * **fostering** = promuovere
 * **hangs in the balance** = essere in bilico
-* **wires** = cavi
-* **newcomer** = nuovo arrivato
-* **probes** = sonde
-* **carried out** = eseguire
-* **treacherous** = pericoloso
-* **scaling up** = aumentare
-* **hard-charging** = impegnativo, esigente
-* **undergo** = sottoporsi a
-* **mind-melding** = fusione mentale
-* **endow** = dotare
-* **feasibility** = fattibilità
-* **core technology** = tecnologia di base
-* **to merge seamlessly** = fondersi perfettamente
 * **to restore** = ripristinare
-* **has some catching up to do** = deve aggiornarsi
-* **enhancement** = miglioramento
-* **on the verge of** = sul punto di
+* **zeal** = zelo, fervore
+* **hard-charging** = impegnativo, esigente

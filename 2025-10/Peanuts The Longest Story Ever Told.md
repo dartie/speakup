@@ -8,7 +8,7 @@ I "Peanuts", la serie di fumetti creata da Charles M. Schulz e con protagonisti 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/Peanuts%20The%20Longest%20Story%20Ever%20Told.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/Peanuts%20The%20Longest%20Story%20Ever%20Told.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -19,7 +19,7 @@ With just a five-week break in late 1997, every day, from 2 October 1950 to the 
 Peanuts evolved from a weekly cartoon strip named [Li’l Folks](## "personcine"), which Schulz published from 1947 to 1950 in his hometown of Minneapolis, Minnesota, for a local newspaper called the St. Paul Pioneer Press. Schulz (who went by the [nickname](## "soprannome") ‘Sparky’) based the fictional dog Snoopy on his family dog, Spike. In the Peanuts stories, the group of children include memorable [siblings](## "fratelli e sorelle") Charlie and Sally Brown, and Lucy and Linus Van Pelt. The animals are very much their own beings: silent yet [personable](## "simpatici, amichevoli"), with rich inner emotional lives, they too share their readership’s aspirations and insecurities, hopes and delusions. Notably, adults are never seen in the strips. In the animated TV specials that followed from 1965, their voices are reduced to [muted](## "tenui") trombone sounds.
 
 ## EVERY DAY AND SUNDAYS
-Schultz built his universe of [four-panel strips](## "strisce a quattro vignette"), or eight or nine on Sundays, offering readers a type of sentimental education. The stories are characterised by a unique [blend](## "mix, combinazione") of [warmth](## "calore, affetto") and introspection; Peanuts was not just [literate](## "alfabetizzato, colto") but had philosophical, psychological and sociological [overtones](## "sfumature"). As the Charles M. Schulz Museum and Research Center eloquently describes it, Shultz’s storytelling was “observational, [wry](## "ironico"), sar[cast](## "cast, lista di personaggi")ic, nostalgic, [bittersweet](## "agrodolce"), [silly](## "sciocco, buffo") and melancholy, with occasional [flights of fancy](## "castelli in aria, volare con la fantasia") and suspension of reality.”
+Schultz built his universe of [four-panel strips](## "strisce a quattro vignette"), or eight or nine on Sundays, offering readers a type of sentimental education. The stories are characterised by a unique [blend](## "mix, combinazione") of [warmth](## "calore, affetto") and introspection; Peanuts was not just [literate](## "alfabetizzato, colto") but had philosophical, psychological and sociological [overtones](## "sfumature"). As the Charles M. Schulz Museum and Research Center eloquently describes it, Shultz’s storytelling was “observational, [wry](## "ironico"), sar[cast](## "cast, lista di personaggi")ic, nostalgic, [bittersweet](## "agrodolce"), [silly](## "sciocco, buffo") and melancholy, with occasional [flights of fancy](## "[cast](## "cast, lista di personaggi")elli in aria, volare con la fantasia") and suspension of reality.”
 
 ## INSPIRATIONAL
 By the time of his death in February 2000, Schultz had created a total of 17,897 Peanuts [comic strip](## "vignetta, striscia di fumetti")s, which had been translated into twenty-one languages, were published in more than 2,500 newspapers in seventy-five countries, and had acquired a readership of over 350 million. Schulz’s lifelong dedication to his characters inspired many famous cartoonists to create their own unforgettable personalities, including Jim Davis (creator of Garfield), Bill Watterson (Calvin and Hobbes) and Matt Groening (The Simpsons). As professor Robert Thompson of Syracuse University put it, “Peanuts was [arguably](## "probabilmente, verosimilmente") the longest story ever told by one human being.”  
@@ -33,25 +33,25 @@ If you want to know more about this topic, read the article Nuts About Peanuts
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **overtones** = sfumature
-* **wry** = ironico
-* **bittersweet** = agrodolce
-* **silly** = sciocco, buffo
 * **comic strip** = vignetta, striscia di fumetti
-* **cast** = cast, lista di personaggi
-* **nickname** = soprannome
-* **muted** = tenui
-* **literate** = alfabetizzato, colto
 * **quirky** = stravagante, particolare
-* **relatable characters** = personaggi con cui ci si può identificare
-* **backgrounds** = provenienze, contesti
-* **warmth** = calore, affetto
 * **blend** = mix, combinazione
-* **arguably** = probabilmente, verosimilmente
-* **Li’l Folks** = personcine
-* **siblings** = fratelli e sorelle
-* **personable** = simpatici, amichevoli
-* **four-panel strips** = strisce a quattro vignette
-* **cute** = tenero, adorabile
-* **resonated with** = entrare in sintonia con
+* **overtones** = sfumature
+* **bittersweet** = agrodolce
 * **flights of fancy** = castelli in aria, volare con la fantasia
+* **cast** = cast, lista di personaggi
+* **relatable characters** = personaggi con cui ci si può identificare
+* **resonated with** = entrare in sintonia con
+* **siblings** = fratelli e sorelle
+* **muted** = tenui
+* **four-panel strips** = strisce a quattro vignette
+* **literate** = alfabetizzato, colto
+* **wry** = ironico
+* **Li’l Folks** = personcine
+* **nickname** = soprannome
+* **warmth** = calore, affetto
+* **silly** = sciocco, buffo
+* **arguably** = probabilmente, verosimilmente
+* **cute** = tenero, adorabile
+* **backgrounds** = provenienze, contesti
+* **personable** = simpatici, amichevoli

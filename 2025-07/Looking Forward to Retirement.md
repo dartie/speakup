@@ -8,7 +8,7 @@ Una conversazione sulla pensione che ci introduce a espressioni comuni in ingles
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/Looking%20Forward%20to%20Retirement.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/Looking%20Forward%20to%20Retirement.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -48,10 +48,10 @@ You’ll be missed is another way of saying ‘I’ll miss you’.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **regret.** = rimorso
+* **undivided attention.** = totale attenzione
 * **retiring** = andare in pensione
 * **grandchildren** = nipoti
 * **statutory age** = età prevista dalla legge
 * **humble** = umile
 * **set aside** = risparmiare
-* **regret.** = rimorso
-* **undivided attention.** = totale attenzione

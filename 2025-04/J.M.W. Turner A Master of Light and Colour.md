@@ -8,7 +8,7 @@ Il più celebre pittore inglese, esponente del Romanticismo e precursore dell’
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/J.M.W.%20Turner%20A%20Master%20of%20Light%20and%20Colour.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/J.M.W.%20Turner%20A%20Master%20of%20Light%20and%20Colour.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,37 +38,37 @@ As he grew older, he became increasingly reclusive, eccentric and pessimistic, w
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **mockery** = derisione
-* **soapsuds** = schiuma di sapone
-* **pushy** = insistente
-* **housekeeper** = governante
-* **astonishing** = sorprendente
-* **pale** = pallido
-* **flesh-filled** = pieno di corpi
-* **blur** = sfocatura
-* **glides** = scivolare
-* **wigmaker** = fabbricante di parrucche
-* **steam** = vapore
-* **darling** = prediletto
-* **fiery** = infuocato
-* **thick** = spesso
-* **speech** = parlata
-* **hesitant** = esitante, titubante
-* **seascape** = paesaggio marino
-* **topics** = temi
-* **fate** = destino
-* **crew** = equipaggio
-* **class-conscious** = classista
-* **fell into disrepair** = cadere in abbandono
-* **sketching** = abbozzare
-* **watercolours** = acquerelli
 * **Frosty** = gelido
-* **breaker’s yard** = cantiere di demolizione
+* **astonishing** = sorprendente
+* **steam** = vapore
 * **tugboat** = rimorchiatore
-* **bloody** = sanguinoso
-* **whitewash** = bianco di calce
-* **courting** = sedurre
+* **watercolours** = acquerelli
+* **breaker’s yard** = cantiere di demolizione
+* **fiery** = infuocato
+* **pale** = pallido
+* **fate** = destino
+* **mockery** = derisione
+* **fell into disrepair** = cadere in abbandono
+* **darling** = prediletto
+* **class-conscious** = classista
+* **speech** = parlata
+* **wigmaker** = fabbricante di parrucche
 * **overboard** = gettare in mare
-* **lay** = giacere
+* **housekeeper** = governante
+* **thick** = spesso
+* **sketching** = abbozzare
 * **patrons** = mecenati
+* **topics** = temi
+* **glides** = scivolare
+* **crew** = equipaggio
+* **bloody** = sanguinoso
+* **courting** = sedurre
 * **will** = testamento
+* **flesh-filled** = pieno di corpi
+* **lay** = giacere
+* **soapsuds** = schiuma di sapone
+* **whitewash** = bianco di calce
+* **pushy** = insistente
+* **seascape** = paesaggio marino
+* **blur** = sfocatura
+* **hesitant** = esitante, titubante

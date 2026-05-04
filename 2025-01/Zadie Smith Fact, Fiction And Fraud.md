@@ -8,7 +8,7 @@ Con la sua ultima opera, la scrittrice britannica realizza ciò che aveva promes
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/Zadie%20Smith%20Fact,%20Fiction%20And%20Fraud.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/Zadie%20Smith%20Fact,%20Fiction%20And%20Fraud.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,21 +38,21 @@ The novel is full of vivid characters, [witty](## "ingenioso") dialogue and has
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **depicts** = descrivere
-* **unremarkable** = ordinario
-* **thrill** = entusiasmo
-* **inheritor** = erede
-* **fair** = giusto
+* **witty** = ingenioso
 * **high-profile** = noto
+* **unremarkable** = ordinario
+* **turn up** = comparire
+* **inheritor** = erede
+* **Trial** = processo
+* **shipwrecked** = naufragare
+* **on his way to** = dirigersi verso
 * **claimant** = querelante, richiedente
 * **enslaved** = schiavizzare
-* **indeed** = infatti, di fatto
-* **claims** = affermare, dichiarare
-* **on his way to** = dirigersi verso
-* **presumed dead** = dato per morto
+* **fair** = giusto
 * **butcher** = macellaio
+* **claims** = affermare, dichiarare
+* **thrill** = entusiasmo
 * **aware** = consapevole
-* **witty** = ingenioso
-* **shipwrecked** = naufragare
-* **turn up** = comparire
-* **Trial** = processo
+* **presumed dead** = dato per morto
+* **indeed** = infatti, di fatto
+* **depicts** = descrivere

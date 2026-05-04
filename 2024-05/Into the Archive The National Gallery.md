@@ -8,7 +8,7 @@ In occasione del bicentenario della National Gallery, l'archivista Nick Smith ci
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/Into%20the%20Archive%20The%20National%20Gallery.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/Into%20the%20Archive%20The%20National%20Gallery.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -34,28 +34,28 @@ The National Gallery’s bicentenary is being celebrated [in grand style](## "in
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **minute books** = libri dei verbali
-* **rewarding** = gratificante
-* **cause célèbre** = caso famoso
-* **sightings** = avvistamenti
-* **rolled up** = arrotolare
 * **mattress** = materasso
-* **culprit** = colpevole
-* **unwittingly** = involontariamente
-* **a wealth of** = un sacco di
-* **to sort** = ordinare
-* **dusty** = polveroso
-* **on loan** = in prestito
 * **in grand style** = in maniera grandiosa
-* **alleged** = presunti
-* **press cuttings** = rassegne stampa
-* **basement** = sotterraneo
 * **auctioneers** = banditori d’asta
-* **art dealers** = mercanti d’arte
-* **strips** = strisce
+* **rewarding** = gratificante
 * **canvas** = tela
-* **papers** = giornali
-* **swiftly** = rapidamente
+* **cause célèbre** = caso famoso
 * **steamship** = nave a vapore
+* **a wealth of** = un sacco di
 * **reach** = diffusione
 * **GP surgery’s** = medico di base ('general practitioner')
+* **strips** = strisce
+* **alleged** = presunti
+* **rolled up** = arrotolare
+* **minute books** = libri dei verbali
+* **press cuttings** = rassegne stampa
+* **to sort** = ordinare
+* **dusty** = polveroso
+* **basement** = sotterraneo
+* **on loan** = in prestito
+* **sightings** = avvistamenti
+* **swiftly** = rapidamente
+* **art dealers** = mercanti d’arte
+* **papers** = giornali
+* **culprit** = colpevole
+* **unwittingly** = involontariamente

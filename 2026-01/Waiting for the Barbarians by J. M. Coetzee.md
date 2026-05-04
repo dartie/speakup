@@ -8,7 +8,7 @@ Questo acclamato romanzo del Premio Nobel sudafricano, ambientato in un avampost
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/Waiting%20for%20the%20Barbarians%20by%20J.%20M.%20Coetzee.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/Waiting%20for%20the%20Barbarians%20by%20J.%20M.%20Coetzee.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -50,16 +50,16 @@ J. M. Coetzee’s Waiting for the Barbarians won multiple awards and helped cons
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **due to** = a causa di
-* **unrest** = disordini
+* **settlement** = insediamento
+* **dreaded** = temere
 * **convivial** = cordiale, piacevole
+* **seek** = cercare
+* **Bureau** = ufficio
+* **Recklessly** = sconsideratamente
 * **released** = uscire
 * **looted** = saccheggiare
 * **moved** = trasferirsi
 * **outpost** = avamposto
+* **due to** = a causa di
+* **unrest** = disordini
 * **dusty** = polveroso
-* **settlement** = insediamento
-* **dreaded** = temere
-* **Bureau** = ufficio
-* **seek** = cercare
-* **Recklessly** = sconsideratamente

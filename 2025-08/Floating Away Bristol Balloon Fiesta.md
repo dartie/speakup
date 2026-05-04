@@ -8,7 +8,7 @@ Per tre giorni in agosto, il cielo di questa città costiera nel sud-ovest dell�
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/Floating%20Away%20Bristol%20Balloon%20Fiesta.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/Floating%20Away%20Bristol%20Balloon%20Fiesta.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -56,55 +56,55 @@ www.bristolballoonfiesta.co.uk
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **tied** = legare, fissare
+* **came up with the idea** = avere l’idea
+* **basement** = seminterrato
+* **burner** = bruciatore
+* **tether** = legare
+* **brings the crowd to their feet** = far alzare in piedi
+* **chance** = possibilità
+* **submit** = presentare
+* **years gone by** = anni passati
+* **draws** = richiamare
+* **make the call** = prendere la decisione
 * **off they go** = e se ne vanno
-* **race** = gara
-* **hot-air balloons** = mongolfiere
-* **deer park** = parco di cervi
-* **paragliding** = parapendio
-* **worth their while** = che vale la pena
-* **summed up** = riassumere
-* **it’s up to** = dipendere da
-* **public liability** = responsabilità civile
-* **state-of-the-art** = moderne, all’avanguardia
-* **drift off** = allontanarsi lentamente
-* **in waves** = a scaglioni
+* **spoiling** = rovinare
 * **light up** = illuminare
 * **Hare** = lepre
 * **Hound** = segugio
-* **flyable** = adatte al volo
-* **medical** = esame medico
 * **insurance** = assicurazione
-* **showcased** = mettere in mostra
-* **draws** = richiamare
-* **golf course** = campo da golf
-* **make the call** = prendere la decisione
-* **chance** = possibilità
-* **log** = registro
-* **drop** = far cadere
-* **in bits** = a pezzi
-* **displays** = manifestazioni
-* **let off** = emettere
-* **spoiling** = rovinare
-* **climb** = montare
-* **tether** = legare
-* **basket** = cesta, gondola
-* **light bulbs** = lampadine
-* **waving** = sventolare
-* **end up** = ritrovarsi
-* **submit** = presentare
-* **crowds** = folle
-* **further afield** = oltre, più lontano
-* **basement** = seminterrato
-* **years gone by** = anni passati
-* **tied** = legare, fissare
-* **came up with the idea** = avere l’idea
-* **runs** = gestire
-* **brings the crowd to their feet** = far alzare in piedi
-* **entry requirements** = requisiti di ammissione
-* **airworthiness** = idoneità al volo
-* **marker** = segnale
-* **outskirts** = periferia
-* **shipments** = spedizioni
+* **paragliding** = parapendio
 * **taking off** = decollare
+* **let off** = emettere
+* **state-of-the-art** = moderne, all’avanguardia
+* **summed up** = riassumere
+* **displays** = manifestazioni
+* **light bulbs** = lampadine
+* **it’s up to** = dipendere da
+* **in bits** = a pezzi
+* **shipments** = spedizioni
+* **worth their while** = che vale la pena
+* **race** = gara
+* **marker** = segnale
+* **log** = registro
+* **medical** = esame medico
+* **hot-air balloons** = mongolfiere
+* **golf course** = campo da golf
+* **deer park** = parco di cervi
+* **runs** = gestire
+* **in waves** = a scaglioni
+* **end up** = ritrovarsi
+* **drop** = far cadere
+* **entry requirements** = requisiti di ammissione
+* **crowds** = folle
+* **outskirts** = periferia
+* **climb** = montare
+* **waving** = sventolare
+* **public liability** = responsabilità civile
+* **airworthiness** = idoneità al volo
+* **showcased** = mettere in mostra
+* **further afield** = oltre, più lontano
+* **drift off** = allontanarsi lentamente
+* **basket** = cesta, gondola
 * **have a go** = provare
-* **burner** = bruciatore
+* **flyable** = adatte al volo

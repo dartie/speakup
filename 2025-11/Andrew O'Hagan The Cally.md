@@ -8,7 +8,7 @@ Caledonian Road, conosciuta come "The Cally", è una della strade più important
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Andrew%20O%27Hagan%20The%20Cally.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Andrew%20O%27Hagan%20The%20Cally.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -29,15 +29,15 @@ If you want to know more about this topic, read the article Andrew O’Hagan: "
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **infamous** = tristemente famosa
-* **run-down** = fatiscenti
+* **newcomers** = nuovi arrivati
+* **cobbled streets** = strade con ciottoli
 * **income gap** = divario salariale
+* **colour-coded** = contrassegnato con colori
 * **high-rise** = grattacielo, edificio a molti piani
 * **cladding** = rivestimento
 * **low-income** = a basso reddito
-* **newcomers** = nuovi arrivati
-* **cobbled streets** = strade con ciottoli
+* **infamous** = tristemente famosa
 * **melting pot** = miscuglio culturale
 * **traced this tendency back** = risalire all’origine
-* **colour-coded** = contrassegnato con colori
 * **claims** = affermare
+* **run-down** = fatiscenti

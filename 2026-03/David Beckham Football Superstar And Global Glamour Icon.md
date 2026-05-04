@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/David%20Beckham%20Football%20Superstar%20And%20Global%20Glamour%20Icon.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/David%20Beckham%20Football%20Superstar%20And%20Global%20Glamour%20Icon.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -58,7 +58,7 @@ David Beckham is shown the red card during a France ‘98 World Cup match.
 David Beckham also had a stellar international career. He made his England debut in September 1996, aged twenty-one. He won 115 [caps](## "presenze internazionali") representing England and captained the [side](## "squadra") fifty-nine times over a period of six years, scoring seventeen goals. He appeared in three World Cups, in 1998, 2002, and 2006. But playing international football gave him the worst experience of his life. In the 1998 World Cup, playing against Argentina, he was [fouled](## "commettere un fallo") by Diego Simeone and [retaliated](## "reagire, vendicarsi") by [kicking out](## "dare un calcio"). Simeone “fell like a ton of [bricks](## "mattoni")” (Sports Illustrated) and Beckham got a red card. Simeone later admitted that he was trying to get Beckham [sent off](## "espellere") by over-reacting. Britain’s tabloid press [viciously](## "aggressivamente") attacked Beckham (the Daily Mirror printed a [dartboard](## "bersaglio") with his face), and the player received death threats from the public and bullets in the post. Victoria Beckham later said that her husband became “clinically depressed” after receiving the red card. 
 
 ## WIDELY RESPECTED 
-Unexpectedly modest, despite his [achievements](## "risultati, traguardi"), Beckham once described his career with the sentence: “I just want people to see me as a hardworking footballer.” In his autobiography, Manchester United manager Sir Alex Ferguson was open with his praise: “From [the moment he first laid boot on ball](## "da quando ha iniziato a calciare il pallone"), David Beckham displayed an unbreakable [urge](## "de[side](## "squadra")rio") to make the best of himself and his talent.” Beckham’s  colleague Nicky Butt said he was “as mentally tough as anybody you’ll ever meet.” 
+Unexpectedly modest, despite his [achievements](## "risultati, traguardi"), Beckham once described his career with the sentence: “I just want people to see me as a hardworking footballer.” In his autobiography, Manchester United manager Sir Alex Ferguson was open with his praise: “From [the moment he first laid boot on ball](## "da quando ha iniziato a calciare il pallone"), David Beckham displayed an unbreakable [urge](## "desiderio") to make the best of himself and his talent.” Beckham’s  colleague Nicky Butt said he was “as mentally tough as anybody you’ll ever meet.” 
 Beckham suffers from obsessive compulsive disorder, and he has to have everything at home (such as food products or clothes) in straight lines or in pairs. From his playing years, he has kept a thousand pairs of boots in storage! Memories mean a lot to the footballer.
 Beckham has supported charities most of his life. He has worked with UNICEF for twenty years as a [Goodwill](## "buona volontà") Ambassador, promoting and protecting the rights of vulnerable children around the world. In 2015 he launched the 7 Fund with UNICEF to give disadvantaged children the opportunity to reach their full potential. He says: “My charity work gives me the most pleasure out of anything that I do.”
 
@@ -67,42 +67,42 @@ Beckham has supported charities most of his life. He has worked with UNICEF for 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **trademark** = marchio di fabbrica
-* **FA Cup** = Coppa d’Inghilterra
-* **Posh** = snob, chic
-* **fouled** = commettere un fallo
-* **crosses** = cross
-* **signings** = ingaggi
-* **taking** = provarci, cogliere un’opportunità
-* **strikes** = tiri
+* **kicking out** = dare un calcio
+* **astonishing** = sorprendente
+* **kicked open the door** = sfondare le porte
+* **Shield** = trofeo
+* **Goodwill** = buona volontà
 * **Soccer** = calcio
-* **chances** = opportunità
-* **due to** = dovuta a
-* **retaliated** = reagire, vendicarsi
+* **embrace** = accettazione, adozione
+* **caps** = presenze internazionali
+* **side** = squadra
 * **the moment he first laid boot on ball** = da quando ha iniziato a calciare il pallone
+* **urge** = desiderio
+* **crosses** = cross
 * **free kicks** = calci di punizione
 * **curling** = ad effetto
-* **Shield** = trofeo
-* **embrace** = accettazione, adozione
-* **bricks** = mattoni
-* **Goodwill** = buona volontà
-* **caps** = presenze internazionali
-* **on and off the pitch** = dentro e fuori dal campo
-* **his own half** = la propria metà campo
-* **kicked open the door** = sfondare le porte
-* **half-heartedly** = controvoglia, senza entusiasmo
-* **wing** = fascia, ala
-* **kicking out** = dare un calcio
-* **sent off** = espellere
-* **trainee** = allievo, apprendista
-* **run out** = esaurire
-* **viciously** = aggressivamente
+* **retaliated** = reagire, vendicarsi
 * **dartboard** = bersaglio
 * **achievements** = risultati, traguardi
+* **on and off the pitch** = dentro e fuori dal campo
 * **household name** = nome noto
-* **retail** = vendita al dettaglio
-* **urge** = desiderio
-* **astonishing** = sorprendente
+* **strikes** = tiri
+* **trademark** = marchio di fabbrica
 * **treble** = tripletta
+* **retail** = vendita al dettaglio
+* **sent off** = espellere
+* **bricks** = mattoni
+* **his own half** = la propria metà campo
+* **wing** = fascia, ala
 * **OBE** = ufficiale dell’Ordine dell’Impero Britannico (Officer of the Order of the British Empire)
-* **side** = squadra
+* **run out** = esaurire
+* **due to** = dovuta a
+* **FA Cup** = Coppa d’Inghilterra
+* **chances** = opportunità
+* **fouled** = commettere un fallo
+* **viciously** = aggressivamente
+* **trainee** = allievo, apprendista
+* **half-heartedly** = controvoglia, senza entusiasmo
+* **signings** = ingaggi
+* **taking** = provarci, cogliere un’opportunità
+* **Posh** = snob, chic

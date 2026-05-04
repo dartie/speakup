@@ -8,7 +8,7 @@ La ricchezza continua a concentrarsi nelle mani di un numero sempre minore di pe
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Should%20We%20Worry%20About%20Trillionaires.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Should%20We%20Worry%20About%20Trillionaires.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -31,43 +31,43 @@ Published in The Guardian on 18 March 2024. Reprinted with permission. 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **taken into account** = tenere in considerazione
-* **mull over** = sopesar, reflexionar
-* **mark-up** = aumento di prezzo
-* **grounds** = motivi
-* **hindsight** = visione retrospettiva
-* **reckoning** = stima, valutazione
-* **shares** = azioni
-* **tn** = bilione (abbr. trillions)
+* **raising revenue** = aumentare il reddito
 * **well-to-do** = benestanti
-* **bargaining power** = potere di negoziazione
-* **to run the numbers** = fare i calcoli
-* **bn** = miliardi (abbr. billions)
 * **asset** = attivo
 * **soar** = aumentare drasticamente
-* **leftie** = di sinistra
-* **raising revenue** = aumentare il reddito
-* **spur** = stimolo, ince
-* **was worth** = avere un patrimonio di
-* **odd** = sporadico
-* **marinas** = porti turistici
-* **shareholders** = azionisti
-* **eye-catching** = accattivante
-* **rocketing** = aumentare vertiginosamente
-* **wages** = salari
-* **running** = gestire
 * **built into** = integrata nel
-* **it turns out that** = risulta che
-* **in and of itself** = di per sé
-* **suppliers** = fornitori
-* **conference rooms** = sale conferenze
-* **commonplace** = comune
-* **At the turn of the millennium** = all’inizio del XXI secolo
-* **market shares** = quote di mercato
-* **bottom line** = bilancio
-* **headed north** = aumentare
-* **pat each other on the back** = darsi reciprocamente pacche sulle spalle
-* **output** = produzione
 * **chunk** = pezzo
-* **elite gather** = riunirsi
+* **mull over** = sopesar, reflexionar
+* **to run the numbers** = fare i calcoli
+* **reckoning** = stima, valutazione
 * **income** = reddito
+* **running** = gestire
+* **commonplace** = comune
+* **rocketing** = aumentare vertiginosamente
+* **it turns out that** = risulta che
+* **leftie** = di sinistra
+* **shareholders** = azionisti
+* **taken into account** = tenere in considerazione
+* **tn** = bilione (abbr. trillions)
+* **marinas** = porti turistici
+* **wages** = salari
+* **grounds** = motivi
+* **spur** = stimolo, ince
+* **headed north** = aumentare
+* **market shares** = quote di mercato
+* **eye-catching** = accattivante
+* **output** = produzione
+* **suppliers** = fornitori
+* **elite gather** = riunirsi
+* **pat each other on the back** = darsi reciprocamente pacche sulle spalle
+* **bn** = miliardi (abbr. billions)
+* **odd** = sporadico
+* **bottom line** = bilancio
+* **bargaining power** = potere di negoziazione
+* **in and of itself** = di per sé
+* **conference rooms** = sale conferenze
+* **was worth** = avere un patrimonio di
+* **At the turn of the millennium** = all’inizio del XXI secolo
+* **shares** = azioni
+* **mark-up** = aumento di prezzo
+* **hindsight** = visione retrospettiva

@@ -8,7 +8,7 @@ Se c’è una cosa che non manca a questo astro nascente del cinema è la determ
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/Sydney%20Sweeney%20Rising%20Star.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/Sydney%20Sweeney%20Rising%20Star.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -66,41 +66,41 @@ Meanwhile, rumours continue to circulate about Sweeney’s potential involvement
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **outbreak** = epidemia, focolaio
-* **breakthrough** = svolta, primo grande successo
-* **turnaround** = sospensione
+* **dog whistle** = messaggio in codice
+* **Housemaid** = domestica
+* **where it’s not due** = quando non è meritato
+* **box office hit** = successo al botteghino
+* **Once Upon a Time** = c’era una volta
+* **unattainable** = irrealizzabile
+* **wanted to audition really bad** = desiderare qualcosa intensamente
+* **put together** = mettere insieme
 * **whenever** = ogni volta che, quando
 * **backlash** = reazione negativa
-* **stepping into the iconic role** = entrare nel ruolo, vestire i panni di
-* **where it’s not due** = quando non è meritato
-* **Housemaid** = domestica
-* **premiere** = debuttare, uscire
-* **acknowledged** = riconoscere, ammettere
-* **résumé** = CV
-* **mapped out** = delineare, tracciare
-* **opposite** = recitare con
-* **twist** = svolta, variante
-* **recalled** = ricordare
-* **put together** = mettere insieme
-* **dog whistle** = messaggio in codice
-* **The Handmaid’s Tale** = "Il racconto dell’ancella"
-* **portrayal** = interpretazione
-* **stage fright** = paura del palcoscenico
-* **spirals into** = degenerare in
-* **landed** = ottenere, riuscire a ottenere
-* **unattainable** = irrealizzabile
-* **clean draft** = bozza iniziale
-* **stunt** = trovata pubblicitaria
-* **installment** = capitolo, episodio di una saga
-* **box office hit** = successo al botteghino
-* **cast** = scegliere per il ruolo
-* **taking credit** = prendersi il merito
-* **rehearse** = provare, fare le prove
-* **denim** = jeans
-* **took on** = intraprendere
 * **rising star** = stella nascente
-* **Once Upon a Time** = c’era una volta
-* **wanted to audition really bad** = desiderare qualcosa intensamente
-* **Much Ado About Nothing** = "Molto rumore per nulla"
-* **ties** = legami
+* **stage fright** = paura del palcoscenico
+* **turnaround** = sospensione
+* **taking credit** = prendersi il merito
+* **stepping into the iconic role** = entrare nel ruolo, vestire i panni di
+* **acknowledged** = riconoscere, ammettere
+* **breakthrough** = svolta, primo grande successo
+* **denim** = jeans
+* **twist** = svolta, variante
+* **landed** = ottenere, riuscire a ottenere
+* **installment** = capitolo, episodio di una saga
+* **outbreak** = epidemia, focolaio
+* **recalled** = ricordare
+* **clean draft** = bozza iniziale
+* **cast** = scegliere per il ruolo
 * **far-fetched** = inverosimile
+* **résumé** = CV
+* **spirals into** = degenerare in
+* **premiere** = debuttare, uscire
+* **opposite** = recitare con
+* **portrayal** = interpretazione
+* **mapped out** = delineare, tracciare
+* **ties** = legami
+* **took on** = intraprendere
+* **stunt** = trovata pubblicitaria
+* **Much Ado About Nothing** = "Molto rumore per nulla"
+* **The Handmaid’s Tale** = "Il racconto dell’ancella"
+* **rehearse** = provare, fare le prove

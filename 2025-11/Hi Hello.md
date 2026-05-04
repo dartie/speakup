@@ -8,7 +8,7 @@ La lingua continua a trasformarsi e adattarsi ai tempi. La tecnologia, ad esempi
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Hi%20Hello.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Hi%20Hello.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,24 +38,24 @@ In 1984, then-alternative technology company Apple unveiled the ‘Hello icon’
 # Glossary
 * **greet** = salutare
 * **sailors** = marinai
+* **caught on** = prendere piede
 * **peppy** = vivace
-* **shout out** = mandare un saluto
-* **spread** = diffondersi
-* **drawing on** = basarsi su
-* **Heigh** = ehi
-* **attention-seeking** = per richiamare l’attenzione
-* **polite settings** = contesti formali, educati
-* **acknowledged** = riconoscere
-* **knocked ‘Hi!’ off its pedestal** = far abbassare la cresta
-* **fetch** = andare a prendere, recuperare
 * **slightly warmer** = leggermente più caloroso
-* **vies** = competere
+* **acknowledged** = riconoscere
+* **quaint** = pittoresca, caratteristica
+* **fetch** = andare a prendere, recuperare
+* **Ahoy!** = ehi
+* **attention-seeking** = per richiamare l’attenzione
 * **brash** = sfacciato
+* **polite settings** = contesti formali, educati
+* **drawing on** = basarsi su
+* **knocked ‘Hi!’ off its pedestal** = far abbassare la cresta
+* **at all** = affatto
+* **Heigh** = ehi
+* **vies** = competere
 * **showy** = vistoso
 * **switched it on** = accendere
-* **at all** = affatto
 * **Whoa there!** = fermo lì!
-* **Ahoy!** = ehi
-* **caught on** = prendere piede
+* **shout out** = mandare un saluto
 * **overlaid** = sovrapposto
-* **quaint** = pittoresca, caratteristica
+* **spread** = diffondersi

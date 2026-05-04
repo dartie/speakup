@@ -8,7 +8,7 @@ Il grande traditore d’Inghilterra, l’uomo che ha quasi fatto esplodere il Pa
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Guy%20Fawkes%20Britain%E2%80%99s%20Most%20Famous%20Traitor.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Guy%20Fawkes%20Britain%E2%80%99s%20Most%20Famous%20Traitor.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,28 +35,28 @@ Guy Fawkes himself has metamorphised in popular culture. The 1980s graphic novel
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **firewood** = legna
+* **to have second thoughts** = ripensare
+* **reluctance** = riluttanza
+* **scaffold** = patibolo
+* **thanksgiving** = ringraziamento
+* **MPs** = deputato, parlamentare (Member of Parliament)
+* **cellar** = cantina
+* **coal** = carbone
+* **fled** = fuggire
+* **barge** = chiatta, barcone
+* **bowels** = viscere
+* **Bonfire** = falò
+* **reviled** = vituperare
+* **limbs** = arti
+* **apart** = separare
 * **drawn** = estrarre
 * **quartered** = squartare
-* **scaffold** = patibolo
-* **Plot** = congiura delle polveri
-* **firewood** = legna
-* **fuse** = miccia
-* **limbs** = arti
-* **reluctance** = riluttanza
-* **bowels** = viscere
-* **thanksgiving** = ringraziamento
-* **reviled** = vituperare
-* **MPs** = deputato, parlamentare (Member of Parliament)
-* **fled** = fuggire
-* **rack** = cavalletto (tortura)
-* **barge** = chiatta, barcone
-* **cellar** = cantina
-* **smuggled in** = introdurre di nascosto, illegalmente
-* **to have second thoughts** = ripensare
-* **apart** = separare
 * **fellow** = compagni
 * **to blow up** = fare saltare in aria
-* **coal** = carbone
+* **fuse** = miccia
+* **rack** = cavalletto (tortura)
 * **hanged** = appendere
 * **purpose-built** = costruito appositamente
-* **Bonfire** = falò
+* **Plot** = congiura delle polveri
+* **smuggled in** = introdurre di nascosto, illegalmente

@@ -8,7 +8,7 @@ Chi lavorò allo sviluppo della bomba atomica? E perché tanta gente prese parte
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/An%20Explosive%20History%20The%20Manhattan%20Project%20National%20Historical%20Park.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/An%20Explosive%20History%20The%20Manhattan%20Project%20National%20Historical%20Park.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -51,38 +51,38 @@ www.nps.gov/mapr/index.htm
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **hiring practices** = pratiche di assunzione
 * **stockpiled** = accumulare, fare scorte
-* **waste** = scorie
-* **further** = ulteriore
-* **pursued** = perseguire, portare avanti
-* **to figure out** = capire, scoprire
-* **war effort** = sforzo bellico
-* **Act** = legge
-* **to convey** = trasmettere, comunicare
-* **abolishing** = abolire
-* **endeavours** = progetti, iniziative
-* **to run** = gestire, amministrare
-* **hikes** = escursioni
-* **spread** = estendersi
-* **out of** = a partire da
-* **dropped** = sganciare
-* **punishable by death** = punibile con la morte
-* **overcoming** = risolvere
-* **college degree** = diploma di laurea
-* **coal** = carbone
-* **hazardous** = pericolose, rischiose
-* **split** = dividere
-* **former** = precedente
-* **resumed** = riprendere
-* **faulty** = difettoso
-* **patriotic duty** = dovere patriottico
-* **carrot** = carota
-* **pushed only into** = spingere in/a
-* **substandard** = inferiore agli standard, scadente
-* **shipped** = spedire
-* **average person** = la persona media
-* **stick** = bastone
-* **triggering** = scatenare
 * **supply** = fornitura
+* **former** = precedente
+* **endeavours** = progetti, iniziative
+* **hazardous** = pericolose, rischiose
+* **college degree** = diploma di laurea
 * **Power stations** = centrali elettriche
+* **spread** = estendersi
+* **punishable by death** = punibile con la morte
+* **carrot** = carota
+* **shipped** = spedire
+* **further** = ulteriore
+* **coal** = carbone
+* **out of** = a partire da
+* **substandard** = inferiore agli standard, scadente
+* **waste** = scorie
+* **dropped** = sganciare
+* **war effort** = sforzo bellico
+* **pushed only into** = spingere in/a
+* **faulty** = difettoso
+* **hikes** = escursioni
+* **split** = dividere
+* **pursued** = perseguire, portare avanti
+* **overcoming** = risolvere
+* **stick** = bastone
+* **to figure out** = capire, scoprire
+* **average person** = la persona media
+* **resumed** = riprendere
+* **to convey** = trasmettere, comunicare
+* **hiring practices** = pratiche di assunzione
+* **triggering** = scatenare
+* **to run** = gestire, amministrare
+* **patriotic duty** = dovere patriottico
+* **Act** = legge
+* **abolishing** = abolire

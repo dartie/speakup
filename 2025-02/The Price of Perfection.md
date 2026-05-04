@@ -8,7 +8,7 @@ Il film “Maria” di Pablo Larraín, interpretato da Angelina Jolie, esplora l
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/The%20Price%20of%20Perfection.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/The%20Price%20of%20Perfection.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -37,21 +37,21 @@ While her incredible life ended tragically young, says actor Pierfrancesco Favin
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **to mirror** = rispecchiare
-* **spoilt** = maleducata
+* **storming out** = uscire furiosa
+* **rehearsals** = prova
 * **tough** = dura
-* **mockery** = beffa
-* **lives on** = perdurare
-* **squandered** = sperperare
+* **straightjacketing** = camicia di forza
 * **passed** = morire
+* **lives on** = perdurare
 * **gift** = regalo
 * **throwing tantrums** = fare i capricci
-* **rehearsals** = prova
-* **missed** = sbagliare
-* **compounded** = aggravare
-* **storming out** = uscire furiosa
-* **robe** = vestaglia, toga
 * **performances** = attuazioni
 * **to stay ahead** = mantenersi al vertice
-* **straightjacketing** = camicia di forza
+* **compounded** = aggravare
+* **mockery** = beffa
+* **robe** = vestaglia, toga
+* **missed** = sbagliare
+* **squandered** = sperperare
+* **spoilt** = maleducata
 * **shaky** = tremante
+* **to mirror** = rispecchiare

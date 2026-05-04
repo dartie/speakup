@@ -8,7 +8,7 @@ Una chiacchierata tra amici per tenersi aggiornati sulle ultime novità: And wha
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/Catching%20up%20with%20a%20Friend%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/Catching%20up%20with%20a%20Friend%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -49,13 +49,13 @@ Mos def is short for ‘[most definitely](## "sicuramente")’.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **dude** = tipo, tizio
 * **a late one.** = una notte di festa
 * **awesome!** = eccezionale
-* **hooking up** = viziarsi, concedersi
-* **slightly** = leggermente
-* **mate** = compagno
 * **Slay** = spacca!
-* **grub** = roba da mangiare
 * **top-notch** = di prima qualità
+* **hooking up** = viziarsi, concedersi
 * **most definitely** = sicuramente
+* **dude** = tipo, tizio
+* **mate** = compagno
+* **grub** = roba da mangiare
+* **slightly** = leggermente

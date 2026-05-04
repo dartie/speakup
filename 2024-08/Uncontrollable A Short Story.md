@@ -8,7 +8,7 @@ Una risata incontrollata nei momenti più inopportuni può portare a una serie d
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/Uncontrollable%20A%20Short%20Story.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/Uncontrollable%20A%20Short%20Story.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,57 +38,57 @@ I couldn’t remember ever seeing my grandfather and my father had never had a g
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **heralded** = annunciare
-* **outburst** = scoppio
-* **piss-taker** = rompiscatole
-* **sobbed** = singhiozzare
-* **wake** = veglia funebre
+* **windmilled** = girare come un mulino a vento
 * **sausage roll** = salsiccia rivestita da strati di pasta sfoglia
-* **knot** = nodo
-* **to choke** = soffocare
-* **tapped** = battere
-* **downturned** = all’ingiù
 * **I chuckled** = ridere sotto i baffi
-* **thumbprint** = impronta digitale del pollice
-* **telltale** = segno rivelatore
-* **fooled** = ingannare
-* **sighed** = sospirare
-* **gasped** = respirare a fatica
-* **wet mud** = fango umido
-* **pastry** = pasta
 * **dumped** = lasciare
-* **no chin** = senza mento (con la pappagorgia)
-* **outrage** = indignazione
-* **urge** = ansia
-* **grief** = dolore
-* **gutter** = canale
-* **scraped back** = raccolto
-* **heels** = tacchi a spillo
-* **to wrench open** = aprire con una strattonata
-* **fluttered** = svolazzare
-* **doleful** = dolente
 * **bun** = chignon
-* **roaring with laughter** = scoppiare a ridere
-* **christening** = battesimo
-* **faltered** = vacillare
-* **clutching my sides** = abbracciarsi i lati
-* **cough** = tosse
-* **doubled over** = piegarsi in due
-* **hiccups** = singhiozzo
-* **fits of giggles** = avere la ridarella
-* **I hunted through** = frugare
 * **mourners** = persone in lutto
-* **sunk** = affondarsi
-* **quagmire** = pantano
 * **tucking into** = divorare
-* **handkerchief** = fazzoletto
+* **flake** = briciola
+* **heralded** = annunciare
+* **doubled over** = piegarsi in due
+* **christening** = battesimo
+* **to choke** = soffocare
 * **overcome** = sopraffatta
+* **sobbed** = singhiozzare
+* **thumbprint** = impronta digitale del pollice
+* **outburst** = scoppio
+* **I hunted through** = frugare
+* **fooled** = ingannare
 * **lady friend** = compagna
 * **plumpish** = grassottella
-* **huddled** = raggrupparsi
-* **wobbling about** = barcollare
-* **flake** = briciola
-* **I snorted with laughter** = sbuffare dalle risate
-* **guffawed** = ridere fragorosamente
-* **windmilled** = girare come un mulino a vento
+* **telltale** = segno rivelatore
+* **sighed** = sospirare
+* **sunk** = affondarsi
+* **wet mud** = fango umido
 * **hissed** = sibilare
+* **gasped** = respirare a fatica
+* **cough** = tosse
+* **fits of giggles** = avere la ridarella
+* **gutter** = canale
+* **to wrench open** = aprire con una strattonata
+* **grief** = dolore
+* **hiccups** = singhiozzo
+* **wake** = veglia funebre
+* **doleful** = dolente
+* **tapped** = battere
+* **faltered** = vacillare
+* **roaring with laughter** = scoppiare a ridere
+* **wobbling about** = barcollare
+* **pastry** = pasta
+* **downturned** = all’ingiù
+* **I snorted with laughter** = sbuffare dalle risate
+* **no chin** = senza mento (con la pappagorgia)
+* **scraped back** = raccolto
+* **knot** = nodo
+* **piss-taker** = rompiscatole
+* **handkerchief** = fazzoletto
+* **quagmire** = pantano
+* **fluttered** = svolazzare
+* **outrage** = indignazione
+* **guffawed** = ridere fragorosamente
+* **clutching my sides** = abbracciarsi i lati
+* **huddled** = raggrupparsi
+* **heels** = tacchi a spillo
+* **urge** = ansia

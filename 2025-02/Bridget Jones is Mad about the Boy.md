@@ -8,7 +8,7 @@ Renée Zellweger interpreta l’eroina romantica nell’adattamento del romanzo 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Bridget%20Jones%20is%20Mad%20about%20the%20Boy.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Bridget%20Jones%20is%20Mad%20about%20the%20Boy.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -21,7 +21,7 @@ The cast of characters introduced in the first book include Bridget’s close fr
 
 ## JANE AUSTEN INFLUENCE
 The name of the children’s [fat](## "grasso")her, Mark Darcy, is no coincidence. The novels and the movies contain references to the works of Jane Austen. Bridget Jones’s Diary alludes to Pride and Prejudice, while The [Edge](## "bordo, limite") of Reason [roughly](## "grosso modo") follows the plot of Persuasion. British actor Colin Firth played Mr. Darcy in the BBC serialisation of Pride and Prejudice, before he played Mark Darcy in the Bridget Jones films. Fellow Brit Hugh Grant has also appeared in the movie adaptation of Sense and Sensibility. In Mad About the Boy, he returns as the deliciously ambiguous Daniel Cleaver.
-**Helen Fielding:**I love Daniel as a character. Well, I also love Hugh as a character. And I think Hugh contributed a huge amount to the [funny lines](## "battute divertenti") in the movies. For example, the line in the movie where he’s seducing Bridget and she’s wearing the big pants and [he goes](## "e lui va e dice..."), “Oh, don’t worry, I’m wearing something rather similar myself. Oh, Mummy!” That came from him. So, I really wanted to keep him present and he’s [god[fat](## "grasso")her](## "padrino") to Bridget’s children. The thing about Daniel is, I think people do stay in people’s lives and old boyfriends do become friends. And you know, he’s still Daniel. He’s still, “What colour are your panties?” And still, you know, [having a crack at](## "tentare di") seduction [whenever it presents itself](## "ogni volta che si presenta l’occasione"). But he’s still in her life. And they accept each other as they are.
+**Helen Fielding:**I love Daniel as a character. Well, I also love Hugh as a character. And I think Hugh contributed a huge amount to the [funny lines](## "battute divertenti") in the movies. For example, the line in the movie where he’s seducing Bridget and she’s wearing the big pants and [he goes](## "e lui va e dice..."), “Oh, don’t worry, I’m wearing something rather similar myself. Oh, Mummy!” That came from him. So, I really wanted to keep him present and he’s god[fat](## "grasso")her to Bridget’s children. The thing about Daniel is, I think people do stay in people’s lives and old boyfriends do become friends. And you know, he’s still Daniel. He’s still, “What colour are your panties?” And still, you know, [having a crack at](## "tentare di") seduction [whenever it presents itself](## "ogni volta che si presenta l’occasione"). But he’s still in her life. And they accept each other as they are.
 
 ## A FAMILIAR FAVOURITE
 Despite now being a fifty-something mother of two children, Bridget is also largely unchanged. She is still [wracked](## "spremere le meningi") by self-doubt, questioning her own [worth](## "valore") in every aspect of her life. It does not sound much like comedy, but Fielding says she [endeavoured](## "impegnarsi") to make it incredibly funny and [relatable](## "con quelli che si identifica").
@@ -69,70 +69,70 @@ Chick lit started to decline in the 2010s. Evolving views about gender roles and
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **endeavoured** = impegnarsi
-* **gets through** = superare
-* **firelight** = luce del fuoco
-* **bachelor** = scapolo
+* **is in mourning** = essere in lutto
+* **host** = moltitudine
+* **undergarment** = indumento intimo
+* **publishing** = settore dell' editoria
+* **touchstones** = punto di riferimento, termine di paragone
+* **tied in** = essere in sintonia con
+* **darkened rooms** = stanze buie
+* **quirky** = stravagante
+* **domineering** = dominante
+* **premieres** = mostrare in anteprima
+* **wracked** = spremere le meningi
+* **makes fun of** = prendersi gioco di
+* **reprises** = riprendere
 * **Scores** = moltissimi
-* **roughly** = grosso modo
-* **barren** = sterile
-* **motherhood** = maternità
-* **sleazy** = squallido
+* **endeavoured** = impegnarsi
+* **chicks** = ragazze
 * **instalment** = numero
-* **godfather** = padrino
+* **resolving** = decidere
+* **barren** = sterile
+* **are deluded into thinking** = illudersi
+* **spinster** = zitella
+* **taken into care** = dare in affidamento
+* **relatable** = con quelli che si identifica
+* **lipstick** = rossetto
 * **mindgames** = manipolazioni psicologiche
-* **dating** = uscire (con qualcuno)
-* **intake** = consumo
-* **faithful** = fedeli
-* **Edge** = bordo, limite
+* **commissioned** = incaricare
 * **having a crack at** = tentare di
 * **point to make** = argomentare
-* **darkened rooms** = stanze buie
-* **annoying** = fastidioso
-* **fat** = grasso
-* **heralded** = annunciare
-* **turn of events** = svolta degli eventi
-* **outfits** = abiti
-* **is in mourning** = essere in lutto
-* **keep buggering on** = continuare a infastidire
-* **mean** = meschino
-* **funny lines** = battute divertenti
-* **smears** = spalmare
-* **slang** = gergo
-* **awkward** = imbarazzante
 * **girdle-like** = simile a una fascia
-* **makes fun of** = prendersi gioco di
-* **commissioned** = incaricare
-* **touchstones** = punto di riferimento, termine di paragone
-* **domineering** = dominante
-* **resolving** = decidere
-* **comes through** = uscirne vincente
-* **relatable** = con quelli che si identifica
-* **tight perm** = permanente
-* **disclosing** = rivelare
-* **lipstick** = rossetto
-* **parenthood** = genitorialità
-* **muddle** = confusione
+* **bachelor** = scapolo
 * **he goes** = e lui va e dice...
-* **are deluded into thinking** = illudersi
+* **comes through** = uscirne vincente
+* **firelight** = luce del fuoco
 * **nitwit** = stupido
 * **flatten** = appiattire
-* **short for** = abbreviazione
-* **breed** = tipo
-* **premieres** = mostrare in anteprima
-* **whenever it presents itself** = ogni volta che si presenta l’occasione
-* **worth** = valore
-* **host** = moltitudine
-* **spinster** = zitella
-* **publishing** = settore dell' editoria
-* **quirky** = stravagante
-* **resonating** = continuare a farsi sentire
-* **tied in** = essere in sintonia con
-* **wracked** = spremere le meningi
 * **rolls** = maniglie dell'amore
-* **chicks** = ragazze
-* **crap** = disastro
-* **undergarment** = indumento intimo
+* **fat** = grasso
+* **intake** = consumo
+* **faithful** = fedeli
+* **muddle** = confusione
+* **tight perm** = permanente
 * **priests** = sacerdoti
-* **reprises** = riprendere
-* **taken into care** = dare in affidamento
+* **motherhood** = maternità
+* **breed** = tipo
+* **keep buggering on** = continuare a infastidire
+* **gets through** = superare
+* **smears** = spalmare
+* **mean** = meschino
+* **awkward** = imbarazzante
+* **godfather** = padrino
+* **turn of events** = svolta degli eventi
+* **crap** = disastro
+* **worth** = valore
+* **slang** = gergo
+* **dating** = uscire (con qualcuno)
+* **short for** = abbreviazione
+* **heralded** = annunciare
+* **resonating** = continuare a farsi sentire
+* **sleazy** = squallido
+* **outfits** = abiti
+* **Edge** = bordo, limite
+* **parenthood** = genitorialità
+* **whenever it presents itself** = ogni volta che si presenta l’occasione
+* **annoying** = fastidioso
+* **roughly** = grosso modo
+* **funny lines** = battute divertenti
+* **disclosing** = rivelare

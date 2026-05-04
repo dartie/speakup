@@ -8,7 +8,7 @@ La loro scoperta ha contribuito a una società più sana e longeva, ma ne abbiam
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/The%20Problem%20With%20Antibiotics.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/The%20Problem%20With%20Antibiotics.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -36,50 +36,50 @@ Published in The Guardian on 17 August 2025. Reprinted with permission. 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **forgo** = rinunciare
 * **depletes** = esaurire
-* **carefree** = spensierato
-* **were already aware** = essere consapevoli
-* **moulds** = muffe
-* **framing** = approccio
-* **tackle** = contrastare
-* **phased out** = eliminare gradualmente
-* **pilot scheme** = programma pilota
-* **regardless** = indipendentemente
-* **prescient** = profetico
-* **ingenuity** = ingegno, intelligenza
-* **the late 1930s** = alla fine degli anni ‘30
-* **concomitant** = associati
-* **high-income** = ad alto reddito
-* **urging** = esortare
-* **aren’t the only game in town** = non è l’unica opzione disponibile
-* **reckoning** = resa dei conti
-* **lord** = dominare, prevalere
-* **tissues** = tessuti
 * **sanitation** = igiene, sanificazione
-* **unlike** = diversi da
-* **laid global inequalities bare** = svelare, mettere a nudo
-* **taking hold** = prendere il sopravvento
 * **due to** = dovuto a
-* **overused** = abusare
-* **lack** = mancanza
-* **undergo an operation** = sottoporsi a un’operazione
-* **fungi** = funghi
-* **coal** = carbone
-* **swarm into** = invadere
-* **priced in** = includere nel prezzo
+* **blood poisoning** = sepsi
+* **wastewater** = acque reflue
+* **phased out** = eliminare gradualmente
+* **carefree** = spensierato
+* **unlike** = diversi da
+* **tackle** = contrastare
 * **take a moral stand** = assumere una posizione morale
-* **NHS** = Servizio Sanitario Nazionale (National Health Service)
-* **whooping cough** = pertosse
+* **rippled out** = propagarsi
+* **overlooks** = trascurare, ignorare
+* **moulds** = muffe
+* **lord** = dominare, prevalere
 * **dampening** = attenuare, smorzare
 * **drowsiness** = sonnolenza
-* **overlooks** = trascurare, ignorare
+* **ingenuity** = ingegno, intelligenza
+* **lack** = mancanza
+* **prescient** = profetico
+* **undergo an operation** = sottoporsi a un’operazione
 * **pinch** = pizzico
-* **scarce** = scarsa
-* **rippled out** = propagarsi
-* **soil** = suolo
-* **forgo** = rinunciare
+* **aren’t the only game in town** = non è l’unica opzione disponibile
+* **whooping cough** = pertosse
+* **reckoning** = resa dei conti
 * **run clean out** = esaurire completamente
 * **forecast** = prevedere
-* **blood poisoning** = sepsi
+* **framing** = approccio
+* **coal** = carbone
+* **scarce** = scarsa
+* **tissues** = tessuti
+* **concomitant** = associati
+* **overused** = abusare
+* **the late 1930s** = alla fine degli anni ‘30
+* **NHS** = Servizio Sanitario Nazionale (National Health Service)
+* **regardless** = indipendentemente
+* **swarm into** = invadere
+* **were already aware** = essere consapevoli
+* **fungi** = funghi
+* **priced in** = includere nel prezzo
+* **high-income** = ad alto reddito
+* **pilot scheme** = programma pilota
+* **taking hold** = prendere il sopravvento
 * **close quarters** = spazi ristretti
-* **wastewater** = acque reflue
+* **soil** = suolo
+* **laid global inequalities bare** = svelare, mettere a nudo
+* **urging** = esortare

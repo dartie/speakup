@@ -8,7 +8,7 @@ Questa californiana di origini indiane e giamaicane aspira a diventare la prima 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/Kamala%20Harris%20The%20Democratic%20Nominee.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/Kamala%20Harris%20The%20Democratic%20Nominee.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -45,42 +45,42 @@ If you’re wondering why a palm tree or coconut emoji appears on tweets referri
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **surge** = impennata
-* **to address** = affrontare
-* **to appoint** = nominare
-* **bring a fractured America together** = unire
-* **reminder** = promemoria
-* **reshaping** = rimodellare
-* **pledged** = impegnarsi
-* **gravitas** = serietà, solennità
-* **relentless** = implacabile
-* **to scatter** = spargere
-* **quirky** = peculiare, particolare
-* **dropped out** = abbandonare
-* **the latter** = questi ultimi
-* **lies** = essere, trovarsi
+* **prosecutor** = pubblico ministero
 * **PhD** = dottorato di ricerca
-* **awareness** = consapevolezza
-* **funding** = finanziamenti
-* **whirlwind** = frenetica
+* **reminder** = promemoria
+* **dropped out** = abbandonare
+* **pledged** = impegnarsi
 * **endorsement** = appoggio, sostegno
-* **law enforcement** = forze dell’ordine
-* **stark** = crudo, duro
-* **estranged** = allontanata
-* **be seeking** = cercare
-* **unions** = sindacati
-* **relief** = sollievo
-* **mocked** = deridere
-* **to step in** = intervenire
-* **vocal** = espliciti
+* **builds on** = basarsi su
 * **quote** = citazione
+* **be seeking** = cercare
+* **reshaping** = rimodellare
+* **removed** = eliminare
+* **lacks** = mancare
+* **stark** = crudo, duro
+* **awareness** = consapevolezza
+* **to appoint** = nominare
+* **whirlwind** = frenetica
+* **vocal** = espliciti
+* **estranged** = allontanata
+* **to address** = affrontare
+* **relentless** = implacabile
+* **lies** = essere, trovarsi
+* **surge** = impennata
+* **bring a fractured America together** = unire
+* **to step in** = intervenire
 * **mistrusted** = diffidare
 * **came under scrutiny** = essere sottoposto ad esame
-* **removed** = eliminare
-* **builds on** = basarsi su
-* **lacks** = mancare
-* **prosecutor** = pubblico ministero
-* **tough** = tenace
-* **to take them away** = togliere, sottrarre
+* **the latter** = questi ultimi
+* **quirky** = peculiare, particolare
+* **mocked** = deridere
 * **melting pot** = crogiolo
+* **unions** = sindacati
+* **tough** = tenace
+* **relief** = sollievo
+* **to take them away** = togliere, sottrarre
+* **funding** = finanziamenti
+* **law enforcement** = forze dell’ordine
+* **to scatter** = spargere
 * **ashes** = ceneri
+* **gravitas** = serietà, solennità

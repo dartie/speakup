@@ -8,7 +8,7 @@ Qui vengono prese alcune delle decisioni più importanti della politica statunit
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/The%20Oval%20Office%20The%20Most%20Famous%20Office%20In%20The%20World.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/The%20Oval%20Office%20The%20Most%20Famous%20Office%20In%20The%20World.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,21 +33,21 @@ If you want to know more about this topic, read the articles The White House: T
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **greet** = salutare
-* **shaped** = a forma di
-* **oversaw** = supervisionare
-* **blended** = mischiare
-* **gilded** = dorati
-* **gather** = riunirsi
-* **layout** = disposizione
-* **timbers** = travi di legno
 * **HMS** = nave di Sua Maestà ('Her/His Majesty’s Ship')
 * **seascape** = paesaggi marini
-* **conceals** = nascondere
-* **convenience** = comodità
-* **Crafted** = realizzare
-* **Rumour has it** = si dice che
+* **displayed** = esporre
+* **gilded** = dorati
+* **greet** = salutare
+* **shaped** = a forma di
+* **seal** = sigillo
+* **timbers** = travi di legno
+* **blended** = mischiare
 * **cherubs** = cherubini
 * **gold-plated** = placcati in oro
-* **seal** = sigillo
-* **displayed** = esporre
+* **conceals** = nascondere
+* **oversaw** = supervisionare
+* **Rumour has it** = si dice che
+* **convenience** = comodità
+* **layout** = disposizione
+* **Crafted** = realizzare
+* **gather** = riunirsi

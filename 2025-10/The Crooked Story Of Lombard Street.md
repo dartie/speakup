@@ -8,7 +8,7 @@ Lunga meno di duecento metri, la cosiddetta “strada più tortuosa del mondo”
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/The%20Crooked%20Story%20Of%20Lombard%20Street.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/The%20Crooked%20Story%20Of%20Lombard%20Street.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,11 +35,11 @@ A U-turn.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **steep** = ripido
-* **from two- to one-way** = da doppio senso a senso unico
-* **Wheel** = veicolo (lett. ruota)
-* **Regardless** = a prescindere
 * **fee** = tassa
 * **the crookedest** = la più tortuosa
 * **sharp turns** = curve strette
 * **hill** = collina
+* **steep** = ripido
+* **from two- to one-way** = da doppio senso a senso unico
+* **Wheel** = veicolo (lett. ruota)
+* **Regardless** = a prescindere

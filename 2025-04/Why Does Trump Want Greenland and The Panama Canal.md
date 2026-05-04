@@ -8,7 +8,7 @@ Pur negando il cambiamento climatico, Trump sta attuando una serie di strategie 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/Why%20Does%20Trump%20Want%20Greenland%20and%20The%20Panama%20Canal.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/Why%20Does%20Trump%20Want%20Greenland%20and%20The%20Panama%20Canal.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -41,43 +41,43 @@ Publi[shed](## "perdere") in The Guardian on 13 January 2025. Reprinted with per
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **stark** = cruda
+* **tariffs** = tariffe
+* **Polar Silk Road** = Via della seta polare
 * **cuts down** = ridurre
-* **shed** = perdere
-* **it handed over** = consegnare
-* **has stoked** = alimentare
-* **overlooked** = ignorare
-* **ramped up** = intensificare
-* **upending** = cambiamento radicale
+* **to plummet** = precipitare
+* **thoroughfare** = via
 * **rush** = corsa
 * **scramble** = confusione
-* **to seize** = appropriarsi
-* **hoax** = bufala
-* **pathway** = via
 * **taking hold** = prendere piede
-* **seats** = seggi
-* **stark** = cruda
+* **strained** = mettere sotto pressione
+* **rationale** = ragione
+* **hoax** = bufala
 * **ice sheet** = cappa di ghiaccio
+* **shed** = perdere
+* **spur** = provocare
+* **at our peril** = a tuo rischio e pericolo
+* **warned** = avvertire
+* **ramped up** = intensificare
+* **acknowledged** = riconoscere
 * **coal** = carbone
 * **shipping routes** = rotte marittime
-* **to plummet** = precipitare
-* **at our peril** = a tuo rischio e pericolo
-* **wrangling** = disputa
-* **acknowledged** = riconoscere
-* **drilling** = perforare
-* **warned** = avvertire
-* **has sought** = cercare
-* **tariffs** = tariffe
-* **rationale** = ragione
-* **dwindles** = diminuire
+* **pathway** = via
 * **drought** = siccità
-* **gripped** = avvincere
 * **slumped** = crollare
-* **strained** = mettere sotto pressione
-* **refashion** = rimodellare
-* **Polar Silk Road** = Via della seta polare
-* **give it up** = rinunciare
-* **to rule out** = escludere
-* **spur** = provocare
-* **thoroughfare** = via
+* **wrangling** = disputa
+* **dwindles** = diminuire
+* **seats** = seggi
+* **gripped** = avvincere
+* **upending** = cambiamento radicale
 * **hatching** = architettare
+* **to seize** = appropriarsi
+* **to rule out** = escludere
+* **give it up** = rinunciare
+* **has stoked** = alimentare
 * **trample over** = calpestare
+* **overlooked** = ignorare
+* **it handed over** = consegnare
+* **drilling** = perforare
+* **refashion** = rimodellare
+* **has sought** = cercare

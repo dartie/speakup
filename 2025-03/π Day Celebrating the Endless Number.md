@@ -8,7 +8,7 @@ La giornata internazionale della matematica si celebra il 14 marzo, grazie a un 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/%CF%80%20Day%20Celebrating%20the%20Endless%20Number.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/%CF%80%20Day%20Celebrating%20the%20Endless%20Number.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,21 +35,21 @@ So, maths is everywhere, and by learning and appreciating it, we can discover ho
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **to measure** = misurare
-* **traced back** = risalire a
-* **GPS** = acronimo di Global Positioning System
-* **lowercase** = minuscola
 * **approaches** = approcci
-* **bake** = cuocere al forno
-* **pies** = torte
-* **budget** = bilancio di previsione
-* **skills** = competenze
-* **chess** = scacchi
-* **trillions** = bilione
-* **enabled** = permettere
-* **to encourage** = incentivare
-* **UNESCO** = United Nations Educational, Scientific and Cultural Organization
-* **bills** = fatture
 * **shapes** = modellare
 * **Welsh** = gallese
+* **trillions** = bilione
+* **enabled** = permettere
+* **UNESCO** = United Nations Educational, Scientific and Cultural Organization
+* **pies** = torte
+* **bills** = fatture
+* **lowercase** = minuscola
+* **traced back** = risalire a
 * **builders** = costruttori
+* **bake** = cuocere al forno
+* **GPS** = acronimo di Global Positioning System
+* **budget** = bilancio di previsione
+* **chess** = scacchi
+* **to measure** = misurare
+* **to encourage** = incentivare
+* **skills** = competenze

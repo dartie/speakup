@@ -8,7 +8,7 @@ Wikipedia è un progetto globale che collega culture e lingue, preserva le lingu
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/Going%20Global.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/Going%20Global.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -34,12 +34,12 @@ Michael Peel: We want to make sure it’s a multi-generational project, we want 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **pugnacious** = combattivo, aggressivo
 * **bilious** = irritabili
 * **has stuck to** = rimanere fedele a
+* **Issues** = questioni
 * **elsewhere** = altrove
 * **endangered** = in pericolo di estinzione
 * **labels** = etichette
-* **pugnacious** = combattivo, aggressivo
-* **Issues** = questioni
 * **from scratch** = da zero
 * **live on** = perdurare

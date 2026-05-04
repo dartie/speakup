@@ -8,7 +8,7 @@ Apice della letteratura modernista, questo poema di 433 versi, che attinge a leg
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20Waste%20Land%20by%20T.%20S.%20Eliot.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20Waste%20Land%20by%20T.%20S.%20Eliot.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -97,19 +97,19 @@ Beautiful and devastating, [The Waste Land](## ""La terra desolata"") had a majo
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **playwright** = drammaturgo
-* **citizenship** = cittadinanza
-* **oblique** = indiretti
-* **arrangement** = disposizione
-* **in the aftermath of** = dopo i disastri di
-* **clairvoyant** = veggente
-* **Theban prophet** = profeta tebano
-* **A Handful of Dust** = "Una manciata di polvere"
 * **seminal** = influente
 * **The Waste Land** = "La terra desolata"
-* **fellow** = collega
-* **chime** = suonare
-* **typist** = dattilografa
-* **draw their own conclusions** = trarre conclusioni
+* **playwright** = drammaturgo
 * **tuning** = sintonizzare
+* **typist** = dattilografa
 * **acquaintance** = conoscente
+* **draw their own conclusions** = trarre conclusioni
+* **in the aftermath of** = dopo i disastri di
+* **citizenship** = cittadinanza
+* **fellow** = collega
+* **Theban prophet** = profeta tebano
+* **oblique** = indiretti
+* **chime** = suonare
+* **clairvoyant** = veggente
+* **A Handful of Dust** = "Una manciata di polvere"
+* **arrangement** = disposizione

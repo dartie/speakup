@@ -8,7 +8,7 @@ Il 14 maggio è la Giornata internazionale di Dylan Thomas, una celebrazione del
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/Dylan%20Thomas%20Celebrating%20the%20Great%20Welsh%20Poet.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/Dylan%20Thomas%20Celebrating%20the%20Great%20Welsh%20Poet.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -29,14 +29,14 @@ International Dylan Thomas Day on 14 May marks the anniversary of when Thomas’
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **reflects upon** = riflettere su
 * **old age** = la vecchiaia
+* **rage** = infuriarsi
+* **smog** = nebbia inquinata ("sm(oke") + ("f)og")
+* **Under Milk Wood** = "Sotto il bosco di latte"
+* **rehearsal** = prova
+* **coming to a close** = stare per finire
+* **heavy drinker** = bevitore accanito
+* **conveying** = comunicare
 * **plays** = opere teatrali
 * **broadcasts** = trasmissioni
-* **rehearsal** = prova
-* **smog** = nebbia inquinata ("sm(oke") + ("f)og")
-* **conveying** = comunicare
-* **Under Milk Wood** = "Sotto il bosco di latte"
-* **reflects upon** = riflettere su
-* **coming to a close** = stare per finire
-* **rage** = infuriarsi
-* **heavy drinker** = bevitore accanito

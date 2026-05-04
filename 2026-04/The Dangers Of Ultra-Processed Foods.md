@@ -8,7 +8,7 @@ Secondo diversi studi, gli alimenti ultraprocessati dovrebbero essere regolament
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/The%20Dangers%20Of%20Ultra-Processed%20Foods.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/The%20Dangers%20Of%20Ultra-Processed%20Foods.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -48,39 +48,39 @@ Published in The Guardian on 3 February 2026. Reprinted with permission.
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **burden** = fardello
-* **non-communicable diseases** = malattie non trasmissibili
-* **ready meals** = piatti pronti
-* **glazing agents** = agenti di rivestimento
-* **formula milk** = latte artificiale
-* **fits** = corrispondere
-* **emulsifiers** = emulsionanti
-* **akin to** = simile a
+* **benchmarks** = parametri di riferimento
 * **warrant** = richiedere, meritare
-* **fizzy drinks** = bibite gassate
-* **gut microbiota** = microbiota intestinale
-* **soft drinks** = bibite
-* **stall** = ostacolare, frenare
-* **pattern** = schema
+* **fits** = corrispondere
+* **well-worn** = trito e ritrito
 * **irrespective of** = indipendentemente da
 * **accountability** = responsabilità
-* **potato starch** = fecola di patate
-* **thickeners** = addensanti
-* **reward pathways** = sistemi di ricompensa
-* **crave** = avere voglia di, desiderare
 * **stretched** = sovraccarico
-* **commensurate with** = adeguata a, proporzionata a
-* **risks they pose** = comportare rischi
-* **soda** = bibite
-* **blame** = incolpare
-* **benchmarks** = parametri di riferimento
-* **toddler** = bambino piccolo (da uno a tre anni)
-* **levers** = leve
-* **foodstuffs** = prodotti alimentari
-* **overreach** = eccesso, forzatura
-* **Amref** = African Medical and Research Foundation (ONG)
-* **outcomes** = esiti
+* **non-communicable diseases** = malattie non trasmissibili
+* **formula milk** = latte artificiale
 * **far tighter regulation** = regolamentazione molto più rigorosa
 * **harms** = danni
+* **soft drinks** = bibite
+* **crave** = avere voglia di, desiderare
+* **soda** = bibite
+* **ready meals** = piatti pronti
+* **potato starch** = fecola di patate
+* **thickeners** = addensanti
+* **emulsifiers** = emulsionanti
+* **reward pathways** = sistemi di ricompensa
+* **pattern** = schema
+* **overreach** = eccesso, forzatura
+* **burden** = fardello
+* **glazing agents** = agenti di rivestimento
+* **outcomes** = esiti
 * **draw on** = basarsi su
-* **well-worn** = trito e ritrito
+* **risks they pose** = comportare rischi
+* **levers** = leve
+* **stall** = ostacolare, frenare
+* **blame** = incolpare
+* **toddler** = bambino piccolo (da uno a tre anni)
+* **gut microbiota** = microbiota intestinale
+* **akin to** = simile a
+* **Amref** = African Medical and Research Foundation (ONG)
+* **fizzy drinks** = bibite gassate
+* **commensurate with** = adeguata a, proporzionata a
+* **foodstuffs** = prodotti alimentari

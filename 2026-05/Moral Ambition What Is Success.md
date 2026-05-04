@@ -8,7 +8,7 @@ In una società dove avere successo significa fare carriera e guadagnare stipend
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/Moral%20Ambition%20What%20Is%20Success.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/Moral%20Ambition%20What%20Is%20Success.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,28 +40,28 @@ The world often focuses on the most visible problems. Look for those that others
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **awareness** = consapevolezza
-* **tuition** = tasse universitarie
-* **Sizable** = grande
-* **high-achieving** = di grande successo
-* **undergraduates** = studenti universitari
-* **upbeat** = ottimista
-* **profit-driven** = orientate al profitto
-* **mindset** = mentalità
-* **teamed up** = fare squadra
-* **channel** = indirizzare
-* **survey** = sondaggio
-* **all-consuming** = totalizzante
-* **job market** = mercato del lavoro
-* **mounting** = crescente
 * **elsewhere** = altrove
-* **Strive** = sforzarsi
+* **job market** = mercato del lavoro
+* **Fellowship** = borsa di studio
+* **channel** = indirizzare
+* **seniors** = studenti dell’ultimo anno
+* **mounting** = crescente
+* **profit-driven** = orientate al profitto
 * **of value** = di valore
 * **supercharged** = sovralimentare
-* **Fellowship** = borsa di studio
-* **informed** = influenzare
+* **all-consuming** = totalizzante
+* **awareness** = consapevolezza
 * **merge** = fondere
-* **seniors** = studenti dell’ultimo anno
-* **Overlooked** = ignorare
+* **survey** = sondaggio
+* **Strive** = sforzarsi
 * **brainchild** = idea
+* **upbeat** = ottimista
+* **mindset** = mentalità
+* **teamed up** = fare squadra
+* **tuition** = tasse universitarie
+* **Sizable** = grande
+* **Overlooked** = ignorare
+* **high-achieving** = di grande successo
+* **undergraduates** = studenti universitari
 * **widening gap** = divario crescente
+* **informed** = influenzare

@@ -8,7 +8,7 @@ Considerato una delle menti più brillanti del XX secolo, questo matematico visi
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Alan%20Turing%20The%20Father%20of%20Modern%20Computing.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Alan%20Turing%20The%20Father%20of%20Modern%20Computing.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,22 +35,22 @@ In 1952, Turing’s personal life intruded into his brilliant career. He was [pr
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **passed** = superare
 * **prosecuted** = perseguire
+* **shortened** = accorciare, ridurre
+* **seminal** = influente
+* **broke out** = scoppiare
+* **standard** = norma
+* **He underwent** = sottoporsi a
+* **reliably** = in modo affidabile
 * **gross indecency.** = atti osceni
+* **Cypher** = codice, messaggio cifrato
+* **groundbreaking** = rivoluzionario
+* **Act** = legge
+* **papers** = articoli accademici
 * **settings** = configurazioni
 * **attempt** = tentativo
-* **standard** = norma
-* **stored-program** = programma memorizzato
-* **passed** = superare
-* **He underwent** = sottoporsi a
-* **break Nazi Germany’s military codes** = decifrare un codice
-* **Cypher** = codice, messaggio cifrato
-* **papers** = articoli accademici
-* **reliably** = in modo affidabile
-* **groundbreaking** = rivoluzionario
-* **encapsulated** = racchiudere
-* **broke out** = scoppiare
 * **tell the machine from** = distinguere ... da ...
-* **shortened** = accorciare, ridurre
-* **Act** = legge
-* **seminal** = influente
+* **break Nazi Germany’s military codes** = decifrare un codice
+* **encapsulated** = racchiudere
+* **stored-program** = programma memorizzato

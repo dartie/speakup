@@ -8,7 +8,7 @@ Maestro del brivido, i suoi thriller psicologici e il suo perverso senso dell’
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/Alfred%20Hitchcock%20The%20Master%20Of%20Suspense.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/Alfred%20Hitchcock%20The%20Master%20Of%20Suspense.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -62,40 +62,40 @@ The director was famously [portly](## "corpulento"), with [life-long](## "di tut
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **engaged** = coinvolgere
-* **naughty** = cattivi, monelli
-* **silent movies** = film muti
-* **Blackmail** = ricatto
-* **Spellbound** = incantato (titolo italiano: "Io ti salverò")
-* **dyed** = tingere
-* **portly** = corpulento
-* **kidney failure** = insufficienza renale
-* **screenwriter** = sceneggiatrice
-* **framed** = incastrare
-* **framing shots** = inquadrare le scene
-* **distinctive features** = tratti distintivi
+* **Lodger** = inquilino
 * **laughter** = risate
-* **playing pranks** = fare scherzi
-* **cast and crew** = cast e troupe
-* **mesmeric** = ammalianti
-* **blend** = combinazione
-* **Dial** = digitare
-* **gaze** = sguardo
+* **cattle** = bestiame
+* **screenwriter** = sceneggiatrice
+* **Spellbound** = incantato (titolo italiano: "Io ti salverò")
+* **chilling tale** = racconto agghiacciante
+* **wheelchair-bound** = costretto su una sedia a rotelle
+* **distinctive features** = tratti distintivi
+* **GASP** = sussultare
+* **framed** = incastrare
+* **naughty** = cattivi, monelli
+* **title card designer** = disegnatore di didascalie
 * **in full flow** = in pieno fermento
+* **droll delivery** = modo di parlare arguto e diretto
+* **engaged** = coinvolgere
+* **relentlessly** = senza tregua
+* **Blackmail** = ricatto
 * **The former** = il primo
 * **Notorious** = famigerato (titolo italiano: "L’amante perduta")
-* **droll delivery** = modo di parlare arguto e diretto
-* **cattle** = bestiame
-* **title card designer** = disegnatore di didascalie
-* **life-long** = di tutta la vita
-* **Lodger** = inquilino
-* **outstanding** = eccezionali
-* **chilling tale** = racconto agghiacciante
-* **relentlessly** = senza tregua
-* **steak meals** = pasti a base di carne
+* **Dial** = digitare
+* **dyed** = tingere
+* **mesmeric** = ammalianti
 * **talkie** = film sonoro
-* **GASP** = sussultare
 * **greeted** = accogliere, ricevere
-* **Rear Window** = finestra sul retro (titolo italiano: "La finestra sul cortile")
-* **wheelchair-bound** = costretto su una sedia a rotelle
+* **gaze** = sguardo
+* **cast and crew** = cast e troupe
+* **outstanding** = eccezionali
+* **portly** = corpulento
+* **steak meals** = pasti a base di carne
+* **life-long** = di tutta la vita
+* **blend** = combinazione
 * **ruthless** = spietate
+* **framing shots** = inquadrare le scene
+* **playing pranks** = fare scherzi
+* **kidney failure** = insufficienza renale
+* **silent movies** = film muti
+* **Rear Window** = finestra sul retro (titolo italiano: "La finestra sul cortile")

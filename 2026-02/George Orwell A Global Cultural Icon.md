@@ -8,7 +8,7 @@ Considerato uno dei più importanti scrittori del XX secolo, è stato un convint
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/George%20Orwell%20A%20Global%20Cultural%20Icon.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/George%20Orwell%20A%20Global%20Cultural%20Icon.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -59,38 +59,38 @@ Orwell’s character was complex. Often [awkward](## "impacciato") in social si
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **slots** = fessure
-* **striking** = scoccare, battere l’ora
-* **get in the way** = intralciare
-* **awkward** = impacciato
-* **tramp** = vagabondo
-* **commissioned** = incaricare
-* **account** = resoconto
-* **in the saddle** = al comando (lett. in sella)
-* **brotherhood** = fratellanza
-* **wintry** = invernale, gelida
-* **enactment** = applicazione
-* **resigning** = dimettersi
-* **unfit** = non idoneo
-* **grieving** = essere in lutto
-* **for its own sake** = fine a sé stesso
 * **Airstrip** = pista d’atterraggio
-* **set off** = partire
-* **Down and Out** = al verde, senza un soldo
-* **watershed** = cruciale, decisiva
-* **civil servant** = funzionario pubblico
-* **menial jobs** = lavori umili
-* **shorthand** = sintesi
-* **mislead** = confondere
-* **made his name** = rendere famoso
-* **betrayal** = tradimento
-* **Foreign Office** = Ministero degli Affari Esteri
-* **barren** = arida
-* **intoxicated** = inebriato
-* **old quarter** = centro storico
-* **turns language on its head** = capovolgere
-* **moving** = commovente
 * **surveillance** = sorveglianza
-* **uncompromising** = inflessibile
+* **striking** = scoccare, battere l’ora
+* **civil servant** = funzionario pubblico
+* **Down and Out** = al verde, senza un soldo
+* **account** = resoconto
+* **barren** = arida
+* **tramp** = vagabondo
+* **unfit** = non idoneo
+* **get in the way** = intralciare
+* **grieving** = essere in lutto
+* **shorthand** = sintesi
+* **intoxicated** = inebriato
+* **brotherhood** = fratellanza
+* **mislead** = confondere
+* **slots** = fessure
+* **set off** = partire
+* **made his name** = rendere famoso
+* **moving** = commovente
+* **for its own sake** = fine a sé stesso
+* **turns language on its head** = capovolgere
+* **Foreign Office** = Ministero degli Affari Esteri
+* **old quarter** = centro storico
+* **awkward** = impacciato
+* **betrayal** = tradimento
+* **menial jobs** = lavori umili
 * **outlook** = prospettiva, visione
+* **watershed** = cruciale, decisiva
+* **resigning** = dimettersi
+* **enactment** = applicazione
+* **in the saddle** = al comando (lett. in sella)
+* **uncompromising** = inflessibile
+* **wintry** = invernale, gelida
+* **commissioned** = incaricare
 * **Pier** = molo

@@ -8,7 +8,7 @@ Poche cose ci fanno stare bene come lo stare in contatto con la natura. In Gran 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/The%20Right%20to%20Roam%20Access%20to%20the%20Countryside.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/The%20Right%20to%20Roam%20Access%20to%20the%20Countryside.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -36,34 +36,34 @@ www.rightto[roam](## "vagare").org.uk
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **widespread** = diffusi, sparsi
-* **ranks bottom** = essere all’ultimo posto
-* **hikers** = escursionisti
-* **summit** = cima, vetta
-* **leasehold estate** = locazione a lungo termine
-* **foresters** = guardie forestali
-* **Fences** = recinzioni
-* **prosecuted** = perseguire legalmente
-* **less likely** = meno portati
-* **wander around** = passeggiare, girovagare
-* **climbed** = scalare
-* **gamekeepers** = guardiacaccia
-* **game and hunting** = selvaggina e caccia
-* **even further** = ancora di più
 * **Ramblers** = escursionisti
-* **Rights of Way** = diritti di passaggio
-* **moorland** = brughiera
-* **Act** = legge
-* **roam** = vagare
-* **rewarded** = ricompensare
 * **wellbeing** = benessere
-* **ownership** = proprietà
-* **taxation** = tassazione
-* **footpaths** = sentieri pedonali
-* **enclosure acts** = leggi sulle recinzioni
-* **grasslands** = praterie
+* **roam** = vagare
 * **freehold estate** = proprietà fondiaria piena e illimitata
+* **prosecuted** = perseguire legalmente
+* **wander around** = passeggiare, girovagare
+* **Rights of Way** = diritti di passaggio
+* **climbed** = scalare
 * **barbed wire** = filo spinato
-* **Trespassers** = intrusi, trasgressori
-* **granted** = concedere
+* **grasslands** = praterie
+* **hikers** = escursionisti
+* **Fences** = recinzioni
+* **even further** = ancora di più
 * **speaking up** = farsi sentire, parlare apertamente
+* **summit** = cima, vetta
+* **ranks bottom** = essere all’ultimo posto
+* **ownership** = proprietà
+* **moorland** = brughiera
+* **taxation** = tassazione
+* **widespread** = diffusi, sparsi
+* **granted** = concedere
+* **enclosure acts** = leggi sulle recinzioni
+* **rewarded** = ricompensare
+* **foresters** = guardie forestali
+* **Trespassers** = intrusi, trasgressori
+* **game and hunting** = selvaggina e caccia
+* **less likely** = meno portati
+* **Act** = legge
+* **leasehold estate** = locazione a lungo termine
+* **gamekeepers** = guardiacaccia
+* **footpaths** = sentieri pedonali

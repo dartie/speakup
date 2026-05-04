@@ -8,7 +8,7 @@ Preparatevi a commuovervi con la terza stagione di Bridgerton che continua ad af
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/The%20Polin%20Season.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/The%20Polin%20Season.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -72,46 +72,46 @@ On watching the completed season, Nicola Coughlan concludes that the story is ve
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **giving up** = arrendersi
-* **relatable** = verosimile
-* **rooting for** = sostenere
-* **Romancing** = corteggiare
-* **to plot** = pianificare
-* **counterpart** = omologa
-* **heads back** = ritornare
-* **step into their power** = prendere il sopravvento
 * **to give these female characters agency** = conferire il diritto di azione
-* **peek** = occhiata
-* **are in for a surprise** = essere sorpresi
-* **to lean into** = fare affidamento su
-* **turning them on their head** = capovolgere
-* **curtseying** = fare una riverenza
-* **blow the whistle** = fare una soffiata
-* **falconry** = falconeria
-* **underdogs** = sfavoriti
+* **pine for** = struggersi, anelare
+* **cast and crew** = gli attori e la produzione
+* **wrecking** = rovinare
 * **suitors** = pretendenti
+* **are in for a surprise** = essere sorpresi
+* **coziness** = tepore
+* **to lean into** = fare affidamento su
+* **curtseying** = fare una riverenza
+* **rooting for** = sostenere
+* **underdogs** = sfavoriti
+* **to plot** = pianificare
+* **giving up** = arrendersi
 * **taken over** = prendere il comando
-* **deserving** = meritevole
-* **wrist** = polso
-* **tropes** = tropi
+* **falconry** = falconeria
+* **bear much resemblance** = avere somiglianza
+* **counterpart** = omologa
+* **buzz** = entusiasmo
+* **very fond of** = appassionato di
+* **stubborn** = ostinato
+* **mart** = mercato
+* **blow the whistle** = fare una soffiata
+* **leisurely** = piacevole
+* **step into their power** = prendere il sopravvento
+* **peek** = occhiata
+* **to reassure** = rassicurare
+* **romcom** = commedia romantica
+* **relatable** = verosimile
+* **wallflower** = chi fa tappezzeria
+* **Romancing** = corteggiare
+* **awkward banter** = scambio di battute imbarazzanti
 * **regally** = regalmente
 * **underlying** = che sta alla base
-* **pine for** = struggersi, anelare
-* **bear much resemblance** = avere somiglianza
-* **wrecking** = rovinare
-* **drawn out of the shadows** = uscire dall’ombra
-* **to reassure** = rassicurare
-* **worthy** = degno
-* **cast and crew** = gli attori e la produzione
-* **wallflower** = chi fa tappezzeria
-* **very fond of** = appassionato di
-* **romcom** = commedia romantica
-* **mart** = mercato
 * **wrongdoing** = illecito, reato
-* **leisurely** = piacevole
-* **unrequited crush** = cotta non corrisposta
-* **buzz** = entusiasmo
-* **stubborn** = ostinato
-* **coziness** = tepore
-* **awkward banter** = scambio di battute imbarazzanti
 * **overhearing** = sentire di sfuggita
+* **drawn out of the shadows** = uscire dall’ombra
+* **worthy** = degno
+* **wrist** = polso
+* **heads back** = ritornare
+* **turning them on their head** = capovolgere
+* **deserving** = meritevole
+* **unrequited crush** = cotta non corrisposta
+* **tropes** = tropi

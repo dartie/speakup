@@ -8,7 +8,7 @@ Le devastanti alluvioni verificatesi negli ultimi mesi sono la prova che il camb
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/Spain%E2%80%99s%20Apocalyptic%20Floods%20Undeniable%20Truth%20The%20Climate%20Crisis%20Is%20Getting%20Worse.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/Spain%E2%80%99s%20Apocalyptic%20Floods%20Undeniable%20Truth%20The%20Climate%20Crisis%20Is%20Getting%20Worse.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,52 +35,52 @@ The scenes in Spain and elsewhere should be a [jolt](## "scossa") to the global
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **shift** = cambiare
-* **outrage** = rabbia
-* **mud** = fango
-* **freakish** = strani
-* **downpours** = acquazzoni, piogge torrenziali
 * **pile-ups** = incidenti, tamponamenti
+* **compelling** = costringere
+* **pattern** = modello
+* **fix** = risolvere
+* **moisture** = umidità
+* **dumped** = scaricare
+* **to tackle** = affrontare
+* **hold up** = fermare
+* **ripped off** = strappare
+* **deadens** = smorzare
+* **floods** = inondazioni
+* **take in** = assimilare, comprendere
+* **halting** = fermare
+* **downpours** = acquazzoni, piogge torrenziali
 * **pump** = pompare
+* **running out** = finire
+* **crunch time** = momento decisivo
+* **for real** = sul serio
+* **Move on** = andare oltre
+* **loading the dice** = truccare i dadi
+* **warned** = avvisare
+* **summit** = vertice
 * **baselines** = punti di riferimento
 * **$100bn** = 100 miliardi di dollari
-* **running out** = finire
-* **take in** = assimilare, comprendere
-* **fate** = destino
+* **deluged** = inondare
+* **jolt** = scossa
+* **skittled** = urtare come birilli
+* **mud** = fango
+* **freakish** = strani
+* **Commuters** = pendolari
+* **slash** = ridurre
+* **things bare** = mettere a nudo, rivelare
+* **carry on** = continuar
+* **to lock up** = imprigionare
+* **UN** = ONU (United Nations)
+* **coal** = carbone
+* **swept away** = spazzare via
+* **shift** = cambiare
+* **to pick up** = acquistare
+* **snapped** = rompere
+* **twigs** = rametti
+* **default** = predefinito
+* **lifting the cover off** = togliere il coperchio
 * **bowling pins** = birilli da bowling
 * **bobbing** = oscillare
-* **droughts** = siccità
-* **Commuters** = pendolari
-* **snapped** = rompere
-* **lifting the cover off** = togliere il coperchio
-* **pattern** = modello
-* **halting** = fermare
-* **to tackle** = affrontare
-* **slash** = ridurre
-* **floods** = inondazioni
-* **loading the dice** = truccare i dadi
-* **summit** = vertice
-* **to lock up** = imprigionare
-* **deadens** = smorzare
-* **for real** = sul serio
-* **things bare** = mettere a nudo, rivelare
-* **Move on** = andare oltre
-* **coal** = carbone
-* **skittled** = urtare come birilli
-* **dumped** = scaricare
-* **hold up** = fermare
-* **compelling** = costringere
-* **carry on** = continuar
-* **fix** = risolvere
-* **ripped off** = strappare
-* **UN** = ONU (United Nations)
-* **deluged** = inondare
 * **outwardly** = esternamente
-* **default** = predefinito
-* **jolt** = scossa
-* **to pick up** = acquistare
-* **swept away** = spazzare via
-* **moisture** = umidità
-* **warned** = avvisare
-* **twigs** = rametti
-* **crunch time** = momento decisivo
+* **fate** = destino
+* **outrage** = rabbia
+* **droughts** = siccità

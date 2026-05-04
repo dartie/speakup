@@ -8,7 +8,7 @@ Quando in Europa arriva l’autunno, in Australia è primavera. A Canberra, la c
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Floriade%20Spring%20in%20Australia.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Floriade%20Spring%20in%20Australia.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -32,10 +32,10 @@ Floriade has since grown into the largest flower festival in the southern hemisp
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **to blossom** = fiorire
 * **Hailed** = considerare
 * **blend** = miscela, mescolanza
 * **patterns** = motivi
 * **one-off** = unico
 * **drawing** = attirare
 * **trail** = sendero, camino
+* **to blossom** = fiorire

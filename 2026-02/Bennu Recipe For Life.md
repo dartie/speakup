@@ -8,7 +8,7 @@ La NASA sta studiando i campioni prelevati da questo asteroide dal nome egizio: 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Bennu%20Recipe%20For%20Life.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Bennu%20Recipe%20For%20Life.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -35,13 +35,13 @@ Scientists around the world have commented on the importance of NASA’s analysi
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **came into being** = nascere, formarsi
-* **parachuted down** = scendere con il paracadute
-* **and so on** = e così via
-* **probe** = sonda spaziale
-* **samples** = campioni
-* **debris** = detriti, macerie
+* **rubble pile** = cumulo di detriti
 * **held together** = mantenersi unito
 * **track** = tracciare
+* **and so on** = e così via
+* **probe** = sonda spaziale
+* **debris** = detriti, macerie
+* **came into being** = nascere, formarsi
+* **parachuted down** = scendere con il paracadute
 * **seeding** = piantare, seminare
-* **rubble pile** = cumulo di detriti
+* **samples** = campioni

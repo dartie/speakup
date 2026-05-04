@@ -8,7 +8,7 @@ Una vita tra luci e ombre: ripercorriamo la carriera dell’intramontabile ”re
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/Learning%20With%20Music%20Top%2010%20Michael%20Jackson%20Songs.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/Learning%20With%20Music%20Top%2010%20Michael%20Jackson%20Songs.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -116,46 +116,46 @@ Fergal Kavanagh runs the website www.tuneintoenglish.com, the web’s largest f
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **claimed** = affermare
-* **graveyard** = cimitero
-* **famine relief** = aiuti contro la carestia
-* **moniker** = nome, pseudonimo
-* **came under scrutiny** = finire sotto esame
-* **milestone** = pietra miliare
-* **fathered** = essere il padre di
-* **threats** = minacce
-* **proceeds** = ricavati
-* **broader range** = gamma più ampia
-* **went into a frenzy** = andare in delirio
-* **vocal hiccups** = singhiozzi vocalici
-* **sending shockwaves** = scatenare sconcerto, scalpore
-* **nephew** = nipote
-* **record label** = etichetta discografica
-* **rhinestone** = strass
-* **werewolf** = licantropo
+* **dubbed** = soprannominare
 * **smash** = successo travolgente
-* **crowd** = folla
 * **bunch** = mucchio
+* **peppered** = disseminare
 * **ghouls** = spettri
-* **dealt with** = occuparsi di
-* **Irishism** = espressione tipicamente irlandese
-* **stand out** = spiccare
-* **glance** = occhiata
+* **heed** = fare attenzione
+* **sending shockwaves** = scatenare sconcerto, scalpore
+* **record label** = etichetta discografica
+* **chart toppers** = successi in cima alla classifica
+* **milestone** = pietra miliare
+* **vocal hiccups** = singhiozzi vocalici
 * **presciently** = con lungimiranza
+* **lawsuit** = causa legale
+* **spelling** = scrivere
+* **fathered** = essere il padre di
+* **glance** = occhiata
+* **Beat It** = vattene
+* **famine relief** = aiuti contro la carestia
 * **reminder** = promemoria
+* **moniker** = nome, pseudonimo
+* **untimely** = prematura
+* **nephew** = nipote
+* **rhinestone** = strass
+* **threats** = minacce
+* **werewolf** = licantropo
+* **lurking** = nascondersi
+* **dealt with** = occuparsi di
+* **purchase** = acquisto
+* **polarising** = che genera divisione
+* **crowd** = folla
+* **claimed** = affermare
+* **signature** = distintivo
+* **graveyard** = cimitero
+* **went into a frenzy** = andare in delirio
+* **stand out** = spiccare
 * **spawned** = generare
 * **Heal** = guarire
-* **purchase** = acquisto
-* **dubbed** = soprannominare
-* **peppered** = disseminare
-* **lawsuit** = causa legale
 * **manic laughter** = risata folle
-* **lurking** = nascondersi
-* **heed** = fare attenzione
+* **proceeds** = ricavati
 * **to lend a hand** = dare una mano
-* **untimely** = prematura
-* **polarising** = che genera divisione
-* **spelling** = scrivere
-* **signature** = distintivo
-* **Beat It** = vattene
-* **chart toppers** = successi in cima alla classifica
+* **broader range** = gamma più ampia
+* **came under scrutiny** = finire sotto esame
+* **Irishism** = espressione tipicamente irlandese

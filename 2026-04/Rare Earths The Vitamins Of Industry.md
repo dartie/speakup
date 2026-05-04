@@ -8,7 +8,7 @@ Essenziali per la produzione di ogni tipo di tecnologia, dai telefoni cellulari 
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/Rare%20Earths%20The%20Vitamins%20Of%20Industry.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/Rare%20Earths%20The%20Vitamins%20Of%20Industry.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -40,28 +40,28 @@ Rare earths have long been a geopolitical [concern](## "preoccupazione"). They a
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **resources** = risorse
 * **soaring** = crescente
-* **silvery metals** = metalli argentati
+* **headsets** = auricolari, cuffie
+* **waste** = rifiuti
+* **mine** = estrarre
 * **supply** = fornitura
-* **concern** = preoccupazione
-* **tied** = legare
-* **rare earth-bearing sands** = sabbie contenenti terre rare
-* **midstream** = nella fase intermedia
-* **rare earths** = terre rare
+* **broader** = più ampia
+* **Reported occurrences** = giacimenti segnalati
+* **leverage** = sfruttare
 * **harness** = sfruttare
-* **raw** = allo stato grezzo
+* **silvery metals** = metalli argentati
 * **fighter jets** = aerei da combattimento
 * **Earth’s crust** = crosta terrestre
 * **heightened tensions** = forti tensioni
-* **Reported occurrences** = giacimenti segnalati
-* **running from lanthanum to** = che vanno da… a…
-* **waste** = rifiuti
-* **mine** = estrarre
-* **trillion** = mille miliardi
-* **broader** = più ampia
+* **rare earth-bearing sands** = sabbie contenenti terre rare
 * **bottleneck** = punto critico, ostacolo
-* **leverage** = sfruttare
-* **headsets** = auricolari, cuffie
+* **rare earths** = terre rare
+* **resources** = risorse
+* **running from lanthanum to** = che vanno da… a…
+* **tied** = legare
+* **midstream** = nella fase intermedia
+* **raw** = allo stato grezzo
 * **scarce** = scarse, poco diffuse
+* **trillion** = mille miliardi
+* **concern** = preoccupazione
 * **wields** = esercitare

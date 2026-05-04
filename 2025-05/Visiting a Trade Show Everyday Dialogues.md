@@ -8,7 +8,7 @@ Un dialogo interattivo che  mette in evidenza il vocabolario commerciale nel con
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/Visiting%20a%20Trade%20Show%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/Visiting%20a%20Trade%20Show%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 

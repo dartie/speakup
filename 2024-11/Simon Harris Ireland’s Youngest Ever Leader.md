@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Simon%20Harris%20Ireland%E2%80%99s%20Youngest%20Ever%20Leader.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Simon%20Harris%20Ireland%E2%80%99s%20Youngest%20Ever%20Leader.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -30,11 +30,11 @@ After the former Taoiseach and Fine Gael leader Leo Varadkar resigned in March, 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **degree course** = corso di laurea
+* **county councillor** = consigliere
 * **MP** = deputato, parlamentare (Member of Parliament)
 * **trend** = tendenza
 * **Further and Higher Education** = istruzione complementare e superiore
 * **odd** = strana
 * **eldest child** = figlio maggiore
 * **to found** = fondare
-* **degree course** = corso di laurea
-* **county councillor** = consigliere

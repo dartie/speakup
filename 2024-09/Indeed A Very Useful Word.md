@@ -8,7 +8,7 @@ Dal significato ambiguo che spazia da molto a niente, rappresenta una delle inte
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/Indeed%20A%20Very%20Useful%20Word.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/Indeed%20A%20Very%20Useful%20Word.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -33,20 +33,20 @@ So, next time you find yourself [at a loss for words](## "senza parole"), rememb
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **statement** = affermazione
-* **scarcely** = appena
-* **at a loss for words** = senza parole
-* **wise** = saggio
-* **stuck** = bloccato
-* **nodding** = accennare con il capo
-* **merged** = fondersi
-* **to over-use** = utilizzare eccessivamente
-* **acknowledge** = riconoscere
 * **stressing** = accentuare
-* **settings** = contesti
 * **nuanced** = sfumati
 * **skilled** = esperto
-* **the point made** = esprimere qualcosa
+* **nodding** = accennare con il capo
 * **deed** = atto
-* **as a matter of fact** = in realtà
+* **at a loss for words** = senza parole
+* **wise** = saggio
 * **agreeable** = gradevoli
+* **acknowledge** = riconoscere
+* **as a matter of fact** = in realtà
+* **settings** = contesti
+* **scarcely** = appena
+* **to over-use** = utilizzare eccessivamente
+* **merged** = fondersi
+* **statement** = affermazione
+* **stuck** = bloccato
+* **the point made** = esprimere qualcosa

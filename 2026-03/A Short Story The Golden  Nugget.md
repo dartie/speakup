@@ -8,7 +8,7 @@ A volte, la vita ci sorprende con rivelazioni inattese che cambiano il modo in c
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/A%20Short%20Story%20The%20Golden%20%20Nugget.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/A%20Short%20Story%20The%20Golden%20%20Nugget.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -47,22 +47,22 @@ Ricardo smiled in satisfaction. By using the [golden nugget](## "pepita d’oro"
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **shook** = scuotere
-* **in disgust** = con disgusto
+* **attest to** = attestare, dare testimonianza di
+* **sneered** = sogghignare
 * **deserves** = meritare
-* **hiking** = fare trekking, fare escursionismo
-* **pursuit** = ricerca
+* **I gave you both the same start in life** = ho dato a entrambi le stesse opportunità nella vita
 * **became estranged** = allontanarsi, diventare estranei
-* **precious** = prezioso
-* **working your life away** = passare la vita a lavorare
 * **gently** = dolcemente
 * **great-great-great-great-grandfather** = quintavolo
-* **sneered** = sogghignare
+* **heirs** = eredi
+* **pursuit** = ricerca
+* **working your life away** = passare la vita a lavorare
+* **hiking** = fare trekking, fare escursionismo
+* **inherit** = ereditare
+* **in disgust** = con disgusto
+* **certain** = sicuro
 * **snorted** = sbuffare
 * **golden nugget** = pepita d’oro
-* **attest to** = attestare, dare testimonianza di
-* **heirs** = eredi
-* **I gave you both the same start in life** = ho dato a entrambi le stesse opportunità nella vita
-* **certain** = sicuro
+* **shook** = scuotere
+* **precious** = prezioso
 * **barely** = appena
-* **inherit** = ereditare

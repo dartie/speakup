@@ -8,7 +8,7 @@ Gli effetti sulla salute dei bagni in acque molto fredde sono ben documentati, m
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Cold%20Water%20Immersion%20Therapy%20Benefits%20and%20Risks.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Cold%20Water%20Immersion%20Therapy%20Benefits%20and%20Risks.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -38,36 +38,36 @@ Whyte, believes the marginal evidence for health benefits of cold water immersio
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **purported** = presunti
-* **enduring** = duraturi
-* **blood vessels** = vasi sanguinei
-* **outweigh** = superare
-* **downsides** = aspetti negativi
-* **heating** = riscaldamento
 * **were off work** = assentarsi dal lavoro
 * **outcome** = risultato
-* **respiratory tract** = vie respiratorie
-* **heart rate** = frequenza cardiaca
-* **triggered** = scatenare
-* **self-styled** = sedicente
-* **invigorating** = rinvigorente
-* **oversaw** = supervisionare
-* **conditions** = patologie
-* **Sponge** = spugna
-* **breath-hold** = apnea
-* **headlong** = di testa
-* **sharp gasp** = brusco respiro profondo
+* **blood vessels** = vasi sanguinei
 * **ducked** = immergersi
-* **caveated** = avvertire
-* **plunging  into** = immergersi
-* **surge** = aumento
-* **pinpointing** = individuare
-* **realms** = campi
-* **snake oil** = panacea
-* **drowning** = affogare
-* **subsides.** = diminuire
-* **harmless** = innocuo
-* **ailments** = malattie
-* **enlivened** = animato
-* **endure** = sopportare
+* **breath-hold** = apnea
 * **fairly** = abbastanza
+* **invigorating** = rinvigorente
+* **endure** = sopportare
+* **pinpointing** = individuare
+* **Sponge** = spugna
+* **harmless** = innocuo
+* **oversaw** = supervisionare
+* **self-styled** = sedicente
+* **surge** = aumento
+* **enduring** = duraturi
+* **realms** = campi
+* **drowning** = affogare
+* **headlong** = di testa
+* **subsides.** = diminuire
+* **caveated** = avvertire
+* **enlivened** = animato
+* **respiratory tract** = vie respiratorie
+* **sharp gasp** = brusco respiro profondo
+* **heart rate** = frequenza cardiaca
+* **conditions** = patologie
+* **plunging  into** = immergersi
+* **outweigh** = superare
+* **snake oil** = panacea
+* **heating** = riscaldamento
+* **triggered** = scatenare
+* **ailments** = malattie
+* **downsides** = aspetti negativi
+* **purported** = presunti

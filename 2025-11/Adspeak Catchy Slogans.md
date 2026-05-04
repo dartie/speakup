@@ -8,7 +8,7 @@ Alcuni slogan sono talmente ben riusciti che fanno ormai parte della lingua di t
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Adspeak%20Catchy%20Slogans.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Adspeak%20Catchy%20Slogans.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -73,28 +73,28 @@ Donald Trump
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **disclaimer** = premessa
-* **meerkats** = suricati
-* **break the news** = dare la notizia
+* **rates** = classificarsi
 * **failed** = essere bocciato
-* **pottery** = ceramica
-* **passed** = superare
 * **end up** = finire per
-* **tin** = barattolo, latta
-* **delivers** = mantenere, offrire
-* **yeast** = lievito
-* **stick** = rimanere impresso, restare in mente
 * **snappy** = accattivanti
 * **dry** = asciugarsi
-* **reliability** = affidabilità
-* **polarising** = dividere, suscitare reazioni opposte
-* **spread** = crema spalmabile
-* **court case** = causa legale
-* **slightly** = leggermente
-* **rates** = classificarsi
-* **wood stain** = vernice per legno
-* **dull** = noioso
+* **meerkats** = suricati
 * **quirky** = stravagante
 * **pulled the ads from** = ritirare
-* **Getting** = capire, comprendere
+* **pottery** = ceramica
+* **passed** = superare
+* **delivers** = mantenere, offrire
+* **court case** = causa legale
 * **show off** = vantare
+* **break the news** = dare la notizia
+* **Getting** = capire, comprendere
+* **wood stain** = vernice per legno
+* **dull** = noioso
+* **slightly** = leggermente
+* **stick** = rimanere impresso, restare in mente
+* **reliability** = affidabilità
+* **tin** = barattolo, latta
+* **polarising** = dividere, suscitare reazioni opposte
+* **spread** = crema spalmabile
+* **yeast** = lievito
+* **disclaimer** = premessa

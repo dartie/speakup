@@ -8,7 +8,7 @@ Una panoramica sulle migliori poesie della letteratura in lingua inglese.
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/Poems%20in%20English%20Top%205.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/Poems%20in%20English%20Top%205.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -19,7 +19,7 @@ From the love sonnets that mimic the rhythm of a beating heart (Shakespeare’s 
 
 ## WILLIAM SHAKESPEARE: SONNET 18 (1590S)
 Today, William Shakespeare (1564-1616) is best known for his plays — he wrote around thirty-seven of them — but he also wrote poems including 154 sonnets, many on the theme of love. The most famous is probably Sonnet 18. It’s often interpreted as a romantic love poem addressed to a woman but, in fact, it was certainly written to a man and more likely expressed platonic rather than romantic love. It’s one of 126 sonnets that Shakespeare addressed to a mysterious male figure called “the [Fair Youth](## "bel giovane")” who some scholars believe was the attractive young aristocrat Henry Wriothesley. Sonnet 18 compares the beloved to a beautiful summer’s day but concludes that his beauty, as described in the poem, is more perfect and will last longer. In fact, suggests Shakespeare, his beauty will stay alive for as long as people continue to read about it in the poem. 
-The fourteen-line sonnet form was nothing new but Shakespeare developed a distinctive version with three four-line verses (called ‘[quatrains](## "quartina")’) plus a pair of rhyming lines (a ‘rhyming [couplet](## "coppia di versi in rima")’) at the end. Shakespeare uses iambic pentameter (lines of ten syllables with alternating un[stressed](## "accentato") and then [stressed](## "accentato") syllables), as well as his typical sonnet rhyme scheme of ABAB, [whereby](## "per cui, per mezzo del quale") in each quatrain the first and third lines rhyme and the second and fourth lines rhyme.
+The fourteen-line sonnet form was nothing new but Shakespeare developed a distinctive version with three four-line verses (called ‘[quatrains](## "quartina")’) plus a pair of rhyming lines (a ‘rhyming [couplet](## "coppia di versi in rima")’) at the end. Shakespeare uses iambic pentameter (lines of ten syllables with alternating [un[stressed](## "accentato")](## "non accentato") and then [stressed](## "accentato") syllables), as well as his typical sonnet rhyme scheme of ABAB, [whereby](## "per cui, per mezzo del quale") in each quatrain the first and third lines rhyme and the second and fourth lines rhyme.
 Shall I compare thee to a summer’s day?
 Thou art more lovely and more temperate:
 Rough winds do shake the darling buds of May,
@@ -165,27 +165,27 @@ Io mi sollevo
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **stressed** = accentato
-* **whereby** = per cui, per mezzo del quale
-* **Notice** = notare
-* **depicts** = rappresentare
+* **struggle** = lotta
+* **stirred** = agitare
+* **quatrains** = quartina
 * **Anthem** = inno
 * **cattle** = bestiame
-* **quoted** = citare
-* **drawn on** = attingere
+* **couplet** = coppia di versi in rima
+* **unstressed** = non accentato
+* **Wandered** = vagare
 * **daffodils** = narcisi gialli
+* **Notice** = notare
+* **trenches** = trincee
+* **Rise** = alzarsi
+* **quoted** = citare
+* **Fair Youth** = bel giovane
+* **stressed** = accentato
 * **politically engaged** = politicamente coinvolta
 * **shell shock** = sindrome da stress post-traumatico
 * **Doomed** = condannati
-* **Fair Youth** = bel giovane
-* **couplet** = coppia di versi in rima
-* **quatrains** = quartina
-* **unstressed** = non accentato
-* **Wandered** = vagare
-* **trenches** = trincee
-* **mud** = fango
 * **refrain** = ritornello
-* **struggle** = lotta
+* **drawn on** = attingere
 * **up-to-date** = aggiornare
-* **stirred** = agitare
-* **Rise** = alzarsi
+* **whereby** = per cui, per mezzo del quale
+* **depicts** = rappresentare
+* **mud** = fango

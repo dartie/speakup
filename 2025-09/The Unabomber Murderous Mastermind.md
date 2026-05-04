@@ -8,7 +8,7 @@ La lucida analisi dei pericoli che la tecnologia rappresenta per la condizione u
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Unabomber%20Murderous%20Mastermind.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Unabomber%20Murderous%20Mastermind.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -36,40 +36,40 @@ If you want to know more about this topic, read the article The Unabomber: Indu
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **lack** = mancanza
-* **running water** = acqua corrente
-* **clashes** = scontri, contrasti
-* **insanity plea** = infermità mentale
-* **flooded** = inondare
+* **surrendered** = arrendersi
 * **nickname** = soprannome
+* **lack** = mancanza
+* **decay** = degrado
+* **convoluted** = contorta, intricata
+* **clashes** = scontri, contrasti
+* **dismiss** = licenziare
+* **insightful** = perspicaci, approfondite
+* **ruthlessness** = crudeltà, efferatezza
+* **flooded** = inondare
+* **retreated** = ritirarsi
 * **removed** = isolato
 * **withdrawn** = introverso
-* **device** = dispositivo, ordigno
-* **pursue** = perseguire
-* **avoid** = evitare
-* **dismiss** = licenziare
-* **full-on indictment** = accusa vera e propria
-* **calling for** = incitare
-* **resigned** = dimettersi
-* **remorse** = pentimento
-* **insightful** = perspicaci, approfondite
-* **mindset** = mentalità, pensiero
-* **lasting impression** = ricordo duraturo, impressione durevole
-* **tip** = soffiata
-* **blackmail** = ricatto
-* **essay** = saggio
-* **retreated** = ritirarsi
+* **claimed** = mietere vittime
+* **deserve** = meritare
+* **coined** = coniare
+* **Attorney General** = procuratore generale
+* **harmful** = dannose
 * **IQ test** = test d’intelligenza (intelligence quotient)
 * **land developers** = imprenditori edili
-* **decay** = degrado
-* **claimed** = mietere vittime
-* **surrendered** = arrendersi
-* **coined** = coniare
-* **convoluted** = contorta, intricata
+* **blackmail** = ricatto
+* **full-on indictment** = accusa vera e propria
 * **wilfully** = intenzionalmente
-* **deserve** = meritare
-* **ruthlessness** = crudeltà, efferatezza
-* **harmful** = dannose
-* **parole** = libertà vigilata
+* **tip** = soffiata
+* **mindset** = mentalità, pensiero
 * **advised against** = sconsigliare
-* **Attorney General** = procuratore generale
+* **device** = dispositivo, ordigno
+* **remorse** = pentimento
+* **running water** = acqua corrente
+* **essay** = saggio
+* **calling for** = incitare
+* **resigned** = dimettersi
+* **parole** = libertà vigilata
+* **avoid** = evitare
+* **lasting impression** = ricordo duraturo, impressione durevole
+* **pursue** = perseguire
+* **insanity plea** = infermità mentale

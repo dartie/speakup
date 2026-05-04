@@ -8,7 +8,7 @@ La poesia rappresenta la massima espressione della creatività, capace di trasce
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/World%20Poetry%20Day%2021st%20of%20March.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/World%20Poetry%20Day%2021st%20of%20March.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -23,13 +23,13 @@ The first poetry in English that’s more or less recognisable to the modern rea
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **prayers** = preghiere
-* **go back** = risalire
-* **UNESCO** = United Nations Educational, Scientific and Cultural Organization
-* **aimed at** = avere come scopo
-* **raising the profile** = elevare il prestigio
-* **spelling** = ortografía
 * **stressed** = accentate
 * **nursery rhymes** = filastrocche
-* **CE** = d. C (acronimo di Common Era)
+* **go back** = risalire
+* **raising the profile** = elevare il prestigio
 * **unstressed** = non accentate, atone
+* **prayers** = preghiere
+* **UNESCO** = United Nations Educational, Scientific and Cultural Organization
+* **aimed at** = avere come scopo
+* **CE** = d. C (acronimo di Common Era)
+* **spelling** = ortografía

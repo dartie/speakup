@@ -8,7 +8,7 @@ Questa saggista americana riflette sul significato della libertà, esplorando l�
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/Maggie%20Nelson%20On%20Freedom.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/Maggie%20Nelson%20On%20Freedom.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -42,35 +42,35 @@ In the final chapter on the environment, she explores how, in a world in which w
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **nuanced** = sfumatura
-* **splitting off** = separarsi
-* **papers** = giornali
-* **slave trade** = tratta degli schiavi
-* **give somebody that grace** = dare a qualcuno la grazia
-* **fit** = adattare
-* **whatsoever** = assolutamente
-* **decimated** = decimare
-* **syllabus** = programma di studio
-* **is lacking** = mancare
-* **aim** = mirare a, aspirare a
-* **stresses** = accentuare
-* **fortitude** = coraggio, forza d’animo
-* **depicted** = rappresentare
-* **to move away** = allontanarsi
-* **food for thought** = spunto di riflessione
-* **did I think that** = se pensassi che…
-* **whatnot** = e quant’altro, eccetera
-* **to fix** = riparare
-* **come-down** = declino
-* **hanging out** = frequentare, uscire con
-* **runaway** = fuori controllo
 * **Constraint** = autocontrollo, costrizione
-* **fed up** = stufa
-* **raining hate speech on** = cadere addosso
-* **bore no resemblance** = avere una somiglianza
-* **to score** = ottenere (droga)
-* **insight** = opinioni, visioni
-* **brings together** = unire
-* **harm** = male, danno
+* **depicted** = rappresentare
 * **to be addressed** = affrontare
+* **hanging out** = frequentare, uscire con
+* **fortitude** = coraggio, forza d’animo
+* **syllabus** = programma di studio
+* **to move away** = allontanarsi
+* **give somebody that grace** = dare a qualcuno la grazia
+* **insight** = opinioni, visioni
+* **is lacking** = mancare
+* **papers** = giornali
+* **harm** = male, danno
+* **raining hate speech on** = cadere addosso
+* **come-down** = declino
+* **bore no resemblance** = avere una somiglianza
+* **aim** = mirare a, aspirare a
+* **fed up** = stufa
+* **splitting off** = separarsi
+* **fit** = adattare
+* **stresses** = accentuare
+* **brings together** = unire
+* **nuanced** = sfumatura
+* **food for thought** = spunto di riflessione
+* **whatnot** = e quant’altro, eccetera
+* **decimated** = decimare
+* **slave trade** = tratta degli schiavi
 * **thoughtful** = meditado, ponderato
+* **to fix** = riparare
+* **did I think that** = se pensassi che…
+* **whatsoever** = assolutamente
+* **to score** = ottenere (droga)
+* **runaway** = fuori controllo

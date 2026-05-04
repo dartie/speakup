@@ -8,7 +8,7 @@ Il proverbio attribuito alle popolazioni indigene dell’Australia è un’ispir
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/Australia%20Take%20Only%20Memories,%20Leave%20Only%20Footprints.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/Australia%20Take%20Only%20Memories,%20Leave%20Only%20Footprints.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -42,25 +42,25 @@ Australia is still coming to terms with its violent colonial past. European [set
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
+* **ingrained in** = inculcato, radicato
+* **wetlands** = terreni acquitrinosi
+* **coral reefs** = barriere coralline
+* **South Sea Islanders** = abitanti delle isole del Pacifico meridionale
+* **outdoors** = aria aperta
+* **cut the cloth to suit** = adattarsi a
+* **mammals** = mammiferi
+* **sparsely** = scarsamente
+* **Outbackb** = entroterra
+* **blend** = mischiare
+* **gateway** = entrata
+* **heritage** = eredità
+* **harbour** = ospitare
+* **platypus** = ornitorinco
+* **stunning** = sbalorditivo
+* **to peel off** = rimuovere
 * **ever-present** = sempre presente
+* **rainforests** = foreste pluviali
 * **settlers** = coloni
 * **gold rushes** = corse all’oro
-* **platypus** = ornitorinco
-* **blend** = mischiare
-* **cut the cloth to suit** = adattarsi a
-* **gateway** = entrata
-* **to peel off** = rimuovere
-* **harbour** = ospitare
-* **outdoors** = aria aperta
-* **Bush** = arbusto
-* **ingrained in** = inculcato, radicato
-* **mammals** = mammiferi
-* **South Sea Islanders** = abitanti delle isole del Pacifico meridionale
-* **sparsely** = scarsamente
-* **stunning** = sbalorditivo
-* **heritage** = eredità
-* **wetlands** = terreni acquitrinosi
-* **rainforests** = foreste pluviali
-* **coral reefs** = barriere coralline
 * **divers** = subacquei
-* **Outbackb** = entroterra
+* **Bush** = arbusto

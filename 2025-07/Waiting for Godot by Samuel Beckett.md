@@ -8,7 +8,7 @@ La profondità filosofica e metafisica di questa ‘tragicommedia in due atti’
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/Waiting%20for%20Godot%20by%20Samuel%20Beckett.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/Waiting%20for%20Godot%20by%20Samuel%20Beckett.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -75,22 +75,22 @@ Waiting for Godot initially received [mixed reviews](## "recensioni discordanti"
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **mistreated** = maltrattare
-* **least of all** = tanto meno
-* **seemingly** = apparentemente
-* **play** = opera teatrale
-* **in the late 1940s** = alla fine degli anni Quaranta
-* **purpose** = scopo
-* **refrain** = ritornello, espressione ricorrente
+* **pointless** = privo di senso
+* **disabled** = rendere incapace
 * **delayed** = ritardare
-* **hopelessness** = mancanza di speranza
+* **stuck** = atrapados
 * **mixed reviews** = recensioni discordanti
 * **meaninglessness** = insensatezza
-* **disabled** = rendere incapace
-* **fate** = destino
-* **Throughout** = per tutto il tempo
-* **stuck** = atrapados
-* **pointless** = privo di senso
-* **nonsense** = assurdità
-* **angst** = angoscia, inquietudine
 * **embodiment** = incarnazione
+* **seemingly** = apparentemente
+* **hopelessness** = mancanza di speranza
+* **fate** = destino
+* **purpose** = scopo
+* **refrain** = ritornello, espressione ricorrente
+* **nonsense** = assurdità
+* **play** = opera teatrale
+* **in the late 1940s** = alla fine degli anni Quaranta
+* **mistreated** = maltrattare
+* **Throughout** = per tutto il tempo
+* **angst** = angoscia, inquietudine
+* **least of all** = tanto meno

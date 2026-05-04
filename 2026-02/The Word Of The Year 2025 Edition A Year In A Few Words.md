@@ -8,7 +8,7 @@ La lingua cambia al ritmo della società: è attraverso le parole che esprimiamo
 
 <div>
 <audio controls autoplay>
-    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/The%20Word%20Of%20The%20Year%202025%20Edition%20A%20Year%20In%20A%20Few%20Words.mp3" type="audio/mpeg">
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/The%20Word%20Of%20The%20Year%202025%20Edition%20A%20Year%20In%20A%20Few%20Words.mp3" type="audio/mpeg">
 </audio>
 </div>
 
@@ -54,35 +54,35 @@ Macquarie Dictionary
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 
 # Glossary
-* **earnings** = profitti, guadagni
-* **brainrot** = marciume mentale
+* **prey** = preda
 * **goblin** = folletto
-* **runners-up** = finalisti
-* **convey** = trasmettere
-* **bow** = prua
-* **insider** = esperto
-* **come across** = imbattersi in
-* **speeding** = sfrecciare
-* **rowing boat** = barca a remi
-* **Rage** = ira
-* **vibe coding** = programmare a sensazione
-* **slop** = spazzatura, brodaglia
-* **unchallenging** = poco impegnativo, semplice
 * **weirdest of all** = la cosa più strana di tutte
 * **currency** = moneta, valuta
-* **shortlist** = preselezione
-* **swagger** = disinvoltura
-* **bait** = esca, trappola
-* **prey** = preda
+* **brainrot** = marciume mentale
+* **aging** = invecchiamento
+* **slop** = spazzatura, brodaglia
+* **insider** = esperto
 * **hooked** = agganciare
-* **beat** = sconfiggere
-* **devices** = dispositivi
+* **earnings** = profitti, guadagni
+* **unchallenging** = poco impegnativo, semplice
+* **runners-up** = finalisti
 * **gather** = raccogliere
+* **prompted** = suggerire, stimolare
+* **come across** = imbattersi in
+* **tasty worm** = verme gustoso
 * **fishing hook** = amo da pesca
 * **elicit** = provocare
-* **aging** = invecchiamento
-* **wellbeing** = benessere
-* **outrage** = indignazione
 * **rizz** = fascino, carisma
-* **prompted** = suggerire, stimolare
-* **tasty worm** = verme gustoso
+* **convey** = trasmettere
+* **speeding** = sfrecciare
+* **rowing boat** = barca a remi
+* **bait** = esca, trappola
+* **beat** = sconfiggere
+* **vibe coding** = programmare a sensazione
+* **Rage** = ira
+* **shortlist** = preselezione
+* **bow** = prua
+* **devices** = dispositivi
+* **outrage** = indignazione
+* **wellbeing** = benessere
+* **swagger** = disinvoltura
