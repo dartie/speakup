@@ -8,7 +8,7 @@ I Romani hanno governato gran parte della Gran Bretagna per tre secoli e mezzo. 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/Roman%20Britain%20Imprint%20of%20Empire.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/Roman%20Britain%20Imprint%20of%20Empire.mp3" type="audio/mpeg">
 </audio>
 </div>
 

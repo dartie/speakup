@@ -8,7 +8,7 @@ La maggiore delle sorelle Brontë ha affascinato i lettori con la sua avvincente
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/Jane%20Eyre%20by%20Charlotte%20Bront%C3%AB.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/Jane%20Eyre%20by%20Charlotte%20Bront%C3%AB.mp3" type="audio/mpeg">
 </audio>
 </div>
 

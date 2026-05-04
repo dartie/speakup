@@ -8,7 +8,7 @@ I laboratori più all’avanguardia del mondo sono alla costante ricerca della m
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/The%20New%20York%20Times%20-Can%20Axions%20Save%20The%20Universe-.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/The%20New%20York%20Times%20-Can%20Axions%20Save%20The%20Universe-.mp3" type="audio/mpeg">
 </audio>
 </div>
 

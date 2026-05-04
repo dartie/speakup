@@ -8,7 +8,7 @@ Orgogliosa madre di tre figli, casalinga e influencer, ha conquistato milioni di
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Ask%20Charlie%20The%20Lost%20Art%20Of%20Homemaking.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Ask%20Charlie%20The%20Lost%20Art%20Of%20Homemaking.mp3" type="audio/mpeg">
 </audio>
 </div>
 

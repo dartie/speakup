@@ -8,7 +8,7 @@ Il programma che ha intrattenuto intere generazioni con la sua comicità e satir
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Saturday%20Night%20Live%20Celebrating%2050%20Years.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Saturday%20Night%20Live%20Celebrating%2050%20Years.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ La novantenne etologa e conservazionista britannica studia gli scimpanzé da olt
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/Jane%20Goodall%20World%E2%80%99s%20Best-Known%20Naturalist.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/Jane%20Goodall%20World%E2%80%99s%20Best-Known%20Naturalist.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ La scrittrice e regista métis parla delle sue memorie, pubblicate cinquant’an
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/Halfbreed%20Maria%20Campbell.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/Halfbreed%20Maria%20Campbell.mp3" type="audio/mpeg">
 </audio>
 </div>
 

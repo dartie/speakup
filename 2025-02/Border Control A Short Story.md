@@ -8,7 +8,7 @@ La vita di Jude è distrutta e, deciso a vendicarsi con chi gli ha sottratto il 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Border%20Control%20A%20Short%20Story.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Border%20Control%20A%20Short%20Story.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Insulti, aggressioni e persino tentativi di aprire le porte dell’aereo durante
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/Bad%20Airline%20Behaviour%20Anger%20in%20the%20Sky.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/Bad%20Airline%20Behaviour%20Anger%20in%20the%20Sky.mp3" type="audio/mpeg">
 </audio>
 </div>
 

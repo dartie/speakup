@@ -8,7 +8,7 @@ Nonostante le critiche iniziali che la consideravano un manichino senza personal
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-01/How%20the%20Princess%20of%20Wales%20Became%20the%20Royals%E2%80%99%20Not-So-Secret%20Weapon%20The%20Kate%20Effect.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-01/How%20the%20Princess%20of%20Wales%20Became%20the%20Royals%E2%80%99%20Not-So-Secret%20Weapon%20The%20Kate%20Effect.mp3" type="audio/mpeg">
 </audio>
 </div>
 

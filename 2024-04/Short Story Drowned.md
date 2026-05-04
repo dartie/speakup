@@ -8,7 +8,7 @@ Un viaggio misterioso attraverso una valle gallese, che svela una storia nascost
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Short%20Story%20Drowned.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Short%20Story%20Drowned.mp3" type="audio/mpeg">
 </audio>
 </div>
 

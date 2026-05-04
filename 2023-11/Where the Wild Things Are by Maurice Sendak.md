@@ -8,7 +8,7 @@ Scritto e illustrato da Maurice Sendak, "Dove vivono i mostri" è tra i libri pe
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/Where%20the%20Wild%20Things%20Are%20by%20Maurice%20Sendak.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-11/Where%20the%20Wild%20Things%20Are%20by%20Maurice%20Sendak.mp3" type="audio/mpeg">
 </audio>
 </div>
 

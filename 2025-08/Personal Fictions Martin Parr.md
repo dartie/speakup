@@ -8,7 +8,7 @@ Divertenti e irriverenti, ma anche critiche. Le sue foto uniscono la cultura pop
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/Personal%20Fictions%20Martin%20Parr.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/Personal%20Fictions%20Martin%20Parr.mp3" type="audio/mpeg">
 </audio>
 </div>
 

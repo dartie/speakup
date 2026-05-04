@@ -8,7 +8,7 @@ Ad aprile di quest’anno, la regina avrebbe compiuto cent’anni. Per l’occas
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/The%20Style%20Of%20Queen%20Elizabeth%20II%20Elegance%20And%20Propriety.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/The%20Style%20Of%20Queen%20Elizabeth%20II%20Elegance%20And%20Propriety.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ L’uso dello xenon e delle tende ipossiche fa scattare l’allarme sulle pendic
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/Everest%20Climbs%20Using%20Tech%20Face%20Scrutiny.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/Everest%20Climbs%20Using%20Tech%20Face%20Scrutiny.mp3" type="audio/mpeg">
 </audio>
 </div>
 

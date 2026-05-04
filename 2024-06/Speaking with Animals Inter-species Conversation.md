@@ -8,7 +8,7 @@ Come si interpreta il linguaggio delle creature non umane? Sarà possibile parla
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/Speaking%20with%20Animals%20Inter-species%20Conversation.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/Speaking%20with%20Animals%20Inter-species%20Conversation.mp3" type="audio/mpeg">
 </audio>
 </div>
 

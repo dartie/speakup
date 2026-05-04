@@ -8,7 +8,7 @@ L’edizione di quest’anno del Guinness dei primati elenca 2.638 record certif
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-01/Guinness%20World%20Records%202024.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-01/Guinness%20World%20Records%202024.mp3" type="audio/mpeg">
 </audio>
 </div>
 

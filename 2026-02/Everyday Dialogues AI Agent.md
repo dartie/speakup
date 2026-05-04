@@ -8,7 +8,7 @@ L'intelligenza artificiale è sempre più presente nei luoghi di lavoro. Uno str
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Everyday%20Dialogues%20AI%20Agent.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Everyday%20Dialogues%20AI%20Agent.mp3" type="audio/mpeg">
 </audio>
 </div>
 

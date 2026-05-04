@@ -8,7 +8,7 @@ In "Supersonic", Simon Halfon raccoglie diverse ore di interviste con i fratelli
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/Simon%20Halfon%20Oasis%20Uncut.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-11/Simon%20Halfon%20Oasis%20Uncut.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ La città multiculturale di New York ha sviluppato una serie di usanze natalizie
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/The%20New%20York%20Times%20On%20Christmas%20Day,%20New%20Yorkers%20Follow%20Their%20Own%20Traditions.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-12/The%20New%20York%20Times%20On%20Christmas%20Day,%20New%20Yorkers%20Follow%20Their%20Own%20Traditions.mp3" type="audio/mpeg">
 </audio>
 </div>
 

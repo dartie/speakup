@@ -8,7 +8,7 @@ Questa attrazione iconica, progettata per l’Esposizione Universale di Chicago 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20Ferris%20Wheel%20Round%20and%20Round.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20Ferris%20Wheel%20Round%20and%20Round.mp3" type="audio/mpeg">
 </audio>
 </div>
 

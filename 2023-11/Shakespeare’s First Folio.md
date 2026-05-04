@@ -8,7 +8,7 @@ La prima raccolta delle opere di Shakespeare è uno dei libri più importanti de
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/Shakespeare%E2%80%99s%20First%20Folio.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-11/Shakespeare%E2%80%99s%20First%20Folio.mp3" type="audio/mpeg">
 </audio>
 </div>
 

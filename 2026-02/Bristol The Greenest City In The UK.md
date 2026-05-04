@@ -8,7 +8,7 @@ Da ormai parecchi anni, la città è famosa per il suo occhio di riguardo nei co
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Bristol%20The%20Greenest%20City%20In%20The%20UK.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Bristol%20The%20Greenest%20City%20In%20The%20UK.mp3" type="audio/mpeg">
 </audio>
 </div>
 

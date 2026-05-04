@@ -8,7 +8,7 @@ La docente dell’Università di Exeter esplora, a partire da tredici processi s
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/Witchcraft%20Marion%20Gibson.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/Witchcraft%20Marion%20Gibson.mp3" type="audio/mpeg">
 </audio>
 </div>
 

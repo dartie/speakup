@@ -8,7 +8,7 @@ Sin dal suo successo commerciale durante la Grande Depressione, questo gioco cap
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Monopoly%20The%20Game%20Goes%20Mobile.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Monopoly%20The%20Game%20Goes%20Mobile.mp3" type="audio/mpeg">
 </audio>
 </div>
 

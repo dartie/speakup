@@ -8,7 +8,7 @@ In questa distopia autoritaria con bande giovanili ultraviolente e un gergo inve
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/A%20Clockwork%20Orange%20by%20Anthony%20Burgess.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-11/A%20Clockwork%20Orange%20by%20Anthony%20Burgess.mp3" type="audio/mpeg">
 </audio>
 </div>
 

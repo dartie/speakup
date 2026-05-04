@@ -8,7 +8,7 @@ Questo emblematico mercato londinese è famoso per il suo “street food”. Sit
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-01/Borough%20Market%20Foodie%20Paradise.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-01/Borough%20Market%20Foodie%20Paradise.mp3" type="audio/mpeg">
 </audio>
 </div>
 

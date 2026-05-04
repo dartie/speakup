@@ -8,7 +8,7 @@ La ricchezza continua a concentrarsi nelle mani di un numero sempre minore di pe
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Should%20We%20Worry%20About%20Trillionaires.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Should%20We%20Worry%20About%20Trillionaires.mp3" type="audio/mpeg">
 </audio>
 </div>
 

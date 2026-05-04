@@ -8,7 +8,7 @@ Sebbene sia difficile definire i confini dell’umorismo, non è impossibile sta
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/A%20Brief%20Guide%20to%20Humour%20Just%20for%20Laughs.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/A%20Brief%20Guide%20to%20Humour%20Just%20for%20Laughs.mp3" type="audio/mpeg">
 </audio>
 </div>
 

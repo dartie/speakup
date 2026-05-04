@@ -8,7 +8,7 @@ Perché abbiamo trasformato la paura in una forma di intrattenimento? La scienza
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/Why%20We%20Enjoy%20Fear%20The%20Science%20of%20a%20Good%20Scare.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/Why%20We%20Enjoy%20Fear%20The%20Science%20of%20a%20Good%20Scare.mp3" type="audio/mpeg">
 </audio>
 </div>
 

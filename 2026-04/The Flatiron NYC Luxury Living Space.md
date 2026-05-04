@@ -8,7 +8,7 @@ Conosciuto in tutto il mondo per la sua forma stretta e triangolare, verrà inau
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/The%20Flatiron%20NYC%20Luxury%20Living%20Space.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/The%20Flatiron%20NYC%20Luxury%20Living%20Space.mp3" type="audio/mpeg">
 </audio>
 </div>
 

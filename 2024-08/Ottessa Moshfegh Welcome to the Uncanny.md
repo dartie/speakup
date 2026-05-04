@@ -8,7 +8,7 @@ L’autrice americana di origini croate e iraniane mostra un talento particolare
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/Ottessa%20Moshfegh%20Welcome%20to%20the%20Uncanny.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/Ottessa%20Moshfegh%20Welcome%20to%20the%20Uncanny.mp3" type="audio/mpeg">
 </audio>
 </div>
 

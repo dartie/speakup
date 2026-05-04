@@ -8,7 +8,7 @@ Si tratta di un’espressione che calza a pennello quando commettiamo un errore 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/Duh%20All%20Too%20Obvious.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/Duh%20All%20Too%20Obvious.mp3" type="audio/mpeg">
 </audio>
 </div>
 

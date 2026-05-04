@@ -8,7 +8,7 @@ Abbiamo parlato con Martin Parr dei suoi progetti passati e di quelli futuri, ma
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/Martin%20Parr%20The%20Right%20Shutter%20Speed.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/Martin%20Parr%20The%20Right%20Shutter%20Speed.mp3" type="audio/mpeg">
 </audio>
 </div>
 

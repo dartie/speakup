@@ -8,7 +8,7 @@ Perché pagare la frutta e la verdura al supermercato quando è possibile ottene
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/Foraging%20Finding%20Food%20in%20the%20Wild.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/Foraging%20Finding%20Food%20in%20the%20Wild.mp3" type="audio/mpeg">
 </audio>
 </div>
 

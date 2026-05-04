@@ -8,7 +8,7 @@ Con la sua aura di mistero, i suoi simboli e i suoi rituali, la massoneria conti
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/Freemasonry%20Secret%20Handshakes%20And%20Suspicion.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/Freemasonry%20Secret%20Handshakes%20And%20Suspicion.mp3" type="audio/mpeg">
 </audio>
 </div>
 

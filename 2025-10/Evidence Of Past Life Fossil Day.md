@@ -8,7 +8,7 @@ Questo mese si celebra la paleontologia: i fossili sono testimoni della vita sul
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/Evidence%20Of%20Past%20Life%20Fossil%20Day.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/Evidence%20Of%20Past%20Life%20Fossil%20Day.mp3" type="audio/mpeg">
 </audio>
 </div>
 

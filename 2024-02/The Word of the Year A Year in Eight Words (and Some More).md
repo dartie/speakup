@@ -8,7 +8,7 @@ L’emergere dell’intelligenza artificiale ha influenzato le parole che hanno 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-02/The%20Word%20of%20the%20Year%20A%20Year%20in%20Eight%20Words%20%28and%20Some%20More%29.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-02/The%20Word%20of%20the%20Year%20A%20Year%20in%20Eight%20Words%20%28and%20Some%20More%29.mp3" type="audio/mpeg">
 </audio>
 </div>
 

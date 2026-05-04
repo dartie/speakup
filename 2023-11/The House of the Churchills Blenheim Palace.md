@@ -8,7 +8,7 @@ Regalo della regina Anne al primo duca di Marlborough dopo un’importante vitto
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/The%20House%20of%20the%20Churchills%20Blenheim%20Palace.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-11/The%20House%20of%20the%20Churchills%20Blenheim%20Palace.mp3" type="audio/mpeg">
 </audio>
 </div>
 

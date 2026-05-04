@@ -8,7 +8,7 @@ Fenomeno assoluto della letteratura mondiale, autrice di bestseller mai eguaglia
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Agatha%20Christie%20The%20World%E2%80%99s%20Best-Selling%20Novelist.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Agatha%20Christie%20The%20World%E2%80%99s%20Best-Selling%20Novelist.mp3" type="audio/mpeg">
 </audio>
 </div>
 

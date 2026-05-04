@@ -8,7 +8,7 @@ Chi non ama i "Peanuts", la serie di fumetti con protagonisti Charlie Brown e Sn
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/Nuts%20About%20Peanuts.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/Nuts%20About%20Peanuts.mp3" type="audio/mpeg">
 </audio>
 </div>
 

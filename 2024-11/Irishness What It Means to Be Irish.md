@@ -8,7 +8,7 @@ Numerose persone in Irlanda e nel mondo sono orgogliose della loro cultura e del
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Irishness%20What%20It%20Means%20to%20Be%20Irish.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Irishness%20What%20It%20Means%20to%20Be%20Irish.mp3" type="audio/mpeg">
 </audio>
 </div>
 

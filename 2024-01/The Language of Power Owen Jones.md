@@ -8,7 +8,7 @@ Il giovane britannico, giornalista e opinionista politico, è autore di due impo
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-01/The%20Language%20of%20Power%20Owen%20Jones.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-01/The%20Language%20of%20Power%20Owen%20Jones.mp3" type="audio/mpeg">
 </audio>
 </div>
 

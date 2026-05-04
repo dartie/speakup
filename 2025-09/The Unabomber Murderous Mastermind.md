@@ -8,7 +8,7 @@ La lucida analisi dei pericoli che la tecnologia rappresenta per la condizione u
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Unabomber%20Murderous%20Mastermind.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Unabomber%20Murderous%20Mastermind.mp3" type="audio/mpeg">
 </audio>
 </div>
 

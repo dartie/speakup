@@ -8,7 +8,7 @@ Belfast: storia, musica e rinascimento. Un viaggio nel cuore di una città che s
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/A%20Radical%20Soul.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/A%20Radical%20Soul.mp3" type="audio/mpeg">
 </audio>
 </div>
 

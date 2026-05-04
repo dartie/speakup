@@ -8,7 +8,7 @@ Un tempo considerati come messaggi provenienti dalle divinità, i sogni sono ogg
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/Why%20Do%20We%20Have%20the%20Dreams%20that%20We%20Do.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/Why%20Do%20We%20Have%20the%20Dreams%20that%20We%20Do.mp3" type="audio/mpeg">
 </audio>
 </div>
 

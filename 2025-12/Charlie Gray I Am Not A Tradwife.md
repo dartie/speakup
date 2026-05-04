@@ -8,7 +8,7 @@ Una Tradwife (neologismo traducibile come "moglie tradizionale") è una donna ch
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Charlie%20Gray%20I%20Am%20Not%20A%20Tradwife.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Charlie%20Gray%20I%20Am%20Not%20A%20Tradwife.mp3" type="audio/mpeg">
 </audio>
 </div>
 

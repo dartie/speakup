@@ -8,7 +8,7 @@ Questo rapper, giornalista, scrittore ed opinionista scozzese è cresciuto in po
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-02/Darren%20McGarvey%20Poverty%20Safari.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-02/Darren%20McGarvey%20Poverty%20Safari.mp3" type="audio/mpeg">
 </audio>
 </div>
 

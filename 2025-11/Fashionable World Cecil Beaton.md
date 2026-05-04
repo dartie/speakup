@@ -8,7 +8,7 @@ I suoi iconici scatti, esposti alla National Portrait Gallery di Londra, hanno c
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Fashionable%20World%20Cecil%20Beaton.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Fashionable%20World%20Cecil%20Beaton.mp3" type="audio/mpeg">
 </audio>
 </div>
 

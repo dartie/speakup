@@ -8,7 +8,7 @@ Il successo di Netflix sul regno di Elisabetta II si conclude con una stagione d
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-01/The%20New%20York%20Times%20With%20Diana%E2%80%99s%20Death,%20The%20Crown%20Enters%20Its%20Most%20Evocative%20Era.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-01/The%20New%20York%20Times%20With%20Diana%E2%80%99s%20Death,%20The%20Crown%20Enters%20Its%20Most%20Evocative%20Era.mp3" type="audio/mpeg">
 </audio>
 </div>
 

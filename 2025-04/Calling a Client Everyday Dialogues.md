@@ -8,7 +8,7 @@ Impara il vocabolario telefonico e le espressioni di cortesia utilizzate in un c
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/Calling%20a%20Client%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/Calling%20a%20Client%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 

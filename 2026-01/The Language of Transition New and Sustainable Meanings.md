@@ -8,7 +8,7 @@ Il nostro approccio nei confronti dei problemi legati al cambiamento climatico Ã
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/The%20Language%20of%20Transition%20New%20and%20Sustainable%20Meanings.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/The%20Language%20of%20Transition%20New%20and%20Sustainable%20Meanings.mp3" type="audio/mpeg">
 </audio>
 </div>
 

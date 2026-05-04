@@ -8,7 +8,7 @@ A causa del suo coinvolgimento nello scandalo Epstein, il Principe Andrea, priva
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/The%20Defenestration%20of%20Prince%20Andrew.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/The%20Defenestration%20of%20Prince%20Andrew.mp3" type="audio/mpeg">
 </audio>
 </div>
 

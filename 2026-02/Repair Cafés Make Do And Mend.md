@@ -8,7 +8,7 @@ In questa società usa e getta, la vera rivoluzione sta nel riparare e rammendar
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Repair%20Caf%C3%A9s%20Make%20Do%20And%20Mend.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Repair%20Caf%C3%A9s%20Make%20Do%20And%20Mend.mp3" type="audio/mpeg">
 </audio>
 </div>
 

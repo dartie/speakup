@@ -8,7 +8,7 @@ Il pettegolezzo non è certo un’abitudine dei giorni nostri: ce lo dimostra l�
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/Gossip%20The%20Social%20Glue.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/Gossip%20The%20Social%20Glue.mp3" type="audio/mpeg">
 </audio>
 </div>
 

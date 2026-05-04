@@ -8,7 +8,7 @@ Rendere felici gli altri non costa molto: un sorriso o un complimento possono mi
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Random%20Acts%20of%20Kindness.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Random%20Acts%20of%20Kindness.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Alex Honnold ha battuto il record di scalata di grattacieli raggiungendo la cima
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/What%E2%80%99s%20It%20Like%20To%20Climb%20A%20Skyscraper.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/What%E2%80%99s%20It%20Like%20To%20Climb%20A%20Skyscraper.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Realizzatore di alcuni dei documentari naturalistici più iconici della storia d
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/Sir%20David%20Attenborough%20Champion%20of%20the%20Earth.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/Sir%20David%20Attenborough%20Champion%20of%20the%20Earth.mp3" type="audio/mpeg">
 </audio>
 </div>
 

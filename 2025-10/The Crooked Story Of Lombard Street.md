@@ -8,7 +8,7 @@ Lunga meno di duecento metri, la cosiddetta “strada più tortuosa del mondo”
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/The%20Crooked%20Story%20Of%20Lombard%20Street.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/The%20Crooked%20Story%20Of%20Lombard%20Street.mp3" type="audio/mpeg">
 </audio>
 </div>
 

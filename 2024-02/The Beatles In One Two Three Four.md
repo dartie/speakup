@@ -8,7 +8,7 @@ La vita dei Beatles è stata ricca di esperienze incredibili, sia esaltanti che 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-02/The%20Beatles%20In%20One%20Two%20Three%20Four.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-02/The%20Beatles%20In%20One%20Two%20Three%20Four.mp3" type="audio/mpeg">
 </audio>
 </div>
 

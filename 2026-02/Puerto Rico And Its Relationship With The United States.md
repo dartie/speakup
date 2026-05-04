@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Puerto%20Rico%20And%20Its%20Relationship%20With%20The%20United%20States.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Puerto%20Rico%20And%20Its%20Relationship%20With%20The%20United%20States.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ La festa di Capodanno in Scozia dura quattro giorni, con danze, fiaccolate e spe
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Hogmanay%20Scottish%20New%20Year.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-12/Hogmanay%20Scottish%20New%20Year.mp3" type="audio/mpeg">
 </audio>
 </div>
 

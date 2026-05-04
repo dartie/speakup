@@ -8,7 +8,7 @@ La regata Oxford-Cambridge è una competizione che risale a quasi 200 anni fa, i
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/The%20Blue%20Boats.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/The%20Blue%20Boats.mp3" type="audio/mpeg">
 </audio>
 </div>
 

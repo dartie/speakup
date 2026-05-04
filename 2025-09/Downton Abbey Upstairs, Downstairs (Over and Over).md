@@ -8,7 +8,7 @@ La serie presenta uno spaccato piuttosto veritiero della divisione in classi soc
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/Downton%20Abbey%20Upstairs,%20Downstairs%20%28Over%20and%20Over%29.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/Downton%20Abbey%20Upstairs,%20Downstairs%20%28Over%20and%20Over%29.mp3" type="audio/mpeg">
 </audio>
 </div>
 

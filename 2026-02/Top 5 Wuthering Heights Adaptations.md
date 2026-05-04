@@ -8,7 +8,7 @@ Il romanzo di Emily Brontë ha ispirato numerosi artisti: scopriamo alcune delle
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Top%205%20Wuthering%20Heights%20Adaptations.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Top%205%20Wuthering%20Heights%20Adaptations.mp3" type="audio/mpeg">
 </audio>
 </div>
 

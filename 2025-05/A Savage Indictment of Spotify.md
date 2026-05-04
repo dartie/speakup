@@ -8,7 +8,7 @@ Secondo una recente pubblicazione, il gigante globale dello streaming ha reso la
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/A%20Savage%20Indictment%20of%20Spotify.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/A%20Savage%20Indictment%20of%20Spotify.mp3" type="audio/mpeg">
 </audio>
 </div>
 

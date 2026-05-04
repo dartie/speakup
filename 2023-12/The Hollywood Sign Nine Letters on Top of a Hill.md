@@ -8,7 +8,7 @@ Il simbolo di Hollywood è un'affascinante testimonianza dei sogni e del glamour
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/The%20Hollywood%20Sign%20Nine%20Letters%20on%20Top%20of%20a%20Hill.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-12/The%20Hollywood%20Sign%20Nine%20Letters%20on%20Top%20of%20a%20Hill.mp3" type="audio/mpeg">
 </audio>
 </div>
 

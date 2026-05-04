@@ -8,7 +8,7 @@ Fondata nel 2001 e con versioni in più di 200 lingue, l’enciclopedia online c
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/Wikipedia%20The%20Knowledge%20Democracy.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/Wikipedia%20The%20Knowledge%20Democracy.mp3" type="audio/mpeg">
 </audio>
 </div>
 

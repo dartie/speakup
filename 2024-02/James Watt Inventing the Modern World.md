@@ -8,7 +8,7 @@ Questo ingegnere scozzese è uno degli inventori più influenti di tutti i tempi
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-02/James%20Watt%20Inventing%20the%20Modern%20World.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-02/James%20Watt%20Inventing%20the%20Modern%20World.mp3" type="audio/mpeg">
 </audio>
 </div>
 

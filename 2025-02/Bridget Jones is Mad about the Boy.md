@@ -8,7 +8,7 @@ Renée Zellweger interpreta l’eroina romantica nell’adattamento del romanzo 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Bridget%20Jones%20is%20Mad%20about%20the%20Boy.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Bridget%20Jones%20is%20Mad%20about%20the%20Boy.mp3" type="audio/mpeg">
 </audio>
 </div>
 

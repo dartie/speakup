@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/Master%20of%20Modern%20Communications%20Alexander%20Graham%20Bell.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-11/Master%20of%20Modern%20Communications%20Alexander%20Graham%20Bell.mp3" type="audio/mpeg">
 </audio>
 </div>
 

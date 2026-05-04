@@ -8,7 +8,7 @@ Dopo la Seconda Guerra Mondiale, la musica popolare prese il sopravvento sulla r
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-02/The%20Charts%20Measuring%20Success.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-02/The%20Charts%20Measuring%20Success.mp3" type="audio/mpeg">
 </audio>
 </div>
 

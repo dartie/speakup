@@ -8,7 +8,7 @@ In un momento in cui le polemiche sugli effetti nocivi del turismo di massa sono
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-01/Icon%20of%20the%20Seas%20New%20Maritime%20Horizons.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-01/Icon%20of%20the%20Seas%20New%20Maritime%20Horizons.mp3" type="audio/mpeg">
 </audio>
 </div>
 

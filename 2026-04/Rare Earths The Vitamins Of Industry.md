@@ -8,7 +8,7 @@ Essenziali per la produzione di ogni tipo di tecnologia, dai telefoni cellulari 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/Rare%20Earths%20The%20Vitamins%20Of%20Industry.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/Rare%20Earths%20The%20Vitamins%20Of%20Industry.mp3" type="audio/mpeg">
 </audio>
 </div>
 

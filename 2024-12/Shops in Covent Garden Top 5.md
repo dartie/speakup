@@ -8,7 +8,7 @@ Abbiamo selezionato cinque negozi che incarnano lo stile eclettico, dinamico ed 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Shops%20in%20Covent%20Garden%20Top%205.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Shops%20in%20Covent%20Garden%20Top%205.mp3" type="audio/mpeg">
 </audio>
 </div>
 

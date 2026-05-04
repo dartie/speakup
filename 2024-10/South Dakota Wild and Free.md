@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/South%20Dakota%20Wild%20and%20Free.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/South%20Dakota%20Wild%20and%20Free.mp3" type="audio/mpeg">
 </audio>
 </div>
 

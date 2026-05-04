@@ -8,7 +8,7 @@ Cento anni fa, George Mallory e Sandy Irvine tentarono di raggiungere la vetta d
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/Mystery%20on%20Mt.%20Everest%20Death%20at%20the%20Summit.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/Mystery%20on%20Mt.%20Everest%20Death%20at%20the%20Summit.mp3" type="audio/mpeg">
 </audio>
 </div>
 

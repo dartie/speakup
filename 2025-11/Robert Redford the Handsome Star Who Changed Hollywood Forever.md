@@ -8,7 +8,7 @@ Dopo il debutto in una Hollywood che preferiva il fascino rude, diventò una ste
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Robert%20Redford%20the%20Handsome%20Star%20Who%20Changed%20Hollywood%20Forever.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Robert%20Redford%20the%20Handsome%20Star%20Who%20Changed%20Hollywood%20Forever.mp3" type="audio/mpeg">
 </audio>
 </div>
 

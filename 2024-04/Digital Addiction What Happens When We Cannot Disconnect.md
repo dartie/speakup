@@ -8,7 +8,7 @@ I social media e altre forme di intrattenimento digitale possono causare ansia, 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Digital%20Addiction%20What%20Happens%20When%20We%20Cannot%20Disconnect.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Digital%20Addiction%20What%20Happens%20When%20We%20Cannot%20Disconnect.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ KPI, CAC, lead, conversion rate... A volte, il linguaggio del marketing può man
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Everyday%20Dialogues%20Key%20Performance%20Indicators.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Everyday%20Dialogues%20Key%20Performance%20Indicators.mp3" type="audio/mpeg">
 </audio>
 </div>
 

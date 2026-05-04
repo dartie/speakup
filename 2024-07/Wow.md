@@ -8,7 +8,7 @@ Più che una parola, è un’onomatopea, un’espressione di ammirazione e sorpr
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/Wow.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/Wow.mp3" type="audio/mpeg">
 </audio>
 </div>
 

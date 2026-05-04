@@ -8,7 +8,7 @@ Cento anni fa a Manhattan nasceva una piccola rivista umoristica. Oggi, è un es
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20New%20Yorker%20A%20Century%20Of%20The%20Celebrated%20US%20Magazine.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20New%20Yorker%20A%20Century%20Of%20The%20Celebrated%20US%20Magazine.mp3" type="audio/mpeg">
 </audio>
 </div>
 

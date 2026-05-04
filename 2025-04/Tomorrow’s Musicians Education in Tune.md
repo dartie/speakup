@@ -8,7 +8,7 @@ Per decenni i musicisti britannici hanno dominato la scena mondiale, ma l’educ
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/Tomorrow%E2%80%99s%20Musicians%20Education%20in%20Tune.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/Tomorrow%E2%80%99s%20Musicians%20Education%20in%20Tune.mp3" type="audio/mpeg">
 </audio>
 </div>
 

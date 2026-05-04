@@ -8,7 +8,7 @@ Alla fine di giugno, la cultura aborigena neozelandese celebra l’inizio del nu
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/M%C4%81ori%20New%20Year%20Matariki.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/M%C4%81ori%20New%20Year%20Matariki.mp3" type="audio/mpeg">
 </audio>
 </div>
 

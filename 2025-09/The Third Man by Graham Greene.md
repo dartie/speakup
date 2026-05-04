@@ -8,7 +8,7 @@ Il celebre autore inglese ha firmato la sceneggiatura di uno dei migliori film n
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Third%20Man%20by%20Graham%20Greene.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Third%20Man%20by%20Graham%20Greene.mp3" type="audio/mpeg">
 </audio>
 </div>
 

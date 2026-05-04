@@ -8,7 +8,7 @@ Esiste una linea sottile che separa la risata dal pianto e la lingua inglese la 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/Laugh%20Until%20You%20Cry%20Getting%20Emotional.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/Laugh%20Until%20You%20Cry%20Getting%20Emotional.mp3" type="audio/mpeg">
 </audio>
 </div>
 

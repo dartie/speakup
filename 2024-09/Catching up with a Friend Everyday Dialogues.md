@@ -8,7 +8,7 @@ Una chiacchierata tra amici per tenersi aggiornati sulle ultime novità: And wha
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/Catching%20up%20with%20a%20Friend%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/Catching%20up%20with%20a%20Friend%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 

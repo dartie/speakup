@@ -8,7 +8,7 @@ Riuscire a capire il livello di bontà delle persone in base al colore che emana
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/A%20Short%20Story%20True%20Colours.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/A%20Short%20Story%20True%20Colours.mp3" type="audio/mpeg">
 </audio>
 </div>
 

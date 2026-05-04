@@ -8,7 +8,7 @@ Nel 1995, il Washington Post pubblicò il manifesto di Ted Kaczynski, aka Unabom
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Unabomber%20Industrial%20Society%20And%20Its%20Future.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Unabomber%20Industrial%20Society%20And%20Its%20Future.mp3" type="audio/mpeg">
 </audio>
 </div>
 

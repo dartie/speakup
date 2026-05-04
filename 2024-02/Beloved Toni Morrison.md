@@ -8,7 +8,7 @@ Questo romanzo della Premio Nobel afroamericana è dedicato alla memoria delle o
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-02/Beloved%20Toni%20Morrison.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-02/Beloved%20Toni%20Morrison.mp3" type="audio/mpeg">
 </audio>
 </div>
 

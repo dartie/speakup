@@ -8,7 +8,7 @@ Scopri come informarti sugli orari delle festività in inglese.
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Everyday%20Dialogues%20Opening%20Hours.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Everyday%20Dialogues%20Opening%20Hours.mp3" type="audio/mpeg">
 </audio>
 </div>
 

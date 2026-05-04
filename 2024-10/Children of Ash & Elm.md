@@ -8,7 +8,7 @@ Neil Price, specialista di storia vichinga presso l'Università di Uppsala, mett
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/Children%20of%20Ash%20&%20Elm.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/Children%20of%20Ash%20&%20Elm.mp3" type="audio/mpeg">
 </audio>
 </div>
 

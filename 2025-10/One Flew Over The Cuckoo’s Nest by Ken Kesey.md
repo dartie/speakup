@@ -8,7 +8,7 @@ Un romanzo toccante, che parla di quanto sia difficile adattarsi a una società 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/One%20Flew%20Over%20The%20Cuckoo%E2%80%99s%20Nest%20by%20Ken%20Kesey.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/One%20Flew%20Over%20The%20Cuckoo%E2%80%99s%20Nest%20by%20Ken%20Kesey.mp3" type="audio/mpeg">
 </audio>
 </div>
 

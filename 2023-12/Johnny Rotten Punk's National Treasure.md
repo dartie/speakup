@@ -8,7 +8,7 @@ Cantante dei Sex Pistols, band dalla breve durata ma dalla grande influenza sull
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Johnny%20Rotten%20Punk%27s%20National%20Treasure.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-12/Johnny%20Rotten%20Punk%27s%20National%20Treasure.mp3" type="audio/mpeg">
 </audio>
 </div>
 

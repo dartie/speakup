@@ -8,7 +8,7 @@ Apice della letteratura modernista, questo poema di 433 versi, che attinge a leg
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20Waste%20Land%20by%20T.%20S.%20Eliot.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20Waste%20Land%20by%20T.%20S.%20Eliot.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Questo gioiello, che reca le iniziali di Enrico VIII e Caterina d’Aragona, ci 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Henry%20And%20Katherine%20The%20Tudor%20Heart.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Henry%20And%20Katherine%20The%20Tudor%20Heart.mp3" type="audio/mpeg">
 </audio>
 </div>
 

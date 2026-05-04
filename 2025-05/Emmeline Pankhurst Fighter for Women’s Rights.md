@@ -8,7 +8,7 @@ Brillante oratrice, ha svolto un ruolo fondamentale nella lotta per il suffragio
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/Emmeline%20Pankhurst%20Fighter%20for%20Women%E2%80%99s%20Rights.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/Emmeline%20Pankhurst%20Fighter%20for%20Women%E2%80%99s%20Rights.mp3" type="audio/mpeg">
 </audio>
 </div>
 

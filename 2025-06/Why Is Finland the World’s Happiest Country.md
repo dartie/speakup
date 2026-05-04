@@ -8,7 +8,7 @@ Per l’ottavo anno di fila la Finlandia è tra i Paesi più felici del mondo. I
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Why%20Is%20Finland%20the%20World%E2%80%99s%20Happiest%20Country.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Why%20Is%20Finland%20the%20World%E2%80%99s%20Happiest%20Country.mp3" type="audio/mpeg">
 </audio>
 </div>
 

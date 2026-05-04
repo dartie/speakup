@@ -8,7 +8,7 @@ La sfida di non bere alcolici per trenta giorni dopo gli eccessi delle feste nat
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/The%20New%20York%20Times%20Considering%20Dry%20January%20Set%20Yourself%20Up%20%20for%20Success-.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/The%20New%20York%20Times%20Considering%20Dry%20January%20Set%20Yourself%20Up%20%20for%20Success-.mp3" type="audio/mpeg">
 </audio>
 </div>
 

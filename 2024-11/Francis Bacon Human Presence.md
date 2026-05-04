@@ -8,7 +8,7 @@ La National Portrait Gallery di Londra presenta una grande retrospettiva dei rit
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Francis%20Bacon%20Human%20Presence.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Francis%20Bacon%20Human%20Presence.mp3" type="audio/mpeg">
 </audio>
 </div>
 

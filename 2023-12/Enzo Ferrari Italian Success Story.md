@@ -8,7 +8,7 @@ Il creatore dell’iconico marchio di auto sportive ha avuto successo come pilot
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Enzo%20Ferrari%20Italian%20Success%20Story.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-12/Enzo%20Ferrari%20Italian%20Success%20Story.mp3" type="audio/mpeg">
 </audio>
 </div>
 

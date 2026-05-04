@@ -8,7 +8,7 @@ Trasforma il suo concetto radicale di ordine in un impero mediatico e commercial
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/How%20Marie%20Kondo%20Changed%20Her%20Mind%20-I%20Realised%20%20Perfect%20Order%20Was%20Not%20My%20Goal.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/How%20Marie%20Kondo%20Changed%20Her%20Mind%20-I%20Realised%20%20Perfect%20Order%20Was%20Not%20My%20Goal.mp3" type="audio/mpeg">
 </audio>
 </div>
 

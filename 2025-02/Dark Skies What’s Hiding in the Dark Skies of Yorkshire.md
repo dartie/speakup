@@ -8,7 +8,7 @@ Lontano dall’inquinamento luminoso delle città, due parchi naturali nel nord 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Dark%20Skies%20What%E2%80%99s%20Hiding%20in%20the%20Dark%20Skies%20of%20Yorkshire.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Dark%20Skies%20What%E2%80%99s%20Hiding%20in%20the%20Dark%20Skies%20of%20Yorkshire.mp3" type="audio/mpeg">
 </audio>
 </div>
 

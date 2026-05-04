@@ -8,7 +8,7 @@ Le passeggiate nella natura permettono di imparare un nuovo vocabolario sulle me
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/A%20Walk%20Through%20the%20Wetlands%20Everyday%20%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/A%20Walk%20Through%20the%20Wetlands%20Everyday%20%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 

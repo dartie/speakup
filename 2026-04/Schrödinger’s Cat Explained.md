@@ -8,7 +8,7 @@ Il famoso esperimento del "gatto di Schrödinger" è stato ideato dal fisico Erw
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/Schr%C3%B6dinger%E2%80%99s%20Cat%20Explained.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/Schr%C3%B6dinger%E2%80%99s%20Cat%20Explained.mp3" type="audio/mpeg">
 </audio>
 </div>
 

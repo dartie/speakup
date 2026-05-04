@@ -8,7 +8,7 @@ La capitale dell’Australia Occidentale è una delle città più isolate del mo
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/Perth,%20City%20Of%20Light.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/Perth,%20City%20Of%20Light.mp3" type="audio/mpeg">
 </audio>
 </div>
 

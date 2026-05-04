@@ -8,7 +8,7 @@ Lyndsy Spence presenta una biografia della celebre soprano che rivela i desideri
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Maria%20Callas%20A%20Greek%20Tragedy.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-12/Maria%20Callas%20A%20Greek%20Tragedy.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Questo modello di lana, estremamente caratteristico dei clan scozzesi, è divent
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Tartan%20A%20Short%20History.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Tartan%20A%20Short%20History.mp3" type="audio/mpeg">
 </audio>
 </div>
 

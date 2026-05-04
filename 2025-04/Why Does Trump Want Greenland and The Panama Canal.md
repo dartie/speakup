@@ -8,7 +8,7 @@ Pur negando il cambiamento climatico, Trump sta attuando una serie di strategie 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/Why%20Does%20Trump%20Want%20Greenland%20and%20The%20Panama%20Canal.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/Why%20Does%20Trump%20Want%20Greenland%20and%20The%20Panama%20Canal.mp3" type="audio/mpeg">
 </audio>
 </div>
 

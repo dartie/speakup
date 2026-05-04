@@ -8,7 +8,7 @@ Al suo esordio nel 1888, la penna Parker ha rivoluzionato il modo di scrivere a 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/The%20Parker%20Pen%20Smooth%20Flow%20of%20Ink.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/The%20Parker%20Pen%20Smooth%20Flow%20of%20Ink.mp3" type="audio/mpeg">
 </audio>
 </div>
 

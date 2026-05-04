@@ -8,7 +8,7 @@ Oltre a padroneggiare una serie di regole grammaticali e di vocaboli, l’appren
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-02/South%20African%20English%20at%20Iboux%20Academy%20the%20Richness%20of%20a%20Global%20Language.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-02/South%20African%20English%20at%20Iboux%20Academy%20the%20Richness%20of%20a%20Global%20Language.mp3" type="audio/mpeg">
 </audio>
 </div>
 

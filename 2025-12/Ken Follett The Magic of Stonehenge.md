@@ -8,7 +8,7 @@ Tra divulgazione archeologica e finzione storica, l’autore gallese costruisce 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Ken%20Follett%20The%20Magic%20of%20Stonehenge.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Ken%20Follett%20The%20Magic%20of%20Stonehenge.mp3" type="audio/mpeg">
 </audio>
 </div>
 

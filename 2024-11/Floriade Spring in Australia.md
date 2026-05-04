@@ -8,7 +8,7 @@ Quando in Europa arriva l’autunno, in Australia è primavera. A Canberra, la c
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Floriade%20Spring%20in%20Australia.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Floriade%20Spring%20in%20Australia.mp3" type="audio/mpeg">
 </audio>
 </div>
 

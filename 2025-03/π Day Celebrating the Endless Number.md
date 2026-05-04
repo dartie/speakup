@@ -8,7 +8,7 @@ La giornata internazionale della matematica si celebra il 14 marzo, grazie a un 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/%CF%80%20Day%20Celebrating%20the%20Endless%20Number.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/%CF%80%20Day%20Celebrating%20the%20Endless%20Number.mp3" type="audio/mpeg">
 </audio>
 </div>
 

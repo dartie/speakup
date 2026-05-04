@@ -8,7 +8,7 @@ Questa piccola isola indonesiana, dove veniva coltivata una spezia del valore de
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/The%20New%20York%20Times%20-Manhattan%20or%20Pulau%20Rhun%20In%201667,%20Nutmeg%20Made%20the%20Choice%20a%20No-Brainer-.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/The%20New%20York%20Times%20-Manhattan%20or%20Pulau%20Rhun%20In%201667,%20Nutmeg%20Made%20the%20Choice%20a%20No-Brainer-.mp3" type="audio/mpeg">
 </audio>
 </div>
 

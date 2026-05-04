@@ -8,7 +8,7 @@ A volte, il mercato dell’arte contemporanea riesce a sconvolgere l’opinione 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/The%20New%20York%20Times%20-Who%E2%80%99s%20Laughing%20Now%20Banana-as-Art%20Sells%20for%20$6.2%20Million%20at%20Sotheby%E2%80%99s.-.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/The%20New%20York%20Times%20-Who%E2%80%99s%20Laughing%20Now%20Banana-as-Art%20Sells%20for%20$6.2%20Million%20at%20Sotheby%E2%80%99s.-.mp3" type="audio/mpeg">
 </audio>
 </div>
 

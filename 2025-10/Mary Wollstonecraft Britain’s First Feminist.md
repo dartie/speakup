@@ -8,7 +8,7 @@ Nella Gran Bretagna del XVIII secolo, quando la vita delle donne era quasi inter
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/Mary%20Wollstonecraft%20Britain%E2%80%99s%20First%20Feminist.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/Mary%20Wollstonecraft%20Britain%E2%80%99s%20First%20Feminist.mp3" type="audio/mpeg">
 </audio>
 </div>
 

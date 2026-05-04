@@ -8,7 +8,7 @@ In un regno in cui bellezza e potere regnano sovrani, l'incessante ricerca della
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/The%20Price%20of%20Vanity.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/The%20Price%20of%20Vanity.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Divertente, potente e molto facile da suonare, la chitarra elettrica è uno degl
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/A%20Short%20History%20of%20the%20Electric%20Guitar.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-11/A%20Short%20History%20of%20the%20Electric%20Guitar.mp3" type="audio/mpeg">
 </audio>
 </div>
 

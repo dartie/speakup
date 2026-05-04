@@ -8,7 +8,7 @@ I devastanti incendi di Los Angeles sono una tragica conseguenza del cambiamento
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20Chronicle%20of%20a%20Fire%20Foretold.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20Chronicle%20of%20a%20Fire%20Foretold.mp3" type="audio/mpeg">
 </audio>
 </div>
 

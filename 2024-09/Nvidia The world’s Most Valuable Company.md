@@ -8,7 +8,7 @@ L’azienda produttrice di chip, finora sconosciuta a molti, è diventata la soc
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/Nvidia%20The%20world%E2%80%99s%20Most%20Valuable%20Company.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/Nvidia%20The%20world%E2%80%99s%20Most%20Valuable%20Company.mp3" type="audio/mpeg">
 </audio>
 </div>
 

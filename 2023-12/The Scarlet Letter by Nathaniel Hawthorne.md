@@ -8,7 +8,7 @@ In questo capolavoro della letteratura romantica, l’autore del Massachusetts e
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/The%20Scarlet%20Letter%20by%20Nathaniel%20Hawthorne.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-12/The%20Scarlet%20Letter%20by%20Nathaniel%20Hawthorne.mp3" type="audio/mpeg">
 </audio>
 </div>
 

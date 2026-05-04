@@ -8,7 +8,7 @@ La posizione di Papa Leone XIV sull’immigrazione e la sua formazione pluralist
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/The%20New%20York%20Times%20-An%20American%20Pope%20Emerges%20as%20a%20Potential%20Contrast%20to%20Trump-.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/The%20New%20York%20Times%20-An%20American%20Pope%20Emerges%20as%20a%20Potential%20Contrast%20to%20Trump-.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Un breve racconto sullo scorrere inesorabile del tempo. Per vivere più tranquil
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/A%20Short%20Story%20Time%20Out.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/A%20Short%20Story%20Time%20Out.mp3" type="audio/mpeg">
 </audio>
 </div>
 

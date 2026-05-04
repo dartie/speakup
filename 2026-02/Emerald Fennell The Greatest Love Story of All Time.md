@@ -8,7 +8,7 @@ Emerald Fennell ha scelto Margot Robbie e Jacob Elordi per interpretare Cathy e 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Emerald%20Fennell%20The%20Greatest%20Love%20Story%20of%20All%20Time.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Emerald%20Fennell%20The%20Greatest%20Love%20Story%20of%20All%20Time.mp3" type="audio/mpeg">
 </audio>
 </div>
 

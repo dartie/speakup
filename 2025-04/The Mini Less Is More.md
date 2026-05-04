@@ -8,7 +8,7 @@ Nata in un periodo di crisi, l’auto più amata dagli inglesi del XX secolo, ha
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/The%20Mini%20Less%20Is%20More.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/The%20Mini%20Less%20Is%20More.mp3" type="audio/mpeg">
 </audio>
 </div>
 

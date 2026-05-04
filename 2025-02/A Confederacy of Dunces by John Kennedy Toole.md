@@ -8,7 +8,7 @@ Rifiutato in diverse occasioni e pubblicato a posteriori, questo romanzo su un d
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/A%20Confederacy%20of%20Dunces%20by%20John%20Kennedy%20Toole.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/A%20Confederacy%20of%20Dunces%20by%20John%20Kennedy%20Toole.mp3" type="audio/mpeg">
 </audio>
 </div>
 

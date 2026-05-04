@@ -8,7 +8,7 @@ Un tempo avamposto militare e terra di cowboy, dagli anni ‘70 questa città ne
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/Marfa,%20Texas%20Art%20In%20The%20Desert.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/Marfa,%20Texas%20Art%20In%20The%20Desert.mp3" type="audio/mpeg">
 </audio>
 </div>
 

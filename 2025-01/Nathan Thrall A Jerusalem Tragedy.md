@@ -8,7 +8,7 @@ A cavallo tra cronaca e analisi socio-politica, questo americano di origine ebra
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/Nathan%20Thrall%20A%20Jerusalem%20Tragedy.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/Nathan%20Thrall%20A%20Jerusalem%20Tragedy.mp3" type="audio/mpeg">
 </audio>
 </div>
 

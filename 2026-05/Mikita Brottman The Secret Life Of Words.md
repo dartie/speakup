@@ -8,7 +8,7 @@ Nota per il suo approccio innovativo al true crime, l’autrice e psicologa fond
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/Mikita%20Brottman%20The%20Secret%20Life%20Of%20Words.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/Mikita%20Brottman%20The%20Secret%20Life%20Of%20Words.mp3" type="audio/mpeg">
 </audio>
 </div>
 

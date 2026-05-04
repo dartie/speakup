@@ -8,7 +8,7 @@ Il 16 dicembre 1775 nacque, nel sud dell’Inghilterra, una delle autrici più a
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Jane%20Austen%27s%20250th%20Anniversary.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Jane%20Austen%27s%20250th%20Anniversary.mp3" type="audio/mpeg">
 </audio>
 </div>
 

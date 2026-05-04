@@ -8,7 +8,7 @@ Il prolifico poeta e drammaturgo gallese Dylan Thomas continua ad affascinare il
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/In%20Love%20With%20Words.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/In%20Love%20With%20Words.mp3" type="audio/mpeg">
 </audio>
 </div>
 

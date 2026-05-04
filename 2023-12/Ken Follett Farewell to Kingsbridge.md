@@ -8,7 +8,7 @@ Con "Le armi della luce", l’autore gallese torna per la quinta e forse ultima 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Ken%20Follett%20Farewell%20to%20Kingsbridge.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-12/Ken%20Follett%20Farewell%20to%20Kingsbridge.mp3" type="audio/mpeg">
 </audio>
 </div>
 

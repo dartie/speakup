@@ -8,7 +8,7 @@ Questo libro è stato concepito come un registro per risolvere le controversie s
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-01/The%20Guinness%20Book%20of%20Records%20Groundbreaking%20Feats.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-01/The%20Guinness%20Book%20of%20Records%20Groundbreaking%20Feats.mp3" type="audio/mpeg">
 </audio>
 </div>
 

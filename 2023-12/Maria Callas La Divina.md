@@ -8,7 +8,7 @@ Negli anni ‘50 e ‘60 la diva greco-americana trionfò in tutto il mondo con 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Maria%20Callas%20La%20Divina.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-12/Maria%20Callas%20La%20Divina.mp3" type="audio/mpeg">
 </audio>
 </div>
 

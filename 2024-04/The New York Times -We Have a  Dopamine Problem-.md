@@ -8,7 +8,7 @@ In una società afflitta dalle dipendenze e dalla scarsa motivazione, questo neu
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/The%20New%20York%20Times%20-We%20Have%20a%20%20Dopamine%20Problem-.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/The%20New%20York%20Times%20-We%20Have%20a%20%20Dopamine%20Problem-.mp3" type="audio/mpeg">
 </audio>
 </div>
 

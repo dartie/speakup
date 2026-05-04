@@ -8,7 +8,7 @@ La capitale dell’Irlanda del Nord sta cercando di superare decenni di violenza
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/Belfast%20A%20City%20Reborn.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/Belfast%20A%20City%20Reborn.mp3" type="audio/mpeg">
 </audio>
 </div>
 

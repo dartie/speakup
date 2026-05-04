@@ -8,7 +8,7 @@ Luigi Mangione, il giovane accusato dell'omicidio del dirigente Brian Thompson, 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20New%20York%20Times%20Reaction%20to%20CEO%20Killing%20Exposes%20Frustrations%20With%20Health%20System.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20New%20York%20Times%20Reaction%20to%20CEO%20Killing%20Exposes%20Frustrations%20With%20Health%20System.mp3" type="audio/mpeg">
 </audio>
 </div>
 

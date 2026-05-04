@@ -8,7 +8,7 @@ I magnati della tecnologia si sono spesso ispirati ai classici della fantascienz
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/Will%20Sci-Fi%20Destroy%20The%20World.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/Will%20Sci-Fi%20Destroy%20The%20World.mp3" type="audio/mpeg">
 </audio>
 </div>
 

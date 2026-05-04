@@ -8,7 +8,7 @@ Figlia legittima di Lord Byron, dedicò la sua breve vita allo studio della mate
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Ada%20Lovelace%20Pioneer%20of%20Modern%20Computer%20Science.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Ada%20Lovelace%20Pioneer%20of%20Modern%20Computer%20Science.mp3" type="audio/mpeg">
 </audio>
 </div>
 

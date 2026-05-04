@@ -8,7 +8,7 @@ La celebre autrice Tilar J. Mazzeo esplora l'intrigante storia del rivoluzionari
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Chanel%20No5.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-12/Chanel%20No5.mp3" type="audio/mpeg">
 </audio>
 </div>
 

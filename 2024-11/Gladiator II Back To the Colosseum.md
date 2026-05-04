@@ -8,7 +8,7 @@ Ridley Scott firma il sequel del suo stesso successo, con l’irlandese Paul Mes
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Gladiator%20II%20Back%20To%20the%20Colosseum.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Gladiator%20II%20Back%20To%20the%20Colosseum.mp3" type="audio/mpeg">
 </audio>
 </div>
 

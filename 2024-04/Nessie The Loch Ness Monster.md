@@ -8,7 +8,7 @@ Se questa creatura solitaria e affascinante esistesse davvero, sarebbe la più m
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Nessie%20The%20Loch%20Ness%20Monster.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Nessie%20The%20Loch%20Ness%20Monster.mp3" type="audio/mpeg">
 </audio>
 </div>
 

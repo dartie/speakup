@@ -8,7 +8,7 @@ Se la tua passione per la cucina si accende durante il periodo natalizio e vuoi 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Preparing%20Christmas%20Dinner%20Everyday%20%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-12/Preparing%20Christmas%20Dinner%20Everyday%20%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 

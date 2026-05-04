@@ -8,7 +8,7 @@ Per tre giorni in agosto, il cielo di questa citt√† costiera nel sud-ovest dell‚
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/Floating%20Away%20Bristol%20Balloon%20Fiesta.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/Floating%20Away%20Bristol%20Balloon%20Fiesta.mp3" type="audio/mpeg">
 </audio>
 </div>
 

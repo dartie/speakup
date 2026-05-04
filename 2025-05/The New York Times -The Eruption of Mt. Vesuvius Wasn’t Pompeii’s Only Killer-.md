@@ -8,7 +8,7 @@ Secondo alcuni studi, sebbene l’eruzione del Vesuvio sia stata devastante, mol
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/The%20New%20York%20Times%20-The%20Eruption%20of%20Mt.%20Vesuvius%20Wasn%E2%80%99t%20Pompeii%E2%80%99s%20Only%20Killer-.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/The%20New%20York%20Times%20-The%20Eruption%20of%20Mt.%20Vesuvius%20Wasn%E2%80%99t%20Pompeii%E2%80%99s%20Only%20Killer-.mp3" type="audio/mpeg">
 </audio>
 </div>
 

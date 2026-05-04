@@ -8,7 +8,7 @@ In questo capolavoro, l’autore inglese racconta le sue tristi esperienze al fr
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/Homage%20to%20Catalonia%20by%20George%20Orwell.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/Homage%20to%20Catalonia%20by%20George%20Orwell.mp3" type="audio/mpeg">
 </audio>
 </div>
 

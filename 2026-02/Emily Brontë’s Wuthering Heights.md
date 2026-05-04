@@ -8,7 +8,7 @@ Quando fu pubblicato, il romanzo di Emily Brontë scandalizzò pubblico e critic
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Emily%20Bront%C3%AB%E2%80%99s%20Wuthering%20Heights.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Emily%20Bront%C3%AB%E2%80%99s%20Wuthering%20Heights.mp3" type="audio/mpeg">
 </audio>
 </div>
 

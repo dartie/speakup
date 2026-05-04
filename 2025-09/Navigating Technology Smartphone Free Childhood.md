@@ -8,7 +8,7 @@ Nato come un gruppo di WhatsApp tra genitori, oggi è un movimento internazional
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/Navigating%20Technology%20Smartphone%20Free%20Childhood.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/Navigating%20Technology%20Smartphone%20Free%20Childhood.mp3" type="audio/mpeg">
 </audio>
 </div>
 

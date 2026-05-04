@@ -8,7 +8,7 @@ Temibili guerrieri, ma anche funzionari e artisti: un’esibizione del British M
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/The%20Samurai%20Elite%20Social%20Class.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/The%20Samurai%20Elite%20Social%20Class.mp3" type="audio/mpeg">
 </audio>
 </div>
 

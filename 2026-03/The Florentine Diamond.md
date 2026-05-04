@@ -8,7 +8,7 @@ Non è solo la storia di un preziosissimo gioiello di cui si erano perse le trac
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/The%20Florentine%20Diamond.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/The%20Florentine%20Diamond.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ A Londra, una piccola statua di due topolini che mangiano del formaggio onora la
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/A%20Short%20Story%20In%20Philpot%20Lane.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/A%20Short%20Story%20In%20Philpot%20Lane.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Il candidato alla vicepresidenza di Trump è passato da essere un repubblicano c
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/The%20New%20York%20Times%20-What%20to%20Know%20About%20J.%20D.%20Vance,%20Trump%E2%80%99s%20Running%20Mate.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/The%20New%20York%20Times%20-What%20to%20Know%20About%20J.%20D.%20Vance,%20Trump%E2%80%99s%20Running%20Mate.mp3" type="audio/mpeg">
 </audio>
 </div>
 

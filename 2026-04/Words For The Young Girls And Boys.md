@@ -8,7 +8,7 @@ La storia di questi due termini ci ricorda che anche le parole più semplici, qu
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/Words%20For%20The%20Young%20Girls%20And%20Boys.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/Words%20For%20The%20Young%20Girls%20And%20Boys.mp3" type="audio/mpeg">
 </audio>
 </div>
 

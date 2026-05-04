@@ -8,7 +8,7 @@ Non dire sempre "goodbye"! In inglese, proprio come in italiano, esistono molti 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/How%20To%20Say%20Goodbye.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/How%20To%20Say%20Goodbye.mp3" type="audio/mpeg">
 </audio>
 </div>
 

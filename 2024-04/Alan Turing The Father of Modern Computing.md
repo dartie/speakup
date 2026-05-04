@@ -8,7 +8,7 @@ Considerato una delle menti più brillanti del XX secolo, questo matematico visi
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Alan%20Turing%20The%20Father%20of%20Modern%20Computing.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Alan%20Turing%20The%20Father%20of%20Modern%20Computing.mp3" type="audio/mpeg">
 </audio>
 </div>
 

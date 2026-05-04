@@ -8,7 +8,7 @@ Anche le tradizioni più semplici e divertenti hanno un'origine storica affascin
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/April%20Fools%E2%80%99%20Day%20Just%20Joking.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/April%20Fools%E2%80%99%20Day%20Just%20Joking.mp3" type="audio/mpeg">
 </audio>
 </div>
 

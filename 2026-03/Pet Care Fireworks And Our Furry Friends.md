@@ -8,7 +8,7 @@ I fuochi d’artificio piacciono a tutti, ma non ai nostri amici a quattro zampe
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/Pet%20Care%20Fireworks%20And%20Our%20Furry%20Friends.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/Pet%20Care%20Fireworks%20And%20Our%20Furry%20Friends.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Versatile e popolare come poche altre, questa parola —probabilmente la più us
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/The%20Most%20Used%20Word%20Ever%20It%27s%20Ok%21.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-12/The%20Most%20Used%20Word%20Ever%20It%27s%20Ok%21.mp3" type="audio/mpeg">
 </audio>
 </div>
 

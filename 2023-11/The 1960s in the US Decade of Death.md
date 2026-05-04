@@ -8,7 +8,7 @@ In un contesto di lotte per i diritti civili, gli anni sessanta sono stati un de
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/The%201960s%20in%20the%20US%20Decade%20of%20Death.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-11/The%201960s%20in%20the%20US%20Decade%20of%20Death.mp3" type="audio/mpeg">
 </audio>
 </div>
 

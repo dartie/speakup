@@ -8,7 +8,7 @@ Mentre il riscaldamento globale minaccia gli equilibri delicati del nostro piane
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/A%20Short%20Story%20The%20Point%20of%20No%20Return.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-11/A%20Short%20Story%20The%20Point%20of%20No%20Return.mp3" type="audio/mpeg">
 </audio>
 </div>
 

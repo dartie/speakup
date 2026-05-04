@@ -8,7 +8,7 @@ Poeta venerato, riuscì a suscitare sia ammirazione che scandalo nella società 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/Lord%20Byron%20The%20Tragic%20Romantic%20Poet.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/Lord%20Byron%20The%20Tragic%20Romantic%20Poet.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Dopo essere stato eletto per il terzo mandato come sindaco, Sadiq Khan si è imp
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/The%20New%20London%20Good%20Growth.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/The%20New%20London%20Good%20Growth.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Sally Rooney, l'acclamata scrittrice irlandese, è nota non solo per il suo tale
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Sally%20Rooney%20The%20Marxist%20Writer.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Sally%20Rooney%20The%20Marxist%20Writer.mp3" type="audio/mpeg">
 </audio>
 </div>
 

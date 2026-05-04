@@ -8,7 +8,7 @@ Con un abile gioco di parole, una battuta che associa la prima vittoria elettora
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/Star%20Wars%20Day%20May%20the%20Fourth%20Be%20With%20You.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/Star%20Wars%20Day%20May%20the%20Fourth%20Be%20With%20You.mp3" type="audio/mpeg">
 </audio>
 </div>
 

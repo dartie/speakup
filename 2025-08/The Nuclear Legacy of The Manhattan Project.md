@@ -8,7 +8,7 @@ Tra il 1942 e il 1946, circa 600.000 persone contribuirono alla creazione di unâ
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/The%20Nuclear%20Legacy%20of%20The%20Manhattan%20Project.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/The%20Nuclear%20Legacy%20of%20The%20Manhattan%20Project.mp3" type="audio/mpeg">
 </audio>
 </div>
 

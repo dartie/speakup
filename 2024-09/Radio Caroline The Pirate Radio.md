@@ -8,7 +8,7 @@ Fondata nel 1964 per contrastare il monopolio della BBC, l’emittente continua 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/Radio%20Caroline%20The%20Pirate%20Radio.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/Radio%20Caroline%20The%20Pirate%20Radio.mp3" type="audio/mpeg">
 </audio>
 </div>
 

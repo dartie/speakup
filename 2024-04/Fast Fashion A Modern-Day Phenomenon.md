@@ -8,7 +8,7 @@ A molti di noi piace seguire le tendenze della moda e indossare abiti belli ed e
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Fast%20Fashion%20A%20Modern-Day%20Phenomenon.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Fast%20Fashion%20A%20Modern-Day%20Phenomenon.mp3" type="audio/mpeg">
 </audio>
 </div>
 

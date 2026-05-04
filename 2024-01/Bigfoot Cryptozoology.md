@@ -8,7 +8,7 @@ Le prove dell’esistenza di un grande ominide nelle vaste distese naturali del 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-01/Bigfoot%20Cryptozoology.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-01/Bigfoot%20Cryptozoology.mp3" type="audio/mpeg">
 </audio>
 </div>
 

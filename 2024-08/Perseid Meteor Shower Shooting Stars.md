@@ -8,7 +8,7 @@ A metà agosto di ogni anno, la Terra attraversa la scia della cometa Swift-Tutt
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/Perseid%20Meteor%20Shower%20Shooting%20Stars.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/Perseid%20Meteor%20Shower%20Shooting%20Stars.mp3" type="audio/mpeg">
 </audio>
 </div>
 

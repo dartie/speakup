@@ -8,7 +8,7 @@ La cosiddetta Regina Vergine guidò l’Inghilterra verso la sua epoca più glor
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-01/Queen%20Elizabeth%20I%20The%20Golden%20Age.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-01/Queen%20Elizabeth%20I%20The%20Golden%20Age.mp3" type="audio/mpeg">
 </audio>
 </div>
 

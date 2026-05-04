@@ -8,7 +8,7 @@ Cento anni fa, venti uomini e centocinquanta cani percorsero più di mille chilo
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/The%20Serum%20Run%20Heroic%20Dogs%20and%20Mushers.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/The%20Serum%20Run%20Heroic%20Dogs%20and%20Mushers.mp3" type="audio/mpeg">
 </audio>
 </div>
 

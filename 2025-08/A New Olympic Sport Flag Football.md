@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/A%20New%20Olympic%20Sport%20Flag%20Football.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/A%20New%20Olympic%20Sport%20Flag%20Football.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ I "Peanuts", la serie di fumetti creata da Charles M. Schulz e con protagonisti 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/Peanuts%20The%20Longest%20Story%20Ever%20Told.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/Peanuts%20The%20Longest%20Story%20Ever%20Told.mp3" type="audio/mpeg">
 </audio>
 </div>
 

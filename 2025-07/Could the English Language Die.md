@@ -8,7 +8,7 @@ Al giorno d’oggi sembra impossibile da immaginare, ma potrebbero esserci le co
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/Could%20the%20English%20Language%20Die.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/Could%20the%20English%20Language%20Die.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Dal porto della Genova medievale a capo presente in qualsiasi armadio: il tutto 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/Jeans%20From%20Genoa%20To%20James%20Dean.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/Jeans%20From%20Genoa%20To%20James%20Dean.mp3" type="audio/mpeg">
 </audio>
 </div>
 

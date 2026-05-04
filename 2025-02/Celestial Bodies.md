@@ -8,7 +8,7 @@ Il cielo notturno ci offre un'incredibile varietà di fenomeni celesti, dalle co
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Celestial%20Bodies.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Celestial%20Bodies.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Le guerre culturali hanno portato a un aumento dei tentativi di vietare alcune l
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/The%20Rise%20of%20Prejudice%20Book%20Ban.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-11/The%20Rise%20of%20Prejudice%20Book%20Ban.mp3" type="audio/mpeg">
 </audio>
 </div>
 

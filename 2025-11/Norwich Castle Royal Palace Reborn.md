@@ -8,7 +8,7 @@ Un progetto durato cinque lunghi anni ha ridato vita al castello di Norwich, fon
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Norwich%20Castle%20Royal%20Palace%20Reborn.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Norwich%20Castle%20Royal%20Palace%20Reborn.mp3" type="audio/mpeg">
 </audio>
 </div>
 

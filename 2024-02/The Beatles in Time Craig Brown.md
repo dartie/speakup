@@ -8,7 +8,7 @@ Un nuovo libro composto da foto, aneddoti e testimonianze costituisce una biogra
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-02/The%20Beatles%20in%20Time%20Craig%20Brown.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-02/The%20Beatles%20in%20Time%20Craig%20Brown.mp3" type="audio/mpeg">
 </audio>
 </div>
 

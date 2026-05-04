@@ -8,7 +8,7 @@ Il dialogo tra due amici, in slang britannico, racconta le dinamiche quotidiane 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/That%20Anglophile%20Friend%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/That%20Anglophile%20Friend%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 

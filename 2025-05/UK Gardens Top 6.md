@@ -8,7 +8,7 @@ Da quelli meticolosamente progettati e curati a quelli più selvaggi, ecco una s
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/UK%20Gardens%20Top%206.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/UK%20Gardens%20Top%206.mp3" type="audio/mpeg">
 </audio>
 </div>
 

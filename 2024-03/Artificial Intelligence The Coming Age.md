@@ -8,7 +8,7 @@ A differenza di chi ritiene che l’intelligenza artificiale sia una minaccia pe
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/Artificial%20Intelligence%20The%20Coming%20Age.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/Artificial%20Intelligence%20The%20Coming%20Age.mp3" type="audio/mpeg">
 </audio>
 </div>
 

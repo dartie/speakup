@@ -8,7 +8,7 @@ Seguita da cinquemila anni, la dieta mediterranea ha cominciato a essere riconos
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-02/The%20New%20York%20Times%20-The%20Mediterranean%20Diet%20Really%20Is%20That%20Good%20for%20You.%20Here%E2%80%99s%20Why.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-02/The%20New%20York%20Times%20-The%20Mediterranean%20Diet%20Really%20Is%20That%20Good%20for%20You.%20Here%E2%80%99s%20Why.mp3" type="audio/mpeg">
 </audio>
 </div>
 

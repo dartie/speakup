@@ -8,7 +8,7 @@ Oltre 700 anni fa, William Wallace divenne uno degli eroi più coraggiosi e amat
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/William%20Wallace%20Scotland%E2%80%99s%20National%20Hero.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/William%20Wallace%20Scotland%E2%80%99s%20National%20Hero.mp3" type="audio/mpeg">
 </audio>
 </div>
 

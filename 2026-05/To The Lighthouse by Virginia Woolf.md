@@ -8,7 +8,7 @@ Una semplice gita in barca viene ostacolata dal maltempo, dal destino e dalla gu
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/To%20The%20Lighthouse%20by%20Virginia%20Woolf.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/To%20The%20Lighthouse%20by%20Virginia%20Woolf.mp3" type="audio/mpeg">
 </audio>
 </div>
 

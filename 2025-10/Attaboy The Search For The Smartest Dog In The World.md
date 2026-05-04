@@ -8,7 +8,7 @@ Fedeli e sempre pronti a imparare, la capacità dei cani di adattarsi alle nostr
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/Attaboy%20The%20Search%20For%20The%20Smartest%20Dog%20In%20The%20World.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/Attaboy%20The%20Search%20For%20The%20Smartest%20Dog%20In%20The%20World.mp3" type="audio/mpeg">
 </audio>
 </div>
 

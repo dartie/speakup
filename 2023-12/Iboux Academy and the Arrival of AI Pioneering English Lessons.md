@@ -8,7 +8,7 @@ L’avvento delle tecnologie moderne di intelligenza artificiale offre nuove pos
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/Iboux%20Academy%20and%20the%20Arrival%20of%20AI%20Pioneering%20English%20Lessons.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-12/Iboux%20Academy%20and%20the%20Arrival%20of%20AI%20Pioneering%20English%20Lessons.mp3" type="audio/mpeg">
 </audio>
 </div>
 

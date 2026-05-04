@@ -8,7 +8,7 @@ I Beatles non sono stati solo popstar, ma anche icone del cinema. Dalle commedie
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/Beatles%20Films%20Top%205.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/Beatles%20Films%20Top%205.mp3" type="audio/mpeg">
 </audio>
 </div>
 

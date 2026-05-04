@@ -8,7 +8,7 @@ Angelina Jolie è in testa alla corsa per l’Oscar nel ruolo della mitica diva 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Maria%20Legacy%20of%20la%20Divina.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Maria%20Legacy%20of%20la%20Divina.mp3" type="audio/mpeg">
 </audio>
 </div>
 

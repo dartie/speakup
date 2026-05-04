@@ -8,7 +8,7 @@ Una storia dall'umorismo cupo che racconta come l'ossessione per l'arrampicata p
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/Fluke%20A%20Short%20Story.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/Fluke%20A%20Short%20Story.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Un’importante retrospettiva rivendica la carriera di questa artista multidisci
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/Yoko%20Ono%20The%20Music%20of%20the%20Mind.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/Yoko%20Ono%20The%20Music%20of%20the%20Mind.mp3" type="audio/mpeg">
 </audio>
 </div>
 

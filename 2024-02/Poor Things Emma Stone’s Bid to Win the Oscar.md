@@ -8,7 +8,7 @@ Il nuovo film di Yorgos Lanthimos ha vinto il Leone d’Oro ed è stato molto ap
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-02/Poor%20Things%20Emma%20Stone%E2%80%99s%20Bid%20to%20Win%20the%20Oscar.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-02/Poor%20Things%20Emma%20Stone%E2%80%99s%20Bid%20to%20Win%20the%20Oscar.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Per distinguere la miriade di suoni emessi dagli animali, in inglese si ricorre 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/Animal%20Speak%20Beastly%20Language.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/Animal%20Speak%20Beastly%20Language.mp3" type="audio/mpeg">
 </audio>
 </div>
 

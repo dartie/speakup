@@ -8,7 +8,7 @@ Nato con una straordinaria capacità di sfuggire a qualsiasi situazione, viene s
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/Short%20Story%20Slippery.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/Short%20Story%20Slippery.mp3" type="audio/mpeg">
 </audio>
 </div>
 

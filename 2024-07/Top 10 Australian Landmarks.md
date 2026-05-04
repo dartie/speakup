@@ -8,7 +8,7 @@ L'Australia offre un'ampia scelta di destinazioni imperdibili dal fascino e dall
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/Top%2010%20Australian%20Landmarks.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/Top%2010%20Australian%20Landmarks.mp3" type="audio/mpeg">
 </audio>
 </div>
 

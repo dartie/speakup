@@ -8,7 +8,7 @@ Sessant’anni fa, i Beatles visitarono l’America per la prima volta. In sole 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/The%20Beatles%20in%20America%20A%20Cultural%20Invasion.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/The%20Beatles%20in%20America%20A%20Cultural%20Invasion.mp3" type="audio/mpeg">
 </audio>
 </div>
 

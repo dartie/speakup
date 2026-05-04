@@ -8,7 +8,7 @@ La storia di Wendy non è per nulla convenzionale: rimasta orfana da bambina, è
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/A%20Short%20Story%20The%20Lone%20Wolf.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/A%20Short%20Story%20The%20Lone%20Wolf.mp3" type="audio/mpeg">
 </audio>
 </div>
 

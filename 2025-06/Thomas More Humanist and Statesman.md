@@ -8,7 +8,7 @@ Filosofo, umanista e statista, fu uno dei più brillanti studiosi del Rinascimen
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Thomas%20More%20Humanist%20and%20Statesman.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Thomas%20More%20Humanist%20and%20Statesman.mp3" type="audio/mpeg">
 </audio>
 </div>
 

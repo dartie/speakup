@@ -8,7 +8,7 @@ Questa azienda californiana è stata una delle prime a commercializzare carne ot
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/Lab-Grown%20Meat%20The%20Food%20of%20the%20Future.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/Lab-Grown%20Meat%20The%20Food%20of%20the%20Future.mp3" type="audio/mpeg">
 </audio>
 </div>
 

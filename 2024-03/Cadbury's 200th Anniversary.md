@@ -8,7 +8,7 @@ Duecento anni fa, un giovane intraprendente fondò un’azienda che produceva i 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/Cadbury%27s%20200th%20Anniversary.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/Cadbury%27s%20200th%20Anniversary.mp3" type="audio/mpeg">
 </audio>
 </div>
 

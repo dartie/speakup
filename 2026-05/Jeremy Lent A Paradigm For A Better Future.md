@@ -8,7 +8,7 @@ Considerato da molti uno dei più grandi pensatori della nostra epoca, propone l
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/Jeremy%20Lent%20A%20Paradigm%20For%20A%20Better%20Future.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/Jeremy%20Lent%20A%20Paradigm%20For%20A%20Better%20Future.mp3" type="audio/mpeg">
 </audio>
 </div>
 

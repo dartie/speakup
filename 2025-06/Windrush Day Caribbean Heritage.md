@@ -8,7 +8,7 @@ Una festività che rende omaggio alla prima ondata di immigrati caraibici giunti
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Windrush%20Day%20Caribbean%20Heritage.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Windrush%20Day%20Caribbean%20Heritage.mp3" type="audio/mpeg">
 </audio>
 </div>
 

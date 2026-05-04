@@ -8,7 +8,7 @@ Oltre a ironizzare sull’attualità con un acuto senso dell’umorismo, questo 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Saturday%20Night%20Live%20Comedy%20Stars.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Saturday%20Night%20Live%20Comedy%20Stars.mp3" type="audio/mpeg">
 </audio>
 </div>
 

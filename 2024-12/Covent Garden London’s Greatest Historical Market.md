@@ -8,7 +8,7 @@ Con quasi quattro secoli di storia, questa attrazione londinese è stata celebra
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Covent%20Garden%20London%E2%80%99s%20Greatest%20Historical%20Market.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Covent%20Garden%20London%E2%80%99s%20Greatest%20Historical%20Market.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Alla macchinetta del caffè o con il passeggero che ci è seduto accanto in aere
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Small%20Talk%20is%20Great.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Small%20Talk%20is%20Great.mp3" type="audio/mpeg">
 </audio>
 </div>
 

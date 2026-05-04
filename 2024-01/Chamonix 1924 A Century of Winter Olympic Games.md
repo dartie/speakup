@@ -8,7 +8,7 @@ I Giochi olimpici moderni si ispirano a quelli celebrati in Grecia tra il 776 a.
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-01/Chamonix%201924%20A%20Century%20of%20Winter%20Olympic%20Games.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-01/Chamonix%201924%20A%20Century%20of%20Winter%20Olympic%20Games.mp3" type="audio/mpeg">
 </audio>
 </div>
 

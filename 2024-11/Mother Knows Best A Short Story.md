@@ -8,7 +8,7 @@ Una tragedia ha colpito la comunità di Lacey Park la notte di Halloween, quando
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Mother%20Knows%20Best%20A%20Short%20Story.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Mother%20Knows%20Best%20A%20Short%20Story.mp3" type="audio/mpeg">
 </audio>
 </div>
 

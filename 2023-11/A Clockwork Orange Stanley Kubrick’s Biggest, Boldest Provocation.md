@@ -8,7 +8,7 @@ L'adattamento del romanzo di Anthony Burgess nel 1971 da parte del regista ingle
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/A%20Clockwork%20Orange%20Stanley%20Kubrick%E2%80%99s%20Biggest,%20Boldest%20Provocation.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-11/A%20Clockwork%20Orange%20Stanley%20Kubrick%E2%80%99s%20Biggest,%20Boldest%20Provocation.mp3" type="audio/mpeg">
 </audio>
 </div>
 

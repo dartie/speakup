@@ -8,7 +8,7 @@ Per capire meglio le radici della passione britannica per il giardinaggio, abbia
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/Green%20Fingers.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/Green%20Fingers.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Questo accendino dalla fiamma resistente a tutte le stagioni offre una garanzia 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/The%20Zippo%20Lighter%20Eternal%20Flame.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/The%20Zippo%20Lighter%20Eternal%20Flame.mp3" type="audio/mpeg">
 </audio>
 </div>
 

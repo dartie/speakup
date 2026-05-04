@@ -8,7 +8,7 @@ Un dialogo che mostra una breve conversazione con una ONG alla ricerca di sosteg
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/Everyday%20Dialogues%20Fund-Raising%20For%20A%20Good%20Cause.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/Everyday%20Dialogues%20Fund-Raising%20For%20A%20Good%20Cause.mp3" type="audio/mpeg">
 </audio>
 </div>
 

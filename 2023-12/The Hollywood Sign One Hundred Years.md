@@ -8,7 +8,7 @@ Sulla collina di Los Angeles si trova la sua icona più famosa, simbolo del glam
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-12/The%20Hollywood%20Sign%20One%20Hundred%20Years.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-12/The%20Hollywood%20Sign%20One%20Hundred%20Years.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Sappiamo ancora molto poco sulla vita delle balene, ma la scienza si sta avvicin
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/How%20to%20Speak%20Whale%20Tom%20Mustill.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/How%20to%20Speak%20Whale%20Tom%20Mustill.mp3" type="audio/mpeg">
 </audio>
 </div>
 

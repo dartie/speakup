@@ -8,7 +8,7 @@ La dieta mediterranea √® un modello di alimentazione sana ed equilibrata che pu√
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-02/The%20Mediterranean%20Diet%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-02/The%20Mediterranean%20Diet%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 

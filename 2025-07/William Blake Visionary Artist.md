@@ -8,7 +8,7 @@ Un precursore del Romanticismo e un fervente sostenitore della libertà spiritua
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/William%20Blake%20Visionary%20Artist.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/William%20Blake%20Visionary%20Artist.mp3" type="audio/mpeg">
 </audio>
 </div>
 

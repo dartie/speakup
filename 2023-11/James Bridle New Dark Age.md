@@ -8,7 +8,7 @@ L’artista James Bridle sostiene che, contrariamente a quanto si creda, il sovr
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/James%20Bridle%20New%20Dark%20Age.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-11/James%20Bridle%20New%20Dark%20Age.mp3" type="audio/mpeg">
 </audio>
 </div>
 

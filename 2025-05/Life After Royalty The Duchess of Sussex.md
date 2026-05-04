@@ -8,7 +8,7 @@ Nonostante sia entrata a far parte della famiglia reale, Meghan Markle è sempre
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/Life%20After%20Royalty%20The%20Duchess%20of%20Sussex.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/Life%20After%20Royalty%20The%20Duchess%20of%20Sussex.mp3" type="audio/mpeg">
 </audio>
 </div>
 

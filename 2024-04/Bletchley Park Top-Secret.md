@@ -8,7 +8,7 @@ Questa tenuta dall’aspetto eclettico ospita il museo che racconta la storia de
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Bletchley%20Park%20Top-Secret.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Bletchley%20Park%20Top-Secret.mp3" type="audio/mpeg">
 </audio>
 </div>
 

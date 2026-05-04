@@ -8,7 +8,7 @@ Uscito nel 2003 e ispirato a esperienze reali, "Il diavolo veste Prada" ha lanci
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/The%20Devil%20Wears%20Prada%202%20Revenge%20Wears%20Prada.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/The%20Devil%20Wears%20Prada%202%20Revenge%20Wears%20Prada.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Chissà cosa si provava ad assistere a un’opera di Shakespeare diretta da lui 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/The%20Globe%20Shakespeare%E2%80%99s%20Theatre.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/The%20Globe%20Shakespeare%E2%80%99s%20Theatre.mp3" type="audio/mpeg">
 </audio>
 </div>
 

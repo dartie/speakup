@@ -8,7 +8,7 @@ A volte, la vita ci sorprende con rivelazioni inattese che cambiano il modo in c
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/A%20Short%20Story%20The%20Golden%20%20Nugget.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/A%20Short%20Story%20The%20Golden%20%20Nugget.mp3" type="audio/mpeg">
 </audio>
 </div>
 

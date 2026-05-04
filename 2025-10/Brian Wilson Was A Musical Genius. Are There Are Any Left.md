@@ -8,7 +8,7 @@ Possiamo affermare che oggi c’è ancora del genio in campo musicale? O veneria
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/Brian%20Wilson%20Was%20A%20Musical%20Genius.%20Are%20There%20Are%20Any%20Left.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/Brian%20Wilson%20Was%20A%20Musical%20Genius.%20Are%20There%20Are%20Any%20Left.mp3" type="audio/mpeg">
 </audio>
 </div>
 

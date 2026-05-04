@@ -8,7 +8,7 @@ Situato nel cuore di Woodstock, nell'Oxfordshire, Blenheim Palace è una testimo
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2023-11/Magnificent%20and%20Magical%20Blenheim%20Palace.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2023-11/Magnificent%20and%20Magical%20Blenheim%20Palace.mp3" type="audio/mpeg">
 </audio>
 </div>
 

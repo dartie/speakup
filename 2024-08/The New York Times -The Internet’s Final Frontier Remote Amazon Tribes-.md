@@ -8,7 +8,7 @@ In Brasile, il capo di una tribù dell’Amazzonia ha lottato per portare Intern
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/The%20New%20York%20Times%20-The%20Internet%E2%80%99s%20Final%20Frontier%20Remote%20Amazon%20Tribes-.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/The%20New%20York%20Times%20-The%20Internet%E2%80%99s%20Final%20Frontier%20Remote%20Amazon%20Tribes-.mp3" type="audio/mpeg">
 </audio>
 </div>
 

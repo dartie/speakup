@@ -8,7 +8,7 @@ Stanchi di Tinder? Potreste soffrire di “stanchezza da app di incontri”, un 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/Dating%20IRL%20Saying%20Goodbye%20to%20Dating%20Apps.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/Dating%20IRL%20Saying%20Goodbye%20to%20Dating%20Apps.mp3" type="audio/mpeg">
 </audio>
 </div>
 

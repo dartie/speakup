@@ -8,7 +8,7 @@ Cantante, cantautore e attore, è stato una delle figure più importanti nella s
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/David%20Bowie%20The%20Chameleon%20of%20Rock.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/David%20Bowie%20The%20Chameleon%20of%20Rock.mp3" type="audio/mpeg">
 </audio>
 </div>
 

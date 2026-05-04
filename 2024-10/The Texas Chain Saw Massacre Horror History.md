@@ -8,7 +8,7 @@ Cinquant’anni fa è stato realizzato uno dei film più terrificanti e cruenti 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/The%20Texas%20Chain%20Saw%20Massacre%20Horror%20History.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/The%20Texas%20Chain%20Saw%20Massacre%20Horror%20History.mp3" type="audio/mpeg">
 </audio>
 </div>
 

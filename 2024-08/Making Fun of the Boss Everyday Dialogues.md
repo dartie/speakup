@@ -8,7 +8,7 @@ Per evitare un'atmosfera tesa e sgradevole, durante il discorso del tuo capo è 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/Making%20Fun%20of%20the%20Boss%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/Making%20Fun%20of%20the%20Boss%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 

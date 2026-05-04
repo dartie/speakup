@@ -8,7 +8,7 @@ Matematico autodidatta e dal carattere irascibile, fu una delle menti più brill
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/Charles%20Babbage%20The%20Father%20of%20the%20Computer.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/Charles%20Babbage%20The%20Father%20of%20the%20Computer.mp3" type="audio/mpeg">
 </audio>
 </div>
 

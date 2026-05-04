@@ -8,7 +8,7 @@ Isambard Kingdom Brunel è stato un ingegnere pioniere il cui lavoro ha plasmato
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/The%20Master%20Builder.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/The%20Master%20Builder.mp3" type="audio/mpeg">
 </audio>
 </div>
 
