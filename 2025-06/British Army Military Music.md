@@ -8,7 +8,7 @@ Le bande dell'esercito britannico non suonano solo in occasione di eventi cerimo
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/British%20Army%20Military%20Music.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/British%20Army%20Military%20Music.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Scopriamo New York attraverso un itinerario alternativo di esperienze a basso co
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/New%20York%20City%20on%20a%20Budget%20Big%20Apple,%20Little%20Money.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/New%20York%20City%20on%20a%20Budget%20Big%20Apple,%20Little%20Money.mp3" type="audio/mpeg">
 </audio>
 </div>
 

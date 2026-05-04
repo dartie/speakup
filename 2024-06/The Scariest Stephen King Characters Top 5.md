@@ -8,7 +8,7 @@ Pelle d’oca, brividi e un crescente turbamento che culmina in una tensione ins
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/The%20Scariest%20Stephen%20King%20Characters%20Top%205.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/The%20Scariest%20Stephen%20King%20Characters%20Top%205.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ La comunità, che si è dissociata dalla Chiesa anglicana, pratica uno stile di 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/The%20Quakers%20A%20Society%20of%20Friends.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/The%20Quakers%20A%20Society%20of%20Friends.mp3" type="audio/mpeg">
 </audio>
 </div>
 

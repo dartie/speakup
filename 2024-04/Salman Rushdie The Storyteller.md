@@ -8,7 +8,7 @@ Lo scrittore anglo-indiano pubblica un nuovo volume di memorie in cui esamina le
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Salman%20Rushdie%20The%20Storyteller.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Salman%20Rushdie%20The%20Storyteller.mp3" type="audio/mpeg">
 </audio>
 </div>
 

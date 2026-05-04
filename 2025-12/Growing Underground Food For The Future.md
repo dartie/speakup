@@ -8,7 +8,7 @@ Sotto le strade di Londra, è nato un nuovo tipo di agricoltura. Coltivazioni so
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Growing%20Underground%20Food%20For%20The%20Future.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Growing%20Underground%20Food%20For%20The%20Future.mp3" type="audio/mpeg">
 </audio>
 </div>
 

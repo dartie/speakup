@@ -8,7 +8,7 @@ Un robot maggiordomo che fa le pulizie e piega il bucato: non è un film di fant
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/Invasion%20of%20the%20Home%20Humanoid%20Robots.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/Invasion%20of%20the%20Home%20Humanoid%20Robots.mp3" type="audio/mpeg">
 </audio>
 </div>
 

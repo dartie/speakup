@@ -8,7 +8,7 @@ La verità è là fuori e un vecchio messaggio radio potrebbe aiutarci a trovarl
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20Arecibo%20Message%20First%20Attempt%20at%20Alien%20Contact.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20Arecibo%20Message%20First%20Attempt%20at%20Alien%20Contact.mp3" type="audio/mpeg">
 </audio>
 </div>
 

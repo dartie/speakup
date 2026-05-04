@@ -8,7 +8,7 @@ Nuovi esperimenti di cosmologia e fisica quantistica indicano che potremmo esser
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/Are%20We%20About%20to%20Discover%20a%20New%20Force%20of%20Nature.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/Are%20We%20About%20to%20Discover%20a%20New%20Force%20of%20Nature.mp3" type="audio/mpeg">
 </audio>
 </div>
 

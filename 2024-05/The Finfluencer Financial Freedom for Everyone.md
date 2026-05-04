@@ -8,7 +8,7 @@ Secondo questo influencer, chiunque può raggiungere l’indipendenza economica.
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/The%20Finfluencer%20Financial%20Freedom%20for%20Everyone.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/The%20Finfluencer%20Financial%20Freedom%20for%20Everyone.mp3" type="audio/mpeg">
 </audio>
 </div>
 

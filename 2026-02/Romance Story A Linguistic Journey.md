@@ -8,7 +8,7 @@ Oggi, il termine inglese ‘romance’ indica sia una relazione romantica che un
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/Romance%20Story%20A%20Linguistic%20Journey.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/Romance%20Story%20A%20Linguistic%20Journey.mp3" type="audio/mpeg">
 </audio>
 </div>
 

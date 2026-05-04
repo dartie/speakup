@@ -8,7 +8,7 @@ Condizionati o forse ispirati dal clima imprevedibile, gli inglesi amano il giar
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-05/A%20Nation%20of%20Gardeners%20Labour%20of%20Love.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-05/A%20Nation%20of%20Gardeners%20Labour%20of%20Love.mp3" type="audio/mpeg">
 </audio>
 </div>
 

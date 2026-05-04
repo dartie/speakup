@@ -8,7 +8,7 @@ Questa giornata è una festa annuale celebrata in Nuova Zelanda per commemorare 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Waitangi%20Day%20A%20Celebration%20of%20New%20Zealand%E2%80%99s%20History.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Waitangi%20Day%20A%20Celebration%20of%20New%20Zealand%E2%80%99s%20History.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Ricevere il dono dell'eloquenza in cambio di un bacio: è possibile, al Blarney 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/Blarney%20Castle%20Kissing%20The%20Stone.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/Blarney%20Castle%20Kissing%20The%20Stone.mp3" type="audio/mpeg">
 </audio>
 </div>
 

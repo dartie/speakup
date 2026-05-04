@@ -8,7 +8,7 @@ Capolavoro della letteratura universale, questo lungo poema in versi sciolti rac
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Paradise%20Lost%20by%20John%20Milton.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Paradise%20Lost%20by%20John%20Milton.mp3" type="audio/mpeg">
 </audio>
 </div>
 

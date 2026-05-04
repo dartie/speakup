@@ -8,7 +8,7 @@ Una sostenitrice dei valori tradizionali maltratta i giovani con il suo bastone,
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/Short%20Story%20Young%20People%20These%20Days.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/Short%20Story%20Young%20People%20These%20Days.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Ed Gein, l’assassino che ha ispirato i mostri più iconici del cinema horror, 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Ed%20Gein%20An%20All-American%20Nightmare.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Ed%20Gein%20An%20All-American%20Nightmare.mp3" type="audio/mpeg">
 </audio>
 </div>
 

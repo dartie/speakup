@@ -8,7 +8,7 @@ Il Pantanal brasiliano, la più grande zona umida del mondo, ospita numerosi gia
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/In%20the%20Land%20of%20the%20Jaguars.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/In%20the%20Land%20of%20the%20Jaguars.mp3" type="audio/mpeg">
 </audio>
 </div>
 

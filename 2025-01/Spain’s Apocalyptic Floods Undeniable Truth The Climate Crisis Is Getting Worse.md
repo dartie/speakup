@@ -8,7 +8,7 @@ Le devastanti alluvioni verificatesi negli ultimi mesi sono la prova che il camb
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/Spain%E2%80%99s%20Apocalyptic%20Floods%20Undeniable%20Truth%20The%20Climate%20Crisis%20Is%20Getting%20Worse.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/Spain%E2%80%99s%20Apocalyptic%20Floods%20Undeniable%20Truth%20The%20Climate%20Crisis%20Is%20Getting%20Worse.mp3" type="audio/mpeg">
 </audio>
 </div>
 

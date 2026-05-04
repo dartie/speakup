@@ -8,7 +8,7 @@ Il prestigioso Victoria & Albert Museum di Londra, punto di riferimento mondiale
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/V&A%20East%20Storehouse%20A%20Museum%20for%20Everyone.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/V&A%20East%20Storehouse%20A%20Museum%20for%20Everyone.mp3" type="audio/mpeg">
 </audio>
 </div>
 

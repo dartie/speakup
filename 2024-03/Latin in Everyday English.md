@@ -8,7 +8,7 @@ L’eredità romana è rimasta (sorprendentemente) quasi invariata in alcuni mod
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/Latin%20in%20Everyday%20English.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/Latin%20in%20Everyday%20English.mp3" type="audio/mpeg">
 </audio>
 </div>
 

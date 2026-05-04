@@ -8,7 +8,7 @@ Con la sua ultima opera, la scrittrice britannica realizza ciò che aveva promes
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/Zadie%20Smith%20Fact,%20Fiction%20And%20Fraud.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/Zadie%20Smith%20Fact,%20Fiction%20And%20Fraud.mp3" type="audio/mpeg">
 </audio>
 </div>
 

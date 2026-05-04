@@ -8,7 +8,7 @@ Preparatevi a commuovervi con la terza stagione di Bridgerton che continua ad af
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/The%20Polin%20Season.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/The%20Polin%20Season.mp3" type="audio/mpeg">
 </audio>
 </div>
 

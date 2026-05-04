@@ -8,7 +8,7 @@ Questa ambientalista e attivista indiana, dottore in fisica nucleare, è una del
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Vandana%20Shiva%20Respect%20for%20Life.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Vandana%20Shiva%20Respect%20for%20Life.mp3" type="audio/mpeg">
 </audio>
 </div>
 

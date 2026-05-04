@@ -8,7 +8,7 @@ Questo arcipelago scozzese composto da circa 100 isole poco abitate è il punto 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/Shetland%20The%20Good%20Life%20in%20the%20Far%20North.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/Shetland%20The%20Good%20Life%20in%20the%20Far%20North.mp3" type="audio/mpeg">
 </audio>
 </div>
 

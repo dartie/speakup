@@ -8,7 +8,7 @@ Daniel e Anna desiderano aiutare i più bisognosi. Hanno avuto un'idea per coinv
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Everyday%20Dialogues%20Organising%20A%20Charity%20Drive.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Everyday%20Dialogues%20Organising%20A%20Charity%20Drive.mp3" type="audio/mpeg">
 </audio>
 </div>
 

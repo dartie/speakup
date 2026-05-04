@@ -8,7 +8,7 @@ La regione dell’Anglia Orientale è famosa per i suoi pittoreschi paesaggi cos
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/Thorpeness%20Dream%20Village.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/Thorpeness%20Dream%20Village.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Una storia di avidità, inganno e conseguenze non volute: se ti appassionano le 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/A%20Short%20Story%20One%20Last%20Favour.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/A%20Short%20Story%20One%20Last%20Favour.mp3" type="audio/mpeg">
 </audio>
 </div>
 

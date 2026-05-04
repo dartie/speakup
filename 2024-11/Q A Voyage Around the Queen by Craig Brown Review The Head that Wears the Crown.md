@@ -8,7 +8,7 @@ L’autore inglese, noto soprattutto per i suoi articoli umoristici e le sue sat
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Q%20A%20Voyage%20Around%20the%20Queen%20by%20Craig%20Brown%20Review%20The%20Head%20that%20Wears%20the%20Crown.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Q%20A%20Voyage%20Around%20the%20Queen%20by%20Craig%20Brown%20Review%20The%20Head%20that%20Wears%20the%20Crown.mp3" type="audio/mpeg">
 </audio>
 </div>
 

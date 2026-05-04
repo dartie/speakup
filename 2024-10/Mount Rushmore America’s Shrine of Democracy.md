@@ -8,7 +8,7 @@ Scopri i segreti del Mount Rushmore National Memorial, noto come santuario della
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/Mount%20Rushmore%20America%E2%80%99s%20Shrine%20of%20Democracy.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/Mount%20Rushmore%20America%E2%80%99s%20Shrine%20of%20Democracy.mp3" type="audio/mpeg">
 </audio>
 </div>
 

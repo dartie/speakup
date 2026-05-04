@@ -8,7 +8,7 @@ L’EdTech, abbreviazione di “educational technology”, sostiene di aumentare
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/EdTech%20The%20Online%20Learning%20Boom.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/EdTech%20The%20Online%20Learning%20Boom.mp3" type="audio/mpeg">
 </audio>
 </div>
 

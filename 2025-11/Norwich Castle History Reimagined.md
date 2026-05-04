@@ -8,7 +8,7 @@ Simbolo della conquista normanna, nel corso dei secoli il castello ha svolto il 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Norwich%20Castle%20History%20Reimagined.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Norwich%20Castle%20History%20Reimagined.mp3" type="audio/mpeg">
 </audio>
 </div>
 

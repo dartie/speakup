@@ -8,7 +8,7 @@ Questo acclamato romanzo del Premio Nobel sudafricano, ambientato in un avampost
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/Waiting%20for%20the%20Barbarians%20by%20J.%20M.%20Coetzee.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/Waiting%20for%20the%20Barbarians%20by%20J.%20M.%20Coetzee.mp3" type="audio/mpeg">
 </audio>
 </div>
 

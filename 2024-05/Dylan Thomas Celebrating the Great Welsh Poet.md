@@ -8,7 +8,7 @@ Il 14 maggio è la Giornata internazionale di Dylan Thomas, una celebrazione del
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/Dylan%20Thomas%20Celebrating%20the%20Great%20Welsh%20Poet.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/Dylan%20Thomas%20Celebrating%20the%20Great%20Welsh%20Poet.mp3" type="audio/mpeg">
 </audio>
 </div>
 

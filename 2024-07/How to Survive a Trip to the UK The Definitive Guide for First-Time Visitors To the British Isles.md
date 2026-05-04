@@ -8,7 +8,7 @@ Se vi recate nel Regno Unito, la conoscenza della lingua non è garanzia di una 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/How%20to%20Survive%20a%20Trip%20to%20the%20UK%20The%20Definitive%20Guide%20for%20First-Time%20Visitors%20To%20the%20British%20Isles.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/How%20to%20Survive%20a%20Trip%20to%20the%20UK%20The%20Definitive%20Guide%20for%20First-Time%20Visitors%20To%20the%20British%20Isles.mp3" type="audio/mpeg">
 </audio>
 </div>
 

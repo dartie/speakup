@@ -8,7 +8,7 @@ Tra le quasi venti versioni cinematografiche del romanzo di Charlotte Brontë, q
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/Jane%20Eyre%20On%20the%20Big%20Screen.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/Jane%20Eyre%20On%20the%20Big%20Screen.mp3" type="audio/mpeg">
 </audio>
 </div>
 

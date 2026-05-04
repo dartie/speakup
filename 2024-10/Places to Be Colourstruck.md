@@ -8,7 +8,7 @@ Abbiamo selezionato cinque luoghi ideali per osservare il mutevole fogliame dell
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/Places%20to%20Be%20Colourstruck.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/Places%20to%20Be%20Colourstruck.mp3" type="audio/mpeg">
 </audio>
 </div>
 

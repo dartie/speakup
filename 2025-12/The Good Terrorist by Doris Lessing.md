@@ -8,7 +8,7 @@ Nel pieno del fermento politico della Londra degli anni ‘80, una giovane impeg
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/The%20Good%20Terrorist%20by%20Doris%20Lessing.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/The%20Good%20Terrorist%20by%20Doris%20Lessing.mp3" type="audio/mpeg">
 </audio>
 </div>
 

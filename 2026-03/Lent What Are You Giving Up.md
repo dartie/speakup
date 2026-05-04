@@ -8,7 +8,7 @@ Nei quaranta giorni che precedono la Pasqua, l’usanza è quella di rinunciare 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/Lent%20What%20Are%20You%20Giving%20Up.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/Lent%20What%20Are%20You%20Giving%20Up.mp3" type="audio/mpeg">
 </audio>
 </div>
 

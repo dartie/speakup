@@ -8,7 +8,7 @@ Abbiamo visitato un’associazione benefica nella contea di Dorset che fornisce 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/The%20Vale%20Pantry%20An%20Inspiring%20Approach%20to%20Food%20Poverty.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/The%20Vale%20Pantry%20An%20Inspiring%20Approach%20to%20Food%20Poverty.mp3" type="audio/mpeg">
 </audio>
 </div>
 

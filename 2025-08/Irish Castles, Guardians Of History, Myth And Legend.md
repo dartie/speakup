@@ -8,7 +8,7 @@ Dalle roccaforti alle rovine spazzate dal vento: l’Irlanda abbonda di castelli
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/Irish%20Castles,%20Guardians%20Of%20History,%20Myth%20And%20Legend.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/Irish%20Castles,%20Guardians%20Of%20History,%20Myth%20And%20Legend.mp3" type="audio/mpeg">
 </audio>
 </div>
 

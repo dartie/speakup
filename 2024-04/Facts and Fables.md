@@ -8,7 +8,7 @@ L'acclamato scrittore Salman Rushdie riflette sulle sue origini, sull'esperienza
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Facts%20and%20Fables.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Facts%20and%20Fables.mp3" type="audio/mpeg">
 </audio>
 </div>
 

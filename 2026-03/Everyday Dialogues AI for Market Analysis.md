@@ -8,7 +8,7 @@ L'intelligenza artificiale è destinata a sostituire il lavoro degli umani? La r
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/Everyday%20Dialogues%20AI%20for%20Market%20Analysis.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/Everyday%20Dialogues%20AI%20for%20Market%20Analysis.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Con questo romanzo, che costituisce la prima parte di una trilogia su Thomas Cro
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/Wolf%20Hall%20by%20Hilary%20Mantel.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/Wolf%20Hall%20by%20Hilary%20Mantel.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Luogo di incontro per gli amanti della letteratura, questa piccola libreria indi
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/Shakespeare%20and%20Company%20A%20Parisian%20Literary%20Landmark.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/Shakespeare%20and%20Company%20A%20Parisian%20Literary%20Landmark.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Casa Bianca o Casa Dorata? Le riforme apportate da Trump alla residenza storica 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/White%20House%20Deluxe%20Donald%20Trump%20Renovations%20Inc..mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/White%20House%20Deluxe%20Donald%20Trump%20Renovations%20Inc..mp3" type="audio/mpeg">
 </audio>
 </div>
 

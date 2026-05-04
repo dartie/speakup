@@ -8,7 +8,7 @@ Lo slang e le varianti colloquiali varcano i continenti grazie alla tecnologia. 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/Internet%20Vernacular%20English%20Digital%20Slang.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/Internet%20Vernacular%20English%20Digital%20Slang.mp3" type="audio/mpeg">
 </audio>
 </div>
 

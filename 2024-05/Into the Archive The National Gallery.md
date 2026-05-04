@@ -8,7 +8,7 @@ In occasione del bicentenario della National Gallery, l'archivista Nick Smith ci
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/Into%20the%20Archive%20The%20National%20Gallery.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/Into%20the%20Archive%20The%20National%20Gallery.mp3" type="audio/mpeg">
 </audio>
 </div>
 

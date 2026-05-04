@@ -8,7 +8,7 @@ Se c’è una cosa che non manca a questo astro nascente del cinema è la determ
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/Sydney%20Sweeney%20Rising%20Star.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/Sydney%20Sweeney%20Rising%20Star.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Secondo diversi studi, gli alimenti ultraprocessati dovrebbero essere regolament
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/The%20Dangers%20Of%20Ultra-Processed%20Foods.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/The%20Dangers%20Of%20Ultra-Processed%20Foods.mp3" type="audio/mpeg">
 </audio>
 </div>
 

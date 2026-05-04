@@ -8,7 +8,7 @@ Il per due volte presidente degli USA guida il Paese come se fosse il CEO di una
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/King%20Donald%20I%20The%20First%20American%20Monarchy.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/King%20Donald%20I%20The%20First%20American%20Monarchy.mp3" type="audio/mpeg">
 </audio>
 </div>
 

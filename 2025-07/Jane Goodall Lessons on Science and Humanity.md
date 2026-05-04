@@ -8,7 +8,7 @@ L’etologa e conservazionista britannica ha trasformato la nostra comprensione 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/Jane%20Goodall%20Lessons%20on%20Science%20and%20Humanity.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/Jane%20Goodall%20Lessons%20on%20Science%20and%20Humanity.mp3" type="audio/mpeg">
 </audio>
 </div>
 

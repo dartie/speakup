@@ -8,7 +8,7 @@ Lo spettacolo del Tamigi ghiacciato trasforma Londra in uno scenario unico, dove
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/A%20Short%20Story%20Frost%20Fair.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/A%20Short%20Story%20Frost%20Fair.mp3" type="audio/mpeg">
 </audio>
 </div>
 

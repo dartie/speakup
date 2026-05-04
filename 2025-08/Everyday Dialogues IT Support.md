@@ -8,7 +8,7 @@ Un dialogo pratico per ampliare la tua conoscenza della terminologia legata all'
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/Everyday%20Dialogues%20IT%20Support.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/Everyday%20Dialogues%20IT%20Support.mp3" type="audio/mpeg">
 </audio>
 </div>
 

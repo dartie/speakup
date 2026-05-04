@@ -8,7 +8,7 @@ Se Bruce Lee fosse ancora vivo, compirebbe 85 anni questo novembre. Maestro di a
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Celebrating%2085%20Years%20Of%20Bruce%20Lee.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Celebrating%2085%20Years%20Of%20Bruce%20Lee.mp3" type="audio/mpeg">
 </audio>
 </div>
 

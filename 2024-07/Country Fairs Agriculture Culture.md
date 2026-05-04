@@ -8,7 +8,7 @@ Ogni estate, milioni di britannici visitano queste fiere agricole per incontrare
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/Country%20Fairs%20Agriculture%20Culture.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/Country%20Fairs%20Agriculture%20Culture.mp3" type="audio/mpeg">
 </audio>
 </div>
 

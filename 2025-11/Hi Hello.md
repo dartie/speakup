@@ -8,7 +8,7 @@ La lingua continua a trasformarsi e adattarsi ai tempi. La tecnologia, ad esempi
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Hi%20Hello.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Hi%20Hello.mp3" type="audio/mpeg">
 </audio>
 </div>
 

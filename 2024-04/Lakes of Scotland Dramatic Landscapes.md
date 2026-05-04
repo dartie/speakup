@@ -8,7 +8,7 @@ Il paesaggio, la cultura e l’economia della Scozia sono caratterizzati dall’
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Lakes%20of%20Scotland%20Dramatic%20Landscapes.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Lakes%20of%20Scotland%20Dramatic%20Landscapes.mp3" type="audio/mpeg">
 </audio>
 </div>
 

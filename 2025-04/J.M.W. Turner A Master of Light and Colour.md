@@ -8,7 +8,7 @@ Il più celebre pittore inglese, esponente del Romanticismo e precursore dell’
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/J.M.W.%20Turner%20A%20Master%20of%20Light%20and%20Colour.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/J.M.W.%20Turner%20A%20Master%20of%20Light%20and%20Colour.mp3" type="audio/mpeg">
 </audio>
 </div>
 

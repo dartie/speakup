@@ -8,7 +8,7 @@ Le conseguenze psiconeurologiche della spazzatura che inonda Internet hanno già
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/The%20Word%20of%20the%20Year%202024%20Edition%20A%20Year%20in%20Six%20Words%20%28And%20Some%20More%29.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/The%20Word%20of%20the%20Year%202024%20Edition%20A%20Year%20in%20Six%20Words%20%28And%20Some%20More%29.mp3" type="audio/mpeg">
 </audio>
 </div>
 

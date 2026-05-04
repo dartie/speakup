@@ -8,7 +8,7 @@ Dopo ben due decenni d’attesa, il sequel di uno dei film più iconici degli an
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/The%20Devil%20Wears%20Prada%202%20Twenty%20Years%20in%20the%20Making.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/The%20Devil%20Wears%20Prada%202%20Twenty%20Years%20in%20the%20Making.mp3" type="audio/mpeg">
 </audio>
 </div>
 

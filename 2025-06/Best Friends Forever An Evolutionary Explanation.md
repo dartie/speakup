@@ -8,7 +8,7 @@ Gli esseri umani amiamo i cani e loro sembrano amarci a loro volta. Ma fino a ch
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Best%20Friends%20Forever%20An%20Evolutionary%20Explanation.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Best%20Friends%20Forever%20An%20Evolutionary%20Explanation.mp3" type="audio/mpeg">
 </audio>
 </div>
 

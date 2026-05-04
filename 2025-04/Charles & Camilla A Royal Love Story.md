@@ -8,7 +8,7 @@ Il loro matrimonio fu segnato da scandali e critiche, testimonianza di un passat
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/Charles%20&%20Camilla%20A%20Royal%20Love%20Story.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/Charles%20&%20Camilla%20A%20Royal%20Love%20Story.mp3" type="audio/mpeg">
 </audio>
 </div>
 

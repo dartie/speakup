@@ -8,7 +8,7 @@ E se le macchine si ribellassero agli umani? Ci pentiremmo di come le abbiamo tr
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/A%20Short%20Story%20Just%20Like%20You.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/A%20Short%20Story%20Just%20Like%20You.mp3" type="audio/mpeg">
 </audio>
 </div>
 

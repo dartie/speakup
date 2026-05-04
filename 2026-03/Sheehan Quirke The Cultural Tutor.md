@@ -8,7 +8,7 @@ Il suo scopo è rendere la cultura stimolante e alla portata di tutti. Per farlo
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/Sheehan%20Quirke%20The%20Cultural%20Tutor.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/Sheehan%20Quirke%20The%20Cultural%20Tutor.mp3" type="audio/mpeg">
 </audio>
 </div>
 

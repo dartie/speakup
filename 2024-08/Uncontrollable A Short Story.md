@@ -8,7 +8,7 @@ Una risata incontrollata nei momenti più inopportuni può portare a una serie d
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-08/Uncontrollable%20A%20Short%20Story.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-08/Uncontrollable%20A%20Short%20Story.mp3" type="audio/mpeg">
 </audio>
 </div>
 

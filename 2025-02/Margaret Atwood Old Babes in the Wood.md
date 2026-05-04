@@ -8,7 +8,7 @@ In occasione della traduzione del suo nuovo libro, l’autrice ha parlato con la
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Margaret%20Atwood%20Old%20Babes%20in%20the%20Wood.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Margaret%20Atwood%20Old%20Babes%20in%20the%20Wood.mp3" type="audio/mpeg">
 </audio>
 </div>
 

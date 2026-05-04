@@ -8,7 +8,7 @@ Fondata nel 1824, la RNLI è una delle più amate organizzazioni del Regno Unito
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/The%20Royal%20National%20Lifeboat%20Institution%20Saving%20Lives%20at%20Sea.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/The%20Royal%20National%20Lifeboat%20Institution%20Saving%20Lives%20at%20Sea.mp3" type="audio/mpeg">
 </audio>
 </div>
 

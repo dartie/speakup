@@ -8,7 +8,7 @@ Inizialmente concepita come una struttura temporanea, è diventata un elemento e
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20London%20Eye%2025th%20Anniversary.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/The%20London%20Eye%2025th%20Anniversary.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Il film “Maria” di Pablo Larraín, interpretato da Angelina Jolie, esplora l
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/The%20Price%20of%20Perfection.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/The%20Price%20of%20Perfection.mp3" type="audio/mpeg">
 </audio>
 </div>
 

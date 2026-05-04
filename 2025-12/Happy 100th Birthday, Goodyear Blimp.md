@@ -8,7 +8,7 @@ Il famoso dirigibile a elio, nato come stravagante annuncio pubblicitario e oggi
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Happy%20100th%20Birthday,%20Goodyear%20Blimp.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Happy%20100th%20Birthday,%20Goodyear%20Blimp.mp3" type="audio/mpeg">
 </audio>
 </div>
 

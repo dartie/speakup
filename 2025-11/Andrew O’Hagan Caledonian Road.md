@@ -8,7 +8,7 @@ L’autore scozzese trasforma un’iconica strada di Londra nell’asse portante
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Andrew%20O%E2%80%99Hagan%20Caledonian%20Road.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Andrew%20O%E2%80%99Hagan%20Caledonian%20Road.mp3" type="audio/mpeg">
 </audio>
 </div>
 

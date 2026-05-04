@@ -8,7 +8,7 @@ I costi di produzione di un penny sono più alti del suo valore nominale. Vale l
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Penny%20Is%20This%20The%20End.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Penny%20Is%20This%20The%20End.mp3" type="audio/mpeg">
 </audio>
 </div>
 

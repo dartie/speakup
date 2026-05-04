@@ -8,7 +8,7 @@ Il 2 maggio 1933 nasce la moderna leggenda del mostro di Loch Ness. Se questa cr
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Nessie%20The%20Birth%20of%20the%20Loch%20Ness%20Monster%20Legend.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Nessie%20The%20Birth%20of%20the%20Loch%20Ness%20Monster%20Legend.mp3" type="audio/mpeg">
 </audio>
 </div>
 

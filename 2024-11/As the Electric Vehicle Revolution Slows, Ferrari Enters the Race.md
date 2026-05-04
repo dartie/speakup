@@ -8,7 +8,7 @@ Sebbene la crescita delle vendite di veicoli elettrici sia diminuita negli ultim
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/As%20the%20Electric%20Vehicle%20Revolution%20Slows,%20Ferrari%20Enters%20the%20Race.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/As%20the%20Electric%20Vehicle%20Revolution%20Slows,%20Ferrari%20Enters%20the%20Race.mp3" type="audio/mpeg">
 </audio>
 </div>
 

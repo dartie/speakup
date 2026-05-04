@@ -8,7 +8,7 @@ In questa gara di beneficenza, un centinaio di partecipanti sfidano le fredde ac
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/The%20World%20Tin%20Bath%20Championships%20Unseaworthy%20Vessels.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/The%20World%20Tin%20Bath%20Championships%20Unseaworthy%20Vessels.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Da un semplice forum a uno dei siti più popolari e controversi: questo social n
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/Reddit%20The%20Heart%20Of%20The%20Internet.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/Reddit%20The%20Heart%20Of%20The%20Internet.mp3" type="audio/mpeg">
 </audio>
 </div>
 

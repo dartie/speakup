@@ -8,7 +8,7 @@ Fondata nel 1915 con lo scopo di gestire le provviste di cibo durante la Prima g
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-10/Empowering%20Women%20The%20Women%E2%80%99s%20Institute.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-10/Empowering%20Women%20The%20Women%E2%80%99s%20Institute.mp3" type="audio/mpeg">
 </audio>
 </div>
 

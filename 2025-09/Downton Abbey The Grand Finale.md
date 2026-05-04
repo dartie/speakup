@@ -8,7 +8,7 @@ Le intriganti avventure del conte di Grantham e della sua famiglia ci hanno tenu
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/Downton%20Abbey%20The%20Grand%20Finale.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/Downton%20Abbey%20The%20Grand%20Finale.mp3" type="audio/mpeg">
 </audio>
 </div>
 

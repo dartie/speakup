@@ -8,7 +8,7 @@ La sonda, il più grande veicolo interplanetario mai costruito, parte per un via
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/NASA%20Launches%20Europa%20Clipper%20to%20Explore%20an%20Ocean%20Moon%E2%80%99s%20Habitability.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/NASA%20Launches%20Europa%20Clipper%20to%20Explore%20an%20Ocean%20Moon%E2%80%99s%20Habitability.mp3" type="audio/mpeg">
 </audio>
 </div>
 

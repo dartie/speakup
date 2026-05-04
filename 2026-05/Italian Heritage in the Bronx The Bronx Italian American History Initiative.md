@@ -8,7 +8,7 @@ L’immigrazione italiana del secondo dopoguerra ha trasformato molte città deg
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/Italian%20Heritage%20in%20the%20Bronx%20The%20Bronx%20Italian%20American%20History%20Initiative.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/Italian%20Heritage%20in%20the%20Bronx%20The%20Bronx%20Italian%20American%20History%20Initiative.mp3" type="audio/mpeg">
 </audio>
 </div>
 

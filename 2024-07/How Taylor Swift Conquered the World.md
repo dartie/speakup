@@ -8,7 +8,7 @@ In un contesto mediatico polarizzato, l’artista del Tennessee trascende il mon
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/How%20Taylor%20Swift%20Conquered%20the%20World.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/How%20Taylor%20Swift%20Conquered%20the%20World.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Analizziamo i passaggi più significativi del discorso di ringraziamento di Zohr
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/Zohran%20Mamdani%20A%20New%20Era.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/Zohran%20Mamdani%20A%20New%20Era.mp3" type="audio/mpeg">
 </audio>
 </div>
 

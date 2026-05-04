@@ -8,7 +8,7 @@ La poesia rappresenta la massima espressione della creatività, capace di trasce
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/World%20Poetry%20Day%2021st%20of%20March.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/World%20Poetry%20Day%2021st%20of%20March.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Scopriamo quali tracce ha lasciato l'arrivo dei Romani nella Britannia dell'Età
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/The%20Roman%20Legacy.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/The%20Roman%20Legacy.mp3" type="audio/mpeg">
 </audio>
 </div>
 

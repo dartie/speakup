@@ -8,7 +8,7 @@ Una panoramica sulle migliori poesie della letteratura in lingua inglese.
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-03/Poems%20in%20English%20Top%205.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-03/Poems%20in%20English%20Top%205.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Dopo oltre vent’anni dalla pubblicazione, in un mondo dove il marchio personal
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/No%20Logo%20by%20Naomi%20Klein.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/No%20Logo%20by%20Naomi%20Klein.mp3" type="audio/mpeg">
 </audio>
 </div>
 

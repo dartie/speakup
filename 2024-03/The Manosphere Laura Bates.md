@@ -8,7 +8,7 @@ Laura Bates, una delle voci femministe più potenti del nostro tempo, autrice di
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/The%20Manosphere%20Laura%20Bates.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/The%20Manosphere%20Laura%20Bates.mp3" type="audio/mpeg">
 </audio>
 </div>
 

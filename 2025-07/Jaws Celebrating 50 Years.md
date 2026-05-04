@@ -8,7 +8,7 @@ Si celebra il 50° anniversario del leggendario squalo con trecento zanne seghet
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/Jaws%20Celebrating%2050%20Years.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/Jaws%20Celebrating%2050%20Years.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Abbiamo incontrato la saggista e scrittrice di origine belga per parlare dell’
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/New%20York%20Stories%20Lucy%20Sante.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/New%20York%20Stories%20Lucy%20Sante.mp3" type="audio/mpeg">
 </audio>
 </div>
 

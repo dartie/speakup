@@ -8,7 +8,7 @@ Un capolavoro della fantascienza distopica che immagina un mondo in cui il contr
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/Brave%20New%20World%20by%20Aldous%20Huxley.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/Brave%20New%20World%20by%20Aldous%20Huxley.mp3" type="audio/mpeg">
 </audio>
 </div>
 

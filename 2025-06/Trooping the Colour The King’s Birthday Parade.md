@@ -8,7 +8,7 @@ In occasione della parata militare che commemora il compleanno del monarca brita
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Trooping%20the%20Colour%20The%20King%E2%80%99s%20Birthday%20Parade.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Trooping%20the%20Colour%20The%20King%E2%80%99s%20Birthday%20Parade.mp3" type="audio/mpeg">
 </audio>
 </div>
 

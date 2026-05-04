@@ -8,7 +8,7 @@ Chi lavorò allo sviluppo della bomba atomica? E perché tanta gente prese parte
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/An%20Explosive%20History%20The%20Manhattan%20Project%20National%20Historical%20Park.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/An%20Explosive%20History%20The%20Manhattan%20Project%20National%20Historical%20Park.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Questo audace navigatore ed esploratore, proveniente da un’umile famiglia, con
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/Captain%20Cook%20History%E2%80%99s%20Intrepid%20Explorer.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/Captain%20Cook%20History%E2%80%99s%20Intrepid%20Explorer.mp3" type="audio/mpeg">
 </audio>
 </div>
 

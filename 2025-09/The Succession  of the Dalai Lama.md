@@ -8,7 +8,7 @@ L’anziano leader spirituale non vuole che Pechino approfitti di un vuoto di po
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Succession%20%20of%20the%20Dalai%20Lama.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/The%20Succession%20%20of%20the%20Dalai%20Lama.mp3" type="audio/mpeg">
 </audio>
 </div>
 

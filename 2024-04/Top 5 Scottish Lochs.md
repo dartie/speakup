@@ -8,7 +8,7 @@ Abbiamo selezionato i cinque laghi più famosi della Scozia. Ce n’è uno per o
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/Top%205%20Scottish%20Lochs.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/Top%205%20Scottish%20Lochs.mp3" type="audio/mpeg">
 </audio>
 </div>
 

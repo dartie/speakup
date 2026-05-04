@@ -8,7 +8,7 @@ Ecco il vocabolario necessario per preparare e servire un'ottima tazza di tè.
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/A%20Nice,%20Strong%20Cuppa%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/A%20Nice,%20Strong%20Cuppa%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 

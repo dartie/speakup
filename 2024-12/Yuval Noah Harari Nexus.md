@@ -8,7 +8,7 @@ Nel suo nuovo saggio, l’influente divulgatore israeliano esplora, attraverso u
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Yuval%20Noah%20Harari%20Nexus.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Yuval%20Noah%20Harari%20Nexus.mp3" type="audio/mpeg">
 </audio>
 </div>
 

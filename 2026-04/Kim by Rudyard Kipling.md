@@ -8,7 +8,7 @@ Nessuno sembra accorgersi che Kim, che vive per le strade di Lahore, ha origini 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/Kim%20by%20Rudyard%20Kipling.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/Kim%20by%20Rudyard%20Kipling.mp3" type="audio/mpeg">
 </audio>
 </div>
 

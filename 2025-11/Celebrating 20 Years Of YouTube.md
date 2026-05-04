@@ -8,7 +8,7 @@ Per celebrare i 20 anni di YouTube, diamo un’occhiata a cinque dei video più 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Celebrating%2020%20Years%20Of%20YouTube.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Celebrating%2020%20Years%20Of%20YouTube.mp3" type="audio/mpeg">
 </audio>
 </div>
 

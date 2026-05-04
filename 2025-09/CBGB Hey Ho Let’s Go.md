@@ -8,7 +8,7 @@ Locale iconico della scena artistica newyorkese, è stato decisivo per la diffus
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/CBGB%20Hey%20Ho%20Let%E2%80%99s%20Go.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/CBGB%20Hey%20Ho%20Let%E2%80%99s%20Go.mp3" type="audio/mpeg">
 </audio>
 </div>
 

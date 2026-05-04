@@ -8,7 +8,7 @@ Nato in una fattoria di mucche, è cresciuto fino a diventare il più grande fes
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Glastonbury%20Festival%20Mud,%20Music%20and%20Mayhem.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Glastonbury%20Festival%20Mud,%20Music%20and%20Mayhem.mp3" type="audio/mpeg">
 </audio>
 </div>
 

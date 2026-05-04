@@ -8,7 +8,7 @@ Lo scrittore britannico di origine indiana intreccia elementi di mitologia, reli
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-04/The%20Satanic%20Verses%20by%20Salman%20Rushdie.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-04/The%20Satanic%20Verses%20by%20Salman%20Rushdie.mp3" type="audio/mpeg">
 </audio>
 </div>
 

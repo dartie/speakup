@@ -8,7 +8,7 @@ Un tempo associata ai tradizionali pub irlandesi, la Guinness sta conquistando s
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/Why%20Is%20Everybody%20Drinking%20Guinness.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/Why%20Is%20Everybody%20Drinking%20Guinness.mp3" type="audio/mpeg">
 </audio>
 </div>
 

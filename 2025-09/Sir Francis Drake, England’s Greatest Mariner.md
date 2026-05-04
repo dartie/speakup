@@ -8,7 +8,7 @@ Sir Francis Drake è una delle figure più leggendarie della storia britannica. 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/Sir%20Francis%20Drake,%20England%E2%80%99s%20Greatest%20Mariner.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/Sir%20Francis%20Drake,%20England%E2%80%99s%20Greatest%20Mariner.mp3" type="audio/mpeg">
 </audio>
 </div>
 

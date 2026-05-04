@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/David%20Beckham%20Football%20Superstar%20And%20Global%20Glamour%20Icon.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/David%20Beckham%20Football%20Superstar%20And%20Global%20Glamour%20Icon.mp3" type="audio/mpeg">
 </audio>
 </div>
 

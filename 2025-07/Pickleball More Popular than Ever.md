@@ -8,7 +8,7 @@ Questo sport, a metà strada tra il tennis e il ping-pong, è facile da imparare
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/Pickleball%20More%20Popular%20than%20Ever.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/Pickleball%20More%20Popular%20than%20Ever.mp3" type="audio/mpeg">
 </audio>
 </div>
 

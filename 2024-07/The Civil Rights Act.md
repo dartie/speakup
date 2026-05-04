@@ -8,7 +8,7 @@ Sono passati sei decenni da quando la discriminazione razziale è stata ufficial
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/The%20Civil%20Rights%20Act.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/The%20Civil%20Rights%20Act.mp3" type="audio/mpeg">
 </audio>
 </div>
 

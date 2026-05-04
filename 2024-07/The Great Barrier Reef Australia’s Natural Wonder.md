@@ -8,7 +8,7 @@ La Grande barriera corallina, che risale a novemila anni fa, si estende a est de
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/The%20Great%20Barrier%20Reef%20Australia%E2%80%99s%20Natural%20Wonder.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/The%20Great%20Barrier%20Reef%20Australia%E2%80%99s%20Natural%20Wonder.mp3" type="audio/mpeg">
 </audio>
 </div>
 

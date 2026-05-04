@@ -8,7 +8,7 @@ Ogni anno, migliaia di appassionati di alpinismo scalano le Munro, le montagne p
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-09/Scotland%27s%20Mountains%20The%20Munros.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-09/Scotland%27s%20Mountains%20The%20Munros.mp3" type="audio/mpeg">
 </audio>
 </div>
 

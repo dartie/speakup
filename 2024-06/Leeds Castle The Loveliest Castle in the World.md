@@ -8,7 +8,7 @@ Questa imponente fortezza costruita su due isole ha ospitato diversi re d’Ingh
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/Leeds%20Castle%20The%20Loveliest%20Castle%20in%20the%20World.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/Leeds%20Castle%20The%20Loveliest%20Castle%20in%20the%20World.mp3" type="audio/mpeg">
 </audio>
 </div>
 

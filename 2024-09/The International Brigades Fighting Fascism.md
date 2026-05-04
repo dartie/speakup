@@ -8,7 +8,7 @@ Il giornalista e storico britannico Giles Tremlett ha scritto il libro definitiv
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/The%20International%20Brigades%20Fighting%20Fascism.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/The%20International%20Brigades%20Fighting%20Fascism.mp3" type="audio/mpeg">
 </audio>
 </div>
 

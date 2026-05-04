@@ -8,7 +8,7 @@ Nuovo lavoro, nuova sfida! Tutto quello che ti serve sapere per partire alla gra
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-02/Starting%20a%20New%20Job%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-02/Starting%20a%20New%20Job%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 

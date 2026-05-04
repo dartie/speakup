@@ -8,7 +8,7 @@ Come Dickens e George Eliot, l'opera di Zadie Smith combina magistralmente impeg
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/A%2021st-Century%20Dickens.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/A%2021st-Century%20Dickens.mp3" type="audio/mpeg">
 </audio>
 </div>
 

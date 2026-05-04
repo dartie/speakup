@@ -8,7 +8,7 @@ Segretezza, rituali e potere hanno reso quello della massoneria un mondo tanto i
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-04/Freemasonry%20The%20Craft.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-04/Freemasonry%20The%20Craft.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Per molte celebrità, i preparativi alla cerimonia degli Oscar includono pratich
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/The%20Oscars%20The%20Torture%20Behind%20%20Red-Carpet%20Glamour.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/The%20Oscars%20The%20Torture%20Behind%20%20Red-Carpet%20Glamour.mp3" type="audio/mpeg">
 </audio>
 </div>
 

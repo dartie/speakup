@@ -8,7 +8,7 @@ Il bacio è il gesto che, più di tutti, rappresenta l’amore. Ma perché ci ba
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/The%20First%20Kiss%20Twenty-One%20Million%20Years%20Ago.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/The%20First%20Kiss%20Twenty-One%20Million%20Years%20Ago.mp3" type="audio/mpeg">
 </audio>
 </div>
 

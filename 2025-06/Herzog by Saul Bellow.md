@@ -8,7 +8,7 @@ In questo romanzo, il protagonista è un antieroe immerso in una crisi esistenzi
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Herzog%20by%20Saul%20Bellow.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Herzog%20by%20Saul%20Bellow.mp3" type="audio/mpeg">
 </audio>
 </div>
 

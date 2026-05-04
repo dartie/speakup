@@ -8,7 +8,7 @@ Dopo un incidente, un uomo affronta una lotta interiore contro l’angoscia, il 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-07/A%20Short%20Story%20Waiting%20Room.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-07/A%20Short%20Story%20Waiting%20Room.mp3" type="audio/mpeg">
 </audio>
 </div>
 

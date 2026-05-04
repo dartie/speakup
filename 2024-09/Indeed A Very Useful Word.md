@@ -8,7 +8,7 @@ Dal significato ambiguo che spazia da molto a niente, rappresenta una delle inte
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/Indeed%20A%20Very%20Useful%20Word.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/Indeed%20A%20Very%20Useful%20Word.mp3" type="audio/mpeg">
 </audio>
 </div>
 

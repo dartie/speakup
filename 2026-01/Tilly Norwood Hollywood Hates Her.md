@@ -8,7 +8,7 @@ L’IA sostituirà gli umani anche nelle produzioni cinematografiche e televisiv
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/Tilly%20Norwood%20Hollywood%20Hates%20Her.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/Tilly%20Norwood%20Hollywood%20Hates%20Her.mp3" type="audio/mpeg">
 </audio>
 </div>
 

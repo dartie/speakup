@@ -8,7 +8,7 @@ Il più noto romanzo del maestro russo scritto in inglese fu vietato nel Regno U
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Lolita%20by%20Vladimir%20Nabokov.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Lolita%20by%20Vladimir%20Nabokov.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Due amici amanti dei travestimenti hanno ideato nel 1995 una delle feste più st
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-09/Talk%20Like%20a%20Pirate%20Ahoy,%20Me%20Hearties.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-09/Talk%20Like%20a%20Pirate%20Ahoy,%20Me%20Hearties.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ La loro scoperta ha contribuito a una società più sana e longeva, ma ne abbiam
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/The%20Problem%20With%20Antibiotics.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/The%20Problem%20With%20Antibiotics.mp3" type="audio/mpeg">
 </audio>
 </div>
 

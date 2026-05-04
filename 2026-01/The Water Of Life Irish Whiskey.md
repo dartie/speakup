@@ -8,7 +8,7 @@ In Irlanda non si beve solo birra: il whiskey dell’isola di Smeraldo (quello c
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/The%20Water%20Of%20Life%20Irish%20Whiskey.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/The%20Water%20Of%20Life%20Irish%20Whiskey.mp3" type="audio/mpeg">
 </audio>
 </div>
 

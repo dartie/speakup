@@ -8,7 +8,7 @@ Il politico britannico di origine pakistana, rieletto per la terza volta, è il 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/Sadiq%20Khan%20The%20Mayor%20of%20London.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/Sadiq%20Khan%20The%20Mayor%20of%20London.mp3" type="audio/mpeg">
 </audio>
 </div>
 

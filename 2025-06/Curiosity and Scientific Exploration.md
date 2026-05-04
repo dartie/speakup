@@ -8,7 +8,7 @@ Situato nel cuore di Londra, il Royal Observatory Greenwich offre una fusione di
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Curiosity%20and%20Scientific%20Exploration.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Curiosity%20and%20Scientific%20Exploration.mp3" type="audio/mpeg">
 </audio>
 </div>
 

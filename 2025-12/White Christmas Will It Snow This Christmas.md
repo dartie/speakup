@@ -8,7 +8,7 @@ Il classico paesaggio innevato che associamo alle Feste è sempre più raro nel 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-12/White%20Christmas%20Will%20It%20Snow%20This%20Christmas.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-12/White%20Christmas%20Will%20It%20Snow%20This%20Christmas.mp3" type="audio/mpeg">
 </audio>
 </div>
 

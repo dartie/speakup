@@ -8,7 +8,7 @@ La cerimonia di gala degli Oscar si terrà domenica 11 marzo con poche sorprese 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-03/The%20Biggest%20Oscar%20Snubs%20and%20Surprises%202024.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-03/The%20Biggest%20Oscar%20Snubs%20and%20Surprises%202024.mp3" type="audio/mpeg">
 </audio>
 </div>
 

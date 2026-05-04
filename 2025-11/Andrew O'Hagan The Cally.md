@@ -8,7 +8,7 @@ Caledonian Road, conosciuta come "The Cally", è una della strade più important
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Andrew%20O%27Hagan%20The%20Cally.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Andrew%20O%27Hagan%20The%20Cally.mp3" type="audio/mpeg">
 </audio>
 </div>
 

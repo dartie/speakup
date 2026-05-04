@@ -8,7 +8,7 @@ Un dialogo pratico tra un fornitore e un cliente per imparare il vocabolario e l
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-06/Placing%20an%20Order%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-06/Placing%20an%20Order%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 

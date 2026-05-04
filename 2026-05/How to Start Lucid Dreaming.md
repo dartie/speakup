@@ -8,7 +8,7 @@ Possiamo controllare ciò che accade nei nostri sogni? Per gli esperti la rispos
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/How%20to%20Start%20Lucid%20Dreaming.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/How%20to%20Start%20Lucid%20Dreaming.mp3" type="audio/mpeg">
 </audio>
 </div>
 

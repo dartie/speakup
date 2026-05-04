@@ -8,7 +8,7 @@ La lingua cambia al ritmo della società: è attraverso le parole che esprimiamo
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-02/The%20Word%20Of%20The%20Year%202025%20Edition%20A%20Year%20In%20A%20Few%20Words.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-02/The%20Word%20Of%20The%20Year%202025%20Edition%20A%20Year%20In%20A%20Few%20Words.mp3" type="audio/mpeg">
 </audio>
 </div>
 

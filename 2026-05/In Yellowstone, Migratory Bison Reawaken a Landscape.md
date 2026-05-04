@@ -8,7 +8,7 @@ Secondo un recente studio condotto a Yellowstone, il reinserimento dei bisonti a
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-05/In%20Yellowstone,%20Migratory%20Bison%20Reawaken%20a%20Landscape.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-05/In%20Yellowstone,%20Migratory%20Bison%20Reawaken%20a%20Landscape.mp3" type="audio/mpeg">
 </audio>
 </div>
 

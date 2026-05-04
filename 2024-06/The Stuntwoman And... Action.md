@@ -8,7 +8,7 @@ Lividi quotidiani, lussazioni, decine di costole rotte e occasionali commozioni 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/The%20Stuntwoman%20And...%20Action.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/The%20Stuntwoman%20And...%20Action.mp3" type="audio/mpeg">
 </audio>
 </div>
 

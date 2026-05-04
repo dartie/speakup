@@ -8,7 +8,7 @@ Edificata nell’arco di cento anni, Castle Howard è una delle dimore signorili
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-12/Castle%20Howard%20The%20Peak%20of%20English%20Baroque.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-12/Castle%20Howard%20The%20Peak%20of%20English%20Baroque.mp3" type="audio/mpeg">
 </audio>
 </div>
 

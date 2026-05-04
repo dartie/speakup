@@ -8,7 +8,7 @@ Una storia che mostra come le relazioni possano soffrire quando la comunicazione
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-04/A%20Short%20Story%20Mystery%20Man.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-04/A%20Short%20Story%20Mystery%20Man.mp3" type="audio/mpeg">
 </audio>
 </div>
 

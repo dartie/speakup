@@ -8,7 +8,7 @@ Forse è solo quando ci allontaniamo dalla nostra città natale che ci rendiamo 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-07/A%20Short%20Story%20Summer%20in%20Paradise.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-07/A%20Short%20Story%20Summer%20in%20Paradise.mp3" type="audio/mpeg">
 </audio>
 </div>
 

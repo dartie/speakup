@@ -8,7 +8,7 @@ Dal latino all’inglese moderno, la parola 'nice' ne ha fatta di strada! Ed è 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-01/That%E2%80%99s%20Nice%20The%20Journey%20Of%20A%20Word.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-01/That%E2%80%99s%20Nice%20The%20Journey%20Of%20A%20Word.mp3" type="audio/mpeg">
 </audio>
 </div>
 

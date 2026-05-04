@@ -8,7 +8,7 @@ Con l’arrivo dell’autunno, le foreste decidue degli Stati Uniti offrono uno 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/Fall%20Foliage%20US%20Nature.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/Fall%20Foliage%20US%20Nature.mp3" type="audio/mpeg">
 </audio>
 </div>
 

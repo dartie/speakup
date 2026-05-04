@@ -8,7 +8,7 @@ La principessa del Galles ha contribuito a ripristinare l’immagine della famig
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/Princess%20Kate%20The%20Important%20Things%20in%20Life.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/Princess%20Kate%20The%20Important%20Things%20in%20Life.mp3" type="audio/mpeg">
 </audio>
 </div>
 

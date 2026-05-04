@@ -8,7 +8,7 @@ Diamo un'occhiata al vocabolario per la pianificazione finanziaria in inglese.
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-05/Financial%20Advice%20Everyday%20Dialogues.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-05/Financial%20Advice%20Everyday%20Dialogues.mp3" type="audio/mpeg">
 </audio>
 </div>
 

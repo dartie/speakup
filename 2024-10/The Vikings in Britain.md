@@ -8,7 +8,7 @@ L’epoca dei Vichinghi, compresa tra il 750 e il 1050 d.C., ha cambiato la mapp
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-10/The%20Vikings%20in%20Britain.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-10/The%20Vikings%20in%20Britain.mp3" type="audio/mpeg">
 </audio>
 </div>
 

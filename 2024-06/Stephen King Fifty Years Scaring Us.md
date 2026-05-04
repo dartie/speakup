@@ -8,7 +8,7 @@ Con una straordinaria carriera, la sua impronta nell’immaginario popolare è p
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-06/Stephen%20King%20Fifty%20Years%20Scaring%20Us.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-06/Stephen%20King%20Fifty%20Years%20Scaring%20Us.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Una vita più semplice, ma felice. Stabilendosi in quella capanna sul lago, Thor
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-03/Walden%20by%20Henry%20David%20Thoreau.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-03/Walden%20by%20Henry%20David%20Thoreau.mp3" type="audio/mpeg">
 </audio>
 </div>
 

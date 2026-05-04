@@ -8,7 +8,7 @@ Questo quartiere su un’ansa del Tamigi, nel sud-est di Londra, vanta un’ampi
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-01/The%20Greenwich%20Peninsula%20An%20Emerging%20Neighbourhood.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-01/The%20Greenwich%20Peninsula%20An%20Emerging%20Neighbourhood.mp3" type="audio/mpeg">
 </audio>
 </div>
 

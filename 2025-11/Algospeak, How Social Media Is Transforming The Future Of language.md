@@ -8,7 +8,7 @@ Linguista laureato ad Harvard, Adam Aleksic ha trovato il suo pubblico (ma anche
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-11/Algospeak,%20How%20Social%20Media%20Is%20Transforming%20The%20Future%20Of%20language.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-11/Algospeak,%20How%20Social%20Media%20Is%20Transforming%20The%20Future%20Of%20language.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Costruito nel primo Medioevo, il Blarney Castle √® uno degli edifici storici pi√
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2025-08/Blarney%20Castle%20And%20The%20Gift%20Of%20The%20Gab.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2025-08/Blarney%20Castle%20And%20The%20Gift%20Of%20The%20Gab.mp3" type="audio/mpeg">
 </audio>
 </div>
 

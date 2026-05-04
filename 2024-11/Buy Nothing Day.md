@@ -8,7 +8,7 @@ Siamo capaci di stare 24 ore senza comprare nulla? L’organizzazione Adbusters 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2024-11/Buy%20Nothing%20Day.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2024-11/Buy%20Nothing%20Day.mp3" type="audio/mpeg">
 </audio>
 </div>
 
