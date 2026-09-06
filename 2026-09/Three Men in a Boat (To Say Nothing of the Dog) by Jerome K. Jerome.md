@@ -8,7 +8,7 @@ In questo divertente racconto di viaggio, l’autore, due amici e un cane risalg
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-09/Three%20Men%20in%20a%20Boat%20%28To%20Say%20Nothing%20of%20the%20Dog%29%20by%20Jerome%20K.%20Jerome.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-09/Three%20Men%20in%20a%20Boat%20%28To%20Say%20Nothing%20of%20the%20Dog%29%20by%20Jerome%20K.%20Jerome.mp3" type="audio/mpeg">
 </audio>
 </div>
 

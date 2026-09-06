@@ -8,7 +8,7 @@ Ci sono molti modi di guardare e raccontare il passato. Lo storico Ian Mortimer 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-07/Ian%20Mortimer%20The%20Time%20Traveller%E2%80%99s%20Guide%20to%20Medieval%20England.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-07/Ian%20Mortimer%20The%20Time%20Traveller%E2%80%99s%20Guide%20to%20Medieval%20England.mp3" type="audio/mpeg">
 </audio>
 </div>
 

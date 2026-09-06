@@ -8,7 +8,7 @@ Tra scommesse online e scherzi poco eleganti, Hans diventa una vera e propria ce
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-07/A%20Short%20Story%20Fair%20Game.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-07/A%20Short%20Story%20Fair%20Game.mp3" type="audio/mpeg">
 </audio>
 </div>
 

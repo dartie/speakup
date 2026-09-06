@@ -8,7 +8,7 @@ C’è una parola che proprio non sopporti? Per molti anglofoni, quella parola �
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-07/%27Like%27%20The%20Most%20Hated%20Word.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-07/%27Like%27%20The%20Most%20Hated%20Word.mp3" type="audio/mpeg">
 </audio>
 </div>
 

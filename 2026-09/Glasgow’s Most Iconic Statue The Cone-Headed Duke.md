@@ -8,7 +8,7 @@ Gli scozzesi hanno quest’abitudine di mettere dei coni stradali in testa alle 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-09/Glasgow%E2%80%99s%20Most%20Iconic%20Statue%20The%20Cone-Headed%20Duke.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-09/Glasgow%E2%80%99s%20Most%20Iconic%20Statue%20The%20Cone-Headed%20Duke.mp3" type="audio/mpeg">
 </audio>
 </div>
 

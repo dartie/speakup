@@ -8,7 +8,7 @@ Cosa c’entrano un toro e un orso con il mercato finanziario? Anche un settore 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-06/Bulls%20and%20Bears%20in%20the%20Market.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-06/Bulls%20and%20Bears%20in%20the%20Market.mp3" type="audio/mpeg">
 </audio>
 </div>
 

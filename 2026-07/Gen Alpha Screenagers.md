@@ -8,7 +8,7 @@ I figli dei Millennial sono nati con la tecnologia a portata di mano. Capire la 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-07/Gen%20Alpha%20Screenagers.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-07/Gen%20Alpha%20Screenagers.mp3" type="audio/mpeg">
 </audio>
 </div>
 

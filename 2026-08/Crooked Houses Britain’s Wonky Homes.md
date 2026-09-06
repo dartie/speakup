@@ -8,7 +8,7 @@ Non vi preoccupate, non è la vostra vista a ingannarvi: queste case sono propri
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-08/Crooked%20Houses%20Britain%E2%80%99s%20Wonky%20Homes.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-08/Crooked%20Houses%20Britain%E2%80%99s%20Wonky%20Homes.mp3" type="audio/mpeg">
 </audio>
 </div>
 

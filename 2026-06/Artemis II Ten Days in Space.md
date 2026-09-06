@@ -8,7 +8,7 @@ Gli astronauti della missione Artemis II hanno intrapreso un viaggio straordinar
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-06/Artemis%20II%20Ten%20Days%20in%20Space.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-06/Artemis%20II%20Ten%20Days%20in%20Space.mp3" type="audio/mpeg">
 </audio>
 </div>
 

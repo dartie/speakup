@@ -8,7 +8,7 @@ Giugno, con le sue giornate più lunghe, calde e luminose, è considerato da mol
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-06/June%20in%20Bloom%20The%20Month%20of%20the%20Roses.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-06/June%20in%20Bloom%20The%20Month%20of%20the%20Roses.mp3" type="audio/mpeg">
 </audio>
 </div>
 

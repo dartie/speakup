@@ -8,7 +8,7 @@ La National Portrait Gallery di Londra celebra i cento anni di una delle più gr
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-06/Marilyn%20Monroe%20A%20Self-Made%20Star.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-06/Marilyn%20Monroe%20A%20Self-Made%20Star.mp3" type="audio/mpeg">
 </audio>
 </div>
 

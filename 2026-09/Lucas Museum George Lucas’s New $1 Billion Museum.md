@@ -8,7 +8,7 @@ Il creatore di "Star Wars" è anche un appassionato collezionista d’arte. A se
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-09/Lucas%20Museum%20George%20Lucas%E2%80%99s%20New%20$1%20Billion%20Museum.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-09/Lucas%20Museum%20George%20Lucas%E2%80%99s%20New%20$1%20Billion%20Museum.mp3" type="audio/mpeg">
 </audio>
 </div>
 

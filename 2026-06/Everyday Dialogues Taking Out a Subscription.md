@@ -8,7 +8,7 @@ Questo breve dialogo telefonico è perfetto per ripassare espressioni utili lega
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-06/Everyday%20Dialogues%20Taking%20Out%20a%20Subscription.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-06/Everyday%20Dialogues%20Taking%20Out%20a%20Subscription.mp3" type="audio/mpeg">
 </audio>
 </div>
 

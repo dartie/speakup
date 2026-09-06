@@ -8,7 +8,7 @@ Lo scorso giugno, Elon Musk è diventato ufficialmente il primo bilionario della
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-09/SpaceX%E2%80%99s%20Odyssey%20How%20To%20Make%20Money%20in%20Outer%20Space.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-09/SpaceX%E2%80%99s%20Odyssey%20How%20To%20Make%20Money%20in%20Outer%20Space.mp3" type="audio/mpeg">
 </audio>
 </div>
 

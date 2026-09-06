@@ -8,7 +8,7 @@ Ogni agosto, migliaia di fan dei Beatles provenienti da tutto il mondo si riunis
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-08/International%20Beatleweek%20Celebrating%20the%20Fab%20Four.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-08/International%20Beatleweek%20Celebrating%20the%20Fab%20Four.mp3" type="audio/mpeg">
 </audio>
 </div>
 

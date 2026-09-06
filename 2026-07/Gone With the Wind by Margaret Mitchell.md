@@ -8,7 +8,7 @@ Audace e delicata, desiderata e rifiutata, dirompente e al tempo stesso legata a
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-07/Gone%20With%20the%20Wind%20by%20Margaret%20Mitchell.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-07/Gone%20With%20the%20Wind%20by%20Margaret%20Mitchell.mp3" type="audio/mpeg">
 </audio>
 </div>
 

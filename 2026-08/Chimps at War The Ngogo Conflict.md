@@ -8,7 +8,7 @@ Gli scimpanzé del Parco Nazionale di Kibale, in Uganda, sono coinvolti in una v
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-08/Chimps%20at%20War%20The%20Ngogo%20Conflict.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-08/Chimps%20at%20War%20The%20Ngogo%20Conflict.mp3" type="audio/mpeg">
 </audio>
 </div>
 

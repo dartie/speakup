@@ -8,7 +8,7 @@ Alcune canzoni ti rimangono in testa: un ritornello azzeccato, un ritmo orecchia
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-08/Learning%20With%20Music%20Top%2010%20Catchy%20Songs.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-08/Learning%20With%20Music%20Top%2010%20Catchy%20Songs.mp3" type="audio/mpeg">
 </audio>
 </div>
 

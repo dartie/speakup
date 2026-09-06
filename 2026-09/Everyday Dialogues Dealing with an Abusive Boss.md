@@ -8,7 +8,7 @@ Avere a che fare con il proprio capo, in alcuni casi, può risultare alquanto co
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-09/Everyday%20Dialogues%20Dealing%20with%20an%20Abusive%20Boss.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-09/Everyday%20Dialogues%20Dealing%20with%20an%20Abusive%20Boss.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Desideri un cane con l’intelligenza di un barboncino e il carattere socievole 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-06/Designer%20Dogs%20Bred%20To%20Be%20Better.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-06/Designer%20Dogs%20Bred%20To%20Be%20Better.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ In ufficio può capitare di avere dubbi o di non essere d'accordo su una decisio
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-08/Everyday%20Dialogues%20A%20Slight%20Disagreement%20at%20Work.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-08/Everyday%20Dialogues%20A%20Slight%20Disagreement%20at%20Work.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Sei convinto di capire l’inglese perfettamente? Mettiti alla prova con l’ing
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-06/Getting%20to%20Grips%20with%20English%20in%20Northern%20Ireland.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-06/Getting%20to%20Grips%20with%20English%20in%20Northern%20Ireland.mp3" type="audio/mpeg">
 </audio>
 </div>
 

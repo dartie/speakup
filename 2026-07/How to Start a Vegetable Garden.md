@@ -8,7 +8,7 @@ Non servono né un giardino né strumenti costosi per iniziare. Alcuni esperti c
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-07/How%20to%20Start%20a%20Vegetable%20Garden.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-07/How%20to%20Start%20a%20Vegetable%20Garden.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Né i cosmologi né i fisici sono mai riusciti a dare una definizione del tempo.
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-06/What%20Is%20Time.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-06/What%20Is%20Time.mp3" type="audio/mpeg">
 </audio>
 </div>
 

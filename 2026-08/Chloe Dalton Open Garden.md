@@ -8,7 +8,7 @@ L’incontro con una lepre ha cambiato il modo in cui la politica e scrittrice C
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-08/Chloe%20Dalton%20Open%20Garden.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-08/Chloe%20Dalton%20Open%20Garden.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Fumare è un’abitudine letale. Per evitare che i più giovani sviluppino una d
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-07/Smoke-Free%20Generation%20Tobacco%20and%20Vapes%20Bill.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-07/Smoke-Free%20Generation%20Tobacco%20and%20Vapes%20Bill.mp3" type="audio/mpeg">
 </audio>
 </div>
 

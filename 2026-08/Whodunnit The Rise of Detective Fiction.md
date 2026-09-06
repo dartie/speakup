@@ -8,7 +8,7 @@ Il giallo è ancora oggi uno dei generi letterari più letti e venduti. Ma perch
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-08/Whodunnit%20The%20Rise%20of%20Detective%20Fiction.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-08/Whodunnit%20The%20Rise%20of%20Detective%20Fiction.mp3" type="audio/mpeg">
 </audio>
 </div>
 

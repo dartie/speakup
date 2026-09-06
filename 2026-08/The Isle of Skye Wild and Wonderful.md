@@ -8,7 +8,7 @@ La seconda isola più grande della Scozia offre una costa spettacolare, paesaggi
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-08/The%20Isle%20of%20Skye%20Wild%20and%20Wonderful.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-08/The%20Isle%20of%20Skye%20Wild%20and%20Wonderful.mp3" type="audio/mpeg">
 </audio>
 </div>
 

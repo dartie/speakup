@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-09/John%20Constable%20250th%20Anniversary.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-09/John%20Constable%20250th%20Anniversary.mp3" type="audio/mpeg">
 </audio>
 </div>
 

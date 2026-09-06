@@ -8,7 +8,7 @@ L’Aardman Animations di Bristol ha dato vita a personaggi memorabili. Ma dietr
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-06/Wallace%20&%20Gromit%20and%20Friends%20Fiftieth%20Anniversary.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-06/Wallace%20&%20Gromit%20and%20Friends%20Fiftieth%20Anniversary.mp3" type="audio/mpeg">
 </audio>
 </div>
 

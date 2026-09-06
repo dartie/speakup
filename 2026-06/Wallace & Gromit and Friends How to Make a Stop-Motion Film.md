@@ -8,7 +8,7 @@ Il museo Young V&A di Londra, dedicato alla creatività e al design per bambini 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-06/Wallace%20&%20Gromit%20and%20Friends%C2%A0How%20to%20Make%20a%20Stop-Motion%20Film.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-06/Wallace%20&%20Gromit%20and%20Friends%C2%A0How%20to%20Make%20a%20Stop-Motion%20Film.mp3" type="audio/mpeg">
 </audio>
 </div>
 

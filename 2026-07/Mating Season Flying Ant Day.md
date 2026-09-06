@@ -8,7 +8,7 @@ A luglio, le formiche sviluppano le ali per il loro “volo nuziale”, un ritua
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-07/Mating%20Season%20Flying%20Ant%20Day.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-07/Mating%20Season%20Flying%20Ant%20Day.mp3" type="audio/mpeg">
 </audio>
 </div>
 

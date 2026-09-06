@@ -8,7 +8,7 @@ Questa intenditrice di tè ci parla della sua passione per la 'Camellia sinensis
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-07/Henrietta%20Lovell%20The%20Rare%20Tea%20Lady.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-07/Henrietta%20Lovell%20The%20Rare%20Tea%20Lady.mp3" type="audio/mpeg">
 </audio>
 </div>
 

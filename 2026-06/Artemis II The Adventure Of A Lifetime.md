@@ -8,7 +8,7 @@ I quattro astronauti sono stati i primi a osservare l’intero lato nascosto del
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-06/Artemis%20II%20The%20Adventure%20Of%20A%20Lifetime.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-06/Artemis%20II%20The%20Adventure%20Of%20A%20Lifetime.mp3" type="audio/mpeg">
 </audio>
 </div>
 

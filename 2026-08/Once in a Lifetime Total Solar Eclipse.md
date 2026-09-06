@@ -8,7 +8,7 @@ Hai in programma un viaggio in Spagna? Il 12 agosto, in alcune zone del Paese, s
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-08/Once%20in%20a%20Lifetime%20Total%20Solar%20Eclipse.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-08/Once%20in%20a%20Lifetime%20Total%20Solar%20Eclipse.mp3" type="audio/mpeg">
 </audio>
 </div>
 

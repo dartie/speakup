@@ -8,7 +8,7 @@ Un romanzo ironico, caotico, frammentato e di carattere metaletterario, scritto 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-06/At%20Swim-Two-Birds%20by%20Flann%20O%E2%80%99Brien.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-06/At%20Swim-Two-Birds%20by%20Flann%20O%E2%80%99Brien.mp3" type="audio/mpeg">
 </audio>
 </div>
 

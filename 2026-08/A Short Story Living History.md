@@ -8,7 +8,7 @@ Grazie a un insolito compito scolastico e a un misterioso libro donatole dalla s
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-08/A%20Short%20Story%20Living%20History.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-08/A%20Short%20Story%20Living%20History.mp3" type="audio/mpeg">
 </audio>
 </div>
 

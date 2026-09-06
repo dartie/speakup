@@ -8,7 +8,7 @@ Per alcune persone, andare in giro “come mamma ci ha fatto” è una filosofia
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-08/Nothing%20to%20Hide%20the%20Naked%20Truth%20about%20Naturism.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-08/Nothing%20to%20Hide%20the%20Naked%20Truth%20about%20Naturism.mp3" type="audio/mpeg">
 </audio>
 </div>
 

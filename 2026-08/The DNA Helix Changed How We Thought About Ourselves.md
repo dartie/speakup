@@ -8,7 +8,7 @@ Oggi un test del DNA √® una prova comune e accessibile a tutti. In passato, per√
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-08/The%20DNA%20Helix%20Changed%20How%20We%20Thought%20About%20Ourselves.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-08/The%20DNA%20Helix%20Changed%20How%20We%20Thought%20About%20Ourselves.mp3" type="audio/mpeg">
 </audio>
 </div>
 

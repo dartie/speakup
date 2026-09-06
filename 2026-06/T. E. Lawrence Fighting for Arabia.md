@@ -8,7 +8,7 @@ Lawrence d’Arabia fu uno dei soldati più famosi del XX secolo, tra i leader d
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-06/T.%20E.%20Lawrence%20Fighting%20for%20Arabia.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-06/T.%20E.%20Lawrence%20Fighting%20for%20Arabia.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Il fatto che una cosa sia dimostrabile non significa che sia vera. Adam Kucharsk
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-07/The%20Art%20and%20Science%20of%20Certainty.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-07/The%20Art%20and%20Science%20of%20Certainty.mp3" type="audio/mpeg">
 </audio>
 </div>
 

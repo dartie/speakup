@@ -8,7 +8,7 @@ Un frutto alla moda, corse di cavalli e una reputazione da riguadagnare: dietro 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-07/Why%20Is%20NYC%20Called%20The%20Big%20Apple.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-07/Why%20Is%20NYC%20Called%20The%20Big%20Apple.mp3" type="audio/mpeg">
 </audio>
 </div>
 

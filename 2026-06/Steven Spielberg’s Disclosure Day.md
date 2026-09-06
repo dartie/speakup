@@ -8,7 +8,7 @@ La verità sta per essere svelata al mondo intero: gli alieni sono già tra noi!
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-06/Steven%20Spielberg%E2%80%99s%20Disclosure%20Day.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-06/Steven%20Spielberg%E2%80%99s%20Disclosure%20Day.mp3" type="audio/mpeg">
 </audio>
 </div>
 

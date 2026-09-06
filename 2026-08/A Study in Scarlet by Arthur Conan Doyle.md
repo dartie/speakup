@@ -8,7 +8,7 @@
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-08/A%20Study%20in%20Scarlet%20by%20Arthur%20Conan%20Doyle.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-08/A%20Study%20in%20Scarlet%20by%20Arthur%20Conan%20Doyle.mp3" type="audio/mpeg">
 </audio>
 </div>
 

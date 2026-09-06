@@ -8,7 +8,7 @@ Le storie d’amore arricchite da draghi, magia e pericoli sono la principale te
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-06/Romantasy%20The%20Rise%20of%20a%20Hybrid%20Genre.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-06/Romantasy%20The%20Rise%20of%20a%20Hybrid%20Genre.mp3" type="audio/mpeg">
 </audio>
 </div>
 

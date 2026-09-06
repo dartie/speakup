@@ -8,7 +8,7 @@ La statua di questo cagnolino è tra i luoghi più visitati e fotografati di Edi
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-08/Greyfriars%20Bobby%20Edinburgh%E2%80%99s%20Most%20Loyal%20Dog.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-08/Greyfriars%20Bobby%20Edinburgh%E2%80%99s%20Most%20Loyal%20Dog.mp3" type="audio/mpeg">
 </audio>
 </div>
 

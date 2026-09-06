@@ -8,7 +8,7 @@ Il 4 luglio 2026 gli Stati Uniti celebrano 250 anni. Parliamo della storia del P
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-07/The%20Americans%20250%20Years%20of%20a%20Nation.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-07/The%20Americans%20250%20Years%20of%20a%20Nation.mp3" type="audio/mpeg">
 </audio>
 </div>
 

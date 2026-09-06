@@ -8,7 +8,7 @@ Un reclamo può essere gestito attraverso una conversazione educata ma molto eff
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-07/Everyday%20Dialogues%20Dealing%20with%20a%20Complaint.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-07/Everyday%20Dialogues%20Dealing%20with%20a%20Complaint.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Se in passato le scommesse si concentravano soprattutto sugli eventi sportivi, o
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-07/All%20Bets%20Are%20On%20Prediction%20Markets.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-07/All%20Bets%20Are%20On%20Prediction%20Markets.mp3" type="audio/mpeg">
 </audio>
 </div>
 

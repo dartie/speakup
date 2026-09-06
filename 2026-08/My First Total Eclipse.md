@@ -8,7 +8,7 @@ La luce scompare e tutto intorno cala il silenzio. Un’eclissi solare totale è
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-08/My%20First%20Total%20Eclipse.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-08/My%20First%20Total%20Eclipse.mp3" type="audio/mpeg">
 </audio>
 </div>
 

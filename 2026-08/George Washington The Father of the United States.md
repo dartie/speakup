@@ -8,7 +8,7 @@ George Washington guidò le Tredici Colonie alla vittoria contro i britannici ne
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-08/George%20Washington%20The%20Father%20of%20the%20United%20States.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-08/George%20Washington%20The%20Father%20of%20the%20United%20States.mp3" type="audio/mpeg">
 </audio>
 </div>
 

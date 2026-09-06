@@ -8,7 +8,7 @@ Quest’adorabile scimmietta senza mamma ha commosso il mondo intero. Tutti abbi
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-08/We%20Love%20Punch%20The%20Japanese%20Macaque.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-08/We%20Love%20Punch%20The%20Japanese%20Macaque.mp3" type="audio/mpeg">
 </audio>
 </div>
 

@@ -8,7 +8,7 @@ Alcune persone riescono a creare immagini mentali particolarmente vivide. Studia
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-09/Hyperphantasia%20The%20Quest%20to%20Understand%20Vivid%20Imaginations.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-09/Hyperphantasia%20The%20Quest%20to%20Understand%20Vivid%20Imaginations.mp3" type="audio/mpeg">
 </audio>
 </div>
 

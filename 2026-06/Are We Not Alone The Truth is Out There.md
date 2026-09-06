@@ -8,7 +8,7 @@ Al di l√† di fantasie intergalattiche e teorie del complotto, il dibattito sull‚
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-06/Are%20We%20Not%20Alone%20The%20Truth%20is%20Out%20There.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-06/Are%20We%20Not%20Alone%20The%20Truth%20is%20Out%20There.mp3" type="audio/mpeg">
 </audio>
 </div>
 

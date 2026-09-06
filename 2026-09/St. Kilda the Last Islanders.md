@@ -8,7 +8,7 @@ Questo remoto arcipelago scozzese, la cui bellezza e isolamento hanno da sempre 
 
 <div>
 <audio controls autoplay>
-    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-09/St.%20Kilda%20the%20Last%20Islanders.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/dartie/speakup/main/2026-09/St.%20Kilda%20the%20Last%20Islanders.mp3" type="audio/mpeg">
 </audio>
 </div>
 
