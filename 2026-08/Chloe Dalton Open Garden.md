@@ -1,0 +1,44 @@
+# Chloe Dalton: Open Garden   [C1]
+
+L’incontro con una lepre ha cambiato il modo in cui la politica e scrittrice Chloe Dalton concepisce il suo giardino nella campagna inglese: non più una parte della casa, ma la naturale continuazione dei boschi circostanti e un habitat per la fauna selvatica.
+
+![](Chloe%20Dalton%20Open%20Garden.webp)
+
+--------------
+
+<div>
+<audio controls autoplay>
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-08/Chloe%20Dalton%20Open%20Garden.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+
+Chloe Dalton, author of Raising Hare, used to see her garden deep in the English countryside as a quiet place where she could disconnect from her high-stress job. But the experience of looking after an abandoned [baby hare](## "cucciolo di lepre"), which she writes about in her book, changed that. She now sees her garden as the hare does: a continuation of the fields and woods beyond her garden wall. Gardening has become less about trying to control nature and more about helping nature to [thrive](## "prosperare").
+**Chloe Dalton:** The garden is important to me because, as I write in the book, you know, initially my focus was how to protect the garden against nature, against animals that could eat my plants and what did I want to plant, what did it say about me, and,  you know... and I got a lot of pleasure out of it. And then of course I realised that the hare made the garden its own and that the hare in the garden needed certain things. It needed long grass to give birth to its [leverets](## "leprotti") in. It needed open spaces, not too many trees so that it would be safe from predators. So I started to look at the garden completely differently. And initially my focus was how to make it a refuge for this one hare. But with the passage of time and with so many [leverets](## "leprotti") being born, I have taken a completely different approach. I now leave my garden completely open. So the gate that I kept shut, so I [could] keep everything out, is now permanently [open in a crack](## "socchiusa"). And every day I watch this procession of animals come in. So I watch the hares come first and then they leave sometimes and then the [pheasants](## "fagiani") come and then they go and at night sometimes a [badger](## "tasso") comes and I just watch the coming and going of these animals. And I think on a serious point it’s how we often think about our control of nature, you know, what we plant, what we do, what we don’t do. But it’s interesting to observe what happens when you stop doing certain things and when you give up a bit of control.
+Growing roses.
+
+## EAT THE ROSES
+Dalton can watch the animals that come into her garden even while she’s away from home, via cameras she’s [set up](## "montare"). And when she sees the hares eating her plants… it really doesn’t [bother](## "infastidire") her, as she explains:
+Culture
+
+Raccoons: From Pest To Pet
+Cani e gatti dovranno condividere le loro cucce con i procioni? È presto per dirlo, ma c’è la possibilità che gli orsetti lavatori diventino presto animali da compagnia.
+Daniel Francis , Ruben Pujol
+**Chloe Dalton:** I still love my garden, I still try to plant beautiful things, but I often think now about what hares will like. And when the hares eat my roses, I’m very happy, because there’s this incredible thing about hares, they don’t [demolish](## "demolire, distruggere") a whole plant. Farmers may disagree with me, I’m not pretending to be an expert, but what I have observed for more than four years, nearly five years now, is that hares come along and they have a little bit of this and just a little bit of that, and then they leave. So they’ve never killed a single plant or tree in my garden. And I just feel excited when I see them [nibbling](## "rosicchiare") something that I’ve planted.  
+If you want to know more about this topic, read the article Chloe Dalton: "Raising Hare".
+
+--------------
+
+<div style = "display:block; clear:both; page-break-after:always;"></div>
+
+# Glossary
+* **thrive** = prosperare
+* **open in a crack** = socchiusa
+* **pheasants** = fagiani
+* **demolish** = demolire, distruggere
+* **nibbling** = rosicchiare
+* **baby hare** = cucciolo di lepre
+* **leverets** = leprotti
+* **badger** = tasso
+* **set up** = montare
+* **bother** = infastidire

@@ -1,0 +1,104 @@
+# Getting to Grips with English in Northern Ireland   [C1]
+
+Sei convinto di capire l’inglese perfettamente? Mettiti alla prova con l’inglese dell’Irlanda del Nord, tra parole tagliate, domande retoriche e modi di dire davvero particolari.
+
+![](Getting%20to%20Grips%20with%20English%20in%20Northern%20Ireland.webp)
+
+--------------
+
+<div>
+<audio controls autoplay>
+    <source src="https:/raw.githubusercontent.com/dartie/speakup/main/2026-06/Getting%20to%20Grips%20with%20English%20in%20Northern%20Ireland.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+
+[Landing](## "atterrare") in Northern Ireland as a learner of English can be an intimidating experience. Globally, most English courses and examinations focus on standard UK or US English, without focusing on regional idiosyncrasies. In the UK, accents are said to change every twenty to thirty miles, so deviation from textbook norms [is to be expected](## "è da aspettarsi"). But this deviation is far more apparent in Northern Ireland than in many other regions.
+
+## CULTURE SHOCK
+This makes integration even more challenging and presents additional difficulties for local English as a Second Language (ESOL) teachers, who often have to create their own materials to [ensure](## "assicurarsi") students understand locals [rather](## "piuttosto") than just traditional textbooks. Andrew Porterfield, an ESOL teacher based in County Armagh, Northern Ireland, spoke to Speak Up about ways in which the English spoken in Northern Ireland differs from standard English. He also offered [tips](## "consigli") for learners to familiarise themselves with the often [borderline-offensive](## "al limite dell’offensivo") Irish humour.
+These days, Porterfield works as a [lecturer](## "professore") at the Portadown campus of Southern Regional College, not far from Belfast, but over the course of his twenty-five-year career in ESOL teaching, he has also worked in Asia, where he spent a decade before returning to Northern Ireland to do his master’s degree. His own language-learning experiences have informed his understanding of how learners feel when they are first exposed to the English spoken in Northern Ireland. First of all, Porterfield discusses how students typically react when they first come to Northern Ireland.
+The term ‘craic’ comes from Irish and is used in multiple forms, but usually means fun.
+**Andrew Porterfield (Northern Irish accent):** It is a linguistic culture shock for many learners, even at the highest level. Even within Northern Ireland, there are distinct accents throughout the country. So if we go to Belfast, you might hear expressions such as “Gimme ‘at nai!”. So, that would be “Give me that now!”. When you pronounce each individual word, there’s a [boundary mark](## "segno di confine") in there, you can distinctly hear where the pause is. But in Northern Ireland, it’s just one sound almost. So that can be very shocking to new people arriving. Then if you go up around Ballymena or Mid Ulster, there’s a heavy influence from Ulster Scots. So they’ll talk about the ‘weans’, and that’s ‘[wee ones](## "i piccoli")’, as in children. There’s a lot of linguistic influences in their vocabulary. It’s from Ulster Scots, the Irish Gaelic.
+
+## MISTAKES WILL HAPPEN
+Having learned foreign languages himself, Porterfield is [aware](## "consapevole") of the difficulties many learners have to navigate.
+**Andrew Porterfield:** I have been that language learner learning Korean and Mandarin at the other end of things, that when you go to a shop and they just [stare blankly](## "fissare senza capire, con aria assente") at you or they laugh at you. It is [upsetting](## "sconcertante") when the first happens, but it’s kind of [shrugging that off](## "minimizzare, scrollarsi di dosso") and accepting that mistakes will happen along your language learning journey.
+
+## A WEE DISCONNECT
+When certain expressions are understood literally, the result can be quite confusing. Other [turns of phrase](## "modi di dire") are common, but sound illogical.
+**Andrew Porterfield:** I had a very advanced learner and she went independently to the [GP surgery](## "ambulatorio medico ('general practitioner')"). She [checked in](## "registrarsi"), everything was fine. The receptionist says, “Please take a wee seat.” And the learner looked at the seats and was [rather](## "piuttosto") confused because they were all the same size. But the receptionist had told her, “Please take a wee seat.” But it’s just that language and the expressions that we’ll use in Northern Ireland, so when you take things literally, it can be that sort of shock in meaning. Because as a learner, you’re decoding and understanding every single word in the sentence, and then it’s not often that literal. So for example,”Sure, I’ll do that now in a minute.” It seems illogical that those two things go together, but it won’t be a common phrase. Even, “It’ll be grand”. “It’ll be grand” just simply means it’ll be fine. Not big or grandiose or anything like that. So there’s a disconnect sometimes if you’re translating things. A ‘wee while’ could be a couple of minutes or a couple of hours, depends what the activity may be.
+Language
+
+Anglopolis: Welcome to London, Innit
+Londra è una meta perfetta per esercitare l’inglese. Ma attenzione: i veri londinesi, i cosiddetti Cockney, non parlano affatto l’inglese “da manuale” a cui siamo abituati. E c'è anche lo slang dei più giovani!
+Sarah Presant Collins , Alex Warner
+
+## SPEECH ECONOMICS
+Shortening or [clipping](## "tagliare") — or compressing — phrases is common in Northern Ireland.
+**Andrew Porterfield:** Instead of “[It’s not that big of a deal](## "non è così grave").”, we’ll just say, “Nae big deal. Nae big deal.” Where’s the subject? Where’s the verb? Where are the articles in there? It just all gets clipped off. “Wha?” for “What?”, so the ‘t’ is [dropped off](## "omettere") the end quite a lot. Even the final ‘g’ sounds in verbs. So, we would always be ‘runnin’’ and ‘jumpin’’ and ‘swimmin’’ instead of ‘running’, and ‘jumping’, and ‘swimming’.  
+
+## I LIKE CHOCOLATE, SO I DO!
+One peculiarity of the English spoken in Northern Ireland is the use of [empathic endings](## "finali enfatici"), where the speaker [backs up](## "rafforzare") their own statement with an empathic statement at the end. Whereas standard English tends to use the verb ‘to do’ to emphasise statements (“I do like chocolate!”), it’s more common in Northern Ireland for people to emphasise their statements with [empathic endings](## "finali enfatici"). These are used much like [tag questions](## "domante retoriche") (“You shut the door, didn’t you?”), but there is a key difference…
+**Andrew Porterfield:**I think something that’s really unique to Northern Ireland is the emphatic endings [whereby](## "per cui") we say, “I saw him yesterday, so I did.” “We’re having a talk right now, so we are.” “She went swimming yesterday, so she did.” It’s [tagged on](## "aggiungere alla fine"), like a tag question almost, like an emphatic statement at the end. Unlike a tag question, where it switches from positive to negative, it just reinforces the statement that came before. Without any sort of interlocutor, I back up my own statement.
+
+## THEM UNS AND US UNS
+Other causes of confusion are the plural of ‘you’, terms such as ‘them ‘uns’ and ‘us ‘uns’ in Northern Ireland, and the local [misuse](## "uso improprio") of the present perfect.
+**Andrew Porterfield:** The plural of ‘you’ in Northern Ireland is ‘youse’, Y-O-U-S-E. So there’s that pluralisation of pronouns, as well, which is obviously not standard English. Local demonstratives: ‘them uns’ and ‘us uns’ is often used in relation to the political or religious divide in Northern Ireland. ‘Them uns’ and ‘us uns’. ‘Them uns’ are over there and we’re ‘us uns’. The present perfect is often [misuse](## "uso improprio")d by local and native speakers. “I done that” [rather](## "piuttosto") than “I have done that.” “I’m after finishing that work.”: “I’ve just finished.”
+
+## THE CRAIC
+If you’ve travelled to Northern Ireland before, you’ve probably heard the expression “What’s the craic?”, or at the very least, you will have seen it printed on souvenir t-shirts in gift shops. The term ‘craic’ comes from Irish, but the consensus among many linguists is that ‘crack’ entered Irish from English or Scots and then reentered English with an Irish [spelling](## "ortografia"): ‘craic’.
+**Andrew Porterfield:**Many languages have a particular word that there is no translation for in any other language. So it’s very, very hard to bring it across word by word. ‘Craic’ [stems](## "derivare") from Irish. So, “What’s the craic? What’s happening? What’s going on?” As an adjective, “He’s good craic”. So, “He’s a lot of fun. He’s enjoyable to be around.” Even in the negative, “Ah, you’re not bad craic.” It means, “You’re joking.” It’s used in multiple forms, but usually it would mean just fun. “What’s the craic? What’s going on? What’s happening? Are we going out with our friends at the weekend to have some craic?” So, “Have some fun. Enjoy ourselves.”
+For some students, understanding Northern Irish English might be difficult.
+
+## WEATHER TALK
+There are some expressions that are particularly common in Northern Ireland that often confuse learners.
+**Andrew Porterfield:** Obviously, it’s very standard in the UK and Ireland to talk about the weather. So it would be common to hear someone say, “It’s Baltic out there. I was absolutely foundered waiting on the bus.” So ‘Baltic’ is a very Northern Ireland expression to say “It’s very cold.” And ‘foundered’ then is just another word for ‘cold’ as well. ‘Dead on’ is another very good one. If something is ‘dead on’, it means ‘no problem’. Everything’s good. It’s fine. There’s no problem. 
+
+## LOCAL ACCENTS
+There is a discrepancy between the English spoken in Northern Ireland and the English in the exams that students prepare for in Northern Ireland. The staff at Southern Regional College have developed content for learners featuring local accents and phrasing.
+**Andrew Porterfield:** All our exams are Anglo-centric, so they all come from London or regional cities around the UK. So what we have done in my college is develop comprehensive content featuring local accents. We have the ESOL Digital Pathways Project, [whereby](## "per cui") we created 369 fully interactive lessons that are freely available on the ESOL Digital Pathways Project website.
+
+## SARCASM IS HUGE
+Learners would [be well advised to](## "si consiglia di") [trade in](## "sostituire") their Hollywood films and TV shows for local favourites like Derry Girls to practise their listening skills. But if longer formats feel [overwhelming](## "opprimenti"), [there is no shame](## "non c’è nulla di male") in starting with short videos or putting the subtitles on.
+**Andrew Porterfield:** That cognitive [overload](## "sovraccarico") with accent can be really, really challenging. So it’s a matter of just maybe short YouTube clips. Things like that we expose our learners to, like short documentaries, even if it’s English on the screen and it’s a Northern Ireland accent, subtitles don’t hurt. Just sort of compare and contrast what’s been spoken and what’s down below. One of the most iconic comedies to get exposed to that is Derry Girls. That is one of the most iconic programmes that come out of Northern Ireland in the past couple of decades at least. Humour is a massive thing in Northern Ireland. It’s a massive, massive part of who we are, and how we interact with each other. Sarcasm is huge. It can be quite shocking when someone comes over and people are being what we perceive as abusive to each other, but actually they’re the best of friends. And the more you insult your best friend, it’s a sign of [endearment](## "affetto, tenerezza").
+www.esoldigitalpathways.org
+
+--------------
+
+<div style = "display:block; clear:both; page-break-after:always;"></div>
+
+# Glossary
+* **upsetting** = sconcertante
+* **empathic endings** = finali enfatici
+* **tagged on** = aggiungere alla fine
+* **misuse** = uso improprio
+* **be well advised to** = si consiglia di
+* **overload** = sovraccarico
+* **aware** = consapevole
+* **whereby** = per cui
+* **overwhelming** = opprimenti
+* **endearment** = affetto, tenerezza
+* **is to be expected** = è da aspettarsi
+* **wee ones** = i piccoli
+* **backs up** = rafforzare
+* **there is no shame** = non c’è nulla di male
+* **lecturer** = professore
+* **stare blankly** = fissare senza capire, con aria assente
+* **checked in** = registrarsi
+* **rather** = piuttosto
+* **shrugging that off** = minimizzare, scrollarsi di dosso
+* **turns of phrase** = modi di dire
+* **GP surgery** = ambulatorio medico ('general practitioner')
+* **It’s not that big of a deal** = non è così grave
+* **dropped off** = omettere
+* **spelling** = ortografia
+* **trade in** = sostituire
+* **Landing** = atterrare
+* **ensure** = assicurarsi
+* **tips** = consigli
+* **boundary mark** = segno di confine
+* **clipping** = tagliare
+* **tag questions** = domante retoriche
+* **stems** = derivare
+* **borderline-offensive** = al limite dell’offensivo
